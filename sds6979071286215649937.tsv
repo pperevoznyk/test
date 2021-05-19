@@ -1,0 +1,938 @@
+Sentence	IsHeaderFooter	Page	Line	X1	X2	Y	Padding	Font
+Safety data sheet	false	1	11	70.92	224.01	698.88	0.0	GUKDRG+Arial-BoldMT
+Page:	false	1	13	490.32	510.76587	644.64	0.0	RNZRPK+ArialMT
+1/15	false	1	13	515.8773	541.4347	644.64	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	false	1	14	70.90439	517.7897	631.443	0.0	RNZRPK+ArialMT
+Date / Revised:	false	1	15	70.92	137.67421	619.92	0.0	RNZRPK+ArialMT
+16.08.2019	false	1	15	142.44237	194.8921	619.92	0.0	RNZRPK+ArialMT
+Version:	false	1	15	485.28586	518.0484	619.92	290.39374	RNZRPK+ArialMT
+7.1	false	1	15	522.72876	541.45026	619.92	290.39374	RNZRPK+ArialMT
+Date previous version:	false	1	16	70.91995	169.66248	608.39624	0.0	RNZRPK+ArialMT
+14.08.2019	false	1	16	174.3645	226.08679	608.39624	0.0	RNZRPK+ArialMT
+Previous version:	false	1	16	445.31635	518.55365	608.39624	219.22955	RNZRPK+ArialMT
+7.0	false	1	16	523.131	541.4403	608.39624	219.22955	RNZRPK+ArialMT
+Product:	false	1	17	70.91	110.879486	596.8725	0.0	RNZRPK+ArialMT
+Cavipor® T0	false	1	17	110.86952	172.8008	596.8725	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	false	1	18	382.54846	541.4303	585.34875	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	false	1	19	431.38226	541.4303	572.15173	0.0	RNZRPK+ArialMT
+SECTION 1:	false	1	25	70.92	123.27029	495.24	0.0	GUKDRG+Arial-BoldMT
+Identification of the substance/mixture and of the	false	1	25	129.08699	425.7386	495.24	0.0	GUKDRG+Arial-BoldMT
+company/undertaking	false	1	26	92.16	220.17725	481.44	0.0	GUKDRG+Arial-BoldMT
+1.1. Product identifier	false	1	27	92.16	207.67154	462.6	0.0	GUKDRG+Arial-BoldMT
+Cavipor® T0	false	1	29	92.16	189.36888	433.8	0.0	GUKDRG+Arial-BoldMT
+1.2. Relevant identified uses of the substance or mixture and uses advised against	false	1	31	92.16	526.27484	408.6	0.0	GUKDRG+Arial-BoldMT
+1.3. Details of the supplier of the safety data sheet	false	1	33	92.16	356.71152	384.36	0.0	GUKDRG+Arial-BoldMT
+Company:	false	1	35	124.2	172.56888	361.2	0.0	RNZRPK+ArialMT
+BASF SE	false	1	36	124.2	169.20923	349.68	0.0	RNZRPK+ArialMT
+67056 Ludwigshafen	false	1	37	124.2	219.24828	338.2758	0.0	RNZRPK+ArialMT
+GERMANY	false	1	38	124.2	177.49794	326.75208	0.0	RNZRPK+ArialMT
+Telephone:	false	1	40	124.2	169.14087	303.72	0.0	RNZRPK+ArialMT
++49 621 60-0	false	1	40	174.1343	239.04887	303.72	0.0	RNZRPK+ArialMT
+E-mail address:	false	1	41	124.2	190.84457	292.2	0.0	RNZRPK+ArialMT
+global.info@basf.com	false	1	41	195.6049	295.57178	292.2	0.0	RNZRPK+ArialMT
+1.4. Emergency telephone number	false	1	44	92.16	274.3973	256.8	0.0	GUKDRG+Arial-BoldMT
+International emergency number:	false	1	46	92.16	241.68947	233.63579	0.0	RNZRPK+ArialMT
+Telephone:	false	1	47	92.16	137.8432	222.11206	0.0	RNZRPK+ArialMT
++49 180 2273-112	false	1	47	142.91911	229.2096	222.11206	0.0	RNZRPK+ArialMT
+SECTION 2:	false	1	49	70.92	125.10982	189.36	0.0	GUKDRG+Arial-BoldMT
+Hazards Identification	false	1	49	131.1309	269.616	189.36	0.0	GUKDRG+Arial-BoldMT
+2.1. Classification of the substance or mixture	false	1	51	92.16	335.47055	159.12	0.0	GUKDRG+Arial-BoldMT
+For the classification of the mixture the following methods have been applied:	false	1	53	92.16	430.05966	135.9558	0.0	RNZRPK+ArialMT
+extrapolation on the	false	1	53	434.44797	526.6024	135.9558	0.0	RNZRPK+ArialMT
+concentration levels of the hazardous substances, on basis of test results and after evaluation of	false	1	54	92.16	520.59766	124.432076	0.0	RNZRPK+ArialMT
+experts. The methodologies used are mentioned at the respective test results.	false	1	55	92.16	439.68433	112.908356	0.0	RNZRPK+ArialMT
+According to Regulation (EC) No 1272/2008 [CLP]	false	1	58	92.16	317.7689	78.3372	0.0	RNZRPK+ArialMT
+Page:	true	2	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+2/15	true	2	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	2	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	2	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	2	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	2	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	2	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	2	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	2	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	2	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	2	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	2	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	2	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	2	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	2	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Eye Dam./Irrit. 2	false	2	15	92.16	167.16875	609.84	0.0	RNZRPK+ArialMT
+H319	false	2	17	92.159996	118.81296	586.79254	0.0	RNZRPK+ArialMT
+For the classifications not written out in full in this section the full text can be found in section 16.	false	2	19	92.159996	519.6133	563.74506	0.0	RNZRPK+ArialMT
+2.2. Label elements	false	2	22	92.16	196.1568	528.36	0.0	GUKDRG+Arial-BoldMT
+Globally Harmonized System, EU (GHS)	false	2	24	92.16	274.44794	505.2	0.0	RNZRPK+ArialMT
+Pictogram:	false	2	26	92.16	142.68709	482.15628	0.0	RNZRPK+ArialMT
+Signal Word:	false	2	30	92.16	152.169	419.5163	0.0	RNZRPK+ArialMT
+Warning	false	2	31	92.16	132.12251	408.1121	0.0	RNZRPK+ArialMT
+Hazard Statement:	false	2	33	92.16	178.32394	385.06467	0.0	RNZRPK+ArialMT
+H319	false	2	34	95.76	122.40888	373.56	0.0	RNZRPK+ArialMT
+Causes serious eye irritation.	false	2	34	205.56	337.3289	373.56	83.151115	RNZRPK+ArialMT
+Precautionary Statements (Prevention):	false	2	36	92.16	270.0058	350.6358	0.0	RNZRPK+ArialMT
+P280	false	2	37	95.76	121.92889	339.12	0.0	RNZRPK+ArialMT
+Wear eye/face protection.	false	2	37	205.56	322.3289	339.12	83.63111	RNZRPK+ArialMT
+P264	false	2	38	95.76	121.92889	327.6	0.0	RNZRPK+ArialMT
+Wash with plenty of water and soap thoroughly after handling.	false	2	38	205.56	481.9289	327.6	83.63111	RNZRPK+ArialMT
+Precautionary Statements (Response):	false	2	40	92.16	267.24686	304.55627	0.0	RNZRPK+ArialMT
+P305 + P351 + P338	false	2	41	95.76	191.40887	293.04	0.0	RNZRPK+ArialMT
+IF IN EYES:	false	2	41	205.56	251.83507	293.04	14.151123	RNZRPK+ArialMT
+Rinse cautiously with water for several minutes. Remove	false	2	41	256.4626	515.60297	293.04	14.151123	RNZRPK+ArialMT
+contact lenses, if present and easy to do. Continue rinsing.	false	2	42	205.56	467.8889	281.64	0.0	RNZRPK+ArialMT
+P337 + P311	false	2	43	95.76	156.60887	270.12	0.0	RNZRPK+ArialMT
+If eye irritation persists:	false	2	43	205.56	321.9981	270.12	48.951126	RNZRPK+ArialMT
+Call a POISON CENTER or doctor/physician.	false	2	43	326.4765	514.56885	270.12	48.951126	RNZRPK+ArialMT
+2.3. Other hazards	false	2	46	92.16	190.63681	234.6	0.0	GUKDRG+Arial-BoldMT
+SECTION 3:	false	2	48	70.92	126.524574	201.72	0.0	GUKDRG+Arial-BoldMT
+Composition/Information on Ingredients	false	2	48	132.70287	373.656	201.72	0.0	GUKDRG+Arial-BoldMT
+3.1. Substances	false	2	49	92.16	178.39345	182.88	0.0	GUKDRG+Arial-BoldMT
+Not applicable	false	2	51	92.16	158.28444	159.71628	0.0	RNZRPK+ArialMT
+3.2. Mixtures	false	2	53	92.16	161.83345	135.72	0.0	GUKDRG+Arial-BoldMT
+Page:	true	3	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+3/15	true	3	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	3	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	3	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	3	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	3	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	3	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	3	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	3	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	3	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	3	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	3	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	3	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	3	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	3	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Chemical nature	false	3	15	92.16	167.76888	609.84	0.0	RNZRPK+ArialMT
+Hazardous ingredients (GHS)	false	3	17	92.16	226.09212	586.8	0.0	RNZRPK+ArialMT
+according to Regulation (EC) No. 1272/2008	false	3	18	92.16	291.72855	575.28	0.0	RNZRPK+ArialMT
+D-Glucopyranose, oligomeric, C10-16-alkyl glycosides	false	3	20	92.16	335.03464	552.3521	0.0	RNZRPK+ArialMT
+Content (W/W):	false	3	21	147.24	210.12813	540.84	0.0	RNZRPK+ArialMT
+>= 0.285 % - <	false	3	21	214.96568	287.5289	540.84	0.0	RNZRPK+ArialMT
+Skin Corr./Irrit. 2	false	3	21	310.2	385.8089	540.84	22.671112	RNZRPK+ArialMT
+2.36 %	false	3	22	147.24	181.09164	529.3199	0.0	RNZRPK+ArialMT
+Eye Dam./Irrit. 1	false	3	22	310.2	385.20877	529.3199	129.10837	RNZRPK+ArialMT
+CAS Number:	false	3	23	147.24	201.13513	517.8	0.0	RNZRPK+ArialMT
+110615-47-9	false	3	23	206.52464	271.1988	517.8	0.0	RNZRPK+ArialMT
+H318, H315	false	3	23	310.2	366.36447	517.79614	39.00122	RNZRPK+ArialMT
+REACH registration number:	false	3	24	147.24	267.1003	506.28	0.0	RNZRPK+ArialMT
+01-	false	3	24	271.8947	291.0724	506.28	0.0	RNZRPK+ArialMT
+2119489418-23	false	3	25	147.24	220.08888	494.88	0.0	RNZRPK+ArialMT
+Specific concentration limit:	false	3	25	310.2	434.16888	494.86823	90.11113	RNZRPK+ArialMT
+Eye Irrit. 1:	false	3	26	310.2	361.39642	483.36	160.19113	RNZRPK+ArialMT
+> 12 %	false	3	26	365.66278	395.52737	483.36	160.19113	RNZRPK+ArialMT
+Skin Corr./Irrit. 2:	false	3	27	310.20004	389.41452	471.83627	0.0	RNZRPK+ArialMT
+> 30 %	false	3	27	393.5837	422.76797	471.83627	0.0	RNZRPK+ArialMT
+Potassium methylsilanetriolate	false	3	30	92.16	230.04623	437.27628	0.0	RNZRPK+ArialMT
+Content (W/W):	false	3	31	147.24	209.1235	425.88	0.0	RNZRPK+ArialMT
+>= 0.25 % - <= 4.9	false	3	31	213.88377	304.3289	425.88	0.0	RNZRPK+ArialMT
+Skin Corr./Irrit. 1A	false	3	31	310.2	392.4089	425.88	5.8711243	RNZRPK+ArialMT
+%	false	3	32	147.24	158.88887	414.36	0.0	RNZRPK+ArialMT
+Eye Dam./Irrit. 1	false	3	32	310.2	385.20877	414.36	151.31114	RNZRPK+ArialMT
+CAS Number:	false	3	33	147.24	201.07681	402.84	0.0	RNZRPK+ArialMT
+31795-24-1	false	3	33	206.4605	265.68097	402.84	0.0	RNZRPK+ArialMT
+H314	false	3	33	310.2	336.853	402.83627	44.519043	RNZRPK+ArialMT
+EC-Number:	false	3	34	147.24	195.24762	391.32	0.0	RNZRPK+ArialMT
+250-807-9	false	3	34	200.5818	253.92358	391.32	0.0	RNZRPK+ArialMT
+REACH registration number:	false	3	35	147.24	267.1003	379.8	0.0	RNZRPK+ArialMT
+01-	false	3	35	271.8947	291.0724	379.8	0.0	RNZRPK+ArialMT
+2119517439-34	false	3	36	147.24	220.08888	368.28	0.0	RNZRPK+ArialMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	3	39	92.155685	329.04434	333.8334	0.0	RNZRPK+ArialMT
+Content (W/W):	false	3	40	147.24	210.57986	322.32	0.0	RNZRPK+ArialMT
+>= 0.945 % - <=	false	3	40	215.45216	293.4089	322.32	0.0	RNZRPK+ArialMT
+Skin Corr./Irrit. 2	false	3	40	310.2	385.8089	322.32	16.791107	RNZRPK+ArialMT
+2.52 %	false	3	41	147.24	181.09164	310.8	0.0	RNZRPK+ArialMT
+Eye Dam./Irrit. 1	false	3	41	310.2	385.20877	310.8	129.10837	RNZRPK+ArialMT
+CAS Number:	false	3	42	147.24	201.07681	299.4	0.0	RNZRPK+ArialMT
+68891-38-3	false	3	42	206.4605	265.68097	299.4	0.0	RNZRPK+ArialMT
+H318, H315	false	3	42	310.2	366.36447	299.39578	44.519043	RNZRPK+ArialMT
+Specific concentration limit:	false	3	44	310.2	434.16888	276.34836	0.0	RNZRPK+ArialMT
+Eye Irrit. 2:	false	3	45	310.2	360.8145	264.84	0.0	RNZRPK+ArialMT
+> 10 - < 30 %	false	3	45	365.03238	424.08267	264.84	0.0	RNZRPK+ArialMT
+Eye Dam. 1:	false	3	46	310.19006	361.66754	253.31628	0.0	RNZRPK+ArialMT
+>= 30 %	false	3	46	366.81528	407.99728	253.31628	0.0	RNZRPK+ArialMT
+For the classifications not written out in full in this section, including the hazard classes and the	false	3	49	92.16	513.29083	218.87628	0.0	RNZRPK+ArialMT
+hazard statements, the full text is listed in section 16.	false	3	50	92.16	329.04868	207.35257	0.0	RNZRPK+ArialMT
+SECTION 4:	false	3	53	70.92	127.40772	163.2	0.0	GUKDRG+Arial-BoldMT
+First-Aid Measures	false	3	53	133.68414	252.936	163.2	0.0	GUKDRG+Arial-BoldMT
+4.1. Description of first aid measures	false	3	54	92.16	287.83298	144.36	0.0	GUKDRG+Arial-BoldMT
+Remove contaminated clothing.	false	3	55	92.16	237.84491	132.6	0.0	RNZRPK+ArialMT
+Page:	true	4	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+4/15	true	4	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	4	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	4	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	4	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	4	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	4	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	4	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	4	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	4	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	4	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	4	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	4	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	4	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	4	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+If inhaled:	false	4	15	92.16	138.24492	609.84	0.0	RNZRPK+ArialMT
+Immediately administer a corticosteroid from a controlled/metered dose inhaler.	false	4	16	92.16	447.85156	598.3163	0.0	RNZRPK+ArialMT
+On skin contact:	false	4	18	92.160065	166.69073	575.2688	0.0	RNZRPK+ArialMT
+Wash off thoroughly with ample water. No hazards anticipated.	false	4	19	92.16006	375.12366	563.74506	0.0	RNZRPK+ArialMT
+On contact with eyes:	false	4	21	92.150085	190.55487	540.81714	0.0	RNZRPK+ArialMT
+Immediately wash affected eyes for at least 15 minutes under running water with eyelids held open,	false	4	22	92.15007	533.91315	529.2934	0.0	RNZRPK+ArialMT
+consult an eye specialist.	false	4	23	92.15007	208.9211	517.76965	0.0	RNZRPK+ArialMT
+On ingestion:	false	4	25	92.15006	153.8423	494.84174	0.0	RNZRPK+ArialMT
+Immediately rinse mouth and then drink 200-300 ml of water, seek medical attention.	false	4	26	92.15007	471.83527	483.31802	0.0	RNZRPK+ArialMT
+4.2. Most important symptoms and effects, both acute and delayed	false	4	29	92.16	443.7178	447.84	0.0	GUKDRG+Arial-BoldMT
+4.3. Indication of any immediate medical attention and special treatment needed	false	4	31	92.16	512.7177	423.72	0.0	GUKDRG+Arial-BoldMT
+Treatment:	false	4	32	92.16	132.87743	412.08	0.0	RNZRPK+ArialMT
+Treat according to symptoms (decontamination, vital functions), no known specific	false	4	32	137.40158	508.3826	412.08	0.0	RNZRPK+ArialMT
+antidote.	false	4	33	92.15004	136.07362	400.55627	0.0	RNZRPK+ArialMT
+SECTION 5:	false	4	35	70.92	127.106186	367.8	0.0	GUKDRG+Arial-BoldMT
+Fire-Fighting Measures	false	4	35	133.34909	276.936	367.8	0.0	GUKDRG+Arial-BoldMT
+5.1. Extinguishing media	false	4	36	92.16	224.11008	348.96	0.0	GUKDRG+Arial-BoldMT
+Suitable extinguishing media:	false	4	37	92.16	227.88492	337.32	0.0	RNZRPK+ArialMT
+water spray, dry powder, foam	false	4	38	92.16	229.44864	325.7963	0.0	RNZRPK+ArialMT
+5.2. Special hazards arising from the substance or mixture	false	4	40	92.16	400.39682	301.8	0.0	GUKDRG+Arial-BoldMT
+harmful vapours, carbon oxides, sulfur oxides	false	4	41	92.16	296.1707	290.16	0.0	RNZRPK+ArialMT
+Evolution of fumes/fog. The substances/groups of substances mentioned can be released in case of	false	4	42	92.15999	536.93207	278.6363	0.0	RNZRPK+ArialMT
+fire.	false	4	43	92.15999	114.37079	267.2321	0.0	RNZRPK+ArialMT
+5.3. Advice for fire-fighters	false	4	45	92.16	234.55392	243.24	0.0	GUKDRG+Arial-BoldMT
+SECTION 6:	false	4	47	70.92	128.23958	210.36	0.0	GUKDRG+Arial-BoldMT
+Accidental Release Measures	false	4	47	134.60841	312.93597	210.36	0.0	GUKDRG+Arial-BoldMT
+6.1. Personal precautions, protective equipment and emergency procedures	false	4	48	92.16	492.67126	191.52	0.0	GUKDRG+Arial-BoldMT
+Use personal protective clothing. Information regarding personal protective measures, see section 8.	false	4	49	92.16	541.80414	179.88	0.0	RNZRPK+ArialMT
+6.2. Environmental precautions	false	4	51	92.16	258.43344	155.88	0.0	GUKDRG+Arial-BoldMT
+6.3. Methods and material for containment and cleaning up	false	4	52	92.16	402.7925	143.28337	0.0	GUKDRG+Arial-BoldMT
+6.4. Reference to other sections	false	4	53	92.160034	261.5578	130.56529	0.0	GUKDRG+Arial-BoldMT
+Page:	true	5	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+5/15	true	5	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	5	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	5	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	5	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	5	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	5	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	5	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	5	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	5	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	5	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	5	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	5	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	5	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	5	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Information regarding exposure controls/personal protection and disposal considerations can be	false	5	15	92.16	518.43726	609.84	0.0	RNZRPK+ArialMT
+found in section 8 and 13.	false	5	16	92.16	209.52864	598.3163	0.0	RNZRPK+ArialMT
+SECTION 7:	false	5	19	70.92	128.43173	554.16	0.0	GUKDRG+Arial-BoldMT
+Handling and Storage	false	5	19	134.82193	269.016	554.16	0.0	GUKDRG+Arial-BoldMT
+7.1. Precautions for safe handling	false	5	20	92.16	271.27298	535.3199	0.0	GUKDRG+Arial-BoldMT
+7.2. Conditions for safe storage, including any incompatibilities	false	5	21	92.16002	426.2415	522.6018	0.0	GUKDRG+Arial-BoldMT
+Segregate from acids.	false	5	22	92.16	195.48505	510.96	0.0	RNZRPK+ArialMT
+Suitable materials for containers:	false	5	24	92.16001	242.46487	487.91257	0.0	RNZRPK+ArialMT
+High density polyethylene (HDPE)	false	5	24	247.01956	397.32446	487.91257	0.0	RNZRPK+ArialMT
+Unsuitable materials for containers:	false	5	25	92.16	253.3193	476.50836	0.0	RNZRPK+ArialMT
+Aluminium	false	5	25	257.92386	303.96936	476.50836	0.0	RNZRPK+ArialMT
+Further information on storage conditions:	false	5	26	92.15997	274.13193	464.98465	0.0	RNZRPK+ArialMT
+Keep container tightly closed.	false	5	26	278.57028	416.1588	464.98465	0.0	RNZRPK+ArialMT
+Storage stability:	false	5	28	92.150055	168.83209	441.93723	0.0	RNZRPK+ArialMT
+Storage temperature:	false	5	29	92.1401	180.5278	430.4135	0.0	RNZRPK+ArialMT
+5 - 40 °C	false	5	29	185.17978	231.69963	430.4135	0.0	RNZRPK+ArialMT
+Storage duration:	false	5	30	92.13016	168.05292	419.0093	0.0	RNZRPK+ArialMT
+6 Months	false	5	30	172.7981	215.50465	419.0093	0.0	RNZRPK+ArialMT
+7.3. Specific end use(s)	false	5	32	92.16	216.91202	395.04	0.0	GUKDRG+Arial-BoldMT
+technical and organizational protective maesures are preferable to use (personal protective	false	5	33	92.16	497.20752	383.28	0.0	RNZRPK+ArialMT
+Equipment must not be a permanent measure)	false	5	34	92.16	304.44748	371.8758	0.0	RNZRPK+ArialMT
+SECTION 8:	false	5	37	70.92	126.828705	327.6	0.0	GUKDRG+Arial-BoldMT
+Exposure Controls/Personal Protection	false	5	37	133.04079	369.09976	327.6	0.0	GUKDRG+Arial-BoldMT
+8.1. Control parameters	false	5	38	92.16	218.11537	308.76	0.0	GUKDRG+Arial-BoldMT
+8.2. Exposure controls	false	5	40	92.16	213.19153	284.64	0.0	GUKDRG+Arial-BoldMT
+Personal protective equipment	false	5	41	92.16	230.04623	267.0	0.0	RNZRPK+ArialMT
+Respiratory protection:	false	5	42	92.16	195.48503	249.48	0.0	RNZRPK+ArialMT
+Respiratory protection in case of vapour/aerosol release. (Particle filter EN 143 P2 or FFP2)	false	5	43	92.159996	500.05188	237.95627	0.0	RNZRPK+ArialMT
+Eye protection:	false	5	45	92.16	161.65092	215.02835	0.0	RNZRPK+ArialMT
+Tightly fitting safety goggles (splash goggles) (e.g. EN 166)	false	5	46	92.16001	356.76733	203.50464	0.0	RNZRPK+ArialMT
+Body protection:	false	5	48	92.16	167.16875	180.45721	0.0	RNZRPK+ArialMT
+Body protection must be chosen depending on activity and possible exposure, e.g. apron, protecting	false	5	49	92.159996	537.27167	168.9335	0.0	RNZRPK+ArialMT
+boots, chemical-protection suit (according to EN 14605 in case of splashes or EN ISO 13982 in case	false	5	50	92.159996	538.8512	157.5293	0.0	RNZRPK+ArialMT
+of dust).	false	5	51	92.16	131.0538	146.00558	0.0	RNZRPK+ArialMT
+General safety and hygiene measures	false	5	53	92.16	263.8889	122.95815	0.0	RNZRPK+ArialMT
+Page:	true	6	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+6/15	true	6	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	6	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	6	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	6	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	6	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	6	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	6	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	6	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	6	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	6	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	6	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	6	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	6	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	6	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+When using do not eat or drink. Handle in accordance with good industrial hygiene and safety	false	6	15	92.16	508.38763	609.84	0.0	RNZRPK+ArialMT
+practice.	false	6	16	92.16	135.486	598.3163	0.0	RNZRPK+ArialMT
+SECTION 9:	false	6	19	70.92	126.74847	554.16	0.0	GUKDRG+Arial-BoldMT
+Physical and Chemical Properties	false	6	19	132.95163	337.656	554.16	0.0	GUKDRG+Arial-BoldMT
+9.1. Information on basic physical and chemical properties	false	6	20	92.16	401.46768	535.3199	0.0	GUKDRG+Arial-BoldMT
+Form:	false	6	22	95.76	127.44888	512.16	0.0	RNZRPK+ArialMT
+liquid	false	6	22	209.16	235.32887	512.16	81.71112	RNZRPK+ArialMT
+Colour:	false	6	23	95.76	133.56888	500.64	0.0	RNZRPK+ArialMT
+colourless to yellowish clear	false	6	23	209.16	335.8889	500.64	75.591125	RNZRPK+ArialMT
+Odour:	false	6	24	95.76	129.12888	489.12	0.0	RNZRPK+ArialMT
+product specific	false	6	24	209.16	281.4089	489.12	80.03113	RNZRPK+ArialMT
+pH value:	false	6	25	95.76	140.76888	477.6	0.0	RNZRPK+ArialMT
+approx. 12.0	false	6	25	209.16	267.4889	477.6	68.39113	RNZRPK+ArialMT
+(DIN EN 1262)	false	6	25	382.8	451.2089	477.6	115.3111	RNZRPK+ArialMT
+(water, 10 %(m), 23 °C)	false	6	26	209.16	319.8089	466.08	0.0	RNZRPK+ArialMT
+pour point:	false	6	27	95.76	145.80887	454.68	0.0	RNZRPK+ArialMT
+approx. < 0 °C	false	6	27	209.16	276.2489	454.68	63.351135	RNZRPK+ArialMT
+(DIN ISO 3016)	false	6	27	382.8	454.44888	454.68	106.55109	RNZRPK+ArialMT
+Boiling point:	false	6	28	95.76	155.76888	443.16	0.0	RNZRPK+ArialMT
+approx. >= 100 °C	false	6	28	209.16	293.16888	443.16	53.39113	RNZRPK+ArialMT
+not determined, contains water	false	6	29	209.16	348.72888	431.64	0.0	RNZRPK+ArialMT
+Flash point:	false	6	30	95.76	150.24887	420.12	0.0	RNZRPK+ArialMT
+Not determinable., Aqueous	false	6	31	209.16	335.8653	408.6	0.0	RNZRPK+ArialMT
+preparation	false	6	32	209.16	262.56888	397.08	0.0	RNZRPK+ArialMT
+Flammability:	false	6	33	95.76	157.44887	385.68	0.0	RNZRPK+ArialMT
+not flammable	false	6	33	209.16	274.6889	385.68	51.711136	RNZRPK+ArialMT
+Ignition temperature:	false	6	34	95.76	190.20888	374.16	0.0	RNZRPK+ArialMT
+Based on the water content the	false	6	35	209.16	350.25842	362.64	0.0	RNZRPK+ArialMT
+product does not ignite.	false	6	36	209.16	315.84888	351.12	0.0	RNZRPK+ArialMT
+Vapour pressure:	false	6	37	95.76	175.20888	339.6	0.0	RNZRPK+ArialMT
+23.4 hPa	false	6	37	209.16	252.00888	339.6	33.951126	RNZRPK+ArialMT
+(20 °C)	false	6	38	209.16	246.49356	328.08	0.0	RNZRPK+ArialMT
+contains water	false	6	39	209.16	276.3689	316.68	0.0	RNZRPK+ArialMT
+Density:	false	6	40	95.76	134.64888	305.16	0.0	RNZRPK+ArialMT
+approx. 1.02 g/cm3	false	6	40	209.16	300.3689	305.16	74.51112	RNZRPK+ArialMT
+(DIN 51757)	false	6	40	382.8	440.0489	305.16	82.43109	RNZRPK+ArialMT
+(20 °C)	false	6	41	209.16	246.48888	293.64	0.0	RNZRPK+ArialMT
+Solubility in water:	false	6	42	95.76	179.16887	282.12	0.0	RNZRPK+ArialMT
+soluble	false	6	42	209.16	243.60887	282.12	29.991135	RNZRPK+ArialMT
+Partitioning coefficient n-octanol/water (log Kow):	false	6	43	95.76	315.3689	270.6	0.0	RNZRPK+ArialMT
+not applicable	false	6	44	209.16	273.6089	259.2	0.0	RNZRPK+ArialMT
+Self ignition:	false	6	45	95.76	153.00888	247.68	0.0	RNZRPK+ArialMT
+not self-igniting	false	6	45	209.16	279.2489	247.68	56.151123	RNZRPK+ArialMT
+Thermal decomposition:	false	6	47	95.76	205.20888	224.64	0.0	RNZRPK+ArialMT
+No decomposition if stored and handled as prescribed/indicated.	false	6	47	209.16	499.3289	224.64	3.951126	RNZRPK+ArialMT
+Viscosity, dynamic:	false	6	48	95.76	183.60887	213.12	0.0	RNZRPK+ArialMT
+approx. 80 mPa.s	false	6	48	209.16	290.28888	213.12	25.551132	RNZRPK+ArialMT
+(ISO 12058-1)	false	6	48	382.8	448.9289	213.12	92.51111	RNZRPK+ArialMT
+(20 °C)	false	6	49	209.16	246.48888	201.6	0.0	RNZRPK+ArialMT
+approx. 50 mPa.s	false	6	50	209.16	290.28888	190.2	110.63112	RNZRPK+ArialMT
+(ISO 12058-1)	false	6	50	382.8	448.9289	190.2	92.51111	RNZRPK+ArialMT
+(40 °C)	false	6	51	209.16	246.48888	178.68	0.0	RNZRPK+ArialMT
+Explosion hazard:	false	6	52	95.76	177.96887	167.16	0.0	RNZRPK+ArialMT
+not explosive	false	6	52	209.16	270.2489	167.16	31.191132	RNZRPK+ArialMT
+Fire promoting properties:	false	6	53	95.76	213.00888	155.64	0.0	RNZRPK+ArialMT
+not fire-propagating	false	6	53	223.32	312.84888	155.64	10.311127	RNZRPK+ArialMT
+9.2. Other information	false	6	55	92.16	209.5925	131.64	0.0	GUKDRG+Arial-BoldMT
+Page:	true	7	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+7/15	true	7	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	7	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	7	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	7	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	7	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	7	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	7	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	7	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	7	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	7	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	7	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	7	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	7	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	7	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Hygroscopy:	false	7	15	95.76	154.08888	609.84	0.0	RNZRPK+ArialMT
+Non-hygroscopic	false	7	15	209.16	286.9289	609.84	55.07112	RNZRPK+ArialMT
+Surface tension:	false	7	16	95.76	170.76888	598.3199	0.0	RNZRPK+ArialMT
+approx. 40.7 mN/m	false	7	16	209.16	299.7689	598.3199	38.39113	RNZRPK+ArialMT
+(DIN EN 14370)	false	7	16	382.8	456.72888	598.3199	83.0311	RNZRPK+ArialMT
+(20 °C; 0.5 %(V))	false	7	17	209.16	287.6489	586.8	0.0	RNZRPK+ArialMT
+SECTION 10:	false	7	19	70.92	129.81332	554.16	0.0	GUKDRG+Arial-BoldMT
+Stability and Reactivity	false	7	19	135.70265	282.93597	554.16	0.0	GUKDRG+Arial-BoldMT
+10.1. Reactivity	false	7	20	92.16	174.67297	535.3199	0.0	GUKDRG+Arial-BoldMT
+10.2. Chemical stability	false	7	22	92.16	216.30481	511.2	0.0	GUKDRG+Arial-BoldMT
+10.3. Possibility of hazardous reactions	false	7	24	92.16	301.26865	486.96	0.0	GUKDRG+Arial-BoldMT
+The product is stable if stored and handled as prescribed/indicated.	false	7	25	92.16	395.16315	475.32	0.0	RNZRPK+ArialMT
+10.4. Conditions to avoid	false	7	27	92.16	225.31345	451.32	0.0	GUKDRG+Arial-BoldMT
+10.5. Incompatible materials	false	7	29	92.16	241.98386	427.2	0.0	GUKDRG+Arial-BoldMT
+10.6. Hazardous decomposition products	false	7	31	92.16	310.3877	403.08	0.0	GUKDRG+Arial-BoldMT
+SECTION 11:	false	7	33	70.92	132.21082	370.2	0.0	GUKDRG+Arial-BoldMT
+Toxicological Information	false	7	33	138.33989	297.69598	370.2	0.0	GUKDRG+Arial-BoldMT
+11.1. Information on toxicological effects	false	7	34	92.16	308.58817	351.36	0.0	GUKDRG+Arial-BoldMT
+Acute toxicity	false	7	36	92.16	153.84888	328.1963	0.0	RNZRPK+ArialMT
+Assessment of acute toxicity:	false	7	38	92.16	223.9308	305.15628	0.0	RNZRPK+ArialMT
+Virtually nontoxic after a single ingestion. Virtually nontoxic after a single skin contact.	false	7	39	92.16	475.68973	293.63257	0.0	RNZRPK+ArialMT
+Information on:	false	7	41	92.16	154.2977	270.70465	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	7	41	158.7361	398.41006	270.70465	0.0	WFKVHA+Arial-ItalicMT
+Assessment of acute toxicity:	false	7	42	92.15997	223.93079	259.18094	0.0	WFKVHA+Arial-ItalicMT
+Virtually nontoxic after a single ingestion. Virtually nontoxic after a single skin contact.	false	7	43	92.15999	475.68973	247.65723	0.0	WFKVHA+Arial-ItalicMT
+Irritation	false	7	46	92.16	131.04887	213.2056	0.0	RNZRPK+ArialMT
+Experimental/calculated data:	false	7	49	92.16	226.21164	178.67258	0.0	RNZRPK+ArialMT
+Serious eye damage/irritation:	false	7	50	92.16	220.35458	167.14886	0.0	RNZRPK+ArialMT
+Tested as a preparation. Eye contact causes irritation.	false	7	50	224.77509	472.32324	167.14886	0.0	RNZRPK+ArialMT
+Information on:	false	7	52	92.150055	154.28775	144.22095	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	7	52	158.72615	398.40012	144.22095	0.0	WFKVHA+Arial-ItalicMT
+Assessment of irritating effects:	false	7	53	92.150024	233.88083	132.69724	0.0	WFKVHA+Arial-ItalicMT
+Skin contact causes irritation.	false	7	54	92.15004	227.75543	121.173515	0.0	WFKVHA+Arial-ItalicMT
+Page:	true	8	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+8/15	true	8	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	8	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	8	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	8	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	8	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	8	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	8	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	8	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	8	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	8	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	8	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	8	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	8	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	8	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+May cause severe damage to the eyes.	false	8	16	92.16	272.28662	598.3163	0.0	WFKVHA+Arial-ItalicMT
+Respiratory/Skin sensitization	false	8	19	92.16002	226.08888	563.74506	0.0	RNZRPK+ArialMT
+Assessment of sensitization:	false	8	21	92.16	221.17189	540.83624	0.0	RNZRPK+ArialMT
+A sensitizing effect on particularly sensitive individuals cannot be excluded.	false	8	22	92.16001	429.60483	529.3125	0.0	RNZRPK+ArialMT
+Information on:	false	8	24	92.16	156.19148	506.26505	0.0	WFKVHA+Arial-ItalicMT
+1,2-benzisothiazol-3(2H)-one	false	8	24	160.76517	293.4018	506.26505	0.0	WFKVHA+Arial-ItalicMT
+Assessment of sensitization:	false	8	25	92.150024	221.16191	494.86084	0.0	WFKVHA+Arial-ItalicMT
+Sensitization after skin contact possible.	false	8	26	92.15003	274.91605	483.33713	0.0	WFKVHA+Arial-ItalicMT
+Information on:	false	8	28	92.150024	154.28772	460.2897	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	8	28	158.72612	398.40012	460.2897	0.0	WFKVHA+Arial-ItalicMT
+Assessment of sensitization:	false	8	29	92.150024	221.16191	448.766	0.0	WFKVHA+Arial-ItalicMT
+Skin sensitizing effects were not observed in animal studies.	false	8	30	92.15003	363.95844	437.24228	0.0	WFKVHA+Arial-ItalicMT
+Germ cell mutagenicity	false	8	33	92.150024	196.68887	402.79065	0.0	RNZRPK+ArialMT
+Information on:	false	8	35	92.16	154.2977	379.7963	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	8	35	158.7361	398.41006	379.7963	0.0	WFKVHA+Arial-ItalicMT
+Assessment of mutagenicity:	false	8	36	92.15997	222.24753	368.27258	0.0	WFKVHA+Arial-ItalicMT
+The substance was not mutagenic in bacteria. No mutagenic effect was found in various tests with	false	8	37	92.15997	528.4499	356.86838	0.0	WFKVHA+Arial-ItalicMT
+mammalian cell culture and mammals.	false	8	38	92.15999	268.32254	345.34467	0.0	WFKVHA+Arial-ItalicMT
+Carcinogenicity	false	8	41	92.150055	163.32887	310.77353	0.0	RNZRPK+ArialMT
+No data available.	false	8	43	92.16	174.96745	287.87628	0.0	RNZRPK+ArialMT
+Reproductive toxicity	false	8	45	92.16001	187.20888	264.82886	0.0	RNZRPK+ArialMT
+Information on:	false	8	47	92.16	154.2977	241.7963	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	8	47	158.7361	398.41006	241.7963	0.0	WFKVHA+Arial-ItalicMT
+Assessment of reproduction toxicity:	false	8	48	92.15997	255.00598	230.39209	0.0	WFKVHA+Arial-ItalicMT
+The results of animal studies gave no indication of a fertility impairing effect.	false	8	49	92.15997	432.85175	218.86838	0.0	WFKVHA+Arial-ItalicMT
+Developmental toxicity	false	8	52	92.15997	195.00888	184.29724	0.0	RNZRPK+ArialMT
+Information on:	false	8	54	92.16	154.2977	161.3958	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	8	54	158.7361	398.41006	161.3958	0.0	WFKVHA+Arial-ItalicMT
+Assessment of teratogenicity:	false	8	55	92.15997	225.60406	149.87207	0.0	WFKVHA+Arial-ItalicMT
+No indications of a developmental toxic / teratogenic effect were seen in animal studies.	false	8	56	92.15999	485.29114	138.34836	0.0	WFKVHA+Arial-ItalicMT
+Page:	true	9	2	491.76	512.2059	762.84	0.0	RNZRPK+ArialMT
+9/15	true	9	2	517.3173	542.87463	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	9	3	72.34433	519.2296	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	9	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	9	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	9	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	9	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	9	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	9	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	9	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	9	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	9	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	9	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	9	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	9	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Specific target organ toxicity (single exposure)	false	9	15	92.16	299.5289	609.84	0.0	RNZRPK+ArialMT
+No data available.	false	9	17	92.16	174.96745	586.79614	0.0	RNZRPK+ArialMT
+Repeated dose toxicity and Specific target organ toxicity (repeated exposure)	false	9	19	92.16001	436.2089	563.74866	0.0	RNZRPK+ArialMT
+Information on:	false	9	21	92.16	154.2977	540.83624	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	9	21	158.7361	398.41006	540.83624	0.0	WFKVHA+Arial-ItalicMT
+Assessment of repeated dose toxicity:	false	9	22	92.15997	263.41223	529.3125	0.0	WFKVHA+Arial-ItalicMT
+Repeated oral uptake of the substance did not cause substance-related effects.	false	9	23	92.15997	448.92715	517.78876	0.0	WFKVHA+Arial-ItalicMT
+Aspiration hazard	false	9	26	92.15994	172.80887	483.33713	0.0	RNZRPK+ArialMT
+No data available.	false	9	28	92.16	174.96745	460.31628	0.0	RNZRPK+ArialMT
+SECTION 12:	false	9	30	70.92	132.71294	427.68	0.0	GUKDRG+Arial-BoldMT
+Ecological Information	false	9	30	138.89223	281.016	427.68	0.0	GUKDRG+Arial-BoldMT
+12.1. Toxicity	false	9	31	92.16	164.35056	408.84	0.0	GUKDRG+Arial-BoldMT
+Assessment of aquatic toxicity:	false	9	33	92.16	231.60995	385.67578	0.0	RNZRPK+ArialMT
+There is a high probability that the product is not acutely harmful to aquatic organisms.	false	9	34	92.16	479.64386	374.15207	0.0	RNZRPK+ArialMT
+Toxicity to fish:	false	9	36	92.150055	161.0334	351.10464	0.0	RNZRPK+ArialMT
+LC50 (48 h) > 1 - 10 mg/l, Leuciscus idus (DIN EN ISO 7346-2)	false	9	37	92.14008	374.60565	339.58093	0.0	RNZRPK+ArialMT
+Aquatic invertebrates:	false	9	39	92.12012	191.61053	316.653	0.0	RNZRPK+ArialMT
+EC50 (24 h) > 100, Daphnia magna	false	9	40	92.120094	253.0219	305.1293	0.0	RNZRPK+ArialMT
+Aquatic plants:	false	9	42	92.11014	160.51541	282.08188	0.0	RNZRPK+ArialMT
+EC50 (96 h) > 1 - 10 mg/l (growth rate), Desmodesmus subspicatus (OECD Guideline 201)	false	9	43	92.11014	497.5718	270.55817	0.0	RNZRPK+ArialMT
+acute Effect	false	9	44	92.08029	150.40605	259.15396	0.0	RNZRPK+ArialMT
+EC10 > 1 mg/l, Desmodesmus subspicatus	false	9	46	92.08029	286.36008	236.10654	0.0	RNZRPK+ArialMT
+long-term effect	false	9	47	92.07034	167.0791	224.58282	0.0	RNZRPK+ArialMT
+Microorganisms/Effect on activated sludge:	false	9	49	92.07035	285.52344	201.5354	0.0	RNZRPK+ArialMT
+EC0 (30 min) > 1 - 10 mg/l, Pseudomonas putida (OECD Guideline 209)	false	9	50	92.07034	414.74448	190.1312	0.0	RNZRPK+ArialMT
+Chronic toxicity to fish:	false	9	52	92.060394	194.90735	167.08377	0.0	RNZRPK+ArialMT
+No data available.	false	9	53	92.06039	177.62674	155.56006	0.0	RNZRPK+ArialMT
+Chronic toxicity to aquatic invertebrates:	false	9	55	92.06039	272.06747	132.51263	0.0	RNZRPK+ArialMT
+No data available.	false	9	56	92.06038	177.62674	121.10844	0.0	RNZRPK+ArialMT
+Page:	true	10	2	486.24	506.83365	762.84	0.0	RNZRPK+ArialMT
+10/15	true	10	2	511.98206	542.87256	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	10	3	72.342255	519.22754	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	10	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	10	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	10	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	10	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	10	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	10	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	10	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	10	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	10	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	10	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	10	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	10	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Information on:	false	10	16	92.16	154.2977	598.3163	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	10	16	158.7361	398.41006	598.3163	0.0	WFKVHA+Arial-ItalicMT
+Toxicity to fish:	false	10	17	92.15997	161.04332	586.79254	0.0	WFKVHA+Arial-ItalicMT
+LC50 (48 h) 9.6 mg/l, Leuciscus idus (Screening (style of OECD 203))	false	10	18	92.15	403.89798	575.2688	0.0	WFKVHA+Arial-ItalicMT
+Information on:	false	10	21	92.130035	154.26773	540.81714	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	10	21	158.70613	398.3801	540.81714	0.0	WFKVHA+Arial-ItalicMT
+Aquatic invertebrates:	false	10	22	92.130005	191.62042	529.2934	0.0	WFKVHA+Arial-ItalicMT
+EC50 (24 h) > 148 mg/l, Daphnia magna (other)	false	10	23	92.12998	307.0369	517.76965	0.0	WFKVHA+Arial-ItalicMT
+Information on:	false	10	26	92.11003	154.24774	483.31802	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	10	26	158.68614	398.36014	483.31802	0.0	WFKVHA+Arial-ItalicMT
+Aquatic plants:	false	10	27	92.11005	160.51532	471.7943	0.0	WFKVHA+Arial-ItalicMT
+EC50 (96 h) 7.5 mg/l (growth rate), Desmodesmus subspicatus (OECD Guideline 201)	false	10	28	92.11005	477.1736	460.2706	0.0	WFKVHA+Arial-ItalicMT
+acute Effect	false	10	29	92.08014	150.40588	448.7469	0.0	WFKVHA+Arial-ItalicMT
+EC10 1.5 mg/l, Desmodesmus subspicatus	false	10	31	92.080124	286.12085	425.81897	0.0	WFKVHA+Arial-ItalicMT
+long-term effect	false	10	32	92.07016	167.07892	414.29526	0.0	WFKVHA+Arial-ItalicMT
+Assessment of terrestrial toxicity:	false	10	35	92.07016	241.00203	379.72412	0.0	RNZRPK+ArialMT
+No data available concerning terrestrial toxicity.	false	10	36	92.070145	307.11652	368.2004	0.0	RNZRPK+ArialMT
+12.2. Persistence and degradability	false	10	38	92.16	278.71393	344.4	0.0	GUKDRG+Arial-BoldMT
+Assessment biodegradation and elimination (H2O):	false	10	40	92.16	321.13046	321.2358	0.0	RNZRPK+ArialMT
+The product has not been tested.	false	10	41	92.16	244.4484	309.7121	0.0	RNZRPK+ArialMT
+Information on:	false	10	43	92.16	154.2977	286.66467	0.0	WFKVHA+Arial-ItalicMT
+Alcohols, C12-14, ethoxylated, sulfates, sodium salts	false	10	43	158.7361	398.41006	286.66467	0.0	WFKVHA+Arial-ItalicMT
+Assessment biodegradation and elimination (H2O):	false	10	44	92.15997	321.1304	275.14096	0.0	WFKVHA+Arial-ItalicMT
+Readily biodegradable (according to OECD criteria).	false	10	45	92.15994	328.44104	263.61725	0.0	WFKVHA+Arial-ItalicMT
+Information on:	false	10	47	92.149994	156.18147	240.68933	0.0	WFKVHA+Arial-ItalicMT
+1,2-benzisothiazol-3(2H)-one	false	10	47	160.75516	293.39178	240.68933	0.0	WFKVHA+Arial-ItalicMT
+Assessment biodegradation and elimination (H2O):	false	10	48	92.140015	321.11044	229.16562	0.0	WFKVHA+Arial-ItalicMT
+Not readily biodegradable (by OECD criteria).	false	10	49	92.139984	298.9096	217.6419	0.0	WFKVHA+Arial-ItalicMT
+12.3. Bioaccumulative potential	false	10	52	92.16	259.0296	182.28	0.0	GUKDRG+Arial-BoldMT
+Assessment bioaccumulation potential:	false	10	54	92.16	267.84448	158.99628	0.0	RNZRPK+ArialMT
+Accumulation in organisms is not to be expected.	false	10	55	92.160034	315.00507	147.59207	0.0	RNZRPK+ArialMT
+12.4. Mobility in soil	false	10	57	92.16	199.14865	123.6	0.0	GUKDRG+Arial-BoldMT
+Page:	true	11	2	486.24	506.83365	762.84	0.0	RNZRPK+ArialMT
+11/15	true	11	2	511.98206	542.87256	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	11	3	72.342255	519.22754	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	11	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	11	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	11	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	11	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	11	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	11	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	11	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	11	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	11	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	11	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	11	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	11	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Assessment transport between environmental compartments:	false	11	15	92.16	366.72736	609.84	0.0	RNZRPK+ArialMT
+Volatility:	false	11	16	92.160034	136.56126	598.3163	0.0	RNZRPK+ArialMT
+The substance will not evaporate into the atmosphere from the water surface.	false	11	16	141.00139	482.89087	598.3163	0.0	RNZRPK+ArialMT
+Adsorption in soil:	false	11	17	92.160065	169.2021	586.79254	0.0	RNZRPK+ArialMT
+Adsorption to solid soil phase is possible.	false	11	17	173.48221	361.8072	586.79254	0.0	RNZRPK+ArialMT
+12.5. Results of PBT and vPvB assessment	false	11	19	92.16	320.2243	562.8	0.0	GUKDRG+Arial-BoldMT
+12.6. Other adverse effects	false	11	21	92.16	235.15009	538.68	0.0	GUKDRG+Arial-BoldMT
+The product does not contain substances that are listed in Regulation (EC) 1005/2009 on	false	11	23	92.16	488.9228	515.51624	0.0	RNZRPK+ArialMT
+substances that deplete the ozone layer.	false	11	24	92.16	277.20685	503.99252	0.0	RNZRPK+ArialMT
+12.7. Additional information	false	11	26	92.16	240.07391	480.0	0.0	GUKDRG+Arial-BoldMT
+Add. remarks environm. fate & pathway:	false	11	28	92.16	272.7647	456.83627	0.0	RNZRPK+ArialMT
+Treatment in biological waste water treatment plants has to be performed according to local and	false	11	29	92.16002	518.32477	445.31256	0.0	RNZRPK+ArialMT
+administrative regulations.	false	11	30	92.16002	211.09238	433.90836	0.0	RNZRPK+ArialMT
+Other ecotoxicological advice:	false	11	32	92.16002	227.76541	410.86093	0.0	RNZRPK+ArialMT
+The product has not been tested. The statements on ecotoxicology have been derived from the	false	11	33	92.16002	515.1923	399.33722	0.0	RNZRPK+ArialMT
+properties of the individual components.	false	11	34	92.16002	274.44797	387.8135	0.0	RNZRPK+ArialMT
+SECTION 13:	false	11	36	70.92	134.17029	355.2	0.0	GUKDRG+Arial-BoldMT
+Disposal Considerations	false	11	36	140.49532	292.296	355.2	0.0	GUKDRG+Arial-BoldMT
+13.1. Waste treatment methods	false	11	38	92.16	257.23007	324.84	0.0	GUKDRG+Arial-BoldMT
+Must be disposed of or incinerated in accordance with local regulations.	false	11	40	92.16	411.129	301.6763	0.0	RNZRPK+ArialMT
+Contaminated packaging:	false	11	43	92.16	208.33344	267.22467	0.0	RNZRPK+ArialMT
+Uncontaminated packaging can be re-used.	false	11	44	92.16	288.37204	255.70096	0.0	RNZRPK+ArialMT
+Packs that cannot be cleaned should be disposed of in the same manner as the contents.	false	11	45	92.16002	490.92856	244.17725	0.0	RNZRPK+ArialMT
+SECTION 14:	false	11	48	70.92	133.34912	200.04	0.0	GUKDRG+Arial-BoldMT
+Transport Information	false	11	48	139.59203	276.93607	200.04	0.0	GUKDRG+Arial-BoldMT
+Land transport	false	11	50	92.16	165.48888	170.63629	0.0	GUKDRG+Arial-BoldMT
+ADR	false	11	52	92.16	116.04408	147.59628	0.0	RNZRPK+ArialMT
+Not classified as a dangerous good under transport regulations	false	11	53	226.8	508.0889	130.2	128.15112	RNZRPK+ArialMT
+UN number:	false	11	54	95.88	152.52887	118.68	0.0	RNZRPK+ArialMT
+Not applicable	false	11	54	226.8	292.9289	118.68	74.27113	RNZRPK+ArialMT
+Page:	true	12	2	486.24	506.83365	762.84	0.0	RNZRPK+ArialMT
+12/15	true	12	2	511.98206	542.87256	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	12	3	72.342255	519.22754	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	12	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	12	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	12	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	12	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	12	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	12	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	12	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	12	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	12	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	12	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	12	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	12	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+UN proper shipping name:	false	12	15	95.88	215.40887	609.84	0.0	RNZRPK+ArialMT
+Not applicable	false	12	15	226.8	292.9289	609.84	11.391129	RNZRPK+ArialMT
+Transport hazard class(es):	false	12	16	95.88	220.32887	598.3199	0.0	RNZRPK+ArialMT
+Not applicable	false	12	16	226.8	292.9289	598.3199	6.4711304	RNZRPK+ArialMT
+Packing group:	false	12	17	95.88	165.36888	586.8	0.0	RNZRPK+ArialMT
+Not applicable	false	12	17	226.8	292.9289	586.8	61.43112	RNZRPK+ArialMT
+Environmental hazards:	false	12	18	95.88	203.76888	575.28	0.0	RNZRPK+ArialMT
+Not applicable	false	12	18	226.8	292.9289	575.28	23.031128	RNZRPK+ArialMT
+Special precautions for	false	12	19	95.88	200.38628	563.76	0.0	RNZRPK+ArialMT
+None known	false	12	19	226.8	285.12888	563.76	26.413727	RNZRPK+ArialMT
+user	false	12	20	95.88	118.08888	552.36	0.0	RNZRPK+ArialMT
+RID	false	12	22	92.16	112.20949	529.3163	0.0	RNZRPK+ArialMT
+Not classified as a dangerous good under transport regulations	false	12	23	226.8	508.0889	511.8	128.15112	RNZRPK+ArialMT
+UN number:	false	12	24	95.88	152.52887	500.28	0.0	RNZRPK+ArialMT
+Not applicable	false	12	24	226.8	292.9289	500.28	74.27113	RNZRPK+ArialMT
+UN proper shipping name:	false	12	25	95.88	215.40887	488.88	0.0	RNZRPK+ArialMT
+Not applicable	false	12	25	226.8	292.9289	488.88	11.391129	RNZRPK+ArialMT
+Transport hazard class(es):	false	12	26	95.88	220.32887	477.36	0.0	RNZRPK+ArialMT
+Not applicable	false	12	26	226.8	292.9289	477.36	6.4711304	RNZRPK+ArialMT
+Packing group:	false	12	27	95.88	165.36888	465.84	0.0	RNZRPK+ArialMT
+Not applicable	false	12	27	226.8	292.9289	465.84	61.43112	RNZRPK+ArialMT
+Environmental hazards:	false	12	28	95.88	203.76888	454.32	0.0	RNZRPK+ArialMT
+Not applicable	false	12	28	226.8	292.9289	454.32	23.031128	RNZRPK+ArialMT
+Special precautions for	false	12	29	95.88	200.38628	442.8	0.0	RNZRPK+ArialMT
+None known	false	12	29	226.8	285.12888	442.8	26.413727	RNZRPK+ArialMT
+user	false	12	30	95.88	118.08888	431.28	0.0	RNZRPK+ArialMT
+Inland waterway transport	false	12	33	92.16	218.88887	396.83258	0.0	GUKDRG+Arial-BoldMT
+ADN	false	12	34	92.16	116.04408	385.32	0.0	RNZRPK+ArialMT
+Not classified as a dangerous good under transport regulations	false	12	35	226.8	508.0889	367.8	128.15112	RNZRPK+ArialMT
+UN number:	false	12	36	95.88	152.52887	356.28	0.0	RNZRPK+ArialMT
+Not applicable	false	12	36	226.8	292.9289	356.28	74.27113	RNZRPK+ArialMT
+UN proper shipping name:	false	12	37	95.88	215.40887	344.88	0.0	RNZRPK+ArialMT
+Not applicable	false	12	37	226.8	292.9289	344.88	11.391129	RNZRPK+ArialMT
+Transport hazard class(es):	false	12	38	95.88	220.32887	333.36	0.0	RNZRPK+ArialMT
+Not applicable	false	12	38	226.8	292.9289	333.36	6.4711304	RNZRPK+ArialMT
+Packing group:	false	12	39	95.88	165.36888	321.84	0.0	RNZRPK+ArialMT
+Not applicable	false	12	39	226.8	292.9289	321.84	61.43112	RNZRPK+ArialMT
+Environmental hazards:	false	12	40	95.88	203.76888	310.32	0.0	RNZRPK+ArialMT
+Not applicable	false	12	40	226.8	292.9289	310.32	23.031128	RNZRPK+ArialMT
+Special precautions for	false	12	41	95.88	200.38628	298.8	0.0	RNZRPK+ArialMT
+None known	false	12	41	226.8	285.12888	298.8	26.413727	RNZRPK+ArialMT
+user:	false	12	42	95.88	120.848885	287.4	0.0	RNZRPK+ArialMT
+Transport in inland waterway vessel	false	12	45	92.16	253.80887	252.83258	0.0	RNZRPK+ArialMT
+Not evaluated	false	12	46	92.16	156.61116	241.32	0.0	RNZRPK+ArialMT
+Sea transport	false	12	49	92.16	159.37007	200.88	0.0	GUKDRG+Arial-BoldMT
+IMDG	false	12	51	92.16	121.0938	171.84036	0.0	RNZRPK+ArialMT
+Not classified as a dangerous good under transport regulations	false	12	52	226.8	508.0889	154.32	128.15112	RNZRPK+ArialMT
+UN number:	false	12	53	95.88	152.52887	142.8	0.0	RNZRPK+ArialMT
+Not applicable	false	12	53	226.8	292.9289	142.8	74.27113	RNZRPK+ArialMT
+UN proper shipping name:	false	12	54	95.88	215.40887	131.4	0.0	RNZRPK+ArialMT
+Not applicable	false	12	54	226.8	292.9289	131.4	11.391129	RNZRPK+ArialMT
+Transport hazard class(es):	false	12	55	95.88	220.32887	119.88	0.0	RNZRPK+ArialMT
+Not applicable	false	12	55	226.8	292.9289	119.88	6.4711304	RNZRPK+ArialMT
+Page:	true	13	2	486.24	506.83365	762.84	0.0	RNZRPK+ArialMT
+13/15	true	13	2	511.98206	542.87256	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	13	3	72.342255	519.22754	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	13	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	13	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	13	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	13	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	13	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	13	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	13	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	13	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	13	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	13	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	13	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	13	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+Packing group:	false	13	15	95.88	165.36888	609.84	0.0	RNZRPK+ArialMT
+Not applicable	false	13	15	226.8	292.9289	609.84	61.43112	RNZRPK+ArialMT
+Environmental hazards:	false	13	16	95.88	203.76888	598.3199	0.0	RNZRPK+ArialMT
+Not applicable	false	13	16	226.8	292.9289	598.3199	23.031128	RNZRPK+ArialMT
+Special precautions for	false	13	17	95.88	200.39589	586.8	0.0	RNZRPK+ArialMT
+None known	false	13	17	226.8	285.12888	586.8	26.404114	RNZRPK+ArialMT
+user	false	13	18	95.88	118.08888	575.28	0.0	RNZRPK+ArialMT
+Air transport	false	13	21	92.16	155.52553	534.84	0.0	GUKDRG+Arial-BoldMT
+IATA/ICAO	false	13	23	92.16	144.37032	505.80023	0.0	RNZRPK+ArialMT
+Not classified as a dangerous good under transport regulations	false	13	24	226.8	508.0889	488.28	128.15112	RNZRPK+ArialMT
+UN number:	false	13	25	95.88	152.52887	476.88	0.0	RNZRPK+ArialMT
+Not applicable	false	13	25	226.8	292.9289	476.88	74.27113	RNZRPK+ArialMT
+UN proper shipping name:	false	13	26	95.88	215.40887	465.36	0.0	RNZRPK+ArialMT
+Not applicable	false	13	26	226.8	292.9289	465.36	11.391129	RNZRPK+ArialMT
+Transport hazard class(es):	false	13	27	95.88	220.32887	453.84	0.0	RNZRPK+ArialMT
+Not applicable	false	13	27	226.8	292.9289	453.84	6.4711304	RNZRPK+ArialMT
+Packing group:	false	13	28	95.88	165.36888	442.32	0.0	RNZRPK+ArialMT
+Not applicable	false	13	28	226.8	292.9289	442.32	61.43112	RNZRPK+ArialMT
+Environmental hazards:	false	13	29	95.88	203.76888	430.8	0.0	RNZRPK+ArialMT
+Not applicable	false	13	29	226.8	292.9289	430.8	23.031128	RNZRPK+ArialMT
+Special precautions for	false	13	30	95.88	200.38628	419.28	0.0	RNZRPK+ArialMT
+None known	false	13	30	226.8	285.12888	419.28	26.413727	RNZRPK+ArialMT
+user	false	13	31	95.88	118.08888	407.88	0.0	RNZRPK+ArialMT
+14.1. UN number	false	13	34	92.16	181.9925	372.36	0.0	GUKDRG+Arial-BoldMT
+See corresponding entries for “UN number” for the respective regulations in the tables above.	false	13	35	92.16	507.3725	360.72	0.0	RNZRPK+ArialMT
+14.2. UN proper shipping name	false	13	37	92.16	257.23007	336.72	0.0	GUKDRG+Arial-BoldMT
+See corresponding entries for “UN proper shipping name” for the respective regulations in the tables	false	13	38	92.16	537.1829	325.08	0.0	RNZRPK+ArialMT
+above.	false	13	39	92.16	124.928406	313.55627	0.0	RNZRPK+ArialMT
+14.3. Transport hazard class(es)	false	13	41	92.16	262.7501	289.56	0.0	GUKDRG+Arial-BoldMT
+See corresponding entries for “Transport hazard class(es)” for the respective regulations in the	false	13	42	92.16	512.68933	277.92	0.0	RNZRPK+ArialMT
+tables above.	false	13	43	92.16	154.44984	266.3963	0.0	RNZRPK+ArialMT
+14.4. Packing group	false	13	45	92.16	199.14865	242.4	0.0	GUKDRG+Arial-BoldMT
+See corresponding entries for “Packing group” for the respective regulations in the tables above.	false	13	46	92.16	520.2109	230.76	0.0	RNZRPK+ArialMT
+14.5. Environmental hazards	false	13	48	92.16	243.7944	206.76	0.0	GUKDRG+Arial-BoldMT
+See corresponding entries for “Environmental hazards” for the respective regulations in the tables	false	13	49	92.16	525.5298	195.12	0.0	RNZRPK+ArialMT
+above.	false	13	50	92.16	124.928406	183.59628	0.0	RNZRPK+ArialMT
+14.6. Special precautions for user	false	13	52	92.16	270.6768	159.6	0.0	GUKDRG+Arial-BoldMT
+See corresponding entries for “Special precautions for user” for the respective regulations in the	false	13	53	92.16	517.7161	147.96	0.0	RNZRPK+ArialMT
+tables above.	false	13	54	92.16	154.44984	136.43628	0.0	RNZRPK+ArialMT
+Page:	true	14	2	486.24	506.83365	762.84	0.0	RNZRPK+ArialMT
+14/15	true	14	2	511.98206	542.87256	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	14	3	72.342255	519.22754	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	14	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	14	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	14	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	14	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	14	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	14	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	14	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	14	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	14	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	14	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	14	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	14	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+14.7. Transport in bulk according to Annex II of MARPOL and the IBC Code	false	14	15	92.16	486.47778	608.88	0.0	GUKDRG+Arial-BoldMT
+Regulation:	false	14	16	95.88	149.28888	591.12	0.0	RNZRPK+ArialMT
+Not evaluated	false	14	16	226.8	291.2489	591.12	77.51112	RNZRPK+ArialMT
+Shipment approved:	false	14	17	95.88	188.16887	579.72	0.0	RNZRPK+ArialMT
+Not evaluated	false	14	17	226.8	291.2489	579.72	38.631134	RNZRPK+ArialMT
+Pollution name:	false	14	18	95.88	167.52887	568.2	0.0	RNZRPK+ArialMT
+Not evaluated	false	14	18	226.8	291.2489	568.2	59.271133	RNZRPK+ArialMT
+Pollution category:	false	14	19	95.88	180.96887	556.68	0.0	RNZRPK+ArialMT
+Not evaluated	false	14	19	226.8	291.2489	556.68	45.83113	RNZRPK+ArialMT
+Ship Type:	false	14	20	95.88	146.40887	545.16	0.0	RNZRPK+ArialMT
+Not evaluated	false	14	20	226.8	291.2489	545.16	80.39113	RNZRPK+ArialMT
+SECTION 15:	false	14	22	70.92	133.45413	512.52	0.0	GUKDRG+Arial-BoldMT
+Regulatory Information	false	14	22	139.70755	283.53607	512.52	0.0	GUKDRG+Arial-BoldMT
+15.1. Safety, health and environmental regulations/legislation specific for the	false	14	23	92.16	496.4071	493.68	0.0	GUKDRG+Arial-BoldMT
+substance or mixture	false	14	24	92.16	206.46817	480.9619	0.0	GUKDRG+Arial-BoldMT
+Prohibitions, Restrictions and Authorizations	false	14	26	92.16	290.6489	457.7963	0.0	RNZRPK+ArialMT
+Annex XVII of Regulation (EC) No 1907/2006:	false	14	28	92.16	290.37512	434.8758	0.0	RNZRPK+ArialMT
+Number on List: 3	false	14	28	295.09454	380.04385	434.8758	0.0	RNZRPK+ArialMT
+If other regulatory information applies that is not already provided elsewhere in this safety data	false	14	30	92.150024	511.71207	411.82837	0.0	RNZRPK+ArialMT
+sheet, then it is described in this subsection.	false	14	31	92.150024	290.64288	400.30466	0.0	RNZRPK+ArialMT
+15.2. Chemical Safety Assessment	false	14	33	92.16	275.5896	376.32	0.0	GUKDRG+Arial-BoldMT
+Advice on product handling can be found in sections 7 and 8 of this safety data sheet.	false	14	35	92.16	473.5284	353.15628	0.0	RNZRPK+ArialMT
+SECTION 16:	false	14	37	70.92	133.68457	320.52	0.0	GUKDRG+Arial-BoldMT
+Other Information	false	14	37	139.96103	252.93724	320.52	0.0	GUKDRG+Arial-BoldMT
+Full text of the classifications, including the hazard classes and the hazard statements, if mentioned	false	14	39	92.16	534.40515	291.12	0.0	RNZRPK+ArialMT
+in section 2 or 3:	false	14	40	92.16	168.24887	279.6	0.0	RNZRPK+ArialMT
+Eye Dam./Irrit.	false	14	41	92.16	158.88887	268.2	0.0	RNZRPK+ArialMT
+Serious eye damage/eye irritation	false	14	41	205.56	357.2489	268.2	46.671127	RNZRPK+ArialMT
+Skin Corr./Irrit.	false	14	42	92.16	159.36888	256.68	0.0	RNZRPK+ArialMT
+Skin corrosion/irritation	false	14	42	205.56	310.0889	256.68	46.191116	RNZRPK+ArialMT
+Eye Irrit.	false	14	43	92.16	132.12888	245.16	0.0	RNZRPK+ArialMT
+Serious eye irritation	false	14	43	205.56	299.5289	245.16	73.43112	RNZRPK+ArialMT
+Eye Dam.	false	14	44	92.16	138.84888	233.64	0.0	RNZRPK+ArialMT
+Serious eye damage	false	14	44	205.56	300.00888	233.64	66.71112	RNZRPK+ArialMT
+H319	false	14	45	92.16	118.80888	222.12	0.0	RNZRPK+ArialMT
+Causes serious eye irritation.	false	14	45	205.56	337.3289	222.12	86.751114	RNZRPK+ArialMT
+H318	false	14	46	92.16	118.80888	210.6	0.0	RNZRPK+ArialMT
+Causes serious eye damage.	false	14	46	205.56	337.9289	210.6	86.751114	RNZRPK+ArialMT
+H315	false	14	47	92.16	118.80888	199.2	0.0	RNZRPK+ArialMT
+Causes skin irritation.	false	14	47	205.56	303.9689	199.2	86.751114	RNZRPK+ArialMT
+H314	false	14	48	92.16	118.80888	187.68	0.0	RNZRPK+ArialMT
+Causes severe skin burns and eye damage.	false	14	48	205.56	403.44888	187.68	86.751114	RNZRPK+ArialMT
+Abbreviations	false	14	50	70.92	134.28888	164.63629	0.0	RNZRPK+ArialMT
+ADR = The Regulation concerning the International Carriage of Dangerous Goods by Road.  ADN = The	false	14	51	70.92	535.57184	153.12	0.0	GUKDRG+Arial-BoldMT
+Regulation concerning the International Carriage of Dangerous Goods by inland waterways.  ATE =	false	14	52	70.92993	513.7316	141.59628	0.0	RNZRPK+ArialMT
+Acute Toxicity Estimates.  CAO = Cargo Aircraft Only.  CAS = Chemical Abstract Service.  CLP = Label	false	14	53	70.92993	531.8458	130.19208	0.0	RNZRPK+ArialMT
+Classification, Labelling and Packaging Regulation.  DIN = German national organization for	false	14	54	70.91995	480.21133	118.66836	0.0	RNZRPK+ArialMT
+Page:	true	15	2	486.24	506.83365	762.84	0.0	RNZRPK+ArialMT
+15/15	true	15	2	511.98206	542.87256	762.84	0.0	RNZRPK+ArialMT
+BASF Safety data sheet according to Regulation (EC) No. 1907/2006 as amended from time to time.	true	15	3	72.342255	519.22754	749.643	0.0	RNZRPK+ArialMT
+Date / Revised:	true	15	4	72.36	139.11421	738.0	0.0	RNZRPK+ArialMT
+16.08.2019	true	15	4	143.88237	196.3321	738.0	0.0	RNZRPK+ArialMT
+Version:	true	15	4	486.72586	519.4884	738.0	290.39374	RNZRPK+ArialMT
+7.1	true	15	4	524.16876	542.89026	738.0	290.39374	RNZRPK+ArialMT
+Date previous version:	true	15	5	72.359955	171.10248	726.5958	0.0	RNZRPK+ArialMT
+14.08.2019	true	15	5	175.8045	227.5268	726.5958	0.0	RNZRPK+ArialMT
+Previous version:	true	15	5	446.75635	519.99365	726.5958	219.22955	RNZRPK+ArialMT
+7.0	true	15	5	524.571	542.8803	726.5958	219.22955	RNZRPK+ArialMT
+Product:	true	15	6	72.350006	112.31949	715.0721	0.0	RNZRPK+ArialMT
+Cavipor® T0	true	15	6	112.309525	174.2408	715.0721	-0.009963989	GUKDRG+Arial-BoldMT
+(ID no. 860071/SDS_GEN_EU/EN)	true	15	7	383.98846	542.87036	703.54834	0.0	RNZRPK+ArialMT
+Date of print 23.08.2019	true	15	8	432.84	542.88885	690.36	0.0	RNZRPK+ArialMT
+standardization.  DNEL = Derived No Effect Level.  EC50 = Effective concentration median for 50% of the	false	15	15	70.92	539.9594	609.84	0.0	RNZRPK+ArialMT
+population.  EC = European Community.  EN = European Norm.  IARC = International Agency for	false	15	16	70.910034	504.22992	598.3163	0.0	RNZRPK+ArialMT
+Research on Cancer.  IATA = International Air Transport Association.  IBC-Code = Intermediate Bulk	false	15	17	70.92001	521.14594	586.79254	0.0	RNZRPK+ArialMT
+Container code.  IMDG = International Maritime Dangerous Goods Code.  ISO = International	false	15	18	70.910065	486.12256	575.2688	0.0	RNZRPK+ArialMT
+Organization for Standardization.  STE = Short time exposure.  LC50 = Lethal concentration median for	false	15	19	70.910065	530.13385	563.74506	0.0	RNZRPK+ArialMT
+50% of the population.  LD50 = Lethal dose median for 50% of the population.  MAK = Maximum	false	15	20	70.910065	501.949	552.3409	0.0	RNZRPK+ArialMT
+acceptable concentration.  MARPOL = The International Convention for the Prevention of Pollution from	false	15	21	70.910095	533.24744	540.81714	0.0	RNZRPK+ArialMT
+Ships.  NEN = Dutch Norm.  NOEC = No Observed Effect Concentration.  OEL = Occupational Exposure	false	15	22	70.910095	537.45544	529.2934	0.0	RNZRPK+ArialMT
+Limit.  OECD = Organization for Economic Cooperation and Development.  PBT = Persistent,	false	15	23	70.910095	486.58777	517.76965	0.0	RNZRPK+ArialMT
+Bioaccumulative and Toxic.  PNEC = Predicted No Effect Level.  ppm = parts per million.  RID = The	false	15	24	70.910126	518.5105	506.24594	0.0	RNZRPK+ArialMT
+Regulation concerning the International Carriage of Dangerous Goods by Rail.  TWA = Time weight	false	15	25	70.910126	513.58234	494.84174	0.0	RNZRPK+ArialMT
+average.  UN-number = UN number at transport.  vPvB = very Persistent and very Bioaccumulative.	false	15	26	70.90018	518.9906	483.31802	0.0	RNZRPK+ArialMT
+The data contained in this safety data sheet are based on our current knowledge and experience and	false	15	28	70.90021	520.45404	460.2706	0.0	RNZRPK+ArialMT
+describe the product only with regard to safety requirements. This safety data sheet is neither a	false	15	29	70.90021	494.3039	448.7469	0.0	RNZRPK+ArialMT
+Certificate of Analysis (CoA) nor technical data sheet and shall not be mistaken for a specification	false	15	30	70.90021	504.1454	437.22318	0.0	RNZRPK+ArialMT
+agreement. Identified uses in this safety data sheet do neither represent an agreement on the	false	15	31	70.90021	486.48746	425.81897	0.0	RNZRPK+ArialMT
+corresponding contractual quality of the substance/mixture nor a contractually designated use. It is the	false	15	32	70.90021	524.9011	414.29526	0.0	RNZRPK+ArialMT
+responsibility of the recipient of the product to ensure any proprietary rights and existing laws and	false	15	33	70.90021	503.1853	402.77155	0.0	RNZRPK+ArialMT
+legislation are observed.	false	15	34	70.90021	182.03389	391.24783	0.0	RNZRPK+ArialMT
+Vertical lines in the left hand margin indicate an amendment from the previous version.	false	15	36	70.92	456.73056	366.6	0.0	RNZRPK+ArialMT
+_HORIZONTAL_LINE	false	1	1	69.48	540.12	641.76	0.0	
+_HORIZONTAL_LINE	false	1	1	69.48	540.12	582.48	0.0	
+_HORIZONTAL_LINE	false	1	1	72.24192	93.61029	791.46014	0.0	
+_HORIZONTAL_LINE	false	1	1	93.61029	72.24192	812.62775	0.0	
+_HORIZONTAL_LINE	false	1	1	87.08399	78.76822	797.9251	0.0	
+_HORIZONTAL_LINE	false	1	1	78.76822	87.08399	806.0585	0.0	
+_HORIZONTAL_LINE	false	1	1	108.45236	100.24186	797.9241	0.0	
+_HORIZONTAL_LINE	false	1	1	100.24186	108.45236	806.05743	0.0	
+_HORIZONTAL_LINE	false	1	1	86.24188	86.97873	773.10535	0.0	
+_HORIZONTAL_LINE	false	1	1	86.97873	87.50504	773.10535	0.0	
+_HORIZONTAL_LINE	false	1	1	89.82082	88.768196	775.2951	0.0	
+_HORIZONTAL_LINE	false	1	1	84.87347	89.92609	776.2335	0.0	
+_HORIZONTAL_LINE	false	1	1	86.452415	86.87347	779.0488	0.0	
+_HORIZONTAL_LINE	false	1	1	86.87347	87.29452	779.0488	0.0	
+_HORIZONTAL_LINE	false	1	1	88.87347	84.873474	777.0676	0.0	
+_HORIZONTAL_LINE	false	1	1	97.29449	97.8208	779.04846	0.0	
+_HORIZONTAL_LINE	false	1	1	99.505005	100.6629	777.6929	0.0	
+_HORIZONTAL_LINE	false	1	1	96.9787	97.71554	773.10486	0.0	
+_HORIZONTAL_LINE	false	1	1	97.71554	98.347115	773.10486	0.0	
+_HORIZONTAL_LINE	false	1	1	100.6629	99.61027	775.6074	0.0	
+_HORIZONTAL_LINE	false	1	1	102.97868	102.03132	779.778	0.0	
+_HORIZONTAL_LINE	false	1	1	102.03132	103.08395	773.20874	0.0	
+_HORIZONTAL_LINE	false	1	1	104.87341	105.50499	778.83954	0.0	
+_HORIZONTAL_LINE	false	1	1	105.50499	105.39973	779.9866	0.0	
+_HORIZONTAL_LINE	false	1	1	108.03129	108.768135	773.1041	0.0	
+_HORIZONTAL_LINE	false	1	1	108.768135	109.29445	773.1041	0.0	
+_HORIZONTAL_LINE	false	1	1	111.61023	110.5576	775.2939	0.0	
+_HORIZONTAL_LINE	false	1	1	106.66287	111.71549	776.2323	0.0	
+_HORIZONTAL_LINE	false	1	1	108.24181	108.662865	779.0476	0.0	
+_HORIZONTAL_LINE	false	1	1	108.662865	109.083916	779.0476	0.0	
+_HORIZONTAL_LINE	false	1	1	110.662865	106.66287	777.0664	0.0	
+_HORIZONTAL_LINE	false	1	1	113.08391	114.136536	777.79596	0.0	
+_HORIZONTAL_LINE	false	1	1	115.82075	116.34706	779.04724	0.0	
+_HORIZONTAL_LINE	false	1	1	114.97864	115.715485	773.10364	0.0	
+_HORIZONTAL_LINE	false	1	1	117.926	118.34705	773.10364	0.0	
+_HORIZONTAL_LINE	false	1	1	118.34705	118.768105	773.10364	0.0	
+_HORIZONTAL_LINE	false	1	1	115.82074	115.294426	773.93774	0.0	
+_HORIZONTAL_LINE	false	1	1	117.29442	117.39968	776.64886	0.0	
+_HORIZONTAL_LINE	false	1	1	126.24176	126.97861	773.10315	0.0	
+_HORIZONTAL_LINE	false	1	1	126.97861	127.50492	773.10315	0.0	
+_HORIZONTAL_LINE	false	1	1	129.82071	128.76807	775.2929	0.0	
+_HORIZONTAL_LINE	false	1	1	124.873344	129.92596	776.2313	0.0	
+_HORIZONTAL_LINE	false	1	1	126.452286	126.87334	779.04663	0.0	
+_HORIZONTAL_LINE	false	1	1	126.87334	127.189125	779.04663	0.0	
+_HORIZONTAL_LINE	false	1	1	128.76807	124.873344	777.0654	0.0	
+_HORIZONTAL_LINE	false	1	1	137.29437	137.8207	779.04626	0.0	
+_HORIZONTAL_LINE	false	1	1	139.5049	140.55753	777.6907	0.0	
+_HORIZONTAL_LINE	false	1	1	136.97858	137.71542	773.10266	0.0	
+_HORIZONTAL_LINE	false	1	1	137.71542	138.24174	773.10266	0.0	
+_HORIZONTAL_LINE	false	1	1	140.55753	139.5049	775.6052	0.0	
+_HORIZONTAL_LINE	false	1	1	143.08382	142.97856	778.83734	0.0	
+_HORIZONTAL_LINE	false	1	1	142.97856	142.03119	782.3827	0.0	
+_HORIZONTAL_LINE	false	1	1	142.03119	142.97856	773.2066	0.0	
+_HORIZONTAL_LINE	false	1	1	144.5575	145.08382	779.0459	0.0	
+_HORIZONTAL_LINE	false	1	1	146.45222	147.50487	773.2066	0.0	
+_HORIZONTAL_LINE	false	1	1	151.29433	152.03116	773.1019	0.0	
+_HORIZONTAL_LINE	false	1	1	152.03116	152.66273	773.1019	0.0	
+_HORIZONTAL_LINE	false	1	1	154.87326	153.92589	775.2917	0.0	
+_HORIZONTAL_LINE	false	1	1	150.03117	154.97853	776.2301	0.0	
+_HORIZONTAL_LINE	false	1	1	151.50485	151.9259	779.0454	0.0	
+_HORIZONTAL_LINE	false	1	1	151.9259	152.34695	779.0454	0.0	
+_HORIZONTAL_LINE	false	1	1	153.9259	150.03117	777.0642	0.0	
+_HORIZONTAL_LINE	false	1	1	157.39957	157.2943	778.8365	0.0	
+_HORIZONTAL_LINE	false	1	1	157.2943	156.34694	779.77496	0.0	
+_HORIZONTAL_LINE	false	1	1	156.34694	157.39957	773.20575	0.0	
+_HORIZONTAL_LINE	false	1	1	158.76797	159.18903	779.04504	0.0	
+_HORIZONTAL_LINE	false	1	1	159.18903	159.61009	779.04504	0.0	
+_HORIZONTAL_LINE	false	1	1	160.55745	161.50482	773.20575	0.0	
+_HORIZONTAL_LINE	false	1	1	162.9785	163.39955	779.04504	0.0	
+_HORIZONTAL_LINE	false	1	1	163.39955	163.71533	779.04504	0.0	
+_HORIZONTAL_LINE	false	1	1	164.6627	165.71533	773.20575	0.0	
+_HORIZONTAL_LINE	false	1	1	168.55743	167.5048	781.026	0.0	
+_HORIZONTAL_LINE	false	1	1	167.5048	168.55743	782.38153	0.0	
+_HORIZONTAL_LINE	false	1	1	168.55743	167.5048	779.7747	0.0	
+_HORIZONTAL_LINE	false	1	1	167.5048	168.55743	773.20544	0.0	
+_HORIZONTAL_LINE	false	1	1	172.24164	172.76794	779.04443	0.0	
+_HORIZONTAL_LINE	false	1	1	172.76794	173.29427	779.04443	0.0	
+_HORIZONTAL_LINE	false	1	1	174.3469	175.39952	777.89746	0.0	
+_HORIZONTAL_LINE	false	1	1	173.71532	172.66269	779.87866	0.0	
+_HORIZONTAL_LINE	false	1	1	173.39952	172.76794	773.93506	0.0	
+_HORIZONTAL_LINE	false	1	1	171.08374	170.03111	775.18634	0.0	
+_HORIZONTAL_LINE	false	1	1	172.76794	173.82057	773.1008	0.0	
+_HORIZONTAL_LINE	false	1	1	182.45212	182.34685	778.31366	0.0	
+_HORIZONTAL_LINE	false	1	1	182.34685	181.39949	779.7735	0.0	
+_HORIZONTAL_LINE	false	1	1	181.39949	182.45212	773.2042	0.0	
+_HORIZONTAL_LINE	false	1	1	184.2416	184.87317	778.7308	0.0	
+_HORIZONTAL_LINE	false	1	1	191.60999	190.4521	779.77313	0.0	
+_HORIZONTAL_LINE	false	1	1	186.55737	185.39948	779.77313	0.0	
+_HORIZONTAL_LINE	false	1	1	186.97842	186.66263	771.4312	0.0	
+_HORIZONTAL_LINE	false	1	1	186.24158	186.03105	771.53546	0.0	
+_HORIZONTAL_LINE	false	1	1	186.34685	186.7679	770.59705	0.0	
+_HORIZONTAL_LINE	false	1	1	186.7679	187.39948	770.59705	0.0	
+_HORIZONTAL_LINE	false	1	1	124.2	169.79999	359.4	0.0	
+_HORIZONTAL_LINE	false	1	1	69.48	540.12	206.64	0.0	
+_HORIZONTAL_LINE	false	1	1	92.16	315.0	76.56	0.0	
+_HORIZONTAL_LINE	false	2	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	2	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	2	1	92.16	271.68	503.4	0.0	
+_HORIZONTAL_LINE	false	2	1	69.48	540.12	219.0	0.0	
+_HORIZONTAL_LINE	false	3	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	3	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	3	1	92.16	165.0	608.04	0.0	
+_HORIZONTAL_LINE	false	3	1	92.16	223.32	585.0	0.0	
+_HORIZONTAL_LINE	false	3	1	310.2	431.39902	493.08	0.0	
+_HORIZONTAL_LINE	false	3	1	310.2	431.39902	274.56	0.0	
+_HORIZONTAL_LINE	false	3	1	69.48	540.12	180.48	0.0	
+_HORIZONTAL_LINE	false	4	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	4	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	4	1	69.48	540.12	385.08	0.0	
+_HORIZONTAL_LINE	false	4	1	69.48	540.12	227.64	0.0	
+_HORIZONTAL_LINE	false	5	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	5	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	5	1	69.48	540.12	571.44	0.0	
+_HORIZONTAL_LINE	false	5	1	69.48	540.12	344.88	0.0	
+_HORIZONTAL_LINE	false	5	1	92.16	227.28	265.2	0.0	
+_HORIZONTAL_LINE	false	5	1	92.16	261.12	121.2	0.0	
+_HORIZONTAL_LINE	false	6	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	6	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	6	1	69.48	540.12	571.44	0.0	
+_HORIZONTAL_LINE	false	7	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	7	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	7	1	69.48	540.12	571.44	0.0	
+_HORIZONTAL_LINE	false	7	1	69.48	540.12	387.48	0.0	
+_HORIZONTAL_LINE	false	7	1	92.16	151.08	326.4	0.0	
+_HORIZONTAL_LINE	false	7	1	92.16	128.28	211.44	0.0	
+_HORIZONTAL_LINE	false	8	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	8	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	8	1	92.16	223.32	561.96	0.0	
+_HORIZONTAL_LINE	false	8	1	92.16	193.92001	401.04	0.0	
+_HORIZONTAL_LINE	false	8	1	92.16	160.56	309.0	0.0	
+_HORIZONTAL_LINE	false	8	1	92.16	184.44	263.04	0.0	
+_HORIZONTAL_LINE	false	8	1	92.16	192.24	182.52	0.0	
+_HORIZONTAL_LINE	false	9	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	9	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	9	1	92.16	296.76	608.04	0.0	
+_HORIZONTAL_LINE	false	9	1	92.16	433.44	561.96	0.0	
+_HORIZONTAL_LINE	false	9	1	92.16	170.04001	481.56	0.0	
+_HORIZONTAL_LINE	false	9	1	69.48	540.12	444.96	0.0	
+_HORIZONTAL_LINE	false	10	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	10	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	11	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	11	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	11	1	69.48	540.12	372.48	0.0	
+_HORIZONTAL_LINE	false	11	1	69.48	540.12	217.32	0.0	
+_HORIZONTAL_LINE	false	11	1	92.16	162.72	168.48	0.0	
+_HORIZONTAL_LINE	false	12	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	12	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	12	1	92.16	216.12	394.68	0.0	
+_HORIZONTAL_LINE	false	12	1	92.16	251.04001	251.04	0.0	
+_HORIZONTAL_LINE	false	12	1	92.16	156.6	198.72	0.0	
+_HORIZONTAL_LINE	false	13	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	13	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	13	1	92.16	152.76001	532.68	0.0	
+_HORIZONTAL_LINE	false	14	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	14	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	14	1	69.48	540.12	529.8	0.0	
+_HORIZONTAL_LINE	false	14	1	92.16	287.88	456.0	0.0	
+_HORIZONTAL_LINE	false	14	1	69.48	540.12	337.8	0.0	
+_HORIZONTAL_LINE	false	14	1	92.16	531.72	289.32	0.0	
+_HORIZONTAL_LINE	false	14	1	92.16	165.48001	277.8	0.0	
+_HORIZONTAL_LINE	false	14	1	70.92	131.51999	162.84	0.0	
+_HORIZONTAL_LINE	false	15	1	70.92	541.56	759.96	0.0	
+_HORIZONTAL_LINE	false	15	1	70.92	541.56	700.68	0.0	
+_HORIZONTAL_LINE	false	15	1	69.48	540.12	375.96	0.0	

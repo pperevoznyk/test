@@ -1,0 +1,1417 @@
+Sentence	IsHeaderFooter	Page	Line	X1	X2	Y	Padding	Font
+Page   1 / 17	true	1	1	529.5298	574.7186	754.09827	0.0	Arial
+MATERIAL SAFETY DATA SHEET	false	1	2	202.19409	426.69394	680.241	0.0	Arial,Bold
+according to Regulation (EC) No. 1907/2006	false	1	3	221.56956	407.38245	668.94183	0.0	Arial,Bold
+SDS #:	false	1	5	53.93174	83.92178	637.0324	0.0	Arial,Bold
+A00786	false	1	5	88.92012	128.90685	637.0324	0.0	Arial,Bold
+DIESEL FUEL	false	1	5	262.41788	366.30237	631.795	133.51103	Arial,Bold
+Date of the previous version:	false	1	6	53.93174	172.13283	600.516	0.0	Arial,Bold
+2013-06-18	false	1	6	176.3543	231.23337	600.516	0.0	Arial,Bold
+Revision Date:	false	1	6	296.72446	353.4157	600.516	65.49109	Arial,Bold
+2014-05-22	false	1	6	357.77658	410.10696	600.516	65.49109	Arial,Bold
+Version  2	false	1	6	531.777	574.7266	600.516	121.67001	Arial,Bold
+1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING	false	1	7	54.680794	548.4257	577.43256	0.0	ArialBlack,Bold
+1.1.  Product identifier	false	1	8	53.93174	182.63885	553.23376	0.0	ArialBlack,Bold
+Product name	false	1	9	53.93174	113.86788	532.0416	0.0	Arial,Bold
+DIESEL FUEL	false	1	9	210.33379	268.76883	532.0416	96.465904	Arial,Bold
+Other names	false	1	10	53.93174	108.8792	522.0033	0.0	Arial,Bold
+Diesel Fuel, ULSD 10ppm, Low sulphur Diesel, BioDiesel, Diesel B7, EN590	false	1	10	210.33379	514.0504	522.2457	101.45458	Arial
+Pure substance/mixture	false	1	11	53.93174	155.83578	511.9649	0.0	Arial,Bold
+Mixture	false	1	11	210.33379	239.79851	512.2074	54.498	Arial
+1.2.   Relevant identified uses of the substance or mixture and uses advised against	false	1	12	53.93174	518.90326	489.85138	0.0	ArialBlack,Bold
+Identified uses	false	1	13	53.93174	116.87009	468.65927	0.0	Arial,Bold
+Fuel for diesel engines and combustion turbines.	false	1	13	210.33379	403.67917	468.90173	93.4637	Arial
+1.3.   Details of the supplier of the safety data sheet	false	1	14	53.93174	344.65372	446.54575	0.0	ArialBlack,Bold
+Supplier	false	1	15	53.93174	89.895226	425.3536	0.0	Arial,Bold
+TOTSA TOTAL OIL TRADING SA	false	1	15	210.33379	346.19687	425.59607	120.43856	Arial
+WTC 1 - CP 276	false	1	16	210.33379	282.24277	415.5577	0.0	AAAAAD+ArialUnicode
+10 route de l’Aéroport	false	1	17	210.33379	303.21625	405.51932	0.0	AAAAAD+ArialUnicode
+1215    GENEVA	false	1	18	210.33379	277.78445	395.48096	0.0	Arial
+SWITZERLAND	false	1	19	210.33379	274.75525	385.44257	0.0	Arial
+Tél:	false	1	20	210.33379	222.6256	375.4042	0.0	Arial
++41 22 710 11 12	false	1	20	226.72287	300.47372	375.4042	0.0	Arial
+Fax:	false	1	21	210.33379	222.97466	365.36584	0.0	Arial
++41 22 710 11 10	false	1	21	227.18828	303.03354	365.36584	0.0	Arial
+For further information, please contact:	false	1	22	53.93174	227.24142	345.2891	0.0	Arial,Bold
+E-mail Address	false	1	23	53.93174	119.36893	325.4548	0.0	Arial,Bold
+msds.ts@totsa.com	false	1	23	210.33379	289.38876	325.69727	90.96486	Arial
+1.4.   Emergency telephone number	false	1	24	53.93174	253.68886	303.34128	0.0	ArialBlack,Bold
++41 22 9 202 202	false	1	25	53.93174	124.15088	282.3916	0.0	Arial
+2. HAZARDS IDENTIFICATION	false	1	26	54.680794	217.24506	239.23145	0.0	ArialBlack,Bold
+2.1. Classification of the substance or mixture	false	1	27	53.93174	313.59305	215.03265	0.0	ArialBlack,Bold
+REGULATION (EC) No 1272/2008	false	1	28	53.93174	193.78577	193.84058	0.0	Arial,Bold
+For the full text of the H-Statements mentioned in this Section, see Section 2.2.	false	1	29	53.93174	368.19214	184.04462	0.0	Arial,Italic
+Classification	false	1	30	53.93174	112.37576	163.9679	0.0	Arial,Bold
+Flammable liquids  - Category 3  - H226	false	1	31	53.93174	212.77872	154.172	0.0	Arial
+Aspiration toxicity  - Category 1  - H304	false	1	32	53.93174	210.28888	144.1336	0.0	Arial
+Acute inhalation toxicity - vapor  - Category 4  - H332	false	1	33	53.93174	264.75095	134.09521	0.0	Arial
+Skin corrosion/irritation  - Category 2  - H315	false	1	34	53.93174	231.7627	124.056885	0.0	Arial
+Carcinogenicity  - Category 2  - H351	false	1	35	53.93174	201.79462	114.01849	0.0	Arial
+Specific target organ systemic toxicity (repeated exposure)  - Category 2  - H373	false	1	36	53.93174	373.6482	103.9801	0.0	Arial
+Chronic aquatic toxicity  - Category 2  - H411	false	1	37	53.93174	232.76944	93.94177	0.0	Arial
+Version  EU	true	1	38	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	1	39	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   2 / 17	true	2	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	2	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	2	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	2	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	2	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	2	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	2	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+DIRECTIVE 67/548/EEC or 1999/45/EC	false	2	6	53.93174	214.29784	614.5309	0.0	Arial,Bold
+For the full text of the R-phrases mentioned in this Section, see Section 16	false	2	7	53.93174	349.7025	604.735	0.0	Arial,Italic
+Classification	false	2	8	53.93174	112.37576	584.65826	0.0	Arial,Bold
+Carc. cat. 3;R40 -Xn;R20- Xn;R65 - Xi;R38  - N;R51-53	false	2	9	53.93174	273.73062	574.86237	0.0	Arial
+2.2. Label elements	false	2	10	53.93174	167.67778	542.71045	0.0	ArialBlack,Bold
+Labelled according to	false	2	11	53.93174	146.83815	521.5183	0.0	Arial,Bold
+REGULATION (EC) No 1272/2008	false	2	11	210.33379	348.7047	521.7608	63.495636	Arial
+Signal Word	false	2	12	53.93174	106.371376	416.23663	0.0	Arial,Bold
+DANGER	false	2	13	53.93174	92.38508	406.44073	0.0	Arial
+H226 - Flammable liquid and vapor	false	2	14	53.93174	193.80374	386.60645	0.0	Arial
+H304 - May be fatal if swallowed and enters airways	false	2	15	53.93174	261.2454	376.56808	0.0	Arial
+H315 - Causes skin irritation	false	2	16	53.93174	166.81987	366.5297	0.0	Arial
+H332 - Harmful if inhaled	false	2	17	53.93174	153.33694	356.49133	0.0	Arial
+H351 - Suspected of causing cancer	false	2	18	53.93174	198.81941	346.45294	0.0	Arial
+H373 - May cause damage to organs through prolonged or repeated exposure	false	2	19	53.93174	365.1989	336.41458	0.0	Arial
+H411 - Toxic to aquatic life with long lasting effects	false	2	20	53.93174	255.76236	326.3762	0.0	Arial
+Precautionary Statements	false	2	21	53.93174	164.82442	306.29944	0.0	Arial,Bold
+P210 - Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.	false	2	22	53.93174	467.59738	296.50354	0.0	Arial
+P261 - Avoid breathing dust/fume/gas/mist/vapors/spray	false	2	23	53.93174	277.24518	286.46518	0.0	Arial
+P280 - Wear protective gloves/ protective clothing/ eye protection/ face protection.	false	2	24	53.93174	379.6706	276.42682	0.0	Arial
+P301 + P310 - IF SWALLOWED:	false	2	25	53.93174	171.2279	266.38843	0.0	Arial
+Immediately call a POISON CENTER or doctor/physician	false	2	25	175.7393	414.84302	266.38843	0.0	Arial
+P331 - Do NOT induce vomiting	false	2	26	53.93174	180.81519	256.35004	0.0	Arial
+P403 + P233 - Store in a well-ventilated place. Keep container tightly closed	false	2	27	53.93174	355.9496	246.31165	0.0	Arial
+P273 - Avoid release to the environment	false	2	28	53.93174	214.30681	236.27332	0.0	Arial
+P501 - Dispose of contents/ container to an approved incineration plant.	false	2	29	53.93174	339.2218	226.23492	0.0	Arial
+Contains Fuels, diesel.	false	2	30	53.93174	144.85168	206.40063	0.0	Arial
+2.3. Other hazards	false	2	31	53.93174	160.45691	164.35583	0.0	ArialBlack,Bold
+Physical-Chemical Properties	false	2	32	53.93174	180.3208	143.16376	0.0	Arial,Bold
+The product may form flammable mixtures with air when heated above the flash point.	false	2	32	210.33379	551.54205	143.40619	30.012985	Arial
+In the presence of hot spots, there is a special risk of fire or explosion under certain	false	2	33	210.33379	541.07043	133.3678	0.0	Arial
+conditions involving accidental release of vapor or leaks of  product under pressure.	false	2	34	210.33379	542.5625	123.32947	0.0	Arial
+Version  EU	true	2	35	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	2	36	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   3 / 17	true	3	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	3	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	3	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	3	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	3	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	3	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	3	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Properties Affecting Health	false	3	6	53.93174	169.8041	614.5309	0.0	Arial,Bold
+Prolonged or repeated contact may cause skin irritation.	false	3	6	210.33379	432.64948	614.7734	40.529694	Arial
+Vapors or mists are irritating for mucous membranes, notably in the eyes. May cause	false	3	7	210.33379	548.0275	604.735	0.0	Arial
+central nervous system depression with nausea, headache, dizziness, vomiting, and	false	3	8	210.33379	544.5579	594.69666	0.0	Arial
+incoordination.	false	3	9	210.33379	268.78683	584.65826	0.0	Arial
+If swallowed accidentally, the product may enter the lungs due to its low viscosity and lead	false	3	10	210.33379	568.53955	574.6199	0.0	Arial
+to the rapid development of very serious pulmonary lesions (medical survey during 48	false	3	11	210.33379	550.53546	564.58154	0.0	Arial
+hours).	false	3	12	210.33379	238.3064	554.54315	0.0	Arial
+3. COMPOSITION/INFORMATION ON INGREDIENTS	false	3	13	54.680794	330.9412	531.4597	0.0	ArialBlack,Bold
+3.2.   Mixture	false	3	14	53.93174	132.14275	507.26093	0.0	ArialBlack,Bold
+Chemical nature	false	3	15	53.93174	123.86323	486.06882	0.0	Arial,Bold
+Fuels, diesel. A complex combination of hydrocarbons produced by the distillation of crude	false	3	15	210.33379	569.53735	486.31128	86.47056	Arial
+oil. It consists of hydrocarbons having carbon chain lengths predominantly in the range of	false	3	16	210.33379	564.55774	476.2729	0.0	Arial
+C9 to C20 and boiling in the range of approximately 163°C to 357°C. Contains. Mixture of	false	3	17	210.33379	564.98694	466.23453	0.0	Arial
+C16-C18 methyl esters.	false	3	18	210.33379	304.74133	456.19617	0.0	Arial
+Hazardous ingredients	false	3	19	53.93174	150.8291	445.9153	0.0	Arial,Bold
+Chemical Name	false	3	20	81.49686	140.99753	435.82843	0.0	Arial,Bold
+EC-No	false	3	20	177.17575	201.58487	435.82843	36.178223	Arial,Bold
+REACH registration	false	3	20	212.08157	286.65915	435.82843	10.496704	Arial,Bold
+CAS-No	false	3	20	299.42105	329.59885	435.82843	12.761902	Arial,Bold
+Weight %	false	3	20	348.80853	384.763	435.82843	19.209686	Arial,Bold
+Classification (Dir.	false	3	20	396.84772	466.99908	435.82843	12.084717	Arial,Bold
+Classification (Reg.	false	3	20	486.03485	560.1811	435.82843	19.035767	Arial,Bold
+No	false	3	21	244.04112	254.69164	426.90543	0.0	Arial,Bold
+67/548)	false	3	21	418.32056	445.41428	426.90543	163.62892	Arial,Bold
+1272/2008)	false	3	21	502.86356	543.2844	426.90543	57.44928	Arial,Bold
+Fuels, diesel	false	3	22	88.78763	133.63486	416.7216	0.0	Arial
+269-822-7	false	3	22	171.23328	207.65117	416.7216	37.59842	Arial
+68334-30-5	false	3	22	294.12775	334.98798	416.7216	43.431046	Arial
+>90	false	3	22	359.8945	373.44534	416.7216	24.906525	Arial
+Xn;R20	false	3	22	418.5203	445.16656	416.7216	45.07495	Arial
+Flam. Liq. 3 (H226)	false	3	22	488.93118	557.3087	416.7216	43.764618	Arial
+Xi;R38	false	3	23	419.81866	443.79626	407.79858	0.0	Arial
+Acute Tox. 4 (H332)	false	3	23	487.38315	558.8767	407.79858	43.586884	Arial
+Carc. Cat.3;R40	false	3	24	403.23965	460.51926	398.87558	0.0	Arial
+Skin Irrit. 2 (H315)	false	3	24	490.7289	555.55096	398.87558	30.209656	Arial
+Xn;R65	false	3	25	418.5203	445.16656	389.95258	0.0	Arial
+Carc. 2 (H351)	false	3	25	496.92108	549.3108	389.95258	51.754517	Arial
+N;R51/53	false	3	26	414.9748	448.72406	381.02957	0.0	Arial
+Asp. Tox. 1 (H304)	false	3	26	489.6303	556.6815	381.02957	40.90625	Arial
+STOT RE 2 (H373)	false	3	27	489.13092	557.061	372.10657	0.0	Arial
+Aquatic Chronic 2 (H411)	false	3	28	478.24472	567.9392	363.18356	0.0	Arial
+For the full text of the R-phrases mentioned in this Section, see Section 16.	false	3	29	53.93174	374.1066	342.5734	0.0	Arial,Bold
+For the full text of the H-Statements mentioned in this Section, see Section 16.	false	3	30	53.93174	388.0839	332.535	0.0	Arial,Bold
+4. FIRST AID MEASURES	false	3	31	54.680794	188.94089	309.69406	0.0	ArialBlack,Bold
+4.1.   Description of first-aid measures	false	3	32	53.93174	269.18933	285.49527	0.0	ArialBlack,Bold
+General advice	false	3	33	53.93174	117.88581	264.30316	0.0	Arial,Bold
+IN CASE OF SERIOUS OR PERSISTENT CONDITIONS, CALL A DOCTOR OR	false	3	34	210.33379	531.48834	254.50726	0.0	Arial
+EMERGENCY MEDICAL CARE.	false	3	35	210.33379	340.68683	244.46887	0.0	Arial
+Before attempting to rescue casualties, isolate area from all potential sources of ignition	false	3	36	210.33379	560.54877	234.43048	0.0	Arial
+including disconnecting electrical supply.	false	3	37	210.33379	372.192	224.39215	0.0	Arial
+Ensure adequate ventilation and check that a safe, breathable atmosphere is present	false	3	38	210.33379	551.0928	214.35376	0.0	Arial
+before entry into confined spaces.	false	3	39	210.33379	345.23514	204.31537	0.0	Arial
+Eye contact	false	3	40	53.93174	104.38488	184.23865	0.0	Arial,Bold
+Rinse thoroughly with plenty of water, also under the eyelids.	false	3	40	210.33379	452.13684	184.48108	105.948906	Arial
+Check for and remove any contact lenses. Rinse eyes.	false	3	41	210.33379	430.15063	174.44275	0.0	Arial
+If eye irritation persists, consult a specialist.	false	3	42	210.33379	383.1761	164.40436	0.0	Arial
+Skin contact	false	3	43	53.93174	107.37809	144.32758	0.0	Arial,Bold
+Remove contaminated clothing and shoes. Wash skin with soap and water.	false	3	43	210.33379	509.08884	144.57007	102.955696	Arial
+High pressure injection of the products under the skin may have very serious consequences	false	3	44	210.33379	575.53284	134.53168	0.0	Arial
+even though no symptom or injury may be apparent.	false	3	45	210.33379	418.16885	124.49335	0.0	Arial
+In this case, the casualty should be sent immediately to hospital.	false	3	46	210.33379	466.13217	114.454956	0.0	Arial
+For minor thermal burns.  Hold the burned area under cold running water for at least five	false	3	47	210.33379	563.03864	104.416565	0.0	Arial
+minutes, or until the pain subsides. Wash off with soap and water.	false	3	48	210.33379	471.62424	94.378174	0.0	Arial
+Version  EU	true	3	49	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	3	50	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   4 / 17	true	4	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	4	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	4	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	4	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	4	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	4	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	4	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Inhalation	false	4	6	53.93174	96.385	614.5309	0.0	Arial,Bold
+Inhalation is unlikely because of the low vapour pressure of the substance at ambient	false	4	6	210.33379	548.5759	614.7734	113.948784	Arial
+temperature.  Exposure to vapours may however occur when the substance is handled at	false	4	7	210.33379	565.052	604.735	0.0	Arial
+high temperatures with poor ventilation.  In case of exposure to intense concentrations of	false	4	8	210.33379	563.06555	594.69666	0.0	Arial
+vapours, fumes or spray, transport the person away from the contaminated zone, keep	false	4	9	210.33379	554.05896	584.65826	0.0	Arial
+warm and allow to rest.	false	4	10	210.33379	302.74585	574.6199	0.0	Arial
+Immediately begin artificial respiration if breathing has ceased. Call a physician	false	4	11	210.33379	526.5537	564.58154	0.0	Arial
+immediately.	false	4	12	210.33379	260.77795	554.54315	0.0	Arial
+If there is any suspicion of inhalation of H2S.  Rescuers must wear breathing apparatus,	false	4	13	210.33379	562.0499	544.50476	0.0	Arial
+belt and safety rope, and follow rescue procedures. If not breathing, give artificial	false	4	14	210.33379	531.08405	534.4664	0.0	Arial
+respiration.  Provision of oxygen may help.  Remove casualty to fresh air as quickly as	false	4	15	210.33379	552.5309	524.428	0.0	Arial
+possible.  Obtain medical advice for further treatment.	false	4	16	210.33379	423.6519	514.38965	0.0	Arial
+Ingestion	false	4	17	53.93174	93.88616	494.3129	0.0	Arial,Bold
+Give nothing to drink.	false	4	17	210.33379	295.26733	494.55536	116.447624	Arial
+Do NOT induce vomiting.  as there is high risk of aspiration.  The fluid can enter the lungs	false	4	18	210.33379	565.5375	484.51697	0.0	Arial
+and cause damage (chemical pneumonitis, potentially fatal).	false	4	19	210.33379	449.13467	474.4786	0.0	Arial
+Take victim immediately to hospital.	false	4	20	210.33379	352.1923	464.44022	0.0	Arial
+Do not wait for symptoms to develop.	false	4	21	210.33379	358.2057	454.40186	0.0	Arial
+Protection of First-aiders	false	4	22	53.93174	160.81548	434.3251	0.0	Arial,Bold
+CAUTION! First aid personnel must be aware of personal risk during rescue!. Use personal	false	4	22	210.33379	572.00024	434.56757	49.51831	Arial
+protective equipment. See Section 8 for more detail.	false	4	23	210.33379	417.17108	424.5292	0.0	Arial
+4.2.   Most important symptoms and effects, both acute and delayed	false	4	24	53.93174	432.892	402.17322	0.0	ArialBlack,Bold
+Eye contact	false	4	25	53.93174	104.38488	380.98108	0.0	Arial,Bold
+May cause slight irritation.	false	4	25	210.33379	314.2333	381.22354	105.948906	Arial
+Skin contact	false	4	26	53.93174	107.37809	361.1468	0.0	Arial,Bold
+May cause skin irritation and/or dermatitis.	false	4	26	210.33379	378.6728	361.38928	102.955696	Arial
+Inhalation	false	4	27	53.93174	96.385	341.31253	0.0	Arial,Bold
+Inhalation of vapors in high concentration may cause irritation of respiratory system. May	false	4	27	210.33379	562.5263	341.555	113.948784	Arial
+cause central nervous system depression with nausea, headache, dizziness, vomiting, and	false	4	28	210.33379	571.03845	331.51663	0.0	Arial
+incoordination.	false	4	29	210.33379	268.78683	321.47824	0.0	Arial
+Ingestion	false	4	30	53.93174	93.88616	301.4015	0.0	Arial,Bold
+Ingestion may cause gastrointestinal irritation, nausea, vomiting and diarrhea. May cause	false	4	30	210.33379	564.53973	301.64398	116.447624	Arial
+central nervous system depression.	false	4	31	210.33379	351.7069	291.6056	0.0	Arial
+Aspiration may cause pulmonary edema and pneumonitis.	false	4	32	210.33379	441.63815	281.5672	0.0	Arial
+4.3.   Indication of immediate medical attention and special treatment needed, if necessary	false	4	33	53.93174	560.5206	259.21124	0.0	ArialBlack,Bold
+Notes to physician	false	4	34	53.93174	133.8496	238.0191	0.0	Arial,Bold
+Harmful:	false	4	34	210.33379	237.5489	238.2616	76.48419	Arial
+If swallowed accidentally, the product may enter the lungs due to its low viscosity	false	4	34	241.43678	568.01825	238.2616	76.48419	Arial
+and lead to the rapid development of very serious inhalation pulmonary lesions (medical	false	4	35	210.33379	559.54205	228.2232	0.0	Arial
+survey during 48 hours).	false	4	36	210.33379	307.24918	218.18481	0.0	Arial
+Treat symptomatically.	false	4	37	210.33379	300.238	208.14642	0.0	Arial
+5. FIRE-FIGHTING MEASURES	false	4	38	54.680794	217.2251	185.06305	0.0	ArialBlack,Bold
+5.1.   Extinguishing media	false	4	39	53.93174	201.51494	160.86426	0.0	ArialBlack,Bold
+Suitable Extinguishing Media	false	4	40	53.93174	178.80171	139.67212	0.0	Arial,Bold
+Extinguishing media - small fires:	false	4	40	210.33379	340.86725	139.91461	31.532074	Arial
+Carbon dioxide (CO 2). Dry powder.  Sand or earth.	false	4	40	344.8228	546.5564	139.91461	31.532074	Arial
+Extinguishing media - large fires:	false	4	41	210.33379	339.64676	129.87622	0.0	Arial
+Foam.  Water fog (trained personnel only).	false	4	41	343.56534	512.0641	129.87622	0.0	Arial
+Unsuitable Extinguishing Media	false	4	42	53.93174	189.78581	109.79944	0.0	Arial,Bold
+Do not use a solid water stream as it may scatter and spread fire.	false	4	42	210.33379	469.61078	110.04193	20.547974	Arial
+Simultaneous use of foam and water on the same surface is to be avoided as water	false	4	43	210.33379	542.0771	100.00354	0.0	Arial
+destroys the foam.	false	4	44	210.33379	284.27423	89.96521	0.0	Arial
+Version  EU	true	4	45	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	4	46	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   5 / 17	true	5	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	5	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	5	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	5	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	5	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	5	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	5	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+5.2.   Special hazards arising from the substance or mixture	false	5	6	53.93174	386.83032	602.45575	0.0	ArialBlack,Bold
+Special Hazard	false	5	7	53.93174	117.87681	581.2637	0.0	Arial,Bold
+Incomplete combustion and thermolysis may produce gases of varying toxicity such as	false	5	7	210.33379	554.0319	581.5061	92.45698	Arial
+carbon monoxide, carbon dioxide, various hydrocarbons, aldehydes and soot. These may	false	5	8	210.33379	566.0498	571.4678	0.0	Arial
+be highly dangerous if inhaled in confined spaces or at high concentration. Vapors may	false	5	9	210.33379	556.07245	561.4294	0.0	Arial
+form explosive mixtures with air.	false	5	10	210.33379	338.197	551.391	0.0	Arial
+If sulphur compounds are present in appreciable amounts, combustion products may	false	5	11	210.33379	549.55566	541.3526	0.0	Arial
+include also H2S and SOx (sulfur oxides) or sulfuric acid.	false	5	12	210.33379	437.12585	531.3142	0.0	Arial
+5.3.   Advice for fire-fighters	false	5	13	53.93174	213.15025	508.95825	0.0	ArialBlack,Bold
+Special protective equipment for	false	5	14	53.93174	193.29138	487.7661	0.0	Arial,Bold
+In case of a large fire or in confined or poorly ventilated spaces, wear full fire resistant	false	5	14	210.33379	550.05005	488.00858	17.042404	Arial
+fire-fighters	false	5	15	53.93174	103.87253	477.72775	0.0	Arial,Bold
+protective clothing and self-contained breathing apparatus (SCBA) with a full face-piece	false	5	15	210.33379	558.04987	477.9702	106.46126	Arial
+operated in positive pressure mode.	false	5	16	210.33379	353.217	467.93182	0.0	Arial
+Other information	false	5	17	53.93174	129.84067	447.8551	0.0	Arial,Bold
+Cool down any tanks and surfaces exposed to fire by spraying abundantly with water. Use	false	5	17	210.33379	568.0453	448.09756	80.49312	Arial
+water to cool tanks and parts exposed to the thermal flux not caught up in the flames.	false	5	18	210.33379	548.5849	438.05917	0.0	Arial
+Fire residues and contaminated fire extinguishing water must be disposed of in accordance	false	5	19	210.33379	572.03625	428.0208	0.0	Arial
+with local regulations. Cool containers / tanks with water spray.	false	5	20	210.33379	460.1098	417.98242	0.0	Arial
+6. ACCIDENTAL RELEASE MEASURES	false	5	21	54.680794	259.96097	394.89902	0.0	ArialBlack,Bold
+6.1.   Personal precautions, protective equipment and emergency procedures	false	5	22	53.93174	482.2995	370.70023	0.0	ArialBlack,Bold
+General Information	false	5	23	53.93174	139.34164	349.50812	0.0	Arial,Bold
+Except in case of small spillages,  The feasibility of any actions should always be assessed	false	5	23	210.33379	572.02716	349.75058	70.99214	Arial
+and advised, if possible, by a trained, competent person in charge of managing the	false	5	24	210.33379	539.09296	339.71222	0.0	Arial
+emergency.	false	5	25	210.33379	257.29037	329.67383	0.0	Arial
+If required, notify relevant authorities according to all applicable regulations.	false	5	26	210.33379	513.08875	319.63547	0.0	Arial
+Avoid direct contact with released material. Evacuate non-essential personnel. For	false	5	27	210.33379	540.0547	309.59708	0.0	Arial
+personal protection see section 8.	false	5	28	210.33379	344.73175	299.55872	0.0	Arial
+If spilled, take caution, as material can cause surfaces to become very slippery. Ensure	false	5	29	210.33379	556.5398	289.52032	0.0	Arial
+adequate ventilation, especially in confined areas.	false	5	30	210.33379	408.68585	279.48193	0.0	Arial
+Stay upwind.  In case of large spillages, alert occupants in downwind areas.  Stop or	false	5	31	210.33379	547.56915	269.4436	0.0	Arial
+contain leak at the source, if safe to do so. ELIMINATE all ignition sources (no smoking,	false	5	32	210.33379	559.04767	259.4052	0.0	Arial
+flares, sparks or flames in immediate area). Cover discharges with foam in order to reduce	false	5	33	210.33379	568.9981	249.36682	0.0	Arial
+the risks of ignition.	false	5	34	210.33379	287.26746	239.32843	0.0	Arial
+Advice for non-emergency	false	5	35	53.93174	167.31425	219.25171	0.0	Arial,Bold
+Do not touch or walk through spilled material. Ensure adequate ventilation. ELIMINATE all	false	5	35	210.33379	568.0362	219.4942	43.01953	Arial
+personnel	false	5	36	53.93174	96.88837	209.21332	0.0	Arial,Bold
+ignition sources (no smoking, flares, sparks or flames in immediate area). For personal	false	5	36	210.33379	554.5085	209.45581	113.44542	Arial
+protection see section 8.	false	5	37	210.33379	307.76154	199.41742	0.0	Arial
+Version  EU	true	5	38	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	5	39	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   6 / 17	true	6	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	6	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	6	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	6	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	6	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	6	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	6	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Advice for emergency responders	false	6	6	53.93174	199.29579	614.5309	0.0	Arial,Bold
+In case of:	false	6	6	210.33379	251.80733	614.7734	11.037994	Arial
+Small spillages:	false	6	7	210.33379	269.86472	604.735	0.0	Arial
+normal antistatic working clothes are usually adequate.	false	6	7	273.83344	496.08224	604.735	0.0	Arial
+Large spillages:	false	6	8	210.33379	267.70154	594.69666	0.0	Arial
+full body suit of chemically resistant and antistatic material.  Work gloves	false	6	8	271.52606	566.0138	594.69666	0.0	Arial
+(preferably gauntlets) providing adequate chemical resistance. Remarks:	false	6	9	210.33379	496.04962	584.65826	0.0	Arial
+.  Gloves made of	false	6	9	500.1313	569.5194	584.65826	0.0	Arial
+PVA are not water-resistant, and are not suitable for emergency use.  Work helmet.	false	6	10	210.33379	541.55585	574.6199	0.0	Arial
+Antistatic non-skid safety shoes or boots.  Goggles and/or face shield, if splashes or contact	false	6	11	210.33379	575.0474	564.58154	0.0	Arial
+with eyes is possible or anticipated.	false	6	12	210.33379	351.21255	554.54315	0.0	Arial
+Respiratory protection.  A half or full-face respirator with filter(s) for organic vapours (and	false	6	13	210.33379	562.005	544.50476	0.0	Arial
+when applicable:	false	6	14	210.33379	273.0847	534.4664	0.0	Arial
+for H2S).  A Self-Contained Breathing Apparatus (SCBA) can be used	false	6	14	277.26807	557.5555	534.4664	0.0	Arial
+according to the extent of spill and predictable amount of exposure.	false	6	15	210.33379	477.6376	524.428	0.0	Arial
+If the situation cannot be completely assessed, or if an oxygen deficiency is possible, only	false	6	16	210.33379	569.05194	514.38965	0.0	Arial
+SCBA’s should be used.	false	6	17	210.33379	313.70297	504.35126	0.0	AAAAAD+ArialUnicode
+6.2.   Environmental precautions	false	6	18	53.93174	237.57928	481.99527	0.0	ArialBlack,Bold
+General Information	false	6	19	53.93174	139.34164	460.80313	0.0	Arial,Bold
+The product should not be allowed to enter drains, water courses or the soil. Do not allow	false	6	19	210.33379	564.5487	461.04562	70.99214	Arial
+material to contaminate ground water system.	false	6	20	210.33379	392.1737	451.00723	0.0	Arial
+If necessary. Consult an expert. Local authorities should be advised if significant spillages	false	6	21	210.33379	566.5441	440.96887	0.0	Arial
+cannot be contained.	false	6	22	210.33379	293.78424	430.93048	0.0	Arial
+6.3.   Methods and materials for containment and cleaning up	false	6	23	53.93174	395.72906	408.5745	0.0	ArialBlack,Bold
+Methods for Containment	false	6	24	53.93174	162.79295	387.38235	0.0	Arial,Bold
+Contain and collect spillage with non-combustible absorbent material, (e.g. sand, earth,	false	6	24	210.33379	556.5489	387.62485	47.540833	Arial
+diatomaceous earth, vermiculite) and place in container for disposal according to local /	false	6	25	210.33379	556.5398	377.58646	0.0	Arial
+national regulations (see Section 13).  Large spillages may be cautiously covered with	false	6	26	210.33379	551.5511	367.5481	0.0	Arial
+foam, if available, to limit fire risk.  In case of spillage in the water.  contain product with	false	6	27	210.33379	556.03644	357.5097	0.0	Arial
+floating barriers or other equipment.  The use of dispersants should be advised by an	false	6	28	210.33379	548.0726	347.47134	0.0	Arial
+expert, and, if required, approved by local authorities.	false	6	29	210.33379	422.1688	337.43295	0.0	Arial
+Methods for cleaning up	false	6	30	53.93174	157.81328	317.3562	0.0	Arial,Bold
+Never use dispersing agents.  Do not use direct jets.	false	6	30	210.33379	418.66318	317.5987	52.520508	Arial
+Do not flush into surface water or sanitary sewer system.  Transfer recovered product and	false	6	31	210.33379	567.0207	307.5603	0.0	Arial
+other materials to suitable tanks or containers and store/dispose according to relevant	false	6	32	210.33379	551.05676	297.52194	0.0	Arial
+regulations.	false	6	33	210.33379	256.79602	287.48355	0.0	Arial
+6.4.   Reference to other sections	false	6	34	53.93174	243.13226	265.12756	0.0	ArialBlack,Bold
+Personal Protective Equipment	false	6	35	53.93174	186.80159	243.93542	0.0	Arial,Bold
+See Section 8 for more detail.	false	6	35	210.33379	328.741	244.17792	23.532196	Arial
+Waste treatment	false	6	36	53.93174	123.85424	224.10114	0.0	Arial,Bold
+See section 13.	false	6	36	210.33379	272.29242	224.34363	86.479546	Arial
+Version  EU	true	6	37	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	6	38	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   7 / 17	true	7	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	7	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	7	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	7	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	7	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	7	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	7	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Other information	false	7	6	53.93174	129.84067	614.5309	0.0	Arial,Bold
+Recommended measures are based on the most likely spillage scenarios for this material.	false	7	6	210.33379	568.00934	614.7734	80.49312	Arial
+However, local conditions (wind, air temperature, wave/current direction and speed) may	false	7	7	210.33379	562.0139	604.735	0.0	Arial
+significantly influence the choice of appropriate actions.  For this reason, local experts	false	7	8	210.33379	550.5534	594.69666	0.0	Arial
+should be consulted when necessary.  Local regulations may also prescribe or limit actions	false	7	9	210.33379	571.02057	584.65826	0.0	Arial
+to be taken.	false	7	10	210.33379	257.30838	574.6199	0.0	Arial
+Concentration of H2S in tank headspaces may reach hazardous values, especially in case	false	7	11	210.33379	571.5418	564.58154	0.0	Arial
+of prolonged storage.  This situation is especially relevant for those operations which	false	7	12	210.33379	546.0591	554.54315	0.0	Arial
+involve direct exposure to the vapours in the tank.	false	7	13	210.33379	408.1825	544.50476	0.0	Arial
+Spillages of limited amounts of products,  especially in the open air when vapours will be	false	7	14	210.33379	564.0363	534.4664	0.0	Arial
+usually quickly dispersed,  are dynamic situations,  which presumably do not entail	false	7	15	210.33379	537.5468	524.428	0.0	Arial
+exposure to dangerous concentrations.  As H2S has a density greater than ambient air,  a	false	7	16	210.33379	567.06555	514.38965	0.0	Arial
+possible exception may regard the build-up of dangerous concentrations in specific spots,	false	7	17	210.33379	566.0498	504.35126	0.0	Arial
+like trenches, depressions or confined spaces.  In all these circumstances, however, the	false	7	18	210.33379	559.542	494.3129	0.0	Arial
+correct actions should be assessed on a case-by-case basis.	false	7	19	210.33379	452.63123	484.2745	0.0	Arial
+7. HANDLING AND STORAGE	false	7	20	54.680794	211.68213	461.1911	0.0	ArialBlack,Bold
+7.1.   Precautions for safe handling	false	7	21	53.93174	250.90244	436.9923	0.0	ArialBlack,Bold
+Advice on safe handling	false	7	22	53.93174	157.32788	415.80017	0.0	Arial,Bold
+Take precautionary measures against static electricity.	false	7	22	210.33379	426.6361	416.04266	53.005905	Arial
+The inspection, cleaning and maintenance of storage containers require the application of	false	7	23	210.33379	566.0678	406.00427	0.0	Arial
+strict procedures and must be entrusted to qualified personnel (internal or external).	false	7	24	210.33379	542.0592	395.9659	0.0	Arial
+Ensure adequate ventilation. Vapors may form explosive mixtures with air. Do not smoke.	false	7	25	210.33379	565.5195	385.92752	0.0	Arial
+Avoid breathing vapors or mists. Avoid contact with skin, eyes and clothing.	false	7	26	210.33379	509.58316	375.88916	0.0	Arial
+NEVER ATTEMPT TO PRIME THE CONTAINER SIPHON BY SUCKING WITH THE	false	7	27	210.33379	548.44977	365.85077	0.0	Arial
+MOUTH. Prevent the formation of vapors, mists and aerosols.	false	7	28	210.33379	456.10983	355.8124	0.0	Arial
+Do not use compressed air for filling, discharging, or handling operations. Never pierce,	false	7	29	210.33379	559.533	345.77402	0.0	Arial
+drill, grind, cut, saw  or weld any empty container.	false	7	30	210.33379	407.15775	335.73566	0.0	Arial
+Do not use mobile phones during handling. For personal protection see section 8.	false	7	31	210.33379	534.08624	325.69727	0.0	Arial
+Technical measures	false	7	32	53.93174	139.86299	305.6205	0.0	Arial,Bold
+Ensure adequate ventilation.	false	7	32	210.33379	324.25568	305.863	70.470795	Arial
+WHILE MOVING THE PRODUCT:	false	7	33	210.33379	312.23074	295.82462	0.0	Arial
+. To avoid ignition of vapors by static electricity	false	7	33	316.47644	533.0075	295.82462	0.0	Arial
+discharge, all metal parts of the equipment must be grounded.	false	7	34	210.33379	457.14352	285.78625	0.0	Arial
+Take all necessary precautions to prevent water from entering the containers, tanks,	false	7	35	210.33379	544.558	275.74786	0.0	Arial
+transfer lines etc...	false	7	36	210.33379	283.77087	265.70947	0.0	Arial
+Prevention of fire and explosion	false	7	37	53.93174	190.79254	245.63275	0.0	Arial,Bold
+Handle away from any source of ignition (open flame and sparks) and heat (hot manifolds	false	7	37	210.33379	566.0409	245.87524	19.541245	Arial
+or casings). Take precautionary measures against static discharges.  Ground/bond	false	7	38	210.33379	539.0569	235.83685	0.0	Arial
+containers, tanks and transfer/receiving equipment. Friction generated by product discharge	false	7	39	210.33379	575.03845	225.79846	0.0	Arial
+can create static charges of sufficient magnitude to cause SPARKS WHICH MAY LEAD TO	false	7	40	210.33379	574.0134	215.76007	0.0	Arial
+FIRE OR EXPLOSION. Do not allow splash loading and ensure that the product is poured	false	7	41	210.33379	567.5509	205.72174	0.0	Arial
+slowly, particularly at the beginning of the operation.	false	7	42	210.33379	417.17108	195.68335	0.0	Arial
+Empty containers may contain flammable or explosive vapors. Never weld any container or	false	7	43	210.33379	571.50586	185.64496	0.0	Arial
+empty pipe that has not been degassed.	false	7	44	210.33379	370.2325	175.60657	0.0	Arial
+OPERATE ONLY ON COLD AND DEGASSED TANKS IN VENTILATED PREMISES (TO	false	7	45	210.33379	566.463	165.56824	0.0	Arial
+AVOID RISK OF EXPLOSION).	false	7	46	210.33379	336.71387	155.52985	0.0	Arial
+Design installations (machinery and equipment) to prevent burning product from spreading	false	7	47	210.33379	569.52844	145.49146	0.0	Arial
+(tanks, retention systems, interceptors (traps) in drainage systems).	false	7	48	210.33379	478.58145	135.45306	0.0	Arial
+Version  EU	true	7	49	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	7	50	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   8 / 17	true	8	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	8	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	8	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	8	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	8	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	8	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	8	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Hygiene measures	false	8	6	53.93174	133.36421	614.5309	0.0	Arial,Bold
+When using, do not eat, drink or smoke. Avoid contact with skin, eyes and clothing. Do not	false	8	6	210.33379	569.05194	614.7734	76.969574	Arial
+put product contaminated rags into workwear pockets. Wash hands before breaks and	false	8	7	210.33379	553.0612	604.735	0.0	Arial
+immediately after handling the product. IF ON SKIN:	false	8	8	210.33379	415.34027	594.69666	0.0	Arial
+Wash skin with soap and water.	false	8	8	419.4404	546.54443	594.69666	0.0	Arial
+Remove contaminated clothing and shoes.	false	8	9	210.33379	380.20087	584.65826	0.0	Arial
+Gloves must be periodically inspected and changed in case of wear, perforations or	false	8	10	210.33379	544.06366	574.6199	0.0	Arial
+contaminations.	false	8	11	210.33379	273.28116	564.58154	0.0	Arial
+Provide regular cleaning of equipment, work area and clothing. Keep away from food, drink	false	8	12	210.33379	571.5418	554.54315	0.0	Arial
+and animal feeding stuffs.	false	8	13	210.33379	312.75922	544.50476	0.0	Arial
+Ensure the application of strict rules of hygiene by the personnel exposed to the risk of	false	8	14	210.33379	553.5736	534.4664	0.0	Arial
+contact with the product. Use personal protective equipment as required.	false	8	15	210.33379	499.10248	524.428	0.0	Arial
+7.2.   Conditions for safe storage, including any incompatibilities	false	8	16	53.93174	412.90735	502.07202	0.0	ArialBlack,Bold
+Technical measures/Storage	false	8	17	53.93174	175.82649	480.87988	0.0	Arial,Bold
+Storage area layout, tank design, equipment and operating procedures must comply with	false	8	17	210.33379	563.05664	481.12234	34.507294	Arial
+conditions	false	8	18	53.93174	99.37822	470.84152	0.0	Arial,Bold
+the relevant European, national or local legislation. Before entering storage tanks and	false	8	18	210.33379	549.58264	471.08398	110.95557	Arial
+commencing any operation in a confined area, check the atmosphere for oxygen content	false	8	19	210.33379	562.0679	461.04562	0.0	Arial
+and flammability.  If sulphur compounds are suspected to be present in the product, check	false	8	20	210.33379	568.05426	451.00723	0.0	Arial
+the atmosphere for H2S content. Take precautionary measures against static discharges.	false	8	21	210.33379	565.0431	440.96887	0.0	Arial
+Ensure all equipment is electrically grounded before beginning transfer operations.  Storage	false	8	22	210.33379	574.54407	430.93048	0.0	Arial
+installations should be designed with adequate bunds so as to prevent ground or water	false	8	23	210.33379	555.08374	420.89212	0.0	Arial
+pollution in case of leaks or spills. Do not remove the hazard labels of the containers (even	false	8	24	210.33379	570.0407	410.85373	0.0	Arial
+if they are empty).	false	8	25	210.33379	282.26978	400.81537	0.0	Arial
+Store the packed products (drums, samples, cans ...) in properly ventilated rooms, away	false	8	26	210.33379	560.0274	390.77698	0.0	Arial
+from damp, heat and any potential source of ignition.	false	8	27	210.33379	419.67896	380.73862	0.0	Arial
+Keep preferably in the original container. Otherwise reproduce all indication of the	false	8	28	210.33379	534.5716	370.70023	0.0	Arial
+regulation label on the new container.	false	8	29	210.33379	359.7248	360.66187	0.0	Arial
+Keep containers tightly closed and properly labelled.  Store separately from oxidising	false	8	30	210.33379	549.0523	350.62347	0.0	Arial
+agents.	false	8	31	210.33379	239.8165	340.5851	0.0	Arial
+Store in accordance with the particular national regulations.	false	8	32	210.33379	446.14145	330.54672	0.0	Arial
+Materials to Avoid	false	8	33	53.93174	131.35075	310.46997	0.0	Arial,Bold
+Strong oxidizing agents. Strong acids. Strong bases. (herbicides...). Halogens.	false	8	33	210.33379	521.58307	310.71246	78.98303	Arial
+Packaging material	false	8	34	53.93174	135.86305	290.6357	0.0	Arial,Bold
+Use only containers, seals, pipes, etc... made in a material suitable for use with aromatic	false	8	34	210.33379	561.52856	290.87817	74.47073	Arial
+hydrocarbons.  Recommended materials for containers, or container linings use mild steel,	false	8	35	210.33379	569.5104	280.83978	0.0	Arial
+stainless steel. High density polyethylene (HDPE).  Some synthetic materials may be	false	8	36	210.33379	547.52423	270.80145	0.0	Arial
+unsuitable for containers or container linings depending on the material specification and	false	8	37	210.33379	562.05884	260.76306	0.0	Arial
+intended use.  Compatibility should be checked with the manufacturer.	false	8	38	210.33379	489.61053	250.72467	0.0	Arial
+7.3.   Specific end uses	false	8	39	53.93174	187.0932	228.36865	0.0	ArialBlack,Bold
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION	false	8	40	54.680794	333.72763	204.16992	0.0	ArialBlack,Bold
+8.1.   Control parameters	false	8	41	53.93174	196.51128	179.97113	0.0	ArialBlack,Bold
+Exposure limits	false	8	42	53.93174	120.87002	158.77899	0.0	Arial,Bold
+Not relevant	false	8	42	210.33379	258.79147	159.02142	89.46377	Arial
+Legend	false	8	43	53.93174	85.89528	138.9447	0.0	Arial,Bold
+See section 16	false	8	43	210.33379	269.79358	139.1872	124.43851	Arial
+DNEL  Worker (Industrial/Professional)	false	8	44	53.93174	219.7539	109.314514	0.0	Arial,Bold
+Chemical Name	false	8	45	72.6081	139.54639	98.548706	0.0	Arial,Bold
+Short term, systemic	false	8	45	165.93997	254.85547	98.548706	26.393585	Arial,Bold
+Short term, local effects	false	8	45	263.4166	365.81503	98.548706	8.561127	Arial,Bold
+Long term, systemic	false	8	45	375.2251	462.63947	98.548706	9.410065	Arial,Bold
+Long term, local effects	false	8	45	472.70172	573.59924	98.548706	10.062256	Arial,Bold
+effects	false	8	46	195.85213	224.82246	88.510376	0.0	Arial,Bold
+effects	false	8	46	404.38818	433.3586	88.510376	179.56572	Arial,Bold
+Version  EU	true	8	47	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	8	48	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page   9 / 17	true	9	1	529.5298	574.7186	754.09827	0.0	Arial
+SDS #:	true	9	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	9	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	9	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	9	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	9	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	9	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Fuels, diesel	false	9	6	80.84767	131.30083	614.04596	0.0	Arial
+4300 mg/m3/15min	false	9	6	172.78133	247.84532	614.04596	41.4805	Arial
+2.9 mg/kg/8h (dermal)	false	9	6	374.92548	462.84335	614.04596	127.080154	Arial
+68334-30-5	false	9	7	81.84641	130.31306	604.00757	0.0	Arial
+(aerosol - inhalation)	false	9	7	169.38562	251.30795	604.00757	39.072556	Arial
+68 mg/m3/8h (aerosol -	false	9	7	373.32748	464.38135	604.00757	122.01953	Arial
+inhalation)	false	9	8	398.1461	439.61066	593.96924	0.0	Arial
+DNEL  General population	false	9	9	53.93174	165.30978	582.96094	0.0	Arial,Bold
+Chemical Name	false	9	10	72.6081	139.54639	572.1952	0.0	Arial,Bold
+Short term, systemic	false	9	10	165.93997	254.85547	572.1952	26.393585	Arial,Bold
+Short term, local effects	false	9	10	263.4166	365.81503	572.1952	8.561127	Arial,Bold
+Long term, systemic	false	9	10	375.2251	462.63947	572.1952	9.410065	Arial,Bold
+Long term, local effects	false	9	10	472.70172	573.59924	572.1952	10.062256	Arial,Bold
+effects	false	9	11	195.85213	224.82246	562.1568	0.0	Arial,Bold
+effects	false	9	11	404.38818	433.3586	562.1568	179.56572	Arial,Bold
+Fuels, diesel	false	9	12	80.84767	131.30083	550.906	0.0	Arial
+2600 mg/m3/15min	false	9	12	172.78133	247.84532	550.906	41.4805	Arial
+1.3 mg/kg/24h (dermal)	false	9	12	372.42865	465.34415	550.906	124.58333	Arial
+68334-30-5	false	9	13	81.84641	130.31306	540.8677	0.0	Arial
+(aerosol - inhalation)	false	9	13	169.38562	251.30795	540.8677	39.072556	Arial
+20 mg/m3/24h (aerosol -	false	9	13	370.83066	466.88217	540.8677	119.522705	Arial
+inhalation)	false	9	14	398.1461	439.61066	530.8293	0.0	Arial
+8.2.   Exposure controls	false	9	15	53.93174	189.8597	517.54175	0.0	ArialBlack,Bold
+Occupational Exposure Controls	false	9	16	53.93174	193.78575	496.34964	0.0	Arial,Bold
+Engineering Measures	false	9	17	53.93174	149.84038	476.51538	0.0	Arial,Bold
+Ensure adequate ventilation.  Do not enter empty storage tanks until measurements of	false	9	17	210.33379	553.07025	476.75784	60.49341	Arial
+available oxygen have been carried out.	false	9	18	210.33379	369.2168	466.71948	0.0	Arial
+When working in confined spaces (tanks, containers, etc.), ensure that there is a supply of	false	9	19	210.33379	568.0453	456.6811	0.0	Arial
+air suitable for breathing and wear the recommended equipment.	false	9	20	210.33379	468.12762	446.64273	0.0	Arial
+Personal Protective Equipment	false	9	21	53.93174	186.80159	426.56598	0.0	Arial,Bold
+General Information	false	9	22	69.56196	154.97185	406.7317	0.0	Arial,Bold
+Protective engineering solutions should be implemented and in use before personal	false	9	22	210.28386	542.0272	406.97418	55.31201	Arial
+protective equipment is considered.	false	9	23	210.28386	351.666	396.9358	0.0	Arial
+Respiratory protection	false	9	24	69.56196	165.95596	376.85904	0.0	Arial,Bold
+To enter tankers, tanks, reservoirs where the oxygen content is too low, wear insulating	false	9	24	210.28386	556.99316	377.1015	44.327896	Arial
+respiratory apparatus.	false	9	25	210.28386	297.70724	367.06314	0.0	Arial
+In an emergency or for exceptional short-lasting jobs in an atmosphere polluted by the	false	9	26	210.28386	552.01355	357.02475	0.0	Arial
+product, it is necessary to wear protective respiratory equipment. When using a mask or	false	9	27	210.28386	559.4741	346.9864	0.0	Arial
+half mask:	false	9	28	210.28386	248.36069	336.94803	0.0	Arial
+. Full face piece respirator with organic vapor/acid gas cartridge or canister.	false	9	28	252.16837	552.97534	336.94803	0.0	Arial
+Type A. The use of breathing apparatus must comply strictly with the manufacturer's	false	9	29	210.28386	544.71484	326.90964	0.0	Arial
+instructions and the regulations governing their choices and uses.	false	9	30	210.28386	471.0799	316.87128	0.0	Arial
+Eye Protection	false	9	31	69.56196	132.5003	296.79453	0.0	Arial,Bold
+If splashes are likely to occur, wear:	false	9	31	210.28386	350.55103	297.037	77.783554	Arial
+. Safety glasses with side-shields. or. Face-shield.	false	9	31	354.34204	551.47424	297.037	77.783554	Arial
+Skin and body protection	false	9	32	69.56196	177.44342	276.96027	0.0	Arial,Bold
+Wear suitable protective clothing. hydrocarbon-proof clothing. Protective shoes or boots.	false	9	32	210.28386	560.99316	277.2027	32.84044	Arial
+Hand Protection	false	9	33	69.56196	138.9811	257.12598	0.0	Arial,Bold
+Hydrocarbon-proof gloves for aromatic hydrocarbons. Please observe the instructions	false	9	33	210.28386	550.4854	257.3684	71.302765	Arial
+regarding permeability and breakthrough time which are provided by the supplier of the	false	9	34	210.28386	555.5011	247.33008	0.0	Arial
+gloves. Also take into consideration the specific local conditions under which the product is	false	9	35	210.28386	569.9908	237.29169	0.0	Arial
+used, such as the danger of cuts, abrasion.	false	9	36	210.28386	382.1644	227.2533	0.0	Arial
+Note:	false	9	37	210.28386	226.55307	217.2149	0.0	Arial
+Gloves made of PVA are not water-resistant, and are not suitable for emergency	false	9	37	230.62038	556.0045	217.2149	0.0	Arial
+use.	false	9	38	210.28386	227.27237	207.17657	0.0	Arial
+Repeated or prolonged exposure	false	9	39	54.680794	179.88232	187.34229	0.0	Arial,Bold
+Glove material	false	9	40	54.680794	106.1836	177.15845	0.0	Arial
+Glove thickness	false	9	40	211.08284	267.47546	177.15845	104.89924	Arial
+Break through time	false	9	40	332.72888	400.22742	177.15845	65.25342	Arial
+Remarks	false	9	40	454.3749	486.33447	177.15845	54.14749	Arial
+PVA	false	9	41	54.680794	70.66856	166.78058	0.0	Arial
+(*)	false	9	41	211.08284	219.51216	166.78058	140.41428	Arial
+> 480 min	false	9	41	332.72888	368.03616	166.78058	113.21672	Arial
+EN 374 (*) any thickness	false	9	41	454.3749	542.2957	166.78058	86.338745	Arial
+Fluorinated rubber	false	9	42	54.680794	119.95816	156.40277	0.0	Arial
+(*)	false	9	42	211.08284	219.51216	156.40277	91.12468	Arial
+> 480 min	false	9	42	332.72888	368.03616	156.40277	113.21672	Arial
+EN 374 (*) any thickness	false	9	42	454.3749	542.2957	156.40277	86.338745	Arial
+Nitrile rubber	false	9	43	54.680794	100.40691	146.0249	0.0	Arial
+> 0.3 mm	false	9	43	211.08284	244.60838	146.0249	110.67593	Arial
+> 480 min	false	9	43	332.72888	368.03616	146.0249	88.1205	Arial
+EN 374	false	9	43	454.3749	481.02118	146.0249	86.338745	Arial
+In case of contact through splashing:	false	9	44	54.680794	196.74898	125.657166	0.0	Arial,Bold
+Glove material	false	9	45	54.680794	106.1836	115.47333	0.0	Arial
+Glove thickness	false	9	45	211.08284	267.47546	115.47333	104.89924	Arial
+Break through time	false	9	45	332.72888	400.22742	115.47333	65.25342	Arial
+Remarks	false	9	45	454.3749	486.33447	115.47333	54.14749	Arial
+Neoprene	false	9	46	54.680794	89.76438	105.09552	0.0	Arial
+> 0.5 mm	false	9	46	211.08284	244.60838	105.09552	121.31846	Arial
+> 60 min	false	9	46	332.72888	363.5938	105.09552	88.1205	Arial
+EN 374	false	9	46	454.3749	481.02118	105.09552	90.7811	Arial
+PVC	false	9	47	54.680794	71.108	94.71765	0.0	Arial
+> 0.2 mm	false	9	47	211.08284	244.60838	94.71765	139.97484	Arial
+> 60 mn	false	9	47	332.72888	361.82004	94.71765	88.1205	Arial
+EN 374	false	9	47	454.3749	481.02118	94.71765	92.55487	Arial
+Version  EU	true	9	48	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	9	49	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  10 / 17	true	10	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	10	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	10	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	10	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	10	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	10	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	10	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Environmental exposure controls	false	10	6	53.93174	196.78796	614.5309	0.0	Arial,Bold
+General Information	false	10	7	53.93174	139.34164	594.69666	0.0	Arial,Bold
+The product should not be allowed to enter drains, water courses or the soil.	false	10	7	210.33379	512.5944	594.9391	70.99214	Arial
+9. PHYSICAL AND CHEMICAL PROPERTIES	false	10	8	54.680794	288.2552	571.8557	0.0	ArialBlack,Bold
+9.1.   Information on basic physical and chemical properties	false	10	9	53.93174	387.95892	547.6569	0.0	ArialBlack,Bold
+Appearance	false	10	10	53.93174	105.382614	526.4648	0.0	Arial,Bold
+limpid	false	10	10	314.60184	338.0711	526.7073	209.21922	Arial
+Color	false	10	11	53.93174	77.40104	516.4264	0.0	Arial,Bold
+yellow	false	10	11	314.60184	339.57224	516.6689	237.2008	Arial
+Physical State @20°C	false	10	12	53.93174	146.11307	506.38803	0.0	Arial,Bold
+liquid	false	10	12	314.60184	335.58127	506.6305	168.48877	Arial
+Odor	false	10	13	53.93174	75.40556	496.34964	0.0	Arial,Bold
+Characteristic	false	10	13	314.60184	369.5403	496.59213	239.19627	Arial
+Property	false	10	14	53.93174	95.89064	476.51538	0.0	Arial,Bold
+Values	false	10	14	210.33379	244.3108	476.51538	114.443146	Arial,Bold
+Remarks	false	10	14	314.60184	357.56747	476.51538	70.29103	Arial,Bold
+Method	false	10	14	444.93686	481.88922	476.51538	87.369385	Arial,Bold
+pH	false	10	15	53.93174	65.913574	466.477	0.0	Arial,Bold
+Not applicable	false	10	15	314.60184	371.55377	466.71948	248.68826	Arial
+Boiling point/boiling range	false	10	16	53.93174	167.79964	456.14764	0.0	Arial,Bold
+150  -  380  °C	false	10	16	210.33379	270.8552	456.14764	42.53415	Arial,Bold
+ASTM D 86	false	10	16	444.93686	491.39008	456.39014	174.08167	Arial
+302  -  716  °F	false	10	17	210.33379	269.85745	446.0608	0.0	Arial
+ASTM D 86	false	10	17	444.93686	491.39008	446.0608	175.0794	Arial
+Flash point	false	10	18	53.93174	101.87705	435.48898	0.0	Arial,Bold
+>  55  °C	false	10	18	210.33379	245.6371	435.48898	108.45673	Arial,Bold
+ASTM D 93	false	10	18	444.93686	491.39008	435.73145	199.29976	Arial
+>  131  °F	false	10	19	210.33379	249.63306	425.4021	0.0	Arial
+ASTM D 93	false	10	19	444.93686	491.39008	425.4021	195.3038	Arial
+Evaporation rate	false	10	20	53.93174	124.86098	414.8303	0.0	Arial,Bold
+Not applicable	false	10	20	314.60184	371.55377	415.07275	189.74086	Arial
+Flammability Limits in Air	false	10	21	53.93174	163.3233	404.50095	0.0	Arial,Bold
+upper	false	10	22	58.575863	83.54626	394.1716	0.0	Arial,Bold
+5  %	false	10	22	210.33379	228.32004	394.41406	126.78753	Arial
+Lower	false	10	23	58.575863	85.047356	383.84225	0.0	Arial,Bold
+0.5  %	false	10	23	210.33379	235.81656	384.08475	125.28643	Arial
+Vapor Pressure	false	10	24	53.93174	120.37565	373.5129	0.0	Arial,Bold
+<  1  kPa @ 37.8 °C	false	10	24	210.33379	290.23068	373.7554	89.95814	Arial
+EN 13016-1	false	10	24	444.93686	492.90018	373.7554	154.70618	Arial
+Vapor density	false	10	25	53.93174	113.37351	363.18356	0.0	Arial,Bold
+>  5	false	10	25	210.33379	225.5785	363.42606	96.96027	Arial
+Density	false	10	26	53.93174	86.398636	352.85422	0.0	Arial,Bold
+820  -  845  kg/m3	false	10	26	210.33379	283.38275	352.85422	123.93515	Arial
+@ 15 °C	false	10	26	314.60184	348.80652	353.0967	31.219086	Arial
+Water solubility	false	10	27	53.93174	120.86103	342.5249	0.0	Arial,Bold
+Not applicable	false	10	27	314.60184	371.55377	342.76736	193.74081	Arial
+Solubility in other solvents	false	10	28	53.93174	168.81537	332.19556	0.0	Arial,Bold
+No information available	false	10	28	314.60184	411.01382	332.43802	145.78647	Arial
+logPow	false	10	29	53.93174	85.895294	321.8662	0.0	Arial,Bold
+Substance is a UVCB. Standard	false	10	29	314.60184	442.50104	322.10867	228.70654	Arial
+tests for this endpoint are not	false	10	30	314.60184	430.51917	312.0703	0.0	Arial
+appropriate	false	10	31	314.60184	360.0663	302.03192	0.0	Arial
+Autoignition temperature	false	10	32	53.93174	161.30086	291.75107	0.0	Arial,Bold
+>  250  °C	false	10	32	210.33379	250.63078	291.75107	49.03293	Arial,Bold
+ASTM E659-78	false	10	32	444.93686	506.38312	291.99356	194.30608	Arial
+>  482  °F	false	10	33	210.33379	249.63306	281.66418	0.0	Arial
+ASTM E659-78	false	10	33	444.93686	506.38312	281.66418	195.3038	Arial
+Viscosity, kinematic	false	10	34	53.93174	139.86299	271.0924	0.0	Arial,Bold
+<  7  mm2/s	false	10	34	210.33379	257.54205	271.33484	70.470795	Arial
+Explosive properties	false	10	35	53.93174	142.35284	260.76306	0.0	Arial,Bold
+Not considered explosive based on chemical structure and oxygen balance considerations	false	10	35	210.23392	568.9432	261.00555	67.88107	Arial
+Oxidizing Properties	false	10	36	53.93174	141.34612	250.72467	0.0	Arial,Bold
+This product is not considered oxidising based on chemical structure considerations	false	10	36	210.23392	542.948	250.96716	68.8878	Arial
+Possibility of hazardous reactions	false	10	37	53.93174	199.79016	240.68628	0.0	Arial,Bold
+No data available	false	10	37	210.23392	279.68005	240.92877	10.443756	Arial
+9.2.   Other information	false	10	38	53.93174	187.07323	218.57275	0.0	ArialBlack,Bold
+No information available	false	10	39	53.93174	150.34373	197.62311	0.0	Arial
+10. STABILITY AND REACTIVITY	false	10	40	54.680794	232.79538	174.53973	0.0	ArialBlack,Bold
+10.1.   Reactivity	false	10	41	53.93174	152.67677	150.34094	0.0	ArialBlack,Bold
+General Information	false	10	42	53.93174	139.34164	129.1488	0.0	Arial,Bold
+No information available.	false	10	42	210.33379	309.24463	129.3913	70.99214	Arial
+10.2.   Chemical stability	false	10	43	53.93174	195.95201	107.03528	0.0	ArialBlack,Bold
+Stability	false	10	44	53.93174	88.89749	85.84314	0.0	Arial,Bold
+Stable under recommended storage conditions.	false	10	44	210.33379	399.18484	86.08563	121.436295	Arial
+Version  EU	true	10	45	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	10	46	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  11 / 17	true	11	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	11	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	11	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	11	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	11	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	11	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	11	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+10.3.   Possibility of hazardous reactions	false	11	6	53.93174	281.96313	602.45575	0.0	ArialBlack,Bold
+Hazardous Reactions	false	11	7	53.93174	145.33705	581.2637	0.0	Arial,Bold
+None under normal processing.	false	11	7	210.33379	335.72513	581.5061	64.996735	Arial
+10.4.   Conditions to Avoid	false	11	8	53.93174	203.73215	559.15015	0.0	ArialBlack,Bold
+Conditions to Avoid	false	11	9	53.93174	139.32365	537.958	0.0	Arial,Bold
+Heat (temperatures above flash point), sparks, ignition points, flames, static electricity.	false	11	9	210.33379	552.5309	538.20044	71.01013	Arial
+10.5.   Incompatible Materials	false	11	10	53.93174	223.1476	515.8445	0.0	ArialBlack,Bold
+Materials to Avoid	false	11	11	53.93174	131.35075	494.65234	0.0	Arial,Bold
+Strong oxidizing agents. Strong acids. Strong bases. (herbicides...). Halogens.	false	11	11	210.33379	521.58307	494.8948	78.98303	Arial
+10.6.   Hazardous Decomposition Products	false	11	12	53.93174	291.9704	472.53882	0.0	ArialBlack,Bold
+Hazardous Decomposition ProductsNone under normal use.	false	11	13	53.93174	306.7548	451.3467	0.0	Arial,Bold
+11. TOXICOLOGICAL INFORMATION	false	11	14	54.680794	250.53294	428.50577	0.0	ArialBlack,Bold
+11.1.   Information on toxicological effects	false	11	15	53.93174	293.079	404.30698	0.0	ArialBlack,Bold
+Acute toxicity  Local effects Product Information	false	11	16	53.93174	266.2071	383.11484	0.0	Arial,Bold
+General Information	false	11	17	53.93174	139.34164	363.28058	0.0	Arial,Bold
+The acute toxicity has been adequately characterised in a large number of GLP-compliant	false	11	17	210.33379	567.0476	363.52304	70.99214	Arial
+guideline investigations following oral, dermal or inhalation exposure.  Findings from an	false	11	18	210.33379	556.0365	353.48465	0.0	Arial
+acute inhalation study support classification.	false	11	19	210.33379	385.69293	343.4463	0.0	Arial
+Skin contact	false	11	20	53.93174	107.37809	323.36954	0.0	Arial,Bold
+Samples of the substance have been tested in skin irritation studies.	false	11	20	210.33379	481.12524	323.612	102.955696	Arial
+Based on a mean erythema score of 3.9 and 2.5 (24, 72 hours)and a mean oedema score	false	11	21	210.33379	570.57117	313.57364	0.0	Arial
+of 2.96 and 1.5 (24, 72 hours), distillate fuels oils are irritating to the skin.  May cause skin	false	11	22	210.33379	566.5442	303.53525	0.0	Arial
+irritation and/or dermatitis.	false	11	23	210.33379	314.2333	293.4969	0.0	Arial
+Eye contact	false	11	24	53.93174	104.38488	273.4201	0.0	Arial,Bold
+This substance does not meet the EU criteria for classification.  Key study indicated that the	false	11	24	210.33379	574.0406	273.6626	105.948906	Arial
+material is not irritating to the eye.	false	11	25	210.33379	345.21713	263.6242	0.0	Arial
+May cause slight irritation.	false	11	26	210.33379	316.73215	253.58588	0.0	Arial
+Inhalation	false	11	27	53.93174	96.385	233.5091	0.0	Arial,Bold
+.  Inhalation of vapors in high concentration may cause irritation of respiratory system. May	false	11	27	210.33379	570.0228	233.75159	113.948784	Arial
+cause central nervous system depression with nausea, headache, dizziness, vomiting, and	false	11	28	210.33379	571.03845	223.7132	0.0	Arial
+incoordination.	false	11	29	210.33379	268.78683	213.6748	0.0	Arial
+Ingestion	false	11	30	53.93174	93.88616	193.59808	0.0	Arial,Bold
+.  Ingestion may cause gastrointestinal irritation, nausea, vomiting and diarrhea. May cause	false	11	30	210.33379	572.03625	193.84058	116.447624	Arial
+central nervous system depression.	false	11	31	210.33379	351.7069	183.80219	0.0	Arial
+Aspiration may cause pulmonary edema and pneumonitis.	false	11	32	210.33379	441.63815	173.7638	0.0	Arial
+Acute toxicity  - Component Information	false	11	33	53.93174	230.2256	153.68707	0.0	Arial,Bold
+Chemical Name	false	11	34	102.37044	161.87111	134.09521	0.0	Arial,Bold
+LD50 Oral	false	11	34	252.2807	290.02493	134.09521	90.40959	Arial,Bold
+LD50 Dermal	false	11	34	368.38376	417.22595	134.09521	78.358826	Arial,Bold
+LC50 Inhalation	false	11	34	484.68655	544.17926	134.09521	67.4606	Arial,Bold
+Fuels, diesel	false	11	35	109.66121	154.50844	123.91138	0.0	Arial
+LD50 &gt; 2000 mg/kg bw (rat -	false	11	35	215.82684	326.84625	123.91138	61.318405	Arial
+LD50 &gt; 5000 mg/kg bw (rabbit	false	11	35	334.5266	451.32278	123.91138	7.680359	Arial
+LC50 (4h) > 4.10 mg/l  (aerosol)	false	11	35	457.82056	571.27716	123.91138	6.497772	Arial
+OECD 401)	false	11	36	250.48297	291.77472	114.9884	0.0	Arial
+-OECD 434)	false	11	36	370.83066	414.78305	114.9884	79.05594	Arial
+(rat - OECD 403)	false	11	36	484.28705	544.66675	114.9884	69.504	Arial
+Sensitization	false	11	37	53.93174	109.37357	104.17407	0.0	Arial,Bold
+Version  EU	true	11	38	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	11	39	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  12 / 17	true	12	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	12	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	12	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	12	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	12	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	12	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	12	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Sensitization	false	12	6	53.93174	109.37357	614.5309	0.0	Arial,Bold
+There are no reports available to indicate that the substance has the potential to cause	false	12	6	210.33379	554.5893	614.7734	100.96021	Arial
+skin  and respiratory sensitisation.	false	12	7	210.33379	345.7115	604.735	0.0	Arial
+Specific effects	false	12	8	53.93174	124.869965	584.65826	0.0	Arial,Bold
+Carcinogenicity	false	12	9	53.93174	121.3644	564.824	0.0	Arial,Bold
+Carcinogenic activity is reported in the presence of repeated dermal irritation. Based on this	false	12	9	210.33379	573.5284	565.06647	88.96938	Arial
+information and PAH analysis, this kind of gas oil can show a low carcinogenic potential.	false	12	10	210.33379	560.53973	555.0281	0.0	Arial
+Findings from different studies support classification.	false	12	11	210.33379	419.14856	544.9897	0.0	Arial
+Chemical Name	false	12	12	154.50446	214.00514	534.9513	0.0	Arial,Bold
+European Union	false	12	12	414.026	475.7318	534.9513	200.02086	Arial,Bold
+Fuels, diesel	false	12	13	161.79523	206.64247	524.76746	0.0	Arial
+Carc. 2 (H351)	false	12	13	418.77	471.15973	524.76746	212.12752	Arial
+68334-30-5	false	12	14	162.74402	205.82549	515.8445	0.0	Arial
+Mutagenicity	false	12	15	53.93174	108.8702	505.03018	0.0	Arial,Bold
+Germ Cell Mutagenicity	false	12	16	69.56196	169.46153	494.9918	0.0	Arial,Bold
+The mutagenic potential of the substance has been extensively studied in a range of in-vivo	false	12	16	210.28386	573.51434	495.23428	40.822327	Arial
+and in-vitro assays. Based on in vivo and in vitro mutagenic studies and based on the poor	false	12	17	210.28386	570.0088	485.1959	0.0	Arial
+bioavailability, distillate fuel oils do not meet the criteria for classification under EU .  Based	false	12	18	210.28386	570.9705	475.15753	0.0	Arial
+on modified Ames test, distillate fuels oils containing cracked materials are likely to have	false	12	19	210.28386	560.47186	465.11914	0.0	Arial
+some genotoxic potential.	false	12	20	210.28386	312.2059	455.08078	0.0	Arial
+Reproductive toxicity	false	12	21	53.93174	145.33707	435.00403	0.0	Arial,Bold
+.  All animals studies show that this substance has  no effect on development and has no	false	12	21	210.33379	563.0745	435.2465	64.99672	Arial
+adverse reproductive effect. This product does not meet the EU criteria for classification.	false	12	22	210.33379	561.0341	425.20813	0.0	Arial
+Other constituents required for disclosure	false	12	23	53.93174	234.24355	405.13138	0.0	Arial,Bold
+Repeated Dose Toxicity	false	12	24	53.93174	155.33241	395.093	0.0	Arial,Bold
+Target Organ Effects (STOT)	false	12	25	53.93174	175.29614	375.25873	0.0	Arial,Bold
+Specific target organ systemic	false	12	26	53.93174	184.31175	355.42444	0.0	Arial,Bold
+Studies do not lead to acute toxic severe systemic effects.	false	12	26	210.33379	441.15274	355.66693	26.022034	Arial
+toxicity (single exposure)	false	12	27	53.93174	162.32558	345.38608	0.0	Arial,Bold
+Specific target organ systemic	false	12	28	53.93174	184.31175	325.5518	0.0	Arial,Bold
+The repeat dose toxicity of the substance has been studied  following dermal and inhalation	false	12	28	210.33379	573.56433	325.79425	26.022034	Arial
+toxicity (repeated exposure)	false	12	29	53.93174	173.81303	315.51343	0.0	Arial,Bold
+exposure for different periods. Data from repeated dose dermal or inhalation toxicity	false	12	29	210.33379	543.0569	315.7559	36.520752	Arial
+studies, showed no significant effect toxicity.	false	12	30	210.33379	386.69067	305.7175	0.0	Arial
+Aspiration toxicity	false	12	31	53.93174	132.3485	285.64078	0.0	Arial,Bold
+The fluid can enter the lungs and cause damage (chemical pneumonitis, potentially fatal).	false	12	31	210.33379	565.05206	285.88324	77.98529	Arial
+Other information	false	12	32	53.93174	134.83835	265.80646	0.0	Arial,Bold
+Other information	false	12	33	53.93174	129.84067	245.97223	0.0	Arial,Bold
+Not relevant.	false	12	33	210.33379	261.2903	246.21466	80.49312	Arial
+12. ECOLOGICAL INFORMATION	false	12	34	54.680794	230.55824	223.13129	0.0	ArialBlack,Bold
+12.1.   Toxicity	false	12	35	53.93174	141.58081	198.9325	0.0	ArialBlack,Bold
+Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.	false	12	36	53.93174	423.61594	177.98285	0.0	Arial
+Acute aquatic toxicity  - Product Information	false	12	37	53.93174	248.22087	157.90607	0.0	Arial,Bold
+Acute aquatic toxicity  - Component Information	false	12	38	53.93174	264.19366	128.27588	0.0	Arial,Bold
+Chemical Name	false	12	39	76.30343	135.80411	108.68408	0.0	Arial,Bold
+Toxicity to algae	false	12	39	179.12329	241.732	108.68408	43.319183	Arial,Bold
+Toxicity to daphnia and	false	12	39	270.0582	359.29712	108.68408	28.326202	Arial,Bold
+Toxicity to fish	false	12	39	390.8054	447.19012	108.68408	31.50827	Arial,Bold
+Toxicity to	false	12	39	503.26303	543.2205	108.68408	56.072906	Arial,Bold
+other aquatic invertebrates	false	12	40	263.4166	365.9827	99.76111	0.0	Arial,Bold
+microorganisms	false	12	40	492.0772	554.2386	99.76111	126.09451	Arial,Bold
+Version  EU	true	12	41	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	12	42	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  13 / 17	true	13	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	13	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	13	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	13	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	13	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	13	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	13	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Fuels, diesel	false	13	6	83.5942	128.44144	614.96735	0.0	Arial
+EL50 (72 h) 22 mg/l	false	13	6	175.27815	245.44531	614.96735	46.836716	Arial
+EL50 (48 h) 68 mg/l	false	13	6	279.5462	349.71335	614.96735	34.10089	Arial
+LL50 (96 h) 21 mg/l	false	13	6	384.26364	453.54404	614.96735	34.550293	Arial
+68334-30-5	false	13	7	84.543	127.62446	606.0444	0.0	Arial
+(Pseudokirchnerella	false	13	7	174.97853	245.57715	606.0444	47.354073	Arial
+(Daphnia magna - OECD	false	13	7	269.9583	359.20532	606.0444	24.381165	Arial
+(Oncorhynchus mykiss -	false	13	7	376.07404	461.75763	606.0444	16.868713	Arial
+subcapitata - OECD 201)	false	13	8	165.74023	254.99524	597.12134	0.0	Arial
+202)	false	13	8	306.61194	322.59967	597.12134	51.6167	Arial
+OECD 203)	false	13	8	398.196	439.48776	597.12134	75.596344	Arial
+EL50 (72 h) 2.9 mg/l	false	13	9	174.17955	246.56789	588.19836	0.0	Arial
+EL50 (48 h) 5.3 mg/l	false	13	9	278.44757	350.8359	588.19836	31.879684	Arial
+LL50 (96 h) 3.2 mg/l	false	13	9	383.16504	454.66663	588.19836	32.329132	Arial
+(Pseudokirchnerella	false	13	10	174.97853	245.57715	579.2754	0.0	Arial
+(Daphnia magna - OECD	false	13	10	269.9583	359.20532	579.2754	24.381165	Arial
+(Menidia berylina - US	false	13	10	377.5222	462.81424	579.2754	18.316864	AAAAAD+ArialUnicode
+subcapitata - OECD 201)	false	13	11	165.74023	254.99524	570.35236	0.0	Arial
+202)	false	13	11	306.61194	322.59967	570.35236	51.6167	Arial
+EPA/600/4-85/013)	false	13	11	384.91284	452.8669	570.35236	62.31317	Arial
+Chronic aquatic toxicity  - Product Information	false	13	12	53.93174	257.20947	549.7422	0.0	Arial,Bold
+Chronic aquatic toxicity  - Component Information	false	13	14	53.93174	273.18225	519.8695	0.0	Arial,Bold
+Chemical Name	false	13	16	76.30343	135.80411	500.03525	0.0	Arial,Bold
+Toxicity to algae	false	13	16	179.12329	241.732	500.03525	43.319183	Arial,Bold
+Toxicity to daphnia and	false	13	16	270.0582	359.29712	500.03525	28.326202	Arial,Bold
+Toxicity to fish	false	13	16	390.8054	447.19012	500.03525	31.50827	Arial,Bold
+Toxicity to	false	13	16	503.26303	543.2205	500.03525	56.072906	Arial,Bold
+other aquatic invertebrates	false	13	17	263.4166	365.9827	491.11224	0.0	Arial,Bold
+microorganisms	false	13	17	492.0772	554.2386	491.11224	126.09451	Arial,Bold
+Fuels, diesel	false	13	18	83.5942	128.44144	480.92838	0.0	Arial
+NOEL (21d) 0.2 mg/l	false	13	18	277.99814	351.26538	480.92838	149.5567	Arial
+NOEL (14/28d) 0.083 mg/l	false	13	18	372.27884	465.53687	480.92838	21.013458	Arial
+68334-30-5	false	13	19	84.543	127.62446	472.00537	0.0	Arial
+(Daphnia magna - OECD	false	13	19	269.9583	359.20532	472.00537	142.33386	Arial
+(Oncorhynchus mykiss -	false	13	19	376.07404	461.75763	472.00537	16.868713	Arial
+211)	false	13	20	306.61194	322.59967	463.08237	0.0	Arial
+QSAR Petrotox)	false	13	20	390.25607	447.53568	463.08237	67.6564	Arial
+Effects on terrestrial organisms	false	13	21	53.93174	191.79927	442.4722	0.0	Arial,Bold
+No information available.	false	13	22	53.93174	152.84258	432.6763	0.0	Arial
+12.2.   Persistence and degradability	false	13	23	53.93174	260.33047	400.52438	0.0	ArialBlack,Bold
+General Information	false	13	24	53.93174	139.34164	379.33228	0.0	Arial,Bold
+Substance is a UVCB. Standard tests for this endpoint are not appropriate.	false	13	25	53.93174	350.70926	369.53638	0.0	Arial
+12.3.   Bioaccumulative potential	false	13	26	53.93174	240.91505	337.38446	0.0	ArialBlack,Bold
+Product Information	false	13	27	53.93174	139.82703	316.19235	0.0	Arial,Bold
+Substance is a UVCB. Standard tests for this endpoint are not appropriate.	false	13	27	210.33379	507.1114	316.4348	70.50676	Arial
+logPow	false	13	28	53.93174	85.895294	296.35806	0.0	Arial,Bold
+Substance is a UVCB. Standard tests for this endpoint are not appropriate	false	13	28	210.33379	507.1114	296.60052	124.43849	Arial
+Component Information	false	13	29	53.93174	155.7998	286.3197	0.0	Arial,Bold
+No information available.	false	13	29	210.33379	309.24463	286.56216	54.53398	Arial
+12.4.   Mobility in soil	false	13	30	53.93174	176.51662	274.00208	0.0	ArialBlack,Bold
+Mobility	false	13	31	299.6208	329.80652	253.05243	0.0	Arial,Bold
+Method	false	13	32	105.766136	132.4124	242.86853	0.0	Arial
+Compartment	false	13	32	208.93556	257.33026	242.86853	76.52316	Arial
+Result	false	13	32	319.49564	342.13898	242.86853	62.165375	Arial
+(%)	false	13	32	422.36545	434.78973	242.86853	80.22647	Arial
+Remarks	false	13	32	510.30414	542.2637	242.86853	75.514404	Arial
+Percent distribution in media	false	13	33	68.713036	169.51343	232.49072	0.0	Arial
+Soil	false	13	33	226.41344	239.73259	232.49072	56.90001	Arial
+62.86	false	13	33	418.57025	438.56094	232.49072	178.83766	Arial
+(Calculation according to Mackay,	false	13	34	59.175106	179.06334	223.56775	0.0	Arial
+Level III)	false	13	35	103.76866	134.40988	214.64471	0.0	Arial
+Percent distribution in media	false	13	36	68.713036	169.51343	204.2669	0.0	Arial
+Sediment	false	13	36	216.22633	249.97562	204.2669	46.712906	Arial
+12.64	false	13	36	418.57025	438.56094	204.2669	168.59464	Arial
+(Calculation according to Mackay,	false	13	37	59.175106	179.06334	195.34387	0.0	Arial
+Level III)	false	13	38	103.76866	134.40988	186.4209	0.0	Arial
+Percent distribution in media	false	13	39	68.713036	169.51343	176.04303	0.0	Arial
+Water	false	13	39	222.46843	243.77745	176.04303	52.955	Arial
+0.14	false	13	39	420.81738	436.36572	176.04303	177.03993	Arial
+(Calculation according to Mackay,	false	13	40	59.175106	179.06334	167.12006	0.0	Arial
+Level III)	false	13	41	103.76866	134.40988	158.19702	0.0	Arial
+Percent distribution in media	false	13	42	68.713036	169.51343	147.81921	0.0	Arial
+Air	false	13	42	228.21117	237.97481	147.81921	58.69774	Arial
+24.36	false	13	42	418.57025	438.56094	147.81921	180.59544	Arial
+(Calculation according to Mackay,	false	13	43	59.175106	179.06334	138.89618	0.0	Arial
+Level III)	false	13	44	103.76866	134.40988	129.9732	0.0	Arial
+Soil	false	13	45	53.93174	70.416885	109.36304	0.0	Arial,Bold
+Given its physical and chemical characteristics, the product is generally mobile in the	false	13	45	210.33379	547.02985	109.60547	139.9169	Arial
+ground. It may contaminate ground water.	false	13	46	210.33379	376.7043	99.56714	0.0	Arial
+Version  EU	true	13	47	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	13	48	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  14 / 17	true	14	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	14	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	14	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	14	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	14	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	14	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	14	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Air	false	14	6	53.93174	66.41694	614.5309	0.0	Arial,Bold
+Volatilisation is dependent on Henry's Constant which is not applicable to UVCB.	false	14	6	210.33379	530.7873	614.7734	143.91684	Arial
+Water	false	14	7	53.93174	78.90213	594.69666	0.0	Arial,Bold
+The product spreads on the surface of the water. May exhibit slight solubility in water. In	false	14	7	210.33379	559.0476	594.9391	131.43166	Arial
+water, the majority of components of this product will be absorbed on sediments. The	false	14	8	210.33379	548.0546	584.90076	0.0	Arial
+product are resistant to hydrolysis because they lack a functional group that is hydrolytically	false	14	9	210.33379	573.5283	574.86237	0.0	Arial
+reactive.	false	14	10	210.33379	244.3018	564.824	0.0	Arial
+12.5.   Results of PBT and vPvB assessment	false	14	11	53.93174	300.27	542.468	0.0	ArialBlack,Bold
+PBT and vPvB assessment	false	14	12	53.93174	169.32771	521.2759	0.0	Arial,Bold
+Anthracene is not present in this substance at greater than 0.1% ( CONCAWE 2010). No	false	14	12	210.33379	563.04755	521.5183	41.006073	Arial
+other representative hydrocarbon structure were found to meet the PBT/vPvB criteria. This	false	14	13	210.33379	569.5283	511.47995	0.0	Arial
+preparation contains no substance considered to be persistent, bioaccumulating nor toxic	false	14	14	210.33379	564.5577	501.4416	0.0	Arial
+(PBT).	false	14	15	210.33379	236.30193	491.4032	0.0	Arial
+12.6.   Other adverse effects	false	14	16	53.93174	215.93669	469.0472	0.0	ArialBlack,Bold
+General Information	false	14	17	53.93174	139.34164	447.8551	0.0	Arial,Bold
+No information available.	false	14	17	210.33379	309.24463	448.09756	70.99214	Arial
+13. DISPOSAL CONSIDERATIONS	false	14	18	54.680794	234.9926	425.01416	0.0	ArialBlack,Bold
+13.1.   Waste treatment methods	false	14	19	53.93174	239.2372	400.81537	0.0	ArialBlack,Bold
+Waste from Residues / Unused	false	14	20	53.93174	185.79488	379.62323	0.0	Arial,Bold
+Dispose of in accordance with the European Directives on waste and hazardous waste.	false	14	20	210.33379	557.0521	379.8657	24.53891	Arial
+Products	false	14	21	53.93174	92.888435	369.58487	0.0	Arial,Bold
+Contaminated packaging	false	14	22	53.93174	160.81548	349.75058	0.0	Arial,Bold
+Empty containers may contain flammable or explosive vapors.  Do not cut, weld, bore, burn	false	14	22	210.33379	572.5216	349.99304	49.51831	Arial
+or incinerate emptied containers, unless they have been cleaned and declared safe. Empty	false	14	23	210.33379	571.5598	339.95468	0.0	Arial
+containers should be taken to an approved waste handling site for recycling or disposal.	false	14	24	210.33379	558.5623	329.9163	0.0	Arial
+EWC Waste Disposal No.	false	14	25	53.93174	160.81548	309.83954	0.0	Arial,Bold
+According to the European Waste Catalogue, Waste Codes are not product specific, but	false	14	25	210.33379	560.06335	310.08203	49.51831	Arial
+application specific. Waste codes should be assigned by the user based on the application	false	14	26	210.33379	569.56433	300.04364	0.0	Arial
+for which the product was used.	false	14	27	210.33379	336.73187	290.00528	0.0	Arial
+14. TRANSPORT INFORMATION	false	14	28	54.680794	226.66315	266.92188	0.0	ArialBlack,Bold
+ADR/RID	false	14	29	53.93174	102.76993	232.92719	0.0	ArialBlack,Bold
+UN/ID No	false	14	30	69.56196	108.50966	221.53094	0.0	Arial,Bold
+UN1202	false	14	30	210.28386	243.25414	221.77344	101.7742	Arial
+Proper shipping name	false	14	31	69.56196	164.46385	211.49255	0.0	Arial,Bold
+GAS OIL	false	14	31	210.28386	246.25635	211.73505	45.820007	Arial
+Proper shipping name	false	14	32	69.56196	164.46385	201.45422	0.0	Arial,Bold
+GAS OIL	false	14	32	210.28386	246.25635	201.69666	45.820007	Arial
+Hazard class	false	14	33	69.56196	124.51842	191.41583	0.0	Arial,Bold
+3	false	14	33	210.28386	215.28154	191.65826	85.76544	Arial
+Packing Group	false	14	34	69.56196	133.49805	181.37744	0.0	Arial,Bold
+III	false	14	34	210.28386	217.77637	181.61993	76.78581	Arial
+ADR/RID-Labels	false	14	35	69.56196	138.47774	171.33905	0.0	Arial,Bold
+3	false	14	35	210.28386	215.28154	171.58154	71.80612	Arial
+Environmental hazard	false	14	36	69.56196	163.46613	161.30072	0.0	Arial,Bold
+Yes	false	14	36	210.28386	225.77126	161.54315	46.817734	Arial
+Classification Code	false	14	37	69.56196	152.9764	151.26233	0.0	Arial,Bold
+F1	false	14	37	210.28386	220.77357	151.50482	57.307465	Arial
+Special Provisions	false	14	38	69.56196	149.4978	141.22394	0.0	Arial,Bold
+640L, 363	false	14	38	210.28386	250.26529	141.46643	60.786057	Arial
+Tunnel Restriction Code	false	14	39	69.56196	173.4435	131.18555	0.0	Arial,Bold
+(D/E)	false	14	39	210.28386	231.2543	131.42804	36.840363	Arial
+ADR Hazard Id (Kemmler	false	14	40	69.56196	175.94234	121.14722	0.0	Arial,Bold
+30	false	14	40	210.28386	220.2792	121.38965	34.341522	Arial
+Number)	false	14	41	69.56196	106.514175	111.108826	0.0	Arial,Bold
+Description	false	14	42	69.56196	119.00838	101.070435	0.0	Arial,Bold
+UN1202,  GAS OIL, 3, III, (D/E)	false	14	42	210.28386	335.18085	101.31293	91.27548	Arial
+Excepted Quantity	false	14	43	69.56196	148.48209	91.03204	0.0	Arial,Bold
+E1	false	14	43	210.28386	221.27695	91.274536	61.801773	Arial
+Version  EU	true	14	44	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	14	45	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  15 / 17	true	15	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	15	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	15	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	15	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	15	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	15	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	15	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Limited quantity	false	15	6	69.56196	138.9811	614.5309	0.0	Arial,Bold
+5 L	false	15	6	210.28386	222.77805	614.7734	71.302765	Arial
+IMDG/IMO	false	15	7	53.93174	111.069435	592.41736	0.0	ArialBlack,Bold
+UN/ID No	false	15	8	69.56196	108.50966	581.0212	0.0	Arial,Bold
+UN1202	false	15	8	210.28386	243.25414	581.2637	101.7742	Arial
+Proper shipping name	false	15	9	69.56196	164.46385	570.9828	0.0	Arial,Bold
+Gas oil	false	15	9	210.28386	238.25645	571.2253	45.820007	Arial
+Hazard class	false	15	10	69.56196	124.51842	560.9444	0.0	Arial,Bold
+3	false	15	10	210.28386	215.28154	561.1869	85.76544	Arial
+Packing Group	false	15	11	69.56196	133.49805	550.906	0.0	Arial,Bold
+III	false	15	11	210.28386	217.77637	551.1485	76.78581	Arial
+Marine pollutant	false	15	12	69.56196	138.9811	540.8677	0.0	Arial,Bold
+P	false	15	12	210.28386	216.27927	541.1101	71.302765	Arial
+EmS No.	false	15	13	69.56196	106.523186	530.8293	0.0	Arial,Bold
+F-E, S-E	false	15	13	210.28386	244.74625	531.0718	103.76067	Arial
+Description	false	15	14	69.56196	119.00838	520.7909	0.0	Arial,Bold
+UN1202, Gas oil, 3, III, (55°C c.c.)	false	15	14	210.28386	346.20883	521.0334	91.27548	Arial
+Special Provisions	false	15	15	69.56196	149.4978	510.75253	0.0	Arial,Bold
+363	false	15	15	210.28386	225.27689	510.99503	60.786057	Arial
+Excepted Quantity	false	15	16	69.56196	148.48209	500.71417	0.0	Arial,Bold
+E1	false	15	16	210.28386	221.27695	500.95663	61.801773	Arial
+Limited quantity	false	15	17	69.56196	138.9811	490.67578	0.0	Arial,Bold
+5 L	false	15	17	210.28386	222.77805	490.91827	71.302765	Arial
+ICAO/IATA	false	15	18	53.93174	114.4152	458.76636	0.0	ArialBlack,Bold
+UN/ID No	false	15	19	69.56196	108.50966	447.37015	0.0	Arial,Bold
+UN1202	false	15	19	210.28386	243.25414	447.6126	101.7742	Arial
+Proper shipping name	false	15	20	69.56196	164.46385	437.33176	0.0	Arial,Bold
+Gas oil	false	15	20	210.28386	238.25645	437.57425	45.820007	Arial
+Hazard class	false	15	21	69.56196	124.51842	427.2934	0.0	Arial,Bold
+3	false	15	21	210.28386	215.28154	427.53586	85.76544	Arial
+Packing Group	false	15	22	69.56196	133.49805	417.255	0.0	Arial,Bold
+III	false	15	22	210.28386	217.77637	417.4975	76.78581	Arial
+ERG Code	false	15	23	69.56196	114.010704	407.21664	0.0	Arial,Bold
+3L	false	15	23	210.28386	220.2792	407.4591	96.273155	Arial
+Special Provisions	false	15	24	69.56196	149.4978	397.17825	0.0	Arial,Bold
+A3	false	15	24	210.28386	221.27695	397.42075	60.786057	Arial
+Description	false	15	25	69.56196	119.00838	387.1399	0.0	Arial,Bold
+UN1202, Gas oil, 3, III	false	15	25	210.28386	298.71396	387.38235	91.27548	Arial
+Excepted Quantity	false	15	26	69.56196	148.48209	377.1015	0.0	Arial,Bold
+E1	false	15	26	210.28386	221.27695	377.344	61.801773	Arial
+Limited quantity	false	15	27	69.56196	138.9811	367.06314	0.0	Arial,Bold
+10 L	false	15	27	210.28386	227.77573	367.3056	71.302765	Arial
+ADN	false	15	28	53.93174	81.11733	344.94962	0.0	ArialBlack,Bold
+UN/ID No	false	15	29	69.56196	108.50966	333.5534	0.0	Arial,Bold
+UN1202	false	15	29	210.28386	243.25414	333.79587	101.7742	Arial
+Proper shipping name	false	15	30	69.56196	164.46385	323.515	0.0	Arial,Bold
+GAS OIL	false	15	30	210.28386	246.25635	323.7575	45.820007	Arial
+Proper shipping name	false	15	31	69.56196	164.46385	313.47665	0.0	Arial,Bold
+GAS OIL	false	15	31	210.28386	246.25635	313.71912	45.820007	Arial
+Hazard class	false	15	32	69.56196	124.51842	303.43826	0.0	Arial,Bold
+3	false	15	32	210.28386	215.28154	303.68076	85.76544	Arial
+Packing Group	false	15	33	69.56196	133.49805	293.3999	0.0	Arial,Bold
+III	false	15	33	210.28386	217.77637	293.64236	76.78581	Arial
+Environmental hazard	false	15	34	69.56196	163.46613	283.3615	0.0	Arial,Bold
+Yes	false	15	34	210.28386	225.77126	283.604	46.817734	Arial
+Classification Code	false	15	35	69.56196	152.9764	273.32312	0.0	Arial,Bold
+F1	false	15	35	210.28386	220.77357	273.5656	57.307465	Arial
+Special Provisions	false	15	36	69.56196	149.4978	263.2848	0.0	Arial,Bold
+363, 640L	false	15	36	210.28386	250.26529	263.52722	60.786057	Arial
+Description	false	15	37	69.56196	119.00838	253.2464	0.0	Arial,Bold
+UN1202,  GAS OIL, 3, III	false	15	37	210.28386	309.2127	253.48889	91.27548	Arial
+Excepted Quantity	false	15	38	69.56196	148.48209	243.20801	0.0	Arial,Bold
+E1	false	15	38	210.28386	221.27695	243.4505	61.801773	Arial
+Limited quantity	false	15	39	69.56196	138.9811	233.16962	0.0	Arial,Bold
+5 L	false	15	39	210.28386	222.77805	233.41211	71.302765	Arial
+Ventilation	false	15	40	69.56196	115.51181	223.13129	0.0	Arial,Bold
+VE01	false	15	40	210.28386	232.27003	223.37372	94.77205	Arial
+15. REGULATORY INFORMATION	false	15	41	54.680794	234.9926	190.49445	0.0	ArialBlack,Bold
+15.1.   Safety, health and environmental regulations/legislation specific for the substance or	false	15	42	53.93174	559.9613	166.29565	0.0	ArialBlack,Bold
+mixture	false	15	43	53.93174	102.74996	152.62018	0.0	ArialBlack,Bold
+European Union	false	15	44	53.93174	140.50218	129.1488	0.0	ArialBlack,Bold
+International Inventories	false	15	45	53.93174	189.32039	95.88153	0.0	ArialBlack,Bold
+Version  EU	true	15	46	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	15	47	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  16 / 17	true	16	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	16	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	16	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	16	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	16	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	16	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	16	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+EINECS/ELINCS	false	16	6	53.93174	122.85652	614.5309	0.0	Arial,Bold
+Complies	false	16	6	210.33379	247.78938	614.7734	87.477264	Arial
+TSCA	false	16	7	53.93174	78.39877	604.49255	0.0	Arial,Bold
+Complies	false	16	7	210.33379	247.78938	604.735	131.93501	Arial
+DSL	false	16	8	53.93174	71.90899	594.45416	0.0	Arial,Bold
+Complies	false	16	8	210.33379	247.78938	594.69666	138.4248	Arial
+ENCS	false	16	9	53.93174	78.90214	584.4158	0.0	Arial,Bold
+IECSC	false	16	10	53.93174	81.40098	574.37744	0.0	Arial,Bold
+Complies	false	16	10	210.33379	247.78938	574.6199	128.9328	Arial
+KECL	false	16	11	53.93174	78.39877	564.33905	0.0	Arial,Bold
+Complies	false	16	11	210.33379	247.78938	564.58154	131.93501	Arial
+PICCS	false	16	12	53.93174	81.40098	554.30066	0.0	Arial,Bold
+Complies	false	16	12	210.33379	247.78938	554.54315	128.9328	Arial
+AICS	false	16	13	53.93174	75.40556	544.26227	0.0	Arial,Bold
+Complies	false	16	13	210.33379	247.78938	544.50476	134.92822	Arial
+NZIoC	false	16	14	53.93174	80.39424	534.2239	0.0	Arial,Bold
+Complies	false	16	14	210.33379	247.78938	534.4664	129.93954	Arial
+Legend	false	16	15	53.93174	88.39412	524.18555	0.0	Arial,Bold
+EINECS/ELINCS - European Inventory of Existing Commercial Chemical Substances/EU List of Notified Chemical Substances	false	16	16	53.93174	501.1516	515.11707	0.0	Arial,Bold
+TSCA - United States Toxic Substances Control Act Section 8(b) Inventory	false	16	17	53.93174	318.1912	506.00006	0.0	Arial,Bold
+DSL/NDSL - Canadian Domestic Substances List/Non-Domestic Substances List	false	16	18	53.93174	340.84454	496.8831	0.0	Arial,Bold
+ENCS - Japan Existing and New Chemical Substances	false	16	19	53.93174	248.47351	487.7661	0.0	Arial,Bold
+IECSC - China Inventory of Existing Chemical Substances	false	16	20	53.93174	259.9949	478.64914	0.0	Arial,Bold
+KECL - Korean Existing and Evaluated Chemical Substances	false	16	21	53.93174	271.57025	469.53217	0.0	Arial,Bold
+PICCS - Philippines Inventory of Chemicals and Chemical Substances	false	16	22	53.93174	302.62094	460.4152	0.0	Arial,Bold
+AICS - Australian Inventory of Chemical Substances	false	16	23	53.93174	239.11133	451.2982	0.0	Arial,Bold
+NZIoC - New Zealand Inventory of Chemicals	false	16	24	53.93174	215.1277	442.1812	0.0	Arial,Bold
+Further information	false	16	25	53.93174	159.90761	420.0192	0.0	ArialBlack,Bold
+15.2.   Chemical Safety Assessment	false	16	26	53.93174	256.44543	386.75192	0.0	ArialBlack,Bold
+16. OTHER INFORMATION	false	16	27	54.680794	196.70108	362.55313	0.0	ArialBlack,Bold
+Full text of R-phrases referred to under sections 2 and 3	false	16	28	53.93174	293.19098	340.6336	0.0	Arial,Bold
+R20 - Harmful by inhalation	false	16	29	53.93174	162.82893	330.8377	0.0	Arial
+R38 - Irritating to skin	false	16	30	53.93174	139.35063	320.79932	0.0	Arial
+R40 - Limited evidence of a carcinogenic effect	false	16	31	53.93174	240.77832	310.76096	0.0	Arial
+R65 - Harmful:	false	16	32	53.93174	109.5939	300.72256	0.0	Arial
+may cause lung damage if swallowed	false	16	32	113.87561	263.73526	300.72256	0.0	Arial
+R51/53 - Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment	false	16	33	53.93174	458.0874	290.6842	0.0	Arial
+Full text of H-Statements referred to under sections 2 and 3	false	16	34	53.93174	307.16827	270.60742	0.0	Arial,Bold
+H226 - Flammable liquid and vapor	false	16	35	53.93174	193.80374	260.81152	0.0	Arial
+H304 - May be fatal if swallowed and enters airways	false	16	36	53.93174	261.2454	250.7732	0.0	Arial
+H315 - Causes skin irritation	false	16	37	53.93174	166.81987	240.7348	0.0	Arial
+H332 - Harmful if inhaled	false	16	38	53.93174	153.33694	230.69641	0.0	Arial
+H351 - Suspected of causing cancer	false	16	39	53.93174	198.81941	220.65802	0.0	Arial
+H373 - May cause damage to organs through prolonged or repeated exposure	false	16	40	53.93174	365.1989	210.61969	0.0	Arial
+H411 - Toxic to aquatic life with long lasting effects	false	16	41	53.93174	255.76236	200.5813	0.0	Arial
+Abbreviations, acronyms	false	16	42	53.93174	161.32784	180.50452	0.0	Arial,Bold
+GLP = Good Laboratory Practice	false	16	43	53.93174	184.5814	170.70862	0.0	Arial
+bw = body weight	false	16	44	53.93174	123.62954	160.67029	0.0	Arial
+bw/day = body weight/day	false	16	45	53.93174	157.60654	150.6319	0.0	Arial
+Legend  Section 8	false	16	46	53.93174	118.3382	131.719	0.0	Arial
++	false	16	47	61.72188	66.38797	122.79602	0.0	Arial
+Sensitizer	false	16	47	132.0329	167.10849	122.79602	65.64493	Arial
+*	false	16	47	322.39197	325.50003	122.79602	155.28348	Arial
+Skin designation	false	16	47	392.70297	451.32477	122.79602	67.20294	Arial
+**	false	16	48	61.72188	67.93801	113.00012	0.0	Arial
+Hazard Designation	false	16	48	132.0329	202.19208	113.00012	64.09489	Arial
+C:	false	16	48	322.39197	330.38187	113.00012	120.19989	Arial
+Carcinogen	false	16	48	392.70297	433.55524	113.00012	62.321106	Arial
+M:	false	16	49	61.72188	70.59865	103.20422	0.0	Arial
+Mutagen	false	16	49	132.0329	163.12154	103.20422	61.43425	Arial
+R:	false	16	49	322.39197	330.38187	103.20422	159.27043	Arial
+Toxic to reproduction	false	16	49	392.70297	467.30466	103.20422	62.321106	Arial
+Version  EU	true	16	50	532.3762	575.00226	64.699524	0.0	Arial
+Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56	true	16	51	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+Page  17 / 17	true	17	1	527.28265	574.7186	754.09827	0.0	Arial
+SDS #:	true	17	3	53.93174	83.92178	662.68604	0.0	Arial,Bold
+A00786	true	17	3	88.92012	128.90685	662.68604	0.0	Arial,Bold
+DIESEL FUEL	true	17	3	262.41788	366.30237	657.4486	133.51103	Arial,Bold
+Revision Date:	true	17	4	257.62393	314.31522	635.9655	0.0	Arial,Bold
+2014-05-22	true	17	4	318.6761	371.00647	635.9655	0.0	Arial,Bold
+Version  2	true	17	4	531.727	574.67664	635.9655	160.72052	Arial,Bold
+Revision Date:	false	17	6	53.93174	116.36671	614.5309	0.0	Arial,Bold
+2014-05-22	false	17	6	210.33379	256.30164	614.7734	93.96708	Arial
+Revision Note	false	17	7	53.93174	113.86788	604.49255	0.0	Arial,Bold
+Name change.	false	17	7	210.33379	268.78683	604.735	96.465904	Arial
+(M)SDS sections updated:	false	17	8	210.33379	302.2652	594.69666	0.0	Arial
+1. 2. 3. 9. 16.	false	17	8	306.2622	370.2145	594.69666	0.0	Arial
+Further information	false	17	9	53.93174	137.32819	574.6199	0.0	Arial,Bold
+Other uses than these listed under section 1.2 may have been foreseen for the	false	17	9	210.33379	523.11115	574.86237	73.0056	Arial
+substance(s) contained in the product. Please contact us if your use is not listed under	false	17	10	210.33379	553.07025	564.824	0.0	Arial
+section 1.2	false	17	11	210.33379	253.8028	554.7856	0.0	Arial
+This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006	false	17	12	53.93174	428.0653	534.70886	0.0	Arial,Bold
+This safety data sheet serves to complete but not to replace the technical product sheets. The information contained	false	17	14	53.93174	551.92883	513.5167	0.0	Arial,Bold
+herein is given in good faith and is accurate to the best of knowledge at the date indicated above.It is understood by the	false	17	15	53.93174	565.9152	503.47836	0.0	Arial,Bold
+user that any use of the product for purposes other than those for which it was designed entails potential risk.The	false	17	16	53.93174	540.9267	493.43997	0.0	Arial,Bold
+information given herein in no way dispenses the user from knowing and applying all provisions regulating his	false	17	17	53.93174	527.46173	483.4016	0.0	Arial,Bold
+activity.The user bears sole liability for the precautions required when using the product.The regulatory texts indicated	false	17	18	53.93174	561.9332	473.36322	0.0	Arial,Bold
+herein are intended to aid the user to fulfil his obligations. This list is not to be considered complete and exhaustive.It is	false	17	19	53.93174	566.4274	463.32486	0.0	Arial,Bold
+the user's responsibility to ensure that he is subject to no other obligations than those mentioned.	false	17	20	53.93174	474.13208	453.28647	0.0	Arial,Bold
+End of the safety data sheet	false	17	21	254.9773	374.35522	433.4522	0.0	Arial,Bold
+Version  EU	true	17	22	532.3762	575.00226	64.699524	0.0	Arial
+"Quick-FDS [17484-30716-14059-014697] - 2015-11-13 - 08:31:56 "	false	17	23	40.0	246.21991	28.0	0.0	Helvetica-Oblique
+_HORIZONTAL_LINE	false	1	1	53.93174	182.66881	550.8091	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	518.64355	487.42667	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	344.6638	444.121	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	227.21243	344.1252	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	253.52911	300.91656	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	313.55316	212.60794	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	575.2719	588.8288	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	575.2719	573.6985	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	575.2719	250.62769	0.0	
+_HORIZONTAL_LINE	false	1	1	53.93174	575.2719	235.49738	0.0	
+_HORIZONTAL_LINE	false	2	1	53.93174	167.63783	540.2857	0.0	
+_HORIZONTAL_LINE	false	2	1	53.93174	160.44693	161.93112	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	132.23264	504.8362	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	269.25922	283.07056	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	575.2719	542.85596	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	575.2719	527.72565	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	168.58662	443.97552	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	168.58662	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	168.58662	210.28386	443.97552	0.0	
+_HORIZONTAL_LINE	false	3	1	168.58662	210.28386	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	210.28386	288.4849	443.97552	0.0	
+_HORIZONTAL_LINE	false	3	1	210.28386	288.4849	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	288.4849	340.6189	443.97552	0.0	
+_HORIZONTAL_LINE	false	3	1	288.4849	340.6189	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	340.6189	392.7529	443.97552	0.0	
+_HORIZONTAL_LINE	false	3	1	340.6189	392.7529	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	392.7529	470.95395	443.97552	0.0	
+_HORIZONTAL_LINE	false	3	1	392.7529	470.95395	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	470.95395	575.222	443.97552	0.0	
+_HORIZONTAL_LINE	false	3	1	470.95395	575.222	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	168.58662	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	168.58662	360.75885	0.0	
+_HORIZONTAL_LINE	false	3	1	168.58662	210.28386	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	168.58662	210.28386	360.75885	0.0	
+_HORIZONTAL_LINE	false	3	1	210.28386	288.4849	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	210.28386	288.4849	360.75885	0.0	
+_HORIZONTAL_LINE	false	3	1	288.4849	340.6189	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	288.4849	340.6189	360.75885	0.0	
+_HORIZONTAL_LINE	false	3	1	340.6189	392.7529	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	340.6189	392.7529	360.75885	0.0	
+_HORIZONTAL_LINE	false	3	1	392.7529	470.95395	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	392.7529	470.95395	360.75885	0.0	
+_HORIZONTAL_LINE	false	3	1	470.95395	575.222	424.67468	0.0	
+_HORIZONTAL_LINE	false	3	1	470.95395	575.222	360.75885	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	575.2719	321.0903	0.0	
+_HORIZONTAL_LINE	false	3	1	53.93174	575.2719	305.96	0.0	
+_HORIZONTAL_LINE	false	4	1	53.93174	432.70236	399.74847	0.0	
+_HORIZONTAL_LINE	false	4	1	53.93174	560.2909	256.7865	0.0	
+_HORIZONTAL_LINE	false	4	1	53.93174	201.49498	158.43951	0.0	
+_HORIZONTAL_LINE	false	4	1	53.93174	575.2719	196.45926	0.0	
+_HORIZONTAL_LINE	false	4	1	53.93174	575.2719	181.32895	0.0	
+_HORIZONTAL_LINE	false	5	1	53.93174	386.71057	600.031	0.0	
+_HORIZONTAL_LINE	false	5	1	53.93174	213.28006	506.5335	0.0	
+_HORIZONTAL_LINE	false	5	1	53.93174	481.8901	368.2755	0.0	
+_HORIZONTAL_LINE	false	5	1	53.93174	575.2719	406.29526	0.0	
+_HORIZONTAL_LINE	false	5	1	53.93174	575.2719	391.16495	0.0	
+_HORIZONTAL_LINE	false	6	1	53.93174	237.4994	479.57053	0.0	
+_HORIZONTAL_LINE	false	6	1	53.93174	395.54938	406.14975	0.0	
+_HORIZONTAL_LINE	false	6	1	53.93174	243.09233	262.70282	0.0	
+_HORIZONTAL_LINE	false	7	1	53.93174	250.83253	434.56757	0.0	
+_HORIZONTAL_LINE	false	7	1	53.93174	575.2719	472.5873	0.0	
+_HORIZONTAL_LINE	false	7	1	53.93174	575.2719	457.457	0.0	
+_HORIZONTAL_LINE	false	8	1	53.93174	412.87744	499.64728	0.0	
+_HORIZONTAL_LINE	false	8	1	53.93174	187.06325	225.94395	0.0	
+_HORIZONTAL_LINE	false	8	1	53.93174	196.55124	177.54637	0.0	
+_HORIZONTAL_LINE	false	8	1	53.93174	575.2719	215.56612	0.0	
+_HORIZONTAL_LINE	false	8	1	53.93174	575.2719	200.4358	0.0	
+_HORIZONTAL_LINE	false	8	1	53.93174	158.19977	107.6657	0.0	
+_HORIZONTAL_LINE	false	8	1	53.93174	158.19977	86.13412	0.0	
+_HORIZONTAL_LINE	false	8	1	158.19977	262.4678	107.6657	0.0	
+_HORIZONTAL_LINE	false	8	1	158.19977	262.4678	86.13412	0.0	
+_HORIZONTAL_LINE	false	8	1	262.4678	366.73584	107.6657	0.0	
+_HORIZONTAL_LINE	false	8	1	262.4678	366.73584	86.13412	0.0	
+_HORIZONTAL_LINE	false	8	1	366.73584	471.00388	107.6657	0.0	
+_HORIZONTAL_LINE	false	8	1	366.73584	471.00388	86.13412	0.0	
+_HORIZONTAL_LINE	false	8	1	471.00388	575.2719	107.6657	0.0	
+_HORIZONTAL_LINE	false	8	1	471.00388	575.2719	86.13412	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	189.80977	515.11707	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	193.75478	495.1858	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	158.19977	622.9205	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	158.19977	591.3505	0.0	
+_HORIZONTAL_LINE	false	9	1	158.19977	262.4678	622.9205	0.0	
+_HORIZONTAL_LINE	false	9	1	158.19977	262.4678	591.3505	0.0	
+_HORIZONTAL_LINE	false	9	1	262.4678	366.73584	622.9205	0.0	
+_HORIZONTAL_LINE	false	9	1	262.4678	366.73584	591.3505	0.0	
+_HORIZONTAL_LINE	false	9	1	366.73584	471.00388	622.9205	0.0	
+_HORIZONTAL_LINE	false	9	1	366.73584	471.00388	591.3505	0.0	
+_HORIZONTAL_LINE	false	9	1	471.00388	575.2719	622.9205	0.0	
+_HORIZONTAL_LINE	false	9	1	471.00388	575.2719	591.3505	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	158.19977	581.31213	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	158.19977	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	158.19977	262.4678	581.31213	0.0	
+_HORIZONTAL_LINE	false	9	1	158.19977	262.4678	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	262.4678	366.73584	581.31213	0.0	
+_HORIZONTAL_LINE	false	9	1	262.4678	366.73584	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	366.73584	471.00388	581.31213	0.0	
+_HORIZONTAL_LINE	false	9	1	366.73584	471.00388	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	471.00388	575.2719	581.31213	0.0	
+_HORIZONTAL_LINE	false	9	1	471.00388	575.2719	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	158.19977	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	158.19977	528.2106	0.0	
+_HORIZONTAL_LINE	false	9	1	158.19977	262.4678	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	158.19977	262.4678	528.2106	0.0	
+_HORIZONTAL_LINE	false	9	1	262.4678	366.73584	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	262.4678	366.73584	528.2106	0.0	
+_HORIZONTAL_LINE	false	9	1	366.73584	471.00388	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	366.73584	471.00388	528.2106	0.0	
+_HORIZONTAL_LINE	false	9	1	471.00388	575.2719	559.7805	0.0	
+_HORIZONTAL_LINE	false	9	1	471.00388	575.2719	528.2106	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	575.2719	195.48936	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	575.2719	185.11153	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	185.11153	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	185.11153	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	185.11153	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	185.11153	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	174.73369	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	164.35585	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	143.60017	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	143.60017	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	143.60017	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	153.97801	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	143.60017	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	575.2719	133.80428	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	575.2719	123.42644	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	123.42644	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	123.42644	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	123.42644	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	123.42644	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	113.0486	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	53.93174	210.33379	92.29293	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	210.33379	331.97983	92.29293	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	331.97983	453.62585	92.29293	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	102.67077	0.0	
+_HORIZONTAL_LINE	false	9	1	453.62585	575.2719	92.29293	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	196.75098	613.36707	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	387.80917	545.2322	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	187.16312	216.14806	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	152.75667	147.9162	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	196.05186	104.61055	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	95.77878	475.3515	0.0	
+_HORIZONTAL_LINE	false	10	1	210.33379	244.29082	475.3515	0.0	
+_HORIZONTAL_LINE	false	10	1	314.60184	357.54745	475.3515	0.0	
+_HORIZONTAL_LINE	false	10	1	444.93686	481.8901	475.3515	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	575.2719	583.2519	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	575.2719	568.1216	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	575.2719	185.93593	0.0	
+_HORIZONTAL_LINE	false	10	1	53.93174	575.2719	170.80563	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	281.89322	600.031	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	203.79207	556.7254	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	223.16754	513.41974	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	291.83066	470.1141	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	293.0291	401.88223	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	266.06326	381.95096	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	230.10876	152.52318	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	109.36159	103.01022	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	575.2719	439.90198	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	575.2719	424.77167	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	210.33379	142.24232	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	210.33379	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	210.33379	331.97983	142.24232	0.0	
+_HORIZONTAL_LINE	false	11	1	210.33379	331.97983	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	331.97983	453.62585	142.24232	0.0	
+_HORIZONTAL_LINE	false	11	1	331.97983	453.62585	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	453.62585	575.2719	142.24232	0.0	
+_HORIZONTAL_LINE	false	11	1	453.62585	575.2719	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	210.33379	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	53.93174	210.33379	112.56366	0.0	
+_HORIZONTAL_LINE	false	11	1	210.33379	331.97983	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	210.33379	331.97983	112.56366	0.0	
+_HORIZONTAL_LINE	false	11	1	331.97983	453.62585	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	331.97983	453.62585	112.56366	0.0	
+_HORIZONTAL_LINE	false	11	1	453.62585	575.2719	131.86449	0.0	
+_HORIZONTAL_LINE	false	11	1	453.62585	575.2719	112.56366	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	124.841995	583.4944	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	155.20357	393.92914	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	175.27815	374.09485	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	134.82935	264.6426	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	141.62076	196.50775	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	248.08601	156.7422	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	264.0658	127.11203	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	314.60184	543.0984	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	314.60184	532.7206	0.0	
+_HORIZONTAL_LINE	false	12	1	314.60184	575.2719	543.0984	0.0	
+_HORIZONTAL_LINE	false	12	1	314.60184	575.2719	532.7206	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	314.60184	532.7206	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	314.60184	513.41974	0.0	
+_HORIZONTAL_LINE	false	12	1	314.60184	575.2719	532.7206	0.0	
+_HORIZONTAL_LINE	false	12	1	314.60184	575.2719	513.41974	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	575.2719	234.5275	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	575.2719	219.39719	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	158.19977	116.83118	0.0	
+_HORIZONTAL_LINE	false	12	1	53.93174	158.19977	97.53034	0.0	
+_HORIZONTAL_LINE	false	12	1	158.19977	262.4678	116.83118	0.0	
+_HORIZONTAL_LINE	false	12	1	158.19977	262.4678	97.53034	0.0	
+_HORIZONTAL_LINE	false	12	1	262.4678	366.73584	116.83118	0.0	
+_HORIZONTAL_LINE	false	12	1	262.4678	366.73584	97.53034	0.0	
+_HORIZONTAL_LINE	false	12	1	366.73584	471.00388	116.83118	0.0	
+_HORIZONTAL_LINE	false	12	1	366.73584	471.00388	97.53034	0.0	
+_HORIZONTAL_LINE	false	12	1	471.00388	575.2719	116.83118	0.0	
+_HORIZONTAL_LINE	false	12	1	471.00388	575.2719	97.53034	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	257.07465	548.5783	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	273.0544	518.7056	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	191.75731	441.30832	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	260.22064	398.09967	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	240.89511	334.95975	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	176.67639	271.57733	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	158.19977	622.9205	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	158.19977	567.9276	0.0	
+_HORIZONTAL_LINE	false	13	1	158.19977	262.4678	622.9205	0.0	
+_HORIZONTAL_LINE	false	13	1	158.19977	262.4678	567.9276	0.0	
+_HORIZONTAL_LINE	false	13	1	262.4678	366.73584	622.9205	0.0	
+_HORIZONTAL_LINE	false	13	1	262.4678	366.73584	567.9276	0.0	
+_HORIZONTAL_LINE	false	13	1	366.73584	471.00388	622.9205	0.0	
+_HORIZONTAL_LINE	false	13	1	366.73584	471.00388	567.9276	0.0	
+_HORIZONTAL_LINE	false	13	1	471.00388	575.2719	622.9205	0.0	
+_HORIZONTAL_LINE	false	13	1	471.00388	575.2719	567.9276	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	158.19977	508.18234	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	158.19977	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	158.19977	262.4678	508.18234	0.0	
+_HORIZONTAL_LINE	false	13	1	158.19977	262.4678	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	262.4678	366.73584	508.18234	0.0	
+_HORIZONTAL_LINE	false	13	1	262.4678	366.73584	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	366.73584	471.00388	508.18234	0.0	
+_HORIZONTAL_LINE	false	13	1	366.73584	471.00388	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	471.00388	575.2719	508.18234	0.0	
+_HORIZONTAL_LINE	false	13	1	471.00388	575.2719	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	158.19977	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	158.19977	460.65765	0.0	
+_HORIZONTAL_LINE	false	13	1	158.19977	262.4678	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	158.19977	262.4678	460.65765	0.0	
+_HORIZONTAL_LINE	false	13	1	262.4678	366.73584	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	262.4678	366.73584	460.65765	0.0	
+_HORIZONTAL_LINE	false	13	1	366.73584	471.00388	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	366.73584	471.00388	460.65765	0.0	
+_HORIZONTAL_LINE	false	13	1	471.00388	575.2719	488.8815	0.0	
+_HORIZONTAL_LINE	false	13	1	471.00388	575.2719	460.65765	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	575.2719	261.1995	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	575.2719	250.82167	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	250.82167	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	250.82167	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	250.82167	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	250.82167	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	250.82167	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	240.44383	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	212.21999	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	183.99615	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	53.93174	184.26678	127.54848	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	184.26678	281.9931	127.54848	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	281.9931	379.71942	127.54848	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	379.71942	477.4457	127.54848	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	155.77231	0.0	
+_HORIZONTAL_LINE	false	13	1	477.4457	575.17206	127.54848	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	300.22003	540.0433	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	215.92671	466.6225	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	239.19727	398.39062	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	102.91974	230.50244	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	575.2719	436.41037	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	575.2719	421.28006	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	575.2719	278.31808	0.0	
+_HORIZONTAL_LINE	false	14	1	53.93174	575.2719	263.18777	0.0	
+_HORIZONTAL_LINE	false	15	1	53.93174	111.20925	589.9927	0.0	
+_HORIZONTAL_LINE	false	15	1	53.93174	114.555016	456.34164	0.0	
+_HORIZONTAL_LINE	false	15	1	53.93174	81.197235	342.5249	0.0	
+_HORIZONTAL_LINE	false	15	1	53.93174	559.69165	163.87091	0.0	
+_HORIZONTAL_LINE	false	15	1	53.93174	102.76993	150.19543	0.0	
+_HORIZONTAL_LINE	false	15	1	53.93174	575.2719	201.89064	0.0	
+_HORIZONTAL_LINE	false	15	1	53.93174	575.2719	186.76035	0.0	
+_HORIZONTAL_LINE	false	16	1	53.93174	88.38813	523.02167	0.0	
+_HORIZONTAL_LINE	false	16	1	53.93174	256.42545	384.3272	0.0	
+_HORIZONTAL_LINE	false	16	1	53.93174	575.2719	373.94937	0.0	
+_HORIZONTAL_LINE	false	16	1	53.93174	575.2719	358.81906	0.0	

@@ -1,0 +1,1860 @@
+Sentence	IsHeaderFooter	Page	Line	X1	X2	Y	Padding	Font
+Page  1 of 22	true	1	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	1	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	1	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	1	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	1	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	1	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	1	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	1	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	1	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	1	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	1	7	34.74	65.96778	630.5001	0.0	ArialMT
+Safety data sheet	false	1	8	239.46	355.9981	604.7003	0.0	Arial-BoldMT
+according to Regulation (EC) No 1907/2006, Annex II	false	1	9	121.43951	473.94757	587.96014	0.0	Arial-BoldMT
+SECTION 1:	false	1	10	58.98	112.02919	566.0603	0.0	Arial-BoldMT
+Identification of the substance/mixture and of the company/undertaking	false	1	10	117.923546	536.4227	566.0603	0.0	Arial-BoldMT
+1.1 Product identifier	false	1	11	34.74	146.61708	537.9203	0.0	Arial-BoldMT
+Gandalf	false	1	12	34.74	87.535614	510.0803	0.0	Arial-BoldMT
+25 g/l beta-Cyfluthrin CAS 68359-37-5	false	1	13	34.74	246.44617	495.5003	0.0	Arial-BoldMT
+1.2 Relevant identified uses of the substance or mixture and uses advised against	false	1	14	34.74	472.44574	467.3603	0.0	Arial-BoldMT
+Relevant identified uses of the substance or mixture:	false	1	15	34.740005	317.968	454.22028	0.0	Arial-BoldMT
+Insecticide	false	1	16	34.74	76.97424	443.3603	0.0	ArialMT
+Uses advised against:	false	1	17	34.74	152.98502	430.7003	0.0	Arial-BoldMT
+Not applicable	false	1	18	34.74	91.33451	419.8403	0.0	ArialMT
+1.3 Details of the supplier of the safety data sheet	false	1	19	34.74	299.0854	399.2003	0.0	Arial-BoldMT
+Adama Agricultural Solutions UK Ltd, Unit 15, Thatcham Business Village Colthrop Way, Thatcham Berkshire RG19 4LW, UK	false	1	20	34.74	531.6086	388.3403	0.0	ArialMT
+Telephone:	false	1	21	34.73999	75.75109	377.9602	0.0	ArialMT
+01635 860555, Fax: 01635 861555	false	1	21	80.30788	226.12512	377.9602	0.0	ArialMT
+ukenquiries@adama.com	false	1	22	34.73999	138.63527	367.64023	0.0	ArialMT
+Qualified person's e-mail address:	false	1	23	34.73999	175.77248	346.94016	0.0	ArialMT
+info@chemical-check.de, k.schnurbusch@chemical-check.de  Please DO NOT use for	false	1	23	180.04619	517.66943	346.94016	0.0	ArialMT
+requesting Safety Data Sheets.	false	1	24	34.74002	158.4562	336.62018	0.0	ArialMT
+1.4 Emergency telephone	false	1	25	34.74	170.19939	305.6003	0.0	Arial-BoldMT
+Emergency information services / official advisory body:	false	1	26	34.74	336.66656	292.4603	0.0	Arial-BoldMT
+National Chemical Emergency Centre (UK):	false	1	27	34.74	202.7439	281.6003	0.0	ArialMT
+01865 407333 (24 hours)	false	1	27	207.05168	310.4387	281.6003	0.0	ArialMT
+Telephone number of the company in case of emergencies:	false	1	28	34.74	352.02408	268.9403	0.0	Arial-BoldMT
+Tel.:	false	1	29	34.74	47.14763	258.0803	0.0	ArialMT
+--	false	1	29	50.249535	65.75907	258.0803	0.0	ArialMT
+SECTION 2:	false	1	30	200.4	253.46141	237.4403	0.0	Arial-BoldMT
+Hazards identification	false	1	30	259.35712	394.95853	237.4403	0.0	Arial-BoldMT
+2.1 Classification of the substance or mixture	false	1	31	34.74	277.30942	209.3603	0.0	Arial-BoldMT
+2.1.1 Classification according to Regulation (EC) 1272/2008 (CLP)	false	1	32	34.74	383.58997	196.16072	0.0	Arial-BoldMT
+Hazard class	false	1	33	34.74002	103.54918	183.02072	0.0	Arial-BoldMT
+Hazard category	false	1	33	141.94553	229.47794	183.02072	38.396347	Arial-BoldMT
+Hazard statement	false	1	33	275.91394	369.61008	183.02072	46.436005	Arial-BoldMT
+Flam. Liq.	false	1	34	34.74002	84.16913	169.88072	0.0	ArialMT
+3	false	1	34	141.95001	148.19223	169.88072	57.780884	ArialMT
+H226-Flammable liquid and vapour.	false	1	34	275.92853	454.34552	169.88072	127.7363	ArialMT
+Acute Tox.	false	1	35	34.74002	88.45225	156.98018	0.0	ArialMT
+4	false	1	35	141.97247	148.21469	156.98018	53.520226	ArialMT
+H332-Harmful if inhaled.	false	1	35	275.951	397.38782	156.98018	127.7363	ArialMT
+Acute Tox.	false	1	36	34.74002	88.456726	144.02005	0.0	ArialMT
+4	false	1	36	141.97807	148.22029	144.02005	53.521347	ArialMT
+H302-Harmful if swallowed.	false	1	36	275.95773	413.02142	144.02005	127.73744	ArialMT
+Eye Irrit.	false	1	37	34.74002	76.615616	131.1195	0.0	ArialMT
+2	false	1	37	141.95676	148.19897	131.1195	65.34114	ArialMT
+H319-Causes serious eye irritation.	false	1	37	275.9353	451.75894	131.1195	127.73633	ArialMT
+Page  2 of 22	true	2	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	2	2	34.74	318.04837	677.6603	0.0	ArialMT
+Revised on / Version:	true	2	3	34.74	118.34311	667.2802	0.0	ArialMT
+14.08.2014  / 0002	true	2	3	122.52326	201.94621	667.2802	0.0	ArialMT
+Replaces revision of / Version:	true	2	4	34.74	156.50876	656.9602	0.0	ArialMT
+16.12.2013  / 0001	true	2	4	160.56772	237.68794	656.9602	0.0	ArialMT
+Valid from:	true	2	5	34.74	77.88933	646.58014	0.0	ArialMT
+14.08.2014	true	2	5	82.20426	129.66852	646.58014	0.0	ArialMT
+PDF print date:	true	2	6	34.74	92.5768	636.26013	0.0	ArialMT
+22.08.2014	true	2	6	96.708	142.15118	636.26013	0.0	ArialMT
+Gandalf	true	2	7	34.74	65.96778	625.9401	0.0	ArialMT
+Skin Sens.	false	2	8	34.74	88.43762	603.2603	0.0	ArialMT
+1	false	2	8	141.89835	148.14056	603.2603	53.460724	ArialMT
+H317-May cause an allergic skin reaction.	false	2	8	275.87686	484.80542	603.2603	127.7363	ArialMT
+Asp. Tox.	false	2	9	34.74	82.13815	590.3002	0.0	ArialMT
+1	false	2	9	141.95898	148.2012	590.3002	59.82083	ArialMT
+H304-May be fatal if swallowed and enters airways.	false	2	9	275.93753	532.3888	590.3002	127.73633	ArialMT
+STOT SE	false	2	10	34.74	82.77024	577.39966	0.0	ArialMT
+3	false	2	10	141.94214	148.18436	577.39966	59.171898	ArialMT
+H336-May cause drowsiness or dizziness.	false	2	10	275.92065	486.06415	577.39966	127.7363	ArialMT
+Aquatic Acute	false	2	11	34.73999	104.05101	564.49915	0.0	ArialMT
+1	false	2	11	141.90733	148.14955	564.49915	37.856323	ArialMT
+H400-Very toxic to aquatic life.	false	2	11	275.88586	428.36975	564.49915	127.73631	ArialMT
+Aquatic Chronic	false	2	12	34.73999	114.14969	551.59863	0.0	ArialMT
+1	false	2	12	141.89609	148.1383	551.59863	27.746399	ArialMT
+H410-Very toxic to aquatic life with long lasting effects.	false	2	12	275.8746	547.7494	551.59863	127.7363	ArialMT
+2.1.2 Classification according to Directives 67/548/EEC and 1999/45/EC (including amendments)	false	2	13	34.73999	546.03455	525.7391	0.0	Arial-BoldMT
+Xn, Harmful, R20/22	false	2	14	34.74	115.76241	514.8803	0.0	ArialMT
+Sensitizising, R43	false	2	15	34.74	105.79865	504.5002	0.0	ArialMT
+N, Dangerous for the environment, R50/53	false	2	16	34.74	203.31859	494.18024	0.0	ArialMT
+Xn, Harmful, R65	false	2	17	34.74	103.348694	483.80014	0.0	ArialMT
+R66	false	2	18	34.74	51.117546	473.48016	0.0	ArialMT
+2.2 Label elements	false	2	19	34.74	134.80626	460.8803	0.0	Arial-BoldMT
+2.2.1 Labeling according to Regulation (EC) 1272/2008 (CLP)	false	2	20	34.74	356.6854	447.68073	0.0	Arial-BoldMT
+Danger	false	2	21	34.74	71.649895	344.3004	0.0	ArialMT
+H226-Flammable liquid and vapour.  H332-Harmful if inhaled.  H302-Harmful if swallowed.  H319-Causes serious eye irritation.	false	2	22	34.74	540.6638	312.3803	0.0	ArialMT
+H317-May cause an allergic skin reaction.  H304-May be fatal if swallowed and enters airways.  H336-May cause drowsiness or	false	2	23	34.73999	541.03394	302.06033	0.0	ArialMT
+dizziness.      H410-Very toxic to aquatic life with long lasting effects.	false	2	24	34.73999	304.98068	291.68024	0.0	ArialMT
+P102-Keep out of reach of children.	false	2	25	34.73999	175.46794	270.98016	0.0	ArialMT
+P210-Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking.  P243-Take precautionary	false	2	26	34.73999	549.0719	260.6602	0.0	ArialMT
+measures against static discharge.  P261-Avoid breathing vapours or spray.  P270-Do no eat, drink or smoke when using this	false	2	27	34.740906	532.5844	250.2801	0.0	ArialMT
+product.  P280-Wear protective gloves and eye protection/face protection.	false	2	28	34.740906	326.54028	239.96011	0.0	ArialMT
+P302+P352-IF ON SKIN:	false	2	29	34.740906	121.733635	229.64012	0.0	ArialMT
+Wash with plenty of water and soap.  P304+P340-IF INHALED: Remove person to fresh air and keep	false	2	29	126.083275	539.29877	229.64012	0.0	ArialMT
+comfortable for breathing.  P305+P351+P338-IF IN EYES:	false	2	30	34.740906	254.447	219.26004	0.0	ArialMT
+Rinse cautiously with water for several minutes. Remove contact lenses,	false	2	30	258.5924	557.0611	219.26004	0.0	ArialMT
+if present and easy to do. Continue rinsing.  P331-Do NOT induce vomiting.	false	2	31	34.740906	333.532	208.94005	0.0	ArialMT
+P501-Dispose of contents/container to an approved waste disposal plant.	false	2	32	34.740906	323.7742	198.55997	0.0	ArialMT
+EUH066-Repeated exposure may cause skin dryness or cracking.	false	2	33	34.740906	295.85275	177.8599	0.0	ArialMT
+EUH401-To avoid risks to human health and the environment, comply with the instructions for use.	false	2	34	34.740906	423.88385	167.5399	0.0	ArialMT
+Page  3 of 22	true	3	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	3	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	3	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	3	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	3	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	3	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	3	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	3	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	3	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	3	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	3	7	34.74	65.96778	630.5001	0.0	ArialMT
+SP 1 Do not contaminate water with the product or its container (Do not clean application equipment near surface water/Avoid	false	3	8	34.74	533.8948	609.8003	0.0	ArialMT
+contamination via drains from farmyards and roads).	false	3	9	34.74	241.42516	599.4803	0.0	ArialMT
+Hydrocarbons, C10, aromatics, <1% naphthalene	false	3	10	34.74	230.2019	589.1603	0.0	ArialMT
+beta-cyfluthrin	false	3	11	34.74	90.80955	578.7802	0.0	ArialMT
+2.3 Other hazards	false	3	12	34.74	129.05354	558.1403	0.0	Arial-BoldMT
+The mixture does not contain any vPvB substance (vPvB = very persistent, very bioaccumulative) or is not included under XIII of the	false	3	13	34.74	558.39606	547.2803	0.0	ArialMT
+regulation (EC) 1907/2006.	false	3	14	34.74002	142.03206	536.9002	0.0	ArialMT
+The mixture does not contain any PBT substance (PBT = persistent, bioaccumulative, toxic) or is not included under XIII of the	false	3	15	34.74002	536.41705	526.5802	0.0	ArialMT
+regulation (EC) 1907/2006.	false	3	16	34.74002	142.03206	516.2602	0.0	ArialMT
+SECTION 3:	false	3	17	148.56	203.3353	478.5803	0.0	Arial-BoldMT
+Composition/information on ingredients	false	3	17	209.42145	446.7811	478.5803	0.0	Arial-BoldMT
+Formulation:	false	3	18	34.74	84.383224	453.3803	0.0	ArialMT
+Emulsion concentrate	false	3	19	34.74	120.77787	443.06033	0.0	ArialMT
+3.1 Substance	false	3	20	34.74	110.3819	430.4003	0.0	Arial-BoldMT
+n.a.	false	3	21	34.74	49.649364	419.5403	0.0	ArialMT
+3.2 Mixture	false	3	22	34.74	93.47967	409.2203	0.0	Arial-BoldMT
+Hydrocarbons, C10, aromatics, <1% naphthalene	false	3	23	34.74	242.44989	398.1203	0.0	Arial-BoldMT
+Registration number (REACH)	false	3	24	34.74	162.4388	387.5003	0.0	Arial-BoldMT
+01-2119463583-34-XXXX	false	3	24	329.46	431.60406	387.7403	167.0212	ArialMT
+Index	false	3	25	34.74	58.144043	376.8203	0.0	Arial-BoldMT
+EINECS, ELINCS, NLP	false	3	26	34.74	128.87573	366.2003	0.0	Arial-BoldMT
+918-811-1 (REACH-IT List-No.)	false	3	26	329.46	454.35764	366.4403	200.58426	ArialMT
+CAS	false	3	27	34.74	53.37133	355.5803	0.0	Arial-BoldMT
+(64742-94-5)	false	3	27	329.46	381.08643	355.8203	276.08865	ArialMT
+content %	false	3	28	34.74	77.56724	344.9003	0.0	Arial-BoldMT
+80-90	false	3	28	329.46	354.8106	345.1404	251.89276	ArialMT
+Classification according to Directive 67/548/EEC	false	3	29	34.74	240.1539	334.2803	0.0	Arial-BoldMT
+Dangerous for the environment, N, R51	false	3	29	329.46	485.5927	334.5204	89.30609	ArialMT
+Dangerous for the environment, R53	false	3	30	329.46	474.1169	324.1403	0.0	ArialMT
+Harmful, Xn, R65	false	3	31	329.46	398.12857	313.8203	0.0	ArialMT
+R66	false	3	32	329.46	345.89755	303.44022	0.0	ArialMT
+R67	false	3	33	329.46	345.89755	293.12024	0.0	ArialMT
+Classification according to Regulation (EC) 1272/2008 (CLP)	false	3	34	34.74	290.23795	282.5604	0.0	Arial-BoldMT
+Asp. Tox. 1, H304	false	3	34	329.46	401.2209	282.8004	39.222046	ArialMT
+STOT SE 3, H336	false	3	35	329.46	401.8928	272.42032	0.0	ArialMT
+Aquatic Chronic 2, H411	false	3	36	329.46	426.41025	262.10034	0.0	ArialMT
+2-Ethylhexanol	false	3	37	34.74	98.36904	241.1603	0.0	Arial-BoldMT
+Registration number (REACH)	false	3	38	34.74	162.4388	230.5403	0.0	Arial-BoldMT
+01-2119487289-20-XXXX	false	3	38	329.46	431.60406	230.7803	167.0212	ArialMT
+Index	false	3	39	34.74	58.144043	219.8603	0.0	Arial-BoldMT
+EINECS, ELINCS, NLP	false	3	40	34.74	128.87573	209.2403	0.0	Arial-BoldMT
+203-234-3	false	3	40	329.46	370.19565	209.4803	200.58426	ArialMT
+CAS	false	3	41	34.74	53.37133	198.5603	0.0	Arial-BoldMT
+CAS 104-76-7	false	3	41	329.46	386.12885	198.8003	276.08865	ArialMT
+content %	false	3	42	34.74	77.56724	187.9403	0.0	Arial-BoldMT
+1-5	false	3	42	329.46	344.84854	188.1803	251.89276	ArialMT
+Classification according to Directive 67/548/EEC	false	3	43	34.74	240.1539	177.2603	0.0	Arial-BoldMT
+Harmful, Xn, R20	false	3	43	329.46	398.12857	177.5003	89.30609	ArialMT
+Irritant, Xi, R36/37/38	false	3	44	329.46	414.02527	167.18031	0.0	ArialMT
+Classification according to Regulation (EC) 1272/2008 (CLP)	false	3	45	34.74	290.23795	156.6203	0.0	Arial-BoldMT
+Skin Irrit. 2, H315	false	3	45	329.46	398.69928	156.8604	39.222046	ArialMT
+Eye Irrit. 2, H319	false	3	46	329.46	396.59958	146.48032	0.0	ArialMT
+Acute Tox. 4, H332	false	3	47	329.46	406.14322	136.16032	0.0	ArialMT
+STOT SE 3, H335	false	3	48	329.46	401.8928	125.78024	0.0	ArialMT
+Page  4 of 22	true	4	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	4	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	4	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	4	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	4	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	4	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	4	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	4	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	4	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	4	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	4	7	34.74	65.96778	630.5001	0.0	ArialMT
+Benzenesulfonic acid, C10-C13 alkyl derivatives, calcium salts	false	4	8	34.74	299.60773	599.2403	0.0	Arial-BoldMT
+Registration number (REACH)	false	4	9	34.74	162.4388	588.6204	0.0	Arial-BoldMT
+01-2119560592-37-XXXX	false	4	9	329.46	431.60406	588.8604	167.0212	ArialMT
+Index	false	4	10	34.74	58.144043	577.9403	0.0	Arial-BoldMT
+EINECS, ELINCS, NLP	false	4	11	34.74	128.87573	567.3203	0.0	Arial-BoldMT
+932-231-6 (REACH-IT List-No.)	false	4	11	329.46	454.35764	567.5603	200.58426	ArialMT
+CAS	false	4	12	34.74	53.37133	556.6403	0.0	Arial-BoldMT
+CAS ---	false	4	12	329.46	359.32346	556.8803	276.08865	ArialMT
+content %	false	4	13	34.74	77.56724	546.0203	0.0	Arial-BoldMT
+1-5	false	4	13	329.46	344.84854	546.2603	251.89276	ArialMT
+Classification according to Directive 67/548/EEC	false	4	14	34.74	240.1539	535.4003	0.0	Arial-BoldMT
+Irritant, Xi, R38	false	4	14	329.46	389.16364	535.6403	89.30609	ArialMT
+Irritant, Xi, R41	false	4	15	329.46	389.16364	525.26025	0.0	ArialMT
+Classification according to Regulation (EC) 1272/2008 (CLP)	false	4	16	34.74	290.23795	514.7003	0.0	Arial-BoldMT
+Skin Irrit. 2, H315	false	4	16	329.46	398.69928	514.9403	39.222046	ArialMT
+Eye Dam. 1, H318	false	4	17	329.46	402.50812	504.5602	0.0	ArialMT
+Aquatic Chronic 3, H412	false	4	18	329.46	426.41025	494.24023	0.0	ArialMT
+Poly(oxy-1,2-ethanediyl), .alpha.-phenyl-.omega.-hydroxy-,	false	4	19	34.74	285.40607	473.3003	0.0	Arial-BoldMT
+styrenated	false	4	20	34.74	79.8676	462.68073	0.0	Arial-BoldMT
+Registration number (REACH)	false	4	21	34.74	162.4388	452.0003	0.0	Arial-BoldMT
+Index	false	4	22	34.74	58.144043	441.3803	0.0	Arial-BoldMT
+EINECS, ELINCS, NLP	false	4	23	34.74	128.87573	430.7003	0.0	Arial-BoldMT
+CAS	false	4	24	34.74	53.37133	420.0803	0.0	Arial-BoldMT
+CAS 104376-75-2	false	4	24	329.46	401.01047	420.3203	276.08865	ArialMT
+content %	false	4	25	34.74	77.56724	409.4603	0.0	Arial-BoldMT
+1-5	false	4	25	329.46	344.84854	409.7003	251.89276	ArialMT
+Classification according to Directive 67/548/EEC	false	4	26	34.74	240.1539	398.7803	0.0	Arial-BoldMT
+Dangerous for the environment, R52	false	4	26	329.46	474.1169	399.0203	89.30609	ArialMT
+Dangerous for the environment, R53	false	4	27	329.46	474.1169	388.70032	0.0	ArialMT
+Classification according to Regulation (EC) 1272/2008 (CLP)	false	4	28	34.74	290.23795	378.0803	0.0	Arial-BoldMT
+Aquatic Chronic 3, H412	false	4	28	329.46	426.41025	378.3203	39.222046	ArialMT
+beta-cyfluthrin	false	4	29	34.74	96.84623	357.0803	0.0	Arial-BoldMT
+Registration number (REACH)	false	4	30	34.74	162.4388	346.4604	0.0	Arial-BoldMT
+Index	false	4	31	34.74	58.144043	335.8403	0.0	Arial-BoldMT
+607-254-00-7	false	4	31	329.46	383.09042	336.0804	271.31595	ArialMT
+EINECS, ELINCS, NLP	false	4	32	34.74	128.87573	325.1603	0.0	Arial-BoldMT
+269-855-7	false	4	32	329.46	370.19565	325.4003	200.58426	ArialMT
+CAS	false	4	33	34.74	53.37133	314.5403	0.0	Arial-BoldMT
+CAS 68359-37-5	false	4	33	329.46	396.02356	314.7803	276.08865	ArialMT
+content %	false	4	34	34.74	77.56724	303.8604	0.0	Arial-BoldMT
+1-3	false	4	34	329.46	344.84854	304.1003	251.89276	ArialMT
+Classification according to Directive 67/548/EEC	false	4	35	34.74	240.1539	293.2404	0.0	Arial-BoldMT
+Very toxic, T+, R26/28	false	4	35	329.46	418.28918	293.4803	89.30609	ArialMT
+Dangerous for the environment, N, R50	false	4	36	329.46	485.5927	283.1603	0.0	ArialMT
+Dangerous for the environment, R53	false	4	37	329.46	474.1169	272.7802	0.0	ArialMT
+Classification according to Regulation (EC) 1272/2008 (CLP)	false	4	38	34.74	290.23795	262.2203	0.0	Arial-BoldMT
+Acute Tox. 1, H330	false	4	38	329.46	406.14322	262.4603	39.222046	ArialMT
+Acute Tox. 1, H300	false	4	39	329.46	406.14322	252.08022	0.0	ArialMT
+Aquatic Acute 1, H400 (M=10000)	false	4	40	329.46	464.49512	241.76022	0.0	ArialMT
+Aquatic Chronic 1, H410 (M=10000)	false	4	41	329.46	472.3513	231.38014	0.0	ArialMT
+For the text of the R-phrases / H-phrases and classification codes (GHS/CLP), see Section 16.	false	4	42	34.740295	408.78848	210.74017	0.0	ArialMT
+The substances named in this section are given with their actual, appropriate classification!	false	4	43	34.740295	393.9893	200.36009	0.0	ArialMT
+For substances that are listed in appendix VI, table 3.1/3.2 of the regulation (EC) no. 1272/2008 (CLP regulation) this means that all	false	4	44	34.740295	557.2541	190.0401	0.0	ArialMT
+notes that may be given here for the named classification have been taken into account.	false	4	45	34.740326	382.75903	179.66002	0.0	ArialMT
+SECTION 4:	false	4	46	209.7	264.31967	159.0204	0.0	Arial-BoldMT
+First aid measures	false	4	46	270.38852	385.6967	159.0204	0.0	Arial-BoldMT
+4.1 Description of first aid measures	false	4	47	34.74	228.49219	130.9403	0.0	Arial-BoldMT
+Page  5 of 22	true	5	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	5	2	34.74	318.04837	677.1203	0.0	ArialMT
+Revised on / Version:	true	5	3	34.74	118.34311	666.74023	0.0	ArialMT
+14.08.2014  / 0002	true	5	3	122.52326	201.94621	666.74023	0.0	ArialMT
+Replaces revision of / Version:	true	5	4	34.74	156.50876	656.4202	0.0	ArialMT
+16.12.2013  / 0001	true	5	4	160.56772	237.68794	656.4202	0.0	ArialMT
+Valid from:	true	5	5	34.74	77.88933	646.04016	0.0	ArialMT
+14.08.2014	true	5	5	82.20426	129.66852	646.04016	0.0	ArialMT
+PDF print date:	true	5	6	34.74	92.5768	635.72015	0.0	ArialMT
+22.08.2014	true	5	6	96.708	142.15118	635.72015	0.0	ArialMT
+Gandalf	true	5	7	34.74	65.96778	625.40015	0.0	ArialMT
+Inhalation	false	5	8	34.74	87.78196	602.4203	0.0	Arial-BoldMT
+Remove person from danger area.	false	5	9	34.74	171.43063	591.5004	0.0	ArialMT
+Supply person with fresh air and consult doctor according to symptoms.	false	5	10	34.74	317.21616	581.1804	0.0	ArialMT
+If the person is unconscious, place in a stable side position and consult a doctor.	false	5	11	34.740005	352.85657	570.8604	0.0	ArialMT
+Skin contact	false	5	12	34.74	101.61027	558.2003	0.0	Arial-BoldMT
+Remove polluted, soaked clothing immediately, wash thoroughly with plenty of water and soap, in case of irritation of the skin (flare),	false	5	13	34.74	558.3288	547.3403	0.0	ArialMT
+consult a doctor.	false	5	14	34.739136	100.34875	536.9602	0.0	ArialMT
+Eye contact	false	5	15	34.74	97.653854	524.3604	0.0	Arial-BoldMT
+Remove contact lenses.	false	5	16	34.74	130.21492	513.5003	0.0	ArialMT
+Wash thoroughly for several minutes using copious water. Seek medical help if necessary.	false	5	17	34.74	391.8472	503.1202	0.0	ArialMT
+Ingestion	false	5	18	34.74	84.68556	490.5203	0.0	Arial-BoldMT
+Rinse the mouth thoroughly with water.	false	5	19	34.74	188.91185	479.6603	0.0	ArialMT
+Do not induce vomiting. Consult doctor immediately.	false	5	20	34.74	240.87775	469.2802	0.0	ArialMT
+Danger of aspiration	false	5	21	34.74	115.24645	458.96024	0.0	ArialMT
+In case of vomiting, keep head low so that the stomach content does not reach the lungs.	false	5	22	34.74	387.16925	448.58014	0.0	ArialMT
+4.2 Most important symptoms and effects, both acute and delayed	false	5	23	34.74	387.70462	435.9803	0.0	Arial-BoldMT
+If applicable delayed symptoms and effects can be found in section 11 and the absorption route in section 4.1.	false	5	24	34.74	469.68686	425.1203	0.0	ArialMT
+In certain cases, the symptoms of poisoning may only appear after an extended period / after several hours.	false	5	25	34.74	460.56046	414.7402	0.0	ArialMT
+Headaches	false	5	26	34.740005	79.89538	404.42023	0.0	ArialMT
+Dizziness	false	5	27	34.740005	72.92801	394.04013	0.0	ArialMT
+Coordination disorders	false	5	28	34.740005	124.51327	383.72015	0.0	ArialMT
+Mental confusion	false	5	29	34.740005	102.30599	373.40018	0.0	ArialMT
+Effect on the central nervous system	false	5	30	34.740005	179.55444	363.02008	0.0	ArialMT
+Unconsciousness	false	5	31	34.740005	104.73176	352.7001	0.0	ArialMT
+With long-term contact:	false	5	32	34.740005	126.81097	342.32	0.0	ArialMT
+Drying of the skin.	false	5	33	34.740005	106.26626	332.00003	0.0	ArialMT
+Dermatitis (skin inflammation)	false	5	34	34.740005	152.48671	321.61993	0.0	ArialMT
+Allergic reaction	false	5	35	34.740005	98.29471	311.29996	0.0	ArialMT
+Ingestion:	false	5	36	34.740005	73.45114	300.97998	0.0	ArialMT
+Nausea	false	5	37	34.740005	65.51543	290.59988	0.0	ArialMT
+Vomiting	false	5	38	34.740005	69.446106	280.2799	0.0	ArialMT
+Danger of aspiration	false	5	39	34.740005	115.24646	269.8998	0.0	ArialMT
+Oedema of the lungs	false	5	40	34.740005	117.75373	259.57983	0.0	ArialMT
+Chemical pneumonitis (condition similar to pneumonia)	false	5	41	34.740005	251.73364	249.19975	0.0	ArialMT
+4.3 Indication of any immediate medical attention and special treatment needed	false	5	42	34.74	458.4739	236.6003	0.0	Arial-BoldMT
+Gastric lavage (stomach washing) only under endotracheal intubation.	false	5	43	34.74	311.19656	225.7403	0.0	ArialMT
+Subsequent observation for pneumonia and pulmonary oedema.	false	5	44	34.74	289.44165	215.36021	0.0	ArialMT
+SECTION 5:	false	5	45	200.1	255.0158	194.7203	0.0	Arial-BoldMT
+Firefighting measures	false	5	45	261.11755	395.35614	194.7203	0.0	Arial-BoldMT
+5.1 Extinguishing media	false	5	46	34.74	163.4295	166.6403	0.0	Arial-BoldMT
+Suitable extinguishing media	false	5	47	34.74	190.27887	153.5003	0.0	Arial-BoldMT
+CO2	false	5	48	34.74	53.159924	142.5804	0.0	ArialMT
+Dry extinguisher	false	5	49	34.74	99.12152	132.2604	0.0	ArialMT
+Alcohol resistant foam	false	5	50	34.74	122.779076	121.94042	0.0	ArialMT
+Page  6 of 22	true	6	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	6	2	34.74	318.04837	677.1203	0.0	ArialMT
+Revised on / Version:	true	6	3	34.74	118.34311	666.74023	0.0	ArialMT
+14.08.2014  / 0002	true	6	3	122.52326	201.94621	666.74023	0.0	ArialMT
+Replaces revision of / Version:	true	6	4	34.74	156.50876	656.4202	0.0	ArialMT
+16.12.2013  / 0001	true	6	4	160.56772	237.68794	656.4202	0.0	ArialMT
+Valid from:	true	6	5	34.74	77.88933	646.04016	0.0	ArialMT
+14.08.2014	true	6	5	82.20426	129.66852	646.04016	0.0	ArialMT
+PDF print date:	true	6	6	34.74	92.5768	635.72015	0.0	ArialMT
+22.08.2014	true	6	6	96.708	142.15118	635.72015	0.0	ArialMT
+Gandalf	true	6	7	34.74	65.96778	625.40015	0.0	ArialMT
+Unsuitable extinguishing media	false	6	8	34.74	204.06444	602.4203	0.0	Arial-BoldMT
+High volume water jet	false	6	9	34.74	120.55573	591.5004	0.0	ArialMT
+5.2 Special hazards arising from the substance or mixture	false	6	10	34.74	343.49933	578.9003	0.0	Arial-BoldMT
+In case of fire the following can develop:	false	6	11	34.74	193.68272	568.0403	0.0	ArialMT
+Oxides of carbon	false	6	12	34.74	102.31137	557.6602	0.0	ArialMT
+Oxides of sulphur	false	6	13	34.74	104.265976	547.3402	0.0	ArialMT
+Oxides of nitrogen	false	6	14	34.74	107.259674	536.96014	0.0	ArialMT
+Hydrogen chloride	false	6	15	34.74	107.09034	526.64014	0.0	ArialMT
+Hydrofluoric acid	false	6	16	34.74	101.168365	516.3201	0.0	ArialMT
+Toxic gases	false	6	17	34.74	82.416985	505.94003	0.0	ArialMT
+Flammable vapour/air mixtures	false	6	18	34.74	157.49768	495.62006	0.0	ArialMT
+5.3 Advice for firefighters	false	6	19	34.74	170.35095	482.9603	0.0	Arial-BoldMT
+In case of fire and/or explosion do not breathe fumes.	false	6	20	34.74	246.13512	472.1003	0.0	ArialMT
+Protective respirator with independent air supply.	false	6	21	34.74	227.81287	461.78033	0.0	ArialMT
+According to size of fire	false	6	22	34.74	127.7739	451.40024	0.0	ArialMT
+Full protection, if necessary	false	6	23	34.74	143.70088	441.08026	0.0	ArialMT
+Cool container at risk with water.	false	6	24	34.74	163.62662	430.70016	0.0	ArialMT
+Dispose of contaminated extinction water according to official regulations.	false	6	25	34.74	325.29062	420.3802	0.0	ArialMT
+SECTION 6:	false	6	26	180.48	236.00414	399.7403	0.0	Arial-BoldMT
+Accidental release measures	false	6	26	242.17348	414.91522	399.7403	0.0	Arial-BoldMT
+6.1 Personal precautions, protective equipment and emergency procedures	false	6	27	34.74	437.80414	371.6603	0.0	Arial-BoldMT
+Remove possible causes of ignition - do not smoke.	false	6	28	34.74	239.15883	360.7403	0.0	ArialMT
+Ensure sufficient supply of air.	false	6	29	34.74	154.02296	350.42032	0.0	ArialMT
+Avoid inhalation, and contact with eyes or skin.	false	6	30	34.74	219.85374	340.04022	0.0	ArialMT
+If applicable,  caution - risk of slipping	false	6	31	34.74	183.51654	329.72025	0.0	ArialMT
+6.2 Environmental precautions	false	6	32	34.74	198.42407	317.1204	0.0	Arial-BoldMT
+If leakage occurs, dam up.	false	6	33	34.74	139.67078	306.2003	0.0	ArialMT
+Resolve leaks if this possible without risk.	false	6	34	34.74	198.69373	295.8803	0.0	ArialMT
+Prevent surface and ground-water infiltration, as well as ground penetration.	false	6	35	34.74	334.65628	285.5002	0.0	ArialMT
+Prevent from entering drainage system.	false	6	36	34.74	191.27306	275.18024	0.0	ArialMT
+If accidental entry into drainage system occurs, inform responsible authorities.	false	6	37	34.74	342.78714	264.86026	0.0	ArialMT
+6.3 Methods and material for containment and cleaning up	false	6	38	34.74	346.03336	252.2003	0.0	Arial-BoldMT
+Soak up with absorbent material (e.g. universal binding agent) and dispose of according to Section 13.	false	6	39	34.74	439.14774	241.3403	0.0	ArialMT
+Fill the absorbed material into lockable containers.	false	6	40	34.740005	233.50467	230.96022	0.0	ArialMT
+6.4 Reference to other sections	false	6	41	34.74	201.71466	218.3603	0.0	Arial-BoldMT
+For personal protective equipment see Section 8 and for disposal instructions see Section 13.	false	6	42	34.74	404.52386	207.5003	0.0	ArialMT
+SECTION 7:	false	6	43	201.48	257.3475	186.8603	0.0	Arial-BoldMT
+Handling and storage	false	6	43	263.555	393.91248	186.8603	0.0	Arial-BoldMT
+In addition to information given in this section, relevant information can also be found in section 8 and 6.1.	false	6	44	34.74	452.39734	161.6603	0.0	ArialMT
+7.1 Precautions for safe handling	false	6	45	34.74	211.5989	149.0603	0.0	Arial-BoldMT
+7.1.1 General recommendations	false	6	46	34.74	204.77966	135.9203	0.0	Arial-BoldMT
+Ensure good ventilation.	false	6	47	34.74	130.62253	125.0003	0.0	ArialMT
+Page  7 of 22	true	7	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	7	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	7	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	7	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	7	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	7	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	7	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	7	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	7	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	7	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	7	7	34.74	65.96778	630.5001	0.0	ArialMT
+Keep away from sources of ignition - Do not smoke.	false	7	8	34.74	239.46072	609.8003	0.0	ArialMT
+Take measures against electrostatic charging, if appropriate.	false	7	9	34.74	274.44263	599.4803	0.0	ArialMT
+Avoid contact with eyes or skin.	false	7	10	34.740005	159.26057	589.1603	0.0	ArialMT
+Eating, drinking, smoking, as well as food-storage, is prohibited in work-room.	false	7	11	34.740005	341.09412	578.7802	0.0	ArialMT
+Observe directions on label and instructions for use.	false	7	12	34.740005	240.56882	568.4602	0.0	ArialMT
+Use working methods according to operating instructions.	false	7	13	34.740005	261.6662	558.08014	0.0	ArialMT
+7.1.2 Notes on general hygiene measures at the workplace	false	7	14	34.74	346.7452	545.4803	0.0	Arial-BoldMT
+General hygiene measures for the handling of chemicals are applicable.	false	7	15	34.74	318.73016	534.6203	0.0	ArialMT
+Wash hands before breaks and at end of work.	false	7	16	34.74	220.11815	524.24023	0.0	ArialMT
+Keep away from food, drink and animal feedingstuffs.	false	7	17	34.74	245.26086	513.9202	0.0	ArialMT
+Remove contaminated clothing and protective equipment before entering areas in which food is consumed.	false	7	18	34.74	457.4943	503.54013	0.0	ArialMT
+7.2 Conditions for safe storage, including any incompatibilities	false	7	19	34.74	370.14886	490.9403	0.0	Arial-BoldMT
+Keep out of access to unauthorised individuals.	false	7	20	34.74	221.53703	480.0803	0.0	ArialMT
+Observe regulations for keeping separated.	false	7	21	34.74	206.17517	469.7002	0.0	ArialMT
+Store product closed and only in original packing.	false	7	22	34.74	229.36435	459.38022	0.0	ArialMT
+Solvent resistant floor	false	7	23	34.74	120.819984	449.00012	0.0	ArialMT
+Protect from direct sunlight and warming.	false	7	24	34.74	197.18526	438.68015	0.0	ArialMT
+Store in a well ventilated place.	false	7	25	34.74	157.7906	428.36017	0.0	ArialMT
+Only store at temperatures from 0°C to 30°C.	false	7	26	34.74	213.58253	417.98007	0.0	ArialMT
+7.3 Specific end use(s)	false	7	27	34.74	155.96353	405.3803	0.0	Arial-BoldMT
+No information available at present.	false	7	28	34.74	175.338	394.4603	0.0	ArialMT
+SECTION 8:	false	7	29	152.64	207.03784	373.8203	0.0	Arial-BoldMT
+Exposure controls/personal protection	false	7	29	213.08205	442.76184	373.8203	0.0	Arial-BoldMT
+8.1 Control parameters	false	7	30	34.74	157.21758	345.7404	0.0	Arial-BoldMT
+Workplace exposure limit (WEL) of the total hydrocarbon solvent content of the mixture (RCP method according to EH40):	false	7	31	34.74	516.42065	334.8803	0.0	ArialMT
+500 mg/m3	false	7	32	34.73999	79.49764	324.5002	0.0	ArialMT
+Chemical Name	false	7	33	49.62	116.24721	285.3803	0.0	Arial-BoldMT
+Hydrocarbons, C10, aromatics, <1% naphthalene	false	7	33	172.92	368.38202	285.5004	56.67279	ArialMT
+Content %:	false	7	33	499.02	538.5983	290.6603	130.63797	ArialMT
+80-	false	7	33	542.9959	556.18866	290.6603	130.63797	ArialMT
+90	false	7	34	522.71967	532.6189	280.34033	0.0	ArialMT
+WEL-TWA:	false	7	35	34.74	66.13144	269.9603	0.0	ArialMT
+500 mg/m3 (Aromatics)	false	7	35	70.61593	182.72823	269.9603	0.0	ArialMT
+WEL-STEL:	false	7	35	249.06	282.26288	269.9603	66.33177	ArialMT
+---	false	7	35	286.41324	315.46576	269.9603	66.33177	ArialMT
+BMGV:	false	7	36	34.74	50.706387	259.6404	0.0	ArialMT
+---	false	7	36	54.697983	82.63915	259.6404	0.0	ArialMT
+Other information:	false	7	36	372.36	434.0235	259.6404	289.72083	ArialMT
+---	false	7	36	437.65076	463.0416	259.6404	289.72083	ArialMT
+WEL-TWA = Workplace Exposure Limit - Long-term exposure limit (8-hour TWA (= time weighted average) reference period)	false	7	37	34.74	548.0445	233.9603	0.0	ArialMT
+"EH40. AGW = ""Arbeitsplatzgrenzwert"" (workplace limit value, Germany). | WEL-STEL = Workplace Exposure Limit - Short-term"	false	7	38	34.74002	539.85034	223.6403	0.0	ArialMT
+"exposure limit (15-minute reference period). | BMGV = Biological monitoring guidance value EH40. BGW = ""Biologischer Grenzwert"""	false	7	39	34.74002	559.5892	213.26022	0.0	ArialMT
+(biological limit value, Germany) | Other information:	false	7	40	34.73999	250.4732	202.94023	0.0	ArialMT
+Sen = Capable of causing occupational asthma. Sk = Can be absorbed through	false	7	40	254.54364	559.8265	202.94023	0.0	ArialMT
+skin. Carc = Capable of causing cancer and/or heritable genetic damage.	false	7	41	34.73999	323.75098	192.62024	0.0	ArialMT
+** = The exposure limit for this substance is repealed through the TRGS 900 (Germany) of January 2006 with the goal of revision.	false	7	42	34.73999	546.3289	182.24016	0.0	ArialMT
+Hydrocarbons, C10, aromatics, <1% naphthalene	false	7	43	34.74	242.44989	151.2203	0.0	Arial-BoldMT
+Area of application	false	7	44	34.74	115.209724	140.6003	0.0	Arial-BoldMT
+Exposure route /	false	7	44	152.58	225.8172	140.6003	37.370277	Arial-BoldMT
+Effect on health	false	7	44	270.54	337.82123	140.6003	44.72281	Arial-BoldMT
+Descripto	false	7	44	366.96	408.1838	140.6003	29.138763	Arial-BoldMT
+Value	false	7	44	420.54	444.42154	140.6003	12.356201	Arial-BoldMT
+Unit	false	7	44	463.38	480.82443	140.6003	18.958466	Arial-BoldMT
+Note	false	7	44	516.96	536.8804	140.6003	36.13559	Arial-BoldMT
+Environmental	false	7	45	152.58	217.16391	129.92061	0.0	Arial-BoldMT
+r	false	7	45	366.96	370.44458	129.92061	149.79608	Arial-BoldMT
+compartment	false	7	46	152.58	209.25601	119.301025	0.0	Arial-BoldMT
+Page  8 of 22	true	8	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	8	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	8	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	8	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	8	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	8	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	8	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	8	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	8	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	8	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	8	7	34.74	65.96778	630.5001	0.0	ArialMT
+Workers / employees	false	8	8	34.74	118.65491	609.8003	0.0	ArialMT
+Human - dermal	false	8	8	152.58	216.74922	609.8003	33.925095	ArialMT
+Long term	false	8	8	270.54	310.77484	609.8003	53.790787	ArialMT
+DNEL	false	8	8	366.96	390.77695	609.8003	56.18515	ArialMT
+12,5	false	8	8	420.54	437.93967	609.8003	29.763062	ArialMT
+mg/kg	false	8	8	463.38	490.23367	609.8003	25.440338	ArialMT
+bw/day	false	8	9	463.38	491.49503	599.4803	0.0	ArialMT
+Workers / employees	false	8	10	34.74	118.65491	589.1603	0.0	ArialMT
+Human - inhalation	false	8	10	152.58	227.5998	589.1603	33.925095	ArialMT
+Long term	false	8	10	270.54	310.77484	589.1603	42.940216	ArialMT
+DNEL	false	8	10	366.96	390.77695	589.1603	56.18515	ArialMT
+151	false	8	10	420.54	435.41803	589.1603	29.763062	ArialMT
+mg/m3	false	8	10	463.38	490.7416	589.1603	27.961975	ArialMT
+Consumer	false	8	11	34.74	75.940506	578.7803	0.0	ArialMT
+Human - dermal	false	8	11	152.58	216.74922	578.7803	76.639496	ArialMT
+Long term	false	8	11	270.54	310.77484	578.7803	53.790787	ArialMT
+DNEL	false	8	11	366.96	390.77695	578.7803	56.18515	ArialMT
+7,5	false	8	11	420.54	432.9609	578.7803	29.763062	ArialMT
+mg/kg	false	8	11	463.38	490.23367	578.7803	30.419098	ArialMT
+bw/day	false	8	12	463.38	491.49503	568.46027	0.0	ArialMT
+Consumer	false	8	13	34.74	75.940506	558.0803	0.0	ArialMT
+Human - inhalation	false	8	13	152.58	227.5998	558.0803	76.639496	ArialMT
+Long term	false	8	13	270.54	310.77484	558.0803	42.940216	ArialMT
+DNEL	false	8	13	366.96	390.77695	558.0803	56.18515	ArialMT
+32	false	8	13	420.54	430.43927	558.0803	29.763062	ArialMT
+mg/m3	false	8	13	463.38	490.7416	558.0803	32.940735	ArialMT
+Consumer	false	8	14	34.74	75.940506	547.7603	0.0	ArialMT
+Human - oral	false	8	14	152.58	204.30775	547.7603	76.639496	ArialMT
+Long term	false	8	14	270.54	310.77484	547.7603	66.232254	ArialMT
+DNEL	false	8	14	366.96	390.77695	547.7603	56.18515	ArialMT
+7,5	false	8	14	420.54	432.9609	547.7603	29.763062	ArialMT
+mg/kg	false	8	14	463.38	490.23367	547.7603	30.419098	ArialMT
+bw/day	false	8	15	463.38	491.49503	537.38025	0.0	ArialMT
+2-Ethylhexanol	false	8	16	34.74	98.36904	506.3603	0.0	Arial-BoldMT
+Area of application	false	8	17	34.74	115.209724	495.7403	0.0	Arial-BoldMT
+Exposure route /	false	8	17	152.58	225.8172	495.7403	37.370277	Arial-BoldMT
+Effect on health	false	8	17	270.54	337.82123	495.7403	44.72281	Arial-BoldMT
+Descripto	false	8	17	366.96	408.1838	495.7403	29.138763	Arial-BoldMT
+Value	false	8	17	420.54	444.42154	495.7403	12.356201	Arial-BoldMT
+Unit	false	8	17	463.38	480.82443	495.7403	18.958466	Arial-BoldMT
+Note	false	8	17	516.96	536.8804	495.7403	36.13559	Arial-BoldMT
+Environmental	false	8	18	152.58	217.16391	485.0606	0.0	Arial-BoldMT
+r	false	8	18	366.96	370.44458	485.0606	149.79608	Arial-BoldMT
+compartment	false	8	19	152.58	209.25601	474.44104	0.0	Arial-BoldMT
+Workers / employees	false	8	20	34.74	118.65491	463.8203	0.0	ArialMT
+Human - inhalation	false	8	20	152.58	227.5998	463.8203	33.925095	ArialMT
+Short term, local	false	8	20	270.54	338.19998	463.8203	42.940216	ArialMT
+DNEL	false	8	20	366.96	390.77695	463.8203	28.76001	ArialMT
+106,4	false	8	20	420.54	442.9175	463.8203	29.763062	ArialMT
+mg/m3	false	8	20	463.38	490.7416	463.8203	20.462494	ArialMT
+effects	false	8	21	270.54	296.92252	453.44022	0.0	ArialMT
+Workers / employees	false	8	22	34.74	118.65491	443.1203	0.0	ArialMT
+Human - dermal	false	8	22	152.58	216.74922	443.1203	33.925095	ArialMT
+Long term, systemic	false	8	22	270.54	353.02698	443.1203	53.790787	ArialMT
+DNEL	false	8	22	366.96	390.77695	443.1203	13.933014	ArialMT
+23	false	8	22	420.54	430.43927	443.1203	29.763062	ArialMT
+mg/kg	false	8	22	463.38	490.23367	443.1203	32.940735	ArialMT
+effects	false	8	23	270.54	296.92252	432.7402	0.0	ArialMT
+bw/day	false	8	23	463.38	491.49503	432.7402	166.45749	ArialMT
+Workers / employees	false	8	24	34.74	118.65491	422.4203	0.0	ArialMT
+Human - inhalation	false	8	24	152.58	227.5998	422.4203	33.925095	ArialMT
+Long term, systemic	false	8	24	270.54	353.02698	422.4203	42.940216	ArialMT
+DNEL	false	8	24	366.96	390.77695	422.4203	13.933014	ArialMT
+53,2	false	8	24	420.54	437.93967	422.4203	29.763062	ArialMT
+mg/m3	false	8	24	463.38	490.7416	422.4203	25.440338	ArialMT
+effects	false	8	25	270.54	296.92252	412.0402	0.0	ArialMT
+Consumer	false	8	26	34.74	75.940506	401.7203	0.0	ArialMT
+Human - inhalation	false	8	26	152.58	227.5998	401.7203	76.639496	ArialMT
+Short term, local	false	8	26	270.54	338.19998	401.7203	42.940216	ArialMT
+DNEL	false	8	26	366.96	390.77695	401.7203	28.76001	ArialMT
+53,2	false	8	26	420.54	437.93967	401.7203	29.763062	ArialMT
+mg/m3	false	8	26	463.38	490.7416	401.7203	25.440338	ArialMT
+effects	false	8	27	270.54	296.92252	391.40033	0.0	ArialMT
+Consumer	false	8	28	34.74	75.940506	381.0203	0.0	ArialMT
+Human - dermal	false	8	28	152.58	216.74922	381.0203	76.639496	ArialMT
+Long term, systemic	false	8	28	270.54	353.02698	381.0203	53.790787	ArialMT
+DNEL	false	8	28	366.96	390.77695	381.0203	13.933014	ArialMT
+11,4	false	8	28	420.54	437.93967	381.0203	29.763062	ArialMT
+mg/kg	false	8	28	463.38	490.23367	381.0203	25.440338	ArialMT
+effects	false	8	29	270.54	296.92252	370.70032	0.0	ArialMT
+bw/day	false	8	29	463.38	491.49503	370.70032	166.45749	ArialMT
+Consumer	false	8	30	34.74	75.940506	360.3203	0.0	ArialMT
+Human - inhalation	false	8	30	152.58	227.5998	360.3203	76.639496	ArialMT
+Long term, systemic	false	8	30	270.54	353.02698	360.3203	42.940216	ArialMT
+DNEL	false	8	30	366.96	390.77695	360.3203	13.933014	ArialMT
+2,3	false	8	30	420.54	432.9609	360.3203	29.763062	ArialMT
+mg/m3	false	8	30	463.38	490.7416	360.3203	30.419098	ArialMT
+effects	false	8	31	270.54	296.92252	350.00034	0.0	ArialMT
+Consumer	false	8	32	34.74	75.940506	339.6204	0.0	ArialMT
+Human - oral	false	8	32	152.58	204.30775	339.6204	76.639496	ArialMT
+Short term, systemic	false	8	32	270.54	354.58386	339.6204	66.232254	ArialMT
+DNEL	false	8	32	366.96	390.77695	339.6204	12.376129	ArialMT
+1,1	false	8	32	420.54	432.9609	339.6204	29.763062	ArialMT
+mg/kg	false	8	32	463.38	490.23367	339.6204	30.419098	ArialMT
+effects	false	8	33	270.54	296.92252	329.3004	0.0	ArialMT
+bw/day	false	8	33	463.38	491.49503	329.3004	166.45749	ArialMT
+Environment - freshwater	false	8	34	152.58	252.38243	318.9803	115.34973	ArialMT
+PNEC	false	8	34	366.96	391.7856	318.9803	93.92972	ArialMT
+0,017	false	8	34	420.54	442.9184	318.9803	28.754395	ArialMT
+mg/l	false	8	34	463.38	480.30936	318.9803	20.461609	ArialMT
+Environment - marine	false	8	35	152.58	238.12871	308.6003	115.34973	ArialMT
+PNEC	false	8	35	366.96	391.7856	308.6003	93.92972	ArialMT
+0,0017	false	8	35	420.54	447.83713	308.6003	28.754395	ArialMT
+mg/l	false	8	35	463.38	480.30936	308.6003	15.542877	ArialMT
+Environment - sporadic	false	8	36	152.58	247.05972	298.2803	115.34973	ArialMT
+PNEC	false	8	36	366.96	391.7856	298.2803	93.92972	ArialMT
+0,17	false	8	36	420.54	437.93967	298.2803	28.754395	ArialMT
+mg/l	false	8	36	463.38	480.30936	298.2803	25.440338	ArialMT
+(intermittent) release	false	8	37	152.58	234.63438	287.9002	0.0	ArialMT
+Environment - sewage	false	8	38	152.58	243.92181	277.5804	115.34973	ArialMT
+PNEC	false	8	38	366.96	391.7856	277.5804	93.92972	ArialMT
+10	false	8	38	420.54	430.43927	277.5804	28.754395	ArialMT
+mg/l	false	8	38	463.38	480.30936	277.5804	32.940735	ArialMT
+treatment plant	false	8	39	152.58	212.27025	267.20032	0.0	ArialMT
+Environment - sediment,	false	8	40	152.58	252.11371	256.8803	115.34973	ArialMT
+DNEL	false	8	40	366.96	390.77695	256.8803	93.92972	ArialMT
+0,28	false	8	40	420.54	437.93967	256.8803	29.763062	ArialMT
+mg/kg dw	false	8	40	463.38	501.63425	256.8803	25.440338	ArialMT
+freshwater	false	8	41	152.58	194.12622	246.56032	0.0	ArialMT
+Environment - sediment,	false	8	42	152.58	252.11371	236.1803	115.34973	ArialMT
+PNEC	false	8	42	366.96	391.7856	236.1803	93.92972	ArialMT
+0,028	false	8	42	420.54	442.9184	236.1803	28.754395	ArialMT
+mg/kg dw	false	8	42	463.38	501.63425	236.1803	20.461609	ArialMT
+marine	false	8	43	152.58	179.87706	225.8603	0.0	ArialMT
+Environment - soil	false	8	44	152.58	224.22362	215.4803	115.34973	ArialMT
+PNEC	false	8	44	366.96	391.7856	215.4803	93.92972	ArialMT
+0,047	false	8	44	420.54	442.9184	215.4803	28.754395	ArialMT
+mg/kg dw	false	8	44	463.38	501.63425	215.4803	20.461609	ArialMT
+Environment - oral (animal	false	8	45	152.58	260.05215	205.1603	115.34973	ArialMT
+PNEC	false	8	45	366.96	391.7856	205.1603	93.92972	ArialMT
+55	false	8	45	420.54	430.43927	205.1603	28.754395	ArialMT
+mg/kg	false	8	45	463.38	490.23367	205.1603	32.940735	ArialMT
+feed)	false	8	46	152.58	172.96165	194.8403	0.0	ArialMT
+feed	false	8	46	463.38	480.78052	194.8403	290.41833	ArialMT
+Benzenesulfonic acid, C10-C13 alkyl derivatives, calcium salts	false	8	47	34.74	299.60773	163.7603	0.0	Arial-BoldMT
+Area of application	false	8	48	34.74	115.209724	153.1404	0.0	Arial-BoldMT
+Exposure route /	false	8	48	152.58	225.8172	153.1404	37.370277	Arial-BoldMT
+Effect on health	false	8	48	270.54	337.82123	153.1404	44.72281	Arial-BoldMT
+Descripto	false	8	48	366.96	408.1838	153.1404	29.138763	Arial-BoldMT
+Value	false	8	48	420.54	444.42154	153.1404	12.356201	Arial-BoldMT
+Unit	false	8	48	463.38	480.82443	153.1404	18.958466	Arial-BoldMT
+Note	false	8	48	516.96	536.8804	153.1404	36.13559	Arial-BoldMT
+Environmental	false	8	49	152.58	217.16391	142.46071	0.0	Arial-BoldMT
+r	false	8	49	366.96	370.44458	142.46071	149.79608	Arial-BoldMT
+compartment	false	8	50	152.58	209.25601	131.84113	0.0	Arial-BoldMT
+Page  9 of 22	true	9	1	34.74	87.971725	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	9	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	9	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	9	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	9	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	9	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	9	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	9	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	9	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	9	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	9	7	34.74	65.96778	630.5001	0.0	ArialMT
+Workers / employees	false	9	8	34.74	118.65491	609.8003	0.0	ArialMT
+Human - dermal	false	9	8	152.58	216.74922	609.8003	33.925095	ArialMT
+Long term, systemic	false	9	8	270.54	353.02698	609.8003	53.790787	ArialMT
+DNEL	false	9	8	366.96	390.77695	609.8003	13.933014	ArialMT
+1,7	false	9	8	420.54	432.9609	609.8003	29.763062	ArialMT
+mg/kg	false	9	8	463.38	490.23367	609.8003	30.419098	ArialMT
+effects	false	9	9	270.54	296.92252	599.4803	0.0	ArialMT
+bw/day	false	9	9	463.38	491.49503	599.4803	166.45749	ArialMT
+Consumer	false	9	10	34.74	75.940506	589.1603	0.0	ArialMT
+Human - dermal	false	9	10	152.58	216.74922	589.1603	76.639496	ArialMT
+Short term, systemic	false	9	10	270.54	354.58386	589.1603	53.790787	ArialMT
+DNEL	false	9	10	366.96	390.77695	589.1603	12.376129	ArialMT
+85	false	9	10	420.54	430.43927	589.1603	29.763062	ArialMT
+mg/kg	false	9	10	463.38	490.23367	589.1603	32.940735	ArialMT
+effects	false	9	11	270.54	296.92252	578.7802	0.0	ArialMT
+bw/day	false	9	11	463.38	491.49503	578.7802	166.45749	ArialMT
+Consumer	false	9	12	34.74	75.940506	568.4603	0.0	ArialMT
+Human - oral	false	9	12	152.58	204.30775	568.4603	76.639496	ArialMT
+Long term, systemic	false	9	12	270.54	353.02698	568.4603	66.232254	ArialMT
+DNEL	false	9	12	366.96	390.77695	568.4603	13.933014	ArialMT
+89	false	9	12	420.54	430.43927	568.4603	29.763062	ArialMT
+mg/kg	false	9	12	463.38	490.23367	568.4603	32.940735	ArialMT
+effects	false	9	13	270.54	296.92252	558.08026	0.0	ArialMT
+bw/day	false	9	13	463.38	491.49503	558.08026	166.45749	ArialMT
+8.2 Exposure controls	false	9	14	34.74	152.271	537.4403	0.0	Arial-BoldMT
+8.2.1 Appropriate engineering controls	false	9	15	34.74	240.93848	524.3003	0.0	Arial-BoldMT
+Ensure good ventilation. This can be achieved by local suction or general air extraction.	false	9	16	34.74	380.07214	503.0603	0.0	ArialMT
+If this is insufficient to maintain the concentration under the WEL or AGW values, suitable breathing protection should be worn.	false	9	17	34.74	534.80927	492.74033	0.0	ArialMT
+Applies only if maximum permissible exposure values are listed here.	false	9	18	34.74005	307.8321	482.42035	0.0	ArialMT
+8.2.2 Individual protection measures, such as personal protective equipment	false	9	19	34.74	444.11334	461.7803	0.0	Arial-BoldMT
+General hygiene measures for the handling of chemicals are applicable.	false	9	20	34.74	318.73016	450.8603	0.0	ArialMT
+Wash hands before breaks and at end of work.	false	9	21	34.74	220.11815	440.5403	0.0	ArialMT
+Keep away from food, drink and animal feedingstuffs.	false	9	22	34.74	245.26086	430.16022	0.0	ArialMT
+Remove contaminated clothing and protective equipment before entering areas in which food is consumed.	false	9	23	34.74	457.4943	419.84024	0.0	ArialMT
+Eye/face protection:	false	9	24	34.74	113.672554	399.14017	0.0	ArialMT
+Tight fitting protective goggles with side protection (EN 166).	false	9	25	34.74	273.37665	388.8202	0.0	ArialMT
+Skin protection - Hand protection:	false	9	26	34.74	167.51166	368.12012	0.0	ArialMT
+Chemical resistant protective gloves (EN 374).	false	9	27	34.74	218.7368	357.74002	0.0	ArialMT
+If applicable	false	9	28	34.739998	82.41431	347.42004	0.0	ArialMT
+Protective nitrile gloves (EN 374)	false	9	29	34.739998	164.91739	337.10007	0.0	ArialMT
+Protective gloves made of polyvinyl alcohol (EN 374)	false	9	30	34.739998	243.24255	326.71997	0.0	ArialMT
+Protective Viton® / fluoroelastomer gloves (EN 374)	false	9	31	34.739998	239.724	316.4	0.0	ArialMT
+Minimum layer thickness in mm:	false	9	32	34.739998	161.90941	306.0199	0.0	ArialMT
+0,5	false	9	33	34.739998	47.160885	295.69992	0.0	ArialMT
+Permeation time (penetration time) in minutes:	false	9	34	34.739998	218.24236	285.31982	0.0	ArialMT
+480	false	9	35	34.739998	49.618008	274.99985	0.0	ArialMT
+The breakthrough times determined in accordance with EN 374 Part 3 were not obtained under practical conditions.	false	9	36	34.739998	491.34442	264.67987	0.0	ArialMT
+The recommended maximum wearing time is 50% of breakthrough time.	false	9	37	34.739998	320.38544	254.29979	0.0	ArialMT
+Protective hand cream recommended.	false	9	38	34.739998	186.34723	243.9798	0.0	ArialMT
+Skin protection - Other:	false	9	39	34.739998	126.80287	223.27972	0.0	ArialMT
+Protective working garments (e.g. safety shoes EN ISO 20345, long-sleeved protective working garments)	false	9	40	34.739998	453.52606	212.95973	0.0	ArialMT
+Respiratory protection:	false	9	41	34.740005	124.52223	192.25966	0.0	ArialMT
+If OES or MEL is exceeded.	false	9	42	34.740005	145.24254	181.87958	0.0	ArialMT
+Filter A2 P2 (EN 14387), code colour brown, white	false	9	43	34.740005	233.44812	171.55959	0.0	ArialMT
+Observe wearing time limitations for respiratory protection equipment.	false	9	44	34.740005	309.82855	161.1795	0.0	ArialMT
+Thermal hazards:	false	9	45	34.740005	104.35733	140.53954	0.0	ArialMT
+Not applicable	false	9	46	34.740005	91.33451	130.15945	0.0	ArialMT
+Page  10 of 22	true	10	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	10	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	10	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	10	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	10	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	10	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	10	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	10	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	10	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	10	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	10	7	34.74	65.96778	630.5001	0.0	ArialMT
+Additional information on hand protection - No tests have been performed.	false	10	8	34.74	328.07303	609.8003	0.0	ArialMT
+In the case of mixtures, the selection has been made according to the knowledge available and the information about the contents.	false	10	9	34.74	550.5293	599.4803	0.0	ArialMT
+Selection of materials derived from glove manufacturer's indications.	false	10	10	34.74002	304.79086	589.1603	0.0	ArialMT
+Final selection of glove material must be made taking the breakthrough times, permeation rates and degradation into account.	false	10	11	34.74002	531.8461	578.7802	0.0	ArialMT
+Selection of a suitable glove depends not only on the material but also on other quality characteristics and varies from manufacturer	false	10	12	34.74002	556.9547	568.4602	0.0	ArialMT
+to manufacturer.	false	10	13	34.74005	99.896385	558.08014	0.0	ArialMT
+In the case of mixtures, the resistance of glove materials cannot be predicted and must therefore be tested before use.	false	10	14	34.74005	503.25912	547.76013	0.0	ArialMT
+The exact breakthrough time of the glove material can be requested from the protective glove manufacturer and must be observed.	false	10	15	34.74005	552.46704	537.38007	0.0	ArialMT
+8.2.3 Environmental exposure controls	false	10	16	34.74	241.56378	516.7404	0.0	Arial-BoldMT
+No information available at present.	false	10	17	34.74	175.338	505.8803	0.0	ArialMT
+SECTION 9:	false	10	18	167.94	222.29408	485.2403	0.0	Arial-BoldMT
+Physical and chemical properties	false	10	18	228.33342	427.6317	485.2403	0.0	Arial-BoldMT
+9.1 Information on basic physical and chemical properties	false	10	19	34.74	344.5872	457.1603	0.0	Arial-BoldMT
+Physical state:	false	10	20	34.74	92.31357	446.3003	0.0	ArialMT
+Liquid	false	10	20	302.70453	326.54028	446.3003	210.39096	ArialMT
+Colour:	false	10	21	34.74	63.53126	435.9202	0.0	ArialMT
+Light yellow	false	10	21	302.72156	349.2448	435.9202	239.19029	ArialMT
+Odour:	false	10	22	34.74	62.068455	425.60022	0.0	ArialMT
+Slightly	false	10	22	302.69916	331.5245	425.60022	240.6307	ArialMT
+Odour threshold:	false	10	23	34.74	101.31797	415.22012	0.0	ArialMT
+Not determined	false	10	23	302.70905	363.86288	415.22012	201.39108	ArialMT
+pH-value:	false	10	24	34.74	72.962944	404.90015	0.0	ArialMT
+5,02 (1 %, CIPAC MT 75.3)	false	10	24	302.7341	411.85715	404.90015	229.77115	ArialMT
+Melting point/freezing point:	false	10	25	34.74	144.03232	394.52005	0.0	ArialMT
+Not determined	false	10	25	302.7036	363.84335	394.52005	158.6713	ArialMT
+Initial boiling point and boiling range:	false	10	26	34.74	179.16747	384.20007	0.0	ArialMT
+Not determined	false	10	26	302.73853	363.8432	384.20007	123.57106	ArialMT
+Flash point:	false	10	27	34.74	81.03211	373.8801	0.0	ArialMT
+60 °C (CIPAC MT 12.2  (Tag, closed cup))	false	10	27	302.82275	470.6936	373.8801	221.79065	ArialMT
+Evaporation rate:	false	10	28	34.73999	102.82106	363.5	0.0	ArialMT
+Not determined	false	10	28	302.7117	363.84784	363.5	199.89064	ArialMT
+Flammability (solid, gas):	false	10	29	34.73999	133.59196	353.18002	0.0	ArialMT
+Not determined	false	10	29	302.7627	363.9238	353.18002	169.17073	ArialMT
+Lower explosive limit:	false	10	30	34.73999	119.435074	342.79993	0.0	ArialMT
+Not determined	false	10	30	302.70538	363.8315	342.79993	183.27031	ArialMT
+Upper explosive limit:	false	10	31	34.73999	119.61513	332.47995	0.0	ArialMT
+Not determined	false	10	31	302.7054	363.83154	332.47995	183.09029	ArialMT
+Vapour pressure:	false	10	32	34.73999	103.33167	322.09985	0.0	ArialMT
+Not determined	false	10	32	302.74213	363.8908	322.09985	199.41046	ArialMT
+Vapour density (air = 1):	false	10	33	34.73999	130.43346	311.77988	0.0	ArialMT
+Not determined	false	10	33	302.78418	363.94528	311.77988	172.35072	ArialMT
+Density:	false	10	34	34.73999	66.85639	301.4599	0.0	ArialMT
+0,9071 g/ml (20°C, CIPAC MT 3.2)	false	10	34	302.6875	440.7628	301.4599	235.83112	ArialMT
+Bulk density:	false	10	35	34.73999	85.400826	291.0798	0.0	ArialMT
+Not determined	false	10	35	302.812	363.90152	291.0798	217.4112	ArialMT
+Solubility(ies):	false	10	36	34.73999	90.258644	280.75983	0.0	ArialMT
+Not determined	false	10	36	302.74933	363.8711	280.75983	212.49069	ArialMT
+Water solubility:	false	10	37	34.73999	97.78947	270.37973	0.0	ArialMT
+Not determined	false	10	37	302.78064	363.87823	270.37973	204.99118	ArialMT
+Partition coefficient (n-octanol/water):	false	10	38	34.73999	182.20776	260.05975	0.0	ArialMT
+5,9 (22°C, beta-cyfluthrin)	false	10	38	302.71884	404.66046	260.05975	120.51108	ArialMT
+Auto-ignition temperature:	false	10	39	34.73999	137.54869	249.67967	0.0	ArialMT
+>400 °C (Regulation (EC) 440/2008 A.15. (AUTO-IGNITION	false	10	39	302.6992	543.5117	249.67967	165.1505	ArialMT
+TEMPERATURE (LIQUIDS AND GASES)))	false	10	40	302.69913	475.62128	239.35968	0.0	ArialMT
+Decomposition temperature:	false	10	41	34.73999	147.09409	229.03969	0.0	ArialMT
+Not determined	false	10	41	302.7654	363.85492	229.03969	155.67133	ArialMT
+Viscosity:	false	10	42	34.73999	72.47471	218.6596	0.0	ArialMT
+2,43 mm2/s (20°C, ASTM D 445)	false	10	42	302.78513	434.34744	218.6596	230.31042	ArialMT
+Viscosity:	false	10	43	34.73999	72.47471	208.33961	0.0	ArialMT
+1,67 mm2/s (40°C, ASTM D 445)	false	10	43	302.78513	434.34744	208.33961	230.31042	ArialMT
+Explosive properties:	false	10	44	34.73999	117.66146	197.95953	0.0	ArialMT
+Product is not explosive. (Regulation (EC) 440/2008 A.14.	false	10	44	302.7323	534.3638	197.95953	185.07083	ArialMT
+(EXPLOSIVE PROPERTIES))	false	10	45	302.7	422.26962	187.63954	0.0	ArialMT
+Oxidising properties:	false	10	46	34.740875	116.164604	177.25946	0.0	ArialMT
+No (Regulation (EC) 440/2008 A.21. (OXIDISING	false	10	46	302.73587	500.54654	177.25946	186.57126	ArialMT
+PROPERTIES (LIQUIDS)))	false	10	47	302.7	410.8513	166.93947	0.0	ArialMT
+9.2 Other information	false	10	48	34.74	148.38757	154.3403	0.0	Arial-BoldMT
+Miscibility:	false	10	49	34.74	75.39049	143.4203	0.0	ArialMT
+Not determined	false	10	49	302.76093	363.85852	143.4203	227.37044	ArialMT
+Fat solubility / solvent:	false	10	50	34.74	122.649155	133.10031	0.0	ArialMT
+Not determined	false	10	50	302.74036	363.88544	133.10031	180.0912	ArialMT
+Conductivity:	false	10	51	34.74	85.78872	122.78033	0.0	ArialMT
+Not determined	false	10	51	302.71976	363.83078	122.78033	216.93103	ArialMT
+Page  11 of 22	true	11	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	11	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	11	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	11	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	11	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	11	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	11	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	11	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	11	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	11	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	11	7	34.74	65.96778	630.5001	0.0	ArialMT
+Surface tension:	false	11	8	34.74	99.35441	609.8003	0.0	ArialMT
+26,5 mN/m (25°C, Regulation (EC) 440/2008 A.5. (SURFACE	false	11	8	302.72513	549.57056	609.8003	203.37073	ArialMT
+TENSION))	false	11	9	302.69916	348.58286	599.4803	0.0	ArialMT
+Surface tension:	false	11	10	34.74002	99.35442	589.1603	0.0	ArialMT
+25,5 mN/m (40°C, Regulation (EC) 440/2008 A.5. (SURFACE	false	11	10	302.72516	549.5706	589.1603	203.37073	ArialMT
+TENSION))	false	11	11	302.69916	348.58286	578.7802	0.0	ArialMT
+Surface tension:	false	11	12	34.74002	99.363365	568.4602	0.0	ArialMT
+43,9 mN/m (0 %)	false	11	12	302.7341	370.4872	568.4602	203.37073	ArialMT
+Surface tension:	false	11	13	34.74002	99.363365	558.08014	0.0	ArialMT
+29,8 mN/m (1 %)	false	11	13	302.7341	370.4872	558.08014	203.37073	ArialMT
+Solvents content:	false	11	14	34.74002	103.425735	547.76013	0.0	ArialMT
+Not determined	false	11	14	302.7762	363.90598	547.76013	199.35048	ArialMT
+SECTION 10:	false	11	15	195.84	252.4646	527.1203	0.0	Arial-BoldMT
+Stability and reactivity	false	11	15	258.12708	399.68857	527.1203	0.0	Arial-BoldMT
+10.1 Reactivity	false	11	16	34.74	112.91808	498.9803	0.0	Arial-BoldMT
+The product has not been tested.	false	11	17	34.74	166.08641	488.1203	0.0	ArialMT
+10.2 Chemical stability	false	11	18	34.74	155.33257	475.5203	0.0	Arial-BoldMT
+Stable with proper storage and handling.	false	11	19	34.74	195.02545	464.6603	0.0	ArialMT
+10.3 Possibility of hazardous reactions	false	11	20	34.74	242.02187	452.0003	0.0	Arial-BoldMT
+No dangerous reactions are known.	false	11	21	34.74	175.63542	441.1403	0.0	ArialMT
+10.4 Conditions to avoid	false	11	22	34.74	164.70375	428.4803	0.0	Arial-BoldMT
+See also section 7.	false	11	23	34.74	110.25069	417.6203	0.0	ArialMT
+Heating, open flame, ignition sources	false	11	24	34.74	181.77869	407.30032	0.0	ArialMT
+10.5 Incompatible materials	false	11	25	34.74	181.59818	394.6403	0.0	Arial-BoldMT
+See also section 7.	false	11	26	34.74	110.25069	383.7803	0.0	ArialMT
+Avoid contact with strong oxidizing agents.	false	11	27	34.74	203.07402	373.46033	0.0	ArialMT
+10.6 Hazardous decomposition products	false	11	28	34.74	251.6064	360.8003	0.0	Arial-BoldMT
+See also section 5.2	false	11	29	34.74	115.26258	349.9403	0.0	ArialMT
+No decomposition when used as directed.	false	11	30	34.74	200.47452	339.5602	0.0	ArialMT
+SECTION 11:	false	11	31	186.48	246.60864	318.9203	0.0	Arial-BoldMT
+Toxicological information	false	11	31	252.6215	408.956	318.9203	0.0	Arial-BoldMT
+Possibly more information on health effects, see Section 2.1 (classification).	false	11	32	34.74	334.05765	293.7803	0.0	ArialMT
+Gandalf	false	11	33	34.74	68.08452	283.2203	0.0	Arial-BoldMT
+Toxicity/effect	false	11	34	34.74	94.85758	272.5403	0.0	Arial-BoldMT
+Endpoi	false	11	34	163.32	193.77296	272.5403	68.462425	Arial-BoldMT
+Value	false	11	34	206.16	230.09435	272.5403	12.387039	Arial-BoldMT
+Unit	false	11	34	259.74	277.15662	272.5403	29.645645	Arial-BoldMT
+Organism	false	11	34	302.58	344.44516	272.5403	25.42337	Arial-BoldMT
+Test method	false	11	34	366.9	420.17838	272.5403	22.454834	Arial-BoldMT
+Notes	false	11	34	463.32	488.1591	272.5403	43.141632	Arial-BoldMT
+nt	false	11	35	163.32	171.82454	261.92072	0.0	Arial-BoldMT
+Acute toxicity, by oral route:	false	11	36	34.74	144.4184	251.4803	0.0	ArialMT
+LD50	false	11	36	163.32	184.6763	251.4803	18.901611	ArialMT
+>200-	false	11	36	206.16	229.2989	251.4803	21.483704	ArialMT
+mg/kg	false	11	36	259.74	284.16074	251.4803	30.441086	ArialMT
+Rat	false	11	36	302.58	316.52728	251.4803	18.41925	ArialMT
+OECD 423 (Acute	false	11	36	366.9	441.04462	251.4803	50.37271	ArialMT
+<2000	false	11	37	206.16	231.2965	241.16031	0.0	ArialMT
+Oral Toxicity - Acute	false	11	37	366.9	449.91196	241.16031	135.6035	ArialMT
+Toxic Class Method)	false	11	38	366.9	448.4214	230.84032	0.0	ArialMT
+Acute toxicity, by oral route:	false	11	39	34.74	144.4184	220.4603	0.0	ArialMT
+ATE	false	11	39	163.32	180.81639	220.4603	18.901611	ArialMT
+575	false	11	39	206.16	221.09802	220.4603	25.343613	ArialMT
+mg/kg	false	11	39	259.74	284.16074	220.4603	38.641968	ArialMT
+calculated value	false	11	39	463.32	527.3924	220.4603	179.15927	ArialMT
+Acute toxicity, by dermal	false	11	40	34.74	133.97717	210.1404	0.0	ArialMT
+LD50	false	11	40	163.32	184.6763	210.1404	29.342834	ArialMT
+>4000	false	11	40	206.16	231.2965	210.1404	21.483704	ArialMT
+mg/kg	false	11	40	259.74	284.16074	210.1404	28.443497	ArialMT
+Rat	false	11	40	302.58	316.52728	210.1404	18.41925	ArialMT
+OECD 402 (Acute	false	11	40	366.9	441.04462	210.1404	50.37271	ArialMT
+route:	false	11	41	34.74	57.577915	199.76031	0.0	ArialMT
+Dermal Toxicity)	false	11	41	366.9	431.38727	199.76031	309.32208	ArialMT
+Acute toxicity, by inhalation:	false	11	42	34.74	144.8376	189.4403	0.0	ArialMT
+LC50	false	11	42	163.32	184.6763	189.4403	18.482407	ArialMT
+1,067	false	11	42	206.16	228.53925	189.4403	21.483704	ArialMT
+mg/l	false	11	42	259.74	276.66843	189.4403	31.200745	ArialMT
+Rat	false	11	42	302.58	316.52728	189.4403	25.91156	ArialMT
+OECD 403 (Acute	false	11	42	366.9	441.04462	189.4403	50.37271	ArialMT
+Inhalation Toxicity)	false	11	43	366.9	441.3662	179.06023	0.0	ArialMT
+Skin corrosion/irritation:	false	11	44	34.74	128.12865	168.7403	0.0	ArialMT
+Rabbit	false	11	44	302.58	328.39633	168.7403	174.45134	ArialMT
+OECD 404 (Acute	false	11	44	366.9	441.04462	168.7403	38.503662	ArialMT
+Not irritant	false	11	44	463.32	504.57874	168.7403	22.27539	ArialMT
+Dermal	false	11	45	366.9	398.18515	158.4203	0.0	ArialMT
+Irritation/Corrosion)	false	11	46	366.9	443.38806	148.04022	0.0	ArialMT
+Page  12 of 22	true	12	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	12	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	12	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	12	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	12	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	12	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	12	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	12	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	12	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	12	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	12	7	34.74	65.96778	630.5001	0.0	ArialMT
+Serious eye	false	12	8	34.74	84.31605	609.8003	0.0	ArialMT
+Rat	false	12	8	302.58	316.52728	609.8003	218.26395	ArialMT
+OECD 405 (Acute	false	12	8	366.9	441.04462	609.8003	50.37271	ArialMT
+Irritant	false	12	8	463.32	488.68225	609.8003	22.27539	ArialMT
+damage/irritation:	false	12	9	34.74	103.75535	599.4803	0.0	ArialMT
+Eye	false	12	9	366.9	384.68842	599.4803	263.14465	ArialMT
+Irritation/Corrosion)	false	12	10	366.9	443.38806	589.1603	0.0	ArialMT
+Respiratory or skin	false	12	11	34.74	111.59434	578.7803	0.0	ArialMT
+Guinea pig	false	12	11	302.58	345.8641	578.7803	190.98566	ArialMT
+Yes (skin contact)	false	12	11	463.32	534.463	578.7803	117.4559	ArialMT
+sensitisation:	false	12	12	34.74	86.36021	568.46027	0.0	ArialMT
+Germ cell mutagenicity:	false	12	13	34.74	128.10176	558.0803	0.0	ArialMT
+n.d.a.	false	12	13	463.32	485.66977	558.0803	335.21826	ArialMT
+Carcinogenicity:	false	12	14	34.74	98.1272	547.7603	0.0	ArialMT
+n.d.a.	false	12	14	463.32	485.66977	547.7603	365.1928	ArialMT
+Reproductive toxicity:	false	12	15	34.74	119.56948	537.3803	0.0	ArialMT
+n.d.a.	false	12	15	463.32	485.66977	537.3803	343.75052	ArialMT
+Specific target organ toxicity -	false	12	16	34.74	151.92595	527.0603	0.0	ArialMT
+n.d.a.	false	12	16	463.32	485.66977	527.0603	311.39404	ArialMT
+single exposure (STOT-SE):	false	12	17	34.74	147.29208	516.7403	0.0	ArialMT
+Specific target organ toxicity -	false	12	18	34.74	151.92595	506.3603	0.0	ArialMT
+n.d.a.	false	12	18	463.32	485.66977	506.3603	311.39404	ArialMT
+repeated exposure (STOT-	false	12	19	34.74	141.74808	496.0403	0.0	ArialMT
+RE):	false	12	20	34.74	52.587524	485.66022	0.0	ArialMT
+Aspiration hazard:	false	12	21	34.74	106.784004	475.3403	0.0	ArialMT
+n.d.a.	false	12	21	463.32	485.66977	475.3403	356.536	ArialMT
+Respiratory tract irritation:	false	12	22	34.74	137.01837	464.9603	0.0	ArialMT
+n.d.a.	false	12	22	463.32	485.66977	464.9603	326.30164	ArialMT
+Repeated dose toxicity:	false	12	23	34.74	127.51145	454.6403	0.0	ArialMT
+n.d.a.	false	12	23	463.32	485.66977	454.6403	335.80856	ArialMT
+Symptoms:	false	12	24	34.74	79.39822	444.3203	0.0	ArialMT
+n.d.a.	false	12	24	463.32	485.66977	444.3203	383.92178	ArialMT
+Other information:	false	12	25	34.74	106.346855	433.9403	0.0	ArialMT
+Classification according	false	12	25	463.32	559.6431	433.9403	356.97314	ArialMT
+to calculation	false	12	26	463.32	517.9527	423.62033	0.0	ArialMT
+procedure.	false	12	27	463.32	506.00308	413.24023	0.0	ArialMT
+Hydrocarbons, C10, aromatics, <1% naphthalene	false	12	28	34.74	242.44989	392.5403	0.0	Arial-BoldMT
+Toxicity/effect	false	12	29	34.74	94.85758	381.9203	0.0	Arial-BoldMT
+Endpoi	false	12	29	163.32	193.77296	381.9203	68.462425	Arial-BoldMT
+Value	false	12	29	206.16	230.09435	381.9203	12.387039	Arial-BoldMT
+Unit	false	12	29	259.74	277.15662	381.9203	29.645645	Arial-BoldMT
+Organism	false	12	29	302.58	344.44516	381.9203	25.42337	Arial-BoldMT
+Test method	false	12	29	366.9	420.17838	381.9203	22.454834	Arial-BoldMT
+Notes	false	12	29	463.32	488.1591	381.9203	43.141632	Arial-BoldMT
+nt	false	12	30	163.32	171.82454	371.30072	0.0	Arial-BoldMT
+Acute toxicity, by oral route:	false	12	31	34.74	144.4184	360.6203	0.0	ArialMT
+LD50	false	12	31	163.32	184.6763	360.6203	18.901611	ArialMT
+>5000	false	12	31	206.16	231.2965	360.6203	21.483704	ArialMT
+mg/kg	false	12	31	259.74	284.16074	360.6203	28.443497	ArialMT
+Rat	false	12	31	302.58	316.52728	360.6203	18.41925	ArialMT
+OECD 401 (Acute	false	12	31	366.9	441.04462	360.6203	50.37271	ArialMT
+Oral Toxicity)	false	12	32	366.9	419.48764	350.30032	0.0	ArialMT
+Acute toxicity, by dermal	false	12	33	34.74	133.97717	339.9203	0.0	ArialMT
+LD50	false	12	33	163.32	184.6763	339.9203	29.342834	ArialMT
+>2000	false	12	33	206.16	231.2965	339.9203	21.483704	ArialMT
+mg/kg	false	12	33	259.74	284.16074	339.9203	28.443497	ArialMT
+Rabbit	false	12	33	302.58	328.39633	339.9203	18.41925	ArialMT
+OECD 402 (Acute	false	12	33	366.9	441.04462	339.9203	38.503662	ArialMT
+route:	false	12	34	34.74	57.577915	329.6003	0.0	ArialMT
+Dermal Toxicity)	false	12	34	366.9	431.38727	329.6003	309.32208	ArialMT
+Acute toxicity, by inhalation:	false	12	35	34.74	144.8376	319.2803	0.0	ArialMT
+LC50	false	12	35	163.32	184.6763	319.2803	18.482407	ArialMT
+>5	false	12	35	206.16	216.42026	319.2803	21.483704	ArialMT
+mg/l/4h	false	12	35	259.74	289.13858	319.2803	43.319733	ArialMT
+Rat	false	12	35	302.58	316.52728	319.2803	13.441406	ArialMT
+Skin corrosion/irritation:	false	12	36	34.74	128.12865	308.9003	0.0	ArialMT
+Repeated exposure	false	12	36	463.32	543.6895	308.9003	335.19135	ArialMT
+may cause skin	false	12	37	463.32	527.3146	298.58032	0.0	ArialMT
+dryness or cracking.	false	12	38	463.32	543.2487	288.20023	0.0	ArialMT
+Skin corrosion/irritation:	false	12	39	34.74	128.12865	277.8803	0.0	ArialMT
+Rabbit	false	12	39	302.58	328.39633	277.8803	174.45134	ArialMT
+OECD 404 (Acute	false	12	39	366.9	441.04462	277.8803	38.503662	ArialMT
+Not irritant	false	12	39	463.32	504.57874	277.8803	22.27539	ArialMT
+Dermal	false	12	40	366.9	398.18515	267.5002	0.0	ArialMT
+Irritation/Corrosion)	false	12	41	366.9	443.38806	257.18024	0.0	ArialMT
+Serious eye	false	12	42	34.74	84.31605	246.8604	0.0	ArialMT
+Rabbit	false	12	42	302.58	328.39633	246.8604	218.26395	ArialMT
+OECD 405 (Acute	false	12	42	366.9	441.04462	246.8604	38.503662	ArialMT
+Not irritant	false	12	42	463.32	504.57874	246.8604	22.27539	ArialMT
+damage/irritation:	false	12	43	34.74	103.75535	236.48032	0.0	ArialMT
+Eye	false	12	43	366.9	384.68842	236.48032	263.14465	ArialMT
+Irritation/Corrosion)	false	12	44	366.9	443.38806	226.16032	0.0	ArialMT
+Respiratory or skin	false	12	45	34.74	111.59434	215.7803	0.0	ArialMT
+Guinea pig	false	12	45	302.58	345.8641	215.7803	190.98566	ArialMT
+OECD 406 (Skin	false	12	45	366.9	435.52386	215.7803	21.035889	ArialMT
+Not sensitizising	false	12	45	463.32	527.96844	215.7803	27.796143	ArialMT
+sensitisation:	false	12	46	34.74	86.36021	205.46031	0.0	ArialMT
+Sensitisation)	false	12	46	366.9	420.51685	205.46031	280.5398	ArialMT
+Germ cell mutagenicity:	false	12	47	34.74	128.10176	195.0803	0.0	ArialMT
+OECD 479 (Genetic	false	12	47	366.9	448.98026	195.0803	238.79823	ArialMT
+Negative	false	12	47	463.32	498.59665	195.0803	14.339752	ArialMT
+Toxicology - In Vitro	false	12	48	366.9	448.36322	184.76031	0.0	ArialMT
+Sister Chromatid	false	12	49	366.9	435.9647	174.44032	0.0	ArialMT
+Exchange assay in	false	12	50	366.9	444.2282	164.06024	0.0	ArialMT
+Mammalian Cells)	false	12	51	366.9	438.39215	153.74025	0.0	ArialMT
+Reproductive toxicity:	false	12	52	34.74	119.56948	143.3604	0.0	ArialMT
+OECD 414 (Prenatal	false	12	52	366.9	451.4382	143.3604	247.3305	ArialMT
+Negative	false	12	52	463.32	498.59665	143.3604	11.881805	ArialMT
+Developmental	false	12	53	366.9	428.8977	133.0404	0.0	ArialMT
+Toxicity Study)	false	12	54	366.9	425.38376	122.72042	0.0	ArialMT
+Page  13 of 22	true	13	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	13	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	13	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	13	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	13	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	13	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	13	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	13	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	13	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	13	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	13	7	34.74	65.96778	630.5001	0.0	ArialMT
+Specific target organ toxicity -	false	13	8	34.74	151.92595	609.8003	0.0	ArialMT
+OECD 408	false	13	8	366.9	412.66092	609.8003	214.97404	ArialMT
+Negative	false	13	8	463.32	498.59665	609.8003	50.65909	ArialMT
+repeated exposure (STOT-	false	13	9	34.74	141.74808	599.4803	0.0	ArialMT
+(Repeated Dose 90-	false	13	9	366.9	447.38586	599.4803	225.15192	ArialMT
+RE):	false	13	10	34.74	52.587524	589.1603	0.0	ArialMT
+Day Oral Toxicity	false	13	10	366.9	437.30746	589.1603	314.31247	ArialMT
+Study in Rodents)	false	13	11	366.9	437.86185	578.7802	0.0	ArialMT
+Aspiration hazard:	false	13	12	34.74	106.784004	568.4603	0.0	ArialMT
+Yes	false	13	12	463.32	478.7167	568.4603	356.536	ArialMT
+Symptoms:	false	13	13	34.74	79.39822	558.0803	0.0	ArialMT
+drowsiness,	false	13	13	463.32	512.7822	558.0803	383.92178	ArialMT
+headaches,	false	13	14	463.32	511.9403	547.7603	0.0	ArialMT
+drowsiness, dizziness	false	13	15	463.32	549.5998	537.38025	0.0	ArialMT
+2-Ethylhexanol	false	13	16	34.74	98.36904	516.7404	0.0	Arial-BoldMT
+Toxicity/effect	false	13	17	34.74	94.85758	506.0603	0.0	Arial-BoldMT
+Endpoi	false	13	17	163.32	193.77296	506.0603	68.462425	Arial-BoldMT
+Value	false	13	17	206.16	230.09435	506.0603	12.387039	Arial-BoldMT
+Unit	false	13	17	259.74	277.15662	506.0603	29.645645	Arial-BoldMT
+Organism	false	13	17	302.58	344.44516	506.0603	25.42337	Arial-BoldMT
+Test method	false	13	17	366.9	420.17838	506.0603	22.454834	Arial-BoldMT
+Notes	false	13	17	463.32	488.1591	506.0603	43.141632	Arial-BoldMT
+nt	false	13	18	163.32	171.82454	495.44073	0.0	Arial-BoldMT
+Acute toxicity, by oral route:	false	13	19	34.74	144.4184	484.7603	0.0	ArialMT
+LD50	false	13	19	163.32	184.6763	484.7603	18.901611	ArialMT
+2049	false	13	19	206.16	226.01675	484.7603	21.483704	ArialMT
+mg/kg	false	13	19	259.74	284.16074	484.7603	33.723236	ArialMT
+Rat	false	13	19	302.58	316.52728	484.7603	18.41925	ArialMT
+Acute toxicity, by dermal	false	13	20	34.74	133.97717	474.4403	0.0	ArialMT
+LD50	false	13	20	163.32	184.6763	474.4403	29.342834	ArialMT
+> 3000	false	13	20	206.16	233.81812	474.4403	21.483704	ArialMT
+mg/kg	false	13	20	259.74	284.16074	474.4403	25.921875	ArialMT
+Rat	false	13	20	302.58	316.52728	474.4403	18.41925	ArialMT
+OECD 402 (Acute	false	13	20	366.9	441.04462	474.4403	50.37271	ArialMT
+route:	false	13	21	34.74	57.577915	464.12033	0.0	ArialMT
+Dermal Toxicity)	false	13	21	366.9	431.38727	464.12033	309.32208	ArialMT
+Acute toxicity, by inhalation:	false	13	22	34.74	144.8376	453.7403	0.0	ArialMT
+LC50	false	13	22	163.32	184.6763	453.7403	18.482407	ArialMT
+2,7	false	13	22	206.16	218.64178	453.7403	21.483704	ArialMT
+mg/l/4h	false	13	22	259.74	289.13318	453.7403	41.098206	ArialMT
+Skin corrosion/irritation:	false	13	23	34.74	128.12865	443.4203	0.0	ArialMT
+Rabbit	false	13	23	302.58	328.39633	443.4203	174.45134	ArialMT
+Irritant	false	13	23	463.32	488.68225	443.4203	134.92368	ArialMT
+Serious eye	false	13	24	34.74	84.31605	433.0403	0.0	ArialMT
+Rabbit	false	13	24	302.58	328.39633	433.0403	218.26395	ArialMT
+Irritant	false	13	24	463.32	488.68225	433.0403	134.92368	ArialMT
+damage/irritation:	false	13	25	34.74	103.75535	422.72034	0.0	ArialMT
+Respiratory or skin	false	13	26	34.74	111.59434	412.3403	0.0	ArialMT
+No (skin contact)	false	13	26	463.32	530.46405	412.3403	351.72568	ArialMT
+sensitisation:	false	13	27	34.74	86.36021	402.02032	0.0	ArialMT
+Carcinogenicity:	false	13	28	34.74	98.1272	391.7003	0.0	ArialMT
+NOAEL	false	13	28	163.32	193.69234	391.7003	65.19281	ArialMT
+750	false	13	28	206.16	221.09802	391.7003	12.467667	ArialMT
+mg/kg	false	13	28	259.74	286.63934	391.7003	38.641968	ArialMT
+bw/d	false	13	29	259.74	278.45908	381.3202	0.0	ArialMT
+Specific target organ toxicity -	false	13	30	34.74	151.92595	371.0003	0.0	ArialMT
+NOAEL	false	13	30	163.32	193.69234	371.0003	11.394058	ArialMT
+200	false	13	30	206.16	221.09802	371.0003	12.467667	ArialMT
+mg/kg	false	13	30	259.74	286.63934	371.0003	38.641968	ArialMT
+Mouse	false	13	30	302.58	329.47308	371.0003	15.940643	ArialMT
+repeated exposure (STOT-	false	13	31	34.74	141.74808	360.6202	0.0	ArialMT
+bw/d	false	13	31	259.74	278.45908	360.6202	117.99191	ArialMT
+RE):	false	13	32	34.74	52.587524	350.30023	0.0	ArialMT
+Symptoms:	false	13	33	34.74	79.39822	339.9203	0.0	ArialMT
+unconsciousness, drop	false	13	33	463.32	557.2337	339.9203	383.92178	ArialMT
+in blood pressure,	false	13	34	463.32	536.8699	329.6003	0.0	ArialMT
+vomiting, headaches,	false	13	35	463.32	550.29944	319.28033	0.0	ArialMT
+cramps, drowsiness,	false	13	36	463.32	547.15967	308.90024	0.0	ArialMT
+mucous membrane	false	13	37	463.32	542.31616	298.58026	0.0	ArialMT
+irritation, dizziness,	false	13	38	463.32	541.86743	288.20016	0.0	ArialMT
+nausea	false	13	39	463.32	492.60397	277.8802	0.0	ArialMT
+Specific target organ toxicity -	false	13	40	34.74	151.92595	267.5004	0.0	ArialMT
+NOAEC	false	13	40	163.32	195.17934	267.5004	11.394058	ArialMT
+638,4	false	13	40	206.16	228.54555	267.5004	10.980667	ArialMT
+mg/m3	false	13	40	259.74	287.15982	267.5004	31.194443	ArialMT
+repeated exposure (STOT-	false	13	41	34.74	141.74808	257.18042	0.0	ArialMT
+RE), inhalat.:	false	13	42	34.74	86.46234	246.86043	0.0	ArialMT
+Benzenesulfonic acid, C10-C13 alkyl derivatives, calcium salts	false	13	43	34.74	299.60773	226.1603	0.0	Arial-BoldMT
+Toxicity/effect	false	13	44	34.74	94.85758	215.4803	0.0	Arial-BoldMT
+Endpoi	false	13	44	163.32	193.77296	215.4803	68.462425	Arial-BoldMT
+Value	false	13	44	206.16	230.09435	215.4803	12.387039	Arial-BoldMT
+Unit	false	13	44	259.74	277.15662	215.4803	29.645645	Arial-BoldMT
+Organism	false	13	44	302.58	344.44516	215.4803	25.42337	Arial-BoldMT
+Test method	false	13	44	366.9	420.17838	215.4803	22.454834	Arial-BoldMT
+Notes	false	13	44	463.32	488.1591	215.4803	43.141632	Arial-BoldMT
+nt	false	13	45	163.32	171.82454	204.86072	0.0	Arial-BoldMT
+Acute toxicity, by oral route:	false	13	46	34.74	144.4184	194.2403	0.0	ArialMT
+LD50	false	13	46	163.32	184.6763	194.2403	18.901611	ArialMT
+4445	false	13	46	206.16	226.01675	194.2403	21.483704	ArialMT
+mg/kg	false	13	46	259.74	284.16074	194.2403	33.723236	ArialMT
+Rat	false	13	46	302.58	316.52728	194.2403	18.41925	ArialMT
+Acute toxicity, by dermal	false	13	47	34.74	133.97717	183.8603	0.0	ArialMT
+LD50	false	13	47	163.32	184.6763	183.8603	29.342834	ArialMT
+>2000	false	13	47	206.16	231.2965	183.8603	21.483704	ArialMT
+mg/kg	false	13	47	259.74	284.16074	183.8603	28.443497	ArialMT
+Rat	false	13	47	302.58	316.52728	183.8603	18.41925	ArialMT
+Analogous conclusion	false	13	47	463.32	550.2375	183.8603	146.79272	ArialMT
+route:	false	13	48	34.74	57.577915	173.54031	0.0	ArialMT
+Skin corrosion/irritation:	false	13	49	34.74	128.12865	163.1603	0.0	ArialMT
+Rabbit	false	13	49	302.58	328.39633	163.1603	174.45134	ArialMT
+OECD 404 (Acute	false	13	49	366.9	441.04462	163.1603	38.503662	ArialMT
+Irritant	false	13	49	463.32	488.68225	163.1603	22.27539	ArialMT
+Dermal	false	13	50	366.9	398.18515	152.8403	0.0	ArialMT
+Irritation/Corrosion)	false	13	51	366.9	443.38806	142.46022	0.0	ArialMT
+Page  14 of 22	true	14	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	14	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	14	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	14	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	14	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	14	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	14	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	14	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	14	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	14	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	14	7	34.74	65.96778	630.5001	0.0	ArialMT
+Serious eye	false	14	8	34.74	84.31605	609.8003	0.0	ArialMT
+Rabbit	false	14	8	302.58	328.39633	609.8003	218.26395	ArialMT
+OECD 405 (Acute	false	14	8	366.9	441.04462	609.8003	38.503662	ArialMT
+Risk of serious damage	false	14	8	463.32	559.26605	609.8003	22.27539	ArialMT
+damage/irritation:	false	14	9	34.74	103.75535	599.4803	0.0	ArialMT
+Eye	false	14	9	366.9	384.68842	599.4803	263.14465	ArialMT
+to eyes.	false	14	9	463.32	494.5657	599.4803	78.63159	ArialMT
+Irritation/Corrosion)	false	14	10	366.9	443.38806	589.1603	0.0	ArialMT
+Respiratory or skin	false	14	11	34.74	111.59434	578.7803	0.0	ArialMT
+Guinea pig	false	14	11	302.58	345.8641	578.7803	190.98566	ArialMT
+OECD 406 (Skin	false	14	11	366.9	435.52386	578.7803	21.035889	ArialMT
+No (skin contact),	false	14	11	463.32	535.48944	578.7803	27.796143	ArialMT
+sensitisation:	false	14	12	34.74	86.36021	568.46027	0.0	ArialMT
+Sensitisation)	false	14	12	366.9	420.51685	568.46027	280.5398	ArialMT
+Analogous conclusion	false	14	12	463.32	550.2375	568.46027	42.80316	ArialMT
+Germ cell mutagenicity:	false	14	13	34.74	128.10176	558.0803	0.0	ArialMT
+OECD 476 (In Vitro	false	14	13	366.9	446.49365	558.0803	238.79823	ArialMT
+Negative, Analogous	false	14	13	463.32	548.2804	558.0803	16.826355	ArialMT
+Mammalian Cell	false	14	14	366.9	433.4018	547.7603	0.0	ArialMT
+conclusion	false	14	14	463.32	505.5237	547.7603	29.918213	ArialMT
+Gene Mutation Test)	false	14	15	366.9	448.57455	537.38025	0.0	ArialMT
+Reproductive toxicity:	false	14	16	34.74	119.56948	527.0603	0.0	ArialMT
+Rat	false	14	16	302.58	316.52728	527.0603	183.0105	ArialMT
+No indications of such	false	14	16	463.32	553.3254	527.0603	146.79272	ArialMT
+an effect., Analogous	false	14	17	463.32	549.87396	516.7403	0.0	ArialMT
+conclusion	false	14	18	463.32	505.5237	506.3602	0.0	ArialMT
+beta-cyfluthrin	false	14	19	34.74	96.84623	485.6603	0.0	Arial-BoldMT
+Toxicity/effect	false	14	20	34.74	94.85758	475.0403	0.0	Arial-BoldMT
+Endpoi	false	14	20	163.32	193.77296	475.0403	68.462425	Arial-BoldMT
+Value	false	14	20	206.16	230.09435	475.0403	12.387039	Arial-BoldMT
+Unit	false	14	20	259.74	277.15662	475.0403	29.645645	Arial-BoldMT
+Organism	false	14	20	302.58	344.44516	475.0403	25.42337	Arial-BoldMT
+Test method	false	14	20	366.9	420.17838	475.0403	22.454834	Arial-BoldMT
+Notes	false	14	20	463.32	488.1591	475.0403	43.141632	Arial-BoldMT
+nt	false	14	21	163.32	171.82454	464.42072	0.0	Arial-BoldMT
+Acute toxicity, by dermal	false	14	22	34.74	133.97717	453.7403	0.0	ArialMT
+LD50	false	14	22	163.32	184.6763	453.7403	29.342834	ArialMT
+>5000	false	14	22	206.16	231.2965	453.7403	21.483704	ArialMT
+mg/kg	false	14	22	259.74	284.16074	453.7403	28.443497	ArialMT
+Rat	false	14	22	302.58	316.52728	453.7403	18.41925	ArialMT
+route:	false	14	23	34.74	57.577915	443.42032	0.0	ArialMT
+Skin corrosion/irritation:	false	14	24	34.74	128.12865	433.0403	0.0	ArialMT
+Not irritant	false	14	24	463.32	504.57874	433.0403	335.19135	ArialMT
+Serious eye	false	14	25	34.74	84.31605	422.7203	0.0	ArialMT
+Mild irritant	false	14	25	463.32	507.02414	422.7203	379.00397	ArialMT
+damage/irritation:	false	14	26	34.74	103.75535	412.3402	0.0	ArialMT
+Respiratory or skin	false	14	27	34.74	111.59434	402.0203	0.0	ArialMT
+Guinea pig	false	14	27	302.58	345.8641	402.0203	190.98566	ArialMT
+OECD 406 (Skin	false	14	27	366.9	435.52386	402.0203	21.035889	ArialMT
+Not sensitizising	false	14	27	463.32	527.96844	402.0203	27.796143	ArialMT
+sensitisation:	false	14	28	34.74	86.36021	391.70032	0.0	ArialMT
+Sensitisation)	false	14	28	366.9	420.51685	391.70032	280.5398	ArialMT
+Symptoms:	false	14	29	34.74	79.39822	381.3203	0.0	ArialMT
+headaches, cramps,	false	14	29	463.32	546.3652	381.3203	383.92178	ArialMT
+gastrointestinal	false	14	30	463.32	525.8714	371.00034	0.0	ArialMT
+disturbances, dizziness	false	14	31	463.32	558.20123	360.62024	0.0	ArialMT
+nausea and vomiting.	false	14	32	463.32	548.2443	350.30026	0.0	ArialMT
+SECTION 12:	false	14	33	194.76	255.34004	319.2803	0.0	Arial-BoldMT
+Ecological information	false	14	33	261.39804	400.73215	319.2803	0.0	Arial-BoldMT
+Possibly more information on environmental effects, see Section 2.1 (classification).	false	14	34	34.74	365.74954	294.1404	0.0	ArialMT
+Gandalf	false	14	35	34.74	68.08452	283.5804	0.0	Arial-BoldMT
+Toxicity/effect	false	14	36	34.74	94.85758	272.9003	0.0	Arial-BoldMT
+Endpoint	false	14	36	136.5	175.48795	272.9003	41.642418	Arial-BoldMT
+Time	false	14	36	190.08	211.02065	272.9003	14.592056	Arial-BoldMT
+Value	false	14	36	227.58	251.4615	272.9003	16.559357	Arial-BoldMT
+Unit	false	14	36	265.08	282.5396	272.9003	13.6184845	Arial-BoldMT
+Organism	false	14	36	307.92	349.72876	272.9003	25.380402	Arial-BoldMT
+Test method	false	14	36	388.26	441.5509	272.9003	38.53125	Arial-BoldMT
+Notes	false	14	36	463.32	488.1591	272.9003	21.769104	Arial-BoldMT
+Toxicity to fish:	false	14	37	34.74	93.83998	262.5203	0.0	ArialMT
+n.d.a.	false	14	37	463.32	485.66977	262.5203	369.48004	ArialMT
+Toxicity to daphnia:	false	14	38	34.74	111.63288	252.1404	0.0	ArialMT
+n.d.a.	false	14	38	463.32	485.66977	252.1404	351.68713	ArialMT
+Toxicity to algae:	false	14	39	34.74	101.72734	241.8203	0.0	ArialMT
+n.d.a.	false	14	39	463.32	485.66977	241.8203	361.59265	ArialMT
+Persistence and	false	14	40	34.74	101.32333	231.4403	0.0	ArialMT
+n.d.a.	false	14	40	463.32	485.66977	231.4403	361.99667	ArialMT
+degradability:	false	14	41	34.74	87.67972	221.12032	0.0	ArialMT
+Bioaccumulative	false	14	42	34.74	102.280014	210.8003	0.0	ArialMT
+n.d.a.	false	14	42	463.32	485.66977	210.8003	361.03998	ArialMT
+potential:	false	14	43	34.74	70.9349	200.42021	0.0	ArialMT
+Mobility in soil:	false	14	44	34.74	92.752495	190.1003	0.0	ArialMT
+n.d.a.	false	14	44	463.32	485.66977	190.1003	370.5675	ArialMT
+Results of PBT and	false	14	45	34.74	114.37126	179.7203	0.0	ArialMT
+n.d.a.	false	14	45	463.32	485.66977	179.7203	348.94873	ArialMT
+vPvB assessment	false	14	46	34.74	105.89001	169.40031	0.0	ArialMT
+Other adverse effects:	false	14	47	34.74	122.7907	159.0204	0.0	ArialMT
+n.d.a.	false	14	47	463.32	485.66977	159.0204	340.5293	ArialMT
+Hydrocarbons, C10, aromatics, <1% naphthalene	false	14	48	34.74	242.44989	138.3803	0.0	Arial-BoldMT
+Toxicity/effect	false	14	49	34.74	94.85758	127.7003	0.0	Arial-BoldMT
+Endpoint	false	14	49	136.5	175.48795	127.7003	41.642418	Arial-BoldMT
+Time	false	14	49	190.08	211.02065	127.7003	14.592056	Arial-BoldMT
+Value	false	14	49	227.58	251.4615	127.7003	16.559357	Arial-BoldMT
+Unit	false	14	49	265.08	282.5396	127.7003	13.6184845	Arial-BoldMT
+Organism	false	14	49	307.92	349.72876	127.7003	25.380402	Arial-BoldMT
+Test method	false	14	49	388.26	441.5509	127.7003	38.53125	Arial-BoldMT
+Notes	false	14	49	463.32	488.1591	127.7003	21.769104	Arial-BoldMT
+Page  15 of 22	true	15	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	15	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	15	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	15	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	15	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	15	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	15	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	15	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	15	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	15	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	15	7	34.74	65.96778	630.5001	0.0	ArialMT
+Toxicity to fish:	false	15	8	34.74	93.83998	609.8003	0.0	ArialMT
+LL50	false	15	8	136.5	156.35675	609.8003	42.66002	ArialMT
+96h	false	15	8	190.08	205.01802	609.8003	33.72325	ArialMT
+2 - 5	false	15	8	227.58	245.52248	609.8003	22.561981	ArialMT
+mg/l	false	15	8	265.08	282.00934	609.8003	19.55751	ArialMT
+Oncorhynchus	false	15	8	307.92	367.96313	609.8003	25.910675	ArialMT
+OECD 203	false	15	8	388.26	434.01736	609.8003	20.296875	ArialMT
+mykiss	false	15	9	307.92	335.11594	599.4803	0.0	ArialMT
+(Fish, Acute	false	15	9	388.26	438.53482	599.4803	53.144073	ArialMT
+Toxicity Test)	false	15	10	388.26	441.53113	589.1603	0.0	ArialMT
+Toxicity to daphnia:	false	15	11	34.74	111.63288	578.7803	0.0	ArialMT
+EL50	false	15	11	136.5	157.37794	578.7803	24.867119	ArialMT
+48h	false	15	11	190.08	205.01802	578.7803	32.702057	ArialMT
+3 -10	false	15	11	227.58	247.9796	578.7803	22.561981	ArialMT
+mg/l	false	15	11	265.08	282.00934	578.7803	17.100388	ArialMT
+Daphnia magna	false	15	11	307.92	370.98743	578.7803	25.910675	ArialMT
+OECD 202	false	15	11	388.26	434.01736	578.7803	17.272583	ArialMT
+(Daphnia sp.	false	15	12	388.26	441.4568	568.46027	0.0	ArialMT
+Acute	false	15	13	388.26	413.66434	558.0802	0.0	ArialMT
+Immobilisation	false	15	14	388.26	447.85797	547.7602	0.0	ArialMT
+Test)	false	15	15	388.26	408.76532	537.3801	0.0	ArialMT
+Toxicity to algae:	false	15	16	34.74	101.72734	527.0603	0.0	ArialMT
+EL50	false	15	16	136.5	157.37794	527.0603	34.77266	ArialMT
+72h	false	15	16	190.08	205.01802	527.0603	32.702057	ArialMT
+11	false	15	16	227.58	237.47926	527.0603	22.561981	ArialMT
+mg/l	false	15	16	265.08	282.00934	527.0603	27.600723	ArialMT
+Pseudokirchnerie	false	15	16	307.92	376.93704	527.0603	25.910675	ArialMT
+OECD 201	false	15	16	388.26	434.01736	527.0603	11.322968	ArialMT
+lla subcapitata	false	15	17	307.92	365.0547	516.7403	0.0	ArialMT
+(Alga, Growth	false	15	17	388.26	445.32745	516.7403	23.205322	ArialMT
+Inhibition Test)	false	15	18	388.26	446.9846	506.3602	0.0	ArialMT
+Toxicity to algae:	false	15	19	34.74	101.72734	496.0403	0.0	ArialMT
+NOELR	false	15	19	136.5	167.33813	496.0403	34.77266	ArialMT
+72h	false	15	19	190.08	205.01802	496.0403	22.741867	ArialMT
+2,5	false	15	19	227.58	240.00089	496.0403	22.561981	ArialMT
+mg/l	false	15	19	265.08	282.00934	496.0403	25.079102	ArialMT
+Pseudokirchnerie	false	15	19	307.92	376.93704	496.0403	25.910675	ArialMT
+OECD 201	false	15	19	388.26	434.01736	496.0403	11.322968	ArialMT
+lla subcapitata	false	15	20	307.92	365.0547	485.66022	0.0	ArialMT
+(Alga, Growth	false	15	20	388.26	445.32745	485.66022	23.205322	ArialMT
+Inhibition Test)	false	15	21	388.26	446.9846	475.34024	0.0	ArialMT
+Persistence and	false	15	22	34.74	101.32333	464.9603	0.0	ArialMT
+28d	false	15	22	190.08	205.01802	464.9603	88.75667	ArialMT
+49,56	false	15	22	227.58	249.89836	464.9603	22.561981	ArialMT
+%	false	15	22	265.08	273.04346	464.9603	15.181625	ArialMT
+OECD 301 F	false	15	22	388.26	442.00406	464.9603	115.21655	ArialMT
+Not readily but inherent	false	15	22	463.32	558.1364	464.9603	21.315948	ArialMT
+degradability:	false	15	23	34.74	87.67972	454.64032	0.0	ArialMT
+(Ready	false	15	23	388.26	419.42773	454.64032	300.5803	ArialMT
+biodegradable.	false	15	23	463.32	522.3116	454.64032	43.892273	ArialMT
+Biodegradability	false	15	24	388.26	451.76007	444.32034	0.0	ArialMT
+- Manometric	false	15	25	388.26	445.4985	433.94025	0.0	ArialMT
+Respirometry	false	15	26	388.26	443.81088	423.62027	0.0	ArialMT
+Test)	false	15	27	388.26	408.76532	413.24017	0.0	ArialMT
+Persistence and	false	15	28	34.74	101.32333	402.9203	0.0	ArialMT
+28d	false	15	28	190.08	205.01802	402.9203	88.75667	ArialMT
+49,6	false	15	28	227.58	244.97963	402.9203	22.561981	ArialMT
+%	false	15	28	265.08	273.04346	402.9203	20.100357	ArialMT
+OECD 301 F	false	15	28	388.26	442.00406	402.9203	115.21655	ArialMT
+Not readily but inherent	false	15	28	463.32	558.1364	402.9203	21.315948	ArialMT
+degradability:	false	15	29	34.74	87.67972	392.6003	0.0	ArialMT
+(Ready	false	15	29	388.26	419.42773	392.6003	300.5803	ArialMT
+biodegradable.	false	15	29	463.32	522.3116	392.6003	43.892273	ArialMT
+Biodegradability	false	15	30	388.26	451.76007	382.2202	0.0	ArialMT
+- Manometric	false	15	31	388.26	445.4985	371.90024	0.0	ArialMT
+Respirometry	false	15	32	388.26	443.81088	361.52014	0.0	ArialMT
+Test)	false	15	33	388.26	408.76532	351.20016	0.0	ArialMT
+Water solubility:	false	15	34	34.74	97.71959	340.8203	0.0	ArialMT
+Insoluble	false	15	34	463.32	499.09653	340.8203	365.6004	ArialMT
+2-Ethylhexanol	false	15	35	34.74	98.36904	320.1804	0.0	Arial-BoldMT
+Toxicity/effect	false	15	36	34.74	94.85758	309.5003	0.0	Arial-BoldMT
+Endpoint	false	15	36	136.5	175.48795	309.5003	41.642418	Arial-BoldMT
+Time	false	15	36	190.08	211.02065	309.5003	14.592056	Arial-BoldMT
+Value	false	15	36	227.58	251.4615	309.5003	16.559357	Arial-BoldMT
+Unit	false	15	36	265.08	282.5396	309.5003	13.6184845	Arial-BoldMT
+Organism	false	15	36	307.92	349.72876	309.5003	25.380402	Arial-BoldMT
+Test method	false	15	36	388.26	441.5509	309.5003	38.53125	Arial-BoldMT
+Notes	false	15	36	463.32	488.1591	309.5003	21.769104	Arial-BoldMT
+Toxicity to fish:	false	15	37	34.74	93.83998	298.8803	0.0	ArialMT
+LC50	false	15	37	136.5	157.8563	298.8803	42.66002	ArialMT
+96h	false	15	37	190.08	205.01802	298.8803	32.22371	ArialMT
+17,1	false	15	37	227.58	244.97963	298.8803	22.561981	ArialMT
+mg/l	false	15	37	265.08	282.00934	298.8803	20.100357	ArialMT
+Leuciscus idus	false	15	37	307.92	366.50574	298.8803	25.910675	ArialMT
+Toxicity to daphnia:	false	15	38	34.74	111.63288	288.5004	0.0	ArialMT
+EC50	false	15	38	136.5	158.87747	288.5004	24.867119	ArialMT
+48h	false	15	38	190.08	205.01802	288.5004	31.20253	ArialMT
+39	false	15	38	227.58	237.47926	288.5004	22.561981	ArialMT
+mg/l	false	15	38	265.08	282.00934	288.5004	27.600723	ArialMT
+Daphnia magna	false	15	38	307.92	370.98743	288.5004	25.910675	ArialMT
+Toxicity to algae:	false	15	39	34.74	101.72734	278.1804	0.0	ArialMT
+EC50	false	15	39	136.5	158.87747	278.1804	34.77266	ArialMT
+72h	false	15	39	190.08	205.01802	278.1804	31.20253	ArialMT
+11,5	false	15	39	227.58	244.97963	278.1804	22.561981	ArialMT
+mg/l	false	15	39	265.08	282.00934	278.1804	20.100357	ArialMT
+Scenedesmus	false	15	39	307.92	367.03433	278.1804	25.910675	ArialMT
+subspicatus	false	15	40	307.92	355.12402	267.8003	0.0	ArialMT
+Persistence and	false	15	41	34.74	101.32333	257.4803	0.0	ArialMT
+5d	false	15	41	190.08	200.03928	257.4803	88.75667	ArialMT
+> 95	false	15	41	227.58	245.27971	257.4803	27.540726	ArialMT
+%	false	15	41	265.08	273.04346	257.4803	19.800278	ArialMT
+OECD 301 B	false	15	41	388.26	442.48425	257.4803	115.21655	ArialMT
+degradability:	false	15	42	34.74	87.67972	247.1603	0.0	ArialMT
+(Ready	false	15	42	388.26	419.42773	247.1603	300.5803	ArialMT
+Biodegradability	false	15	43	388.26	451.76007	236.78021	0.0	ArialMT
+- Co2	false	15	44	388.26	415.1137	226.46022	0.0	ArialMT
+Evolution Test)	false	15	45	388.26	448.00858	216.08014	0.0	ArialMT
+Bioaccumulative	false	15	46	34.74	102.280014	205.7603	0.0	ArialMT
+BCF	false	15	46	136.5	154.39142	205.7603	34.219986	ArialMT
+25,33	false	15	46	227.58	249.89836	205.7603	73.18858	ArialMT
+potential:	false	15	47	34.74	70.9349	195.38022	0.0	ArialMT
+Bioaccumulative	false	15	48	34.74	102.280014	185.0603	0.0	ArialMT
+Log Kow	false	15	48	136.5	171.30013	185.0603	34.219986	ArialMT
+2,9	false	15	48	227.58	240.00089	185.0603	56.279877	ArialMT
+potential:	false	15	49	34.74	70.9349	174.74031	0.0	ArialMT
+Results of PBT and	false	15	50	34.74	114.37126	164.3604	0.0	ArialMT
+No PBT substance, No	false	15	50	463.32	556.88873	164.3604	348.94873	ArialMT
+vPvB assessment	false	15	51	34.74	105.89001	154.0404	0.0	ArialMT
+vPvB substance	false	15	51	463.32	527.5447	154.0404	357.43	ArialMT
+Benzenesulfonic acid, C10-C13 alkyl derivatives, calcium salts	false	15	52	34.74	299.60773	133.3403	0.0	Arial-BoldMT
+Toxicity/effect	false	15	53	34.74	94.85758	122.7203	0.0	Arial-BoldMT
+Endpoint	false	15	53	136.5	175.48795	122.7203	41.642418	Arial-BoldMT
+Time	false	15	53	190.08	211.02065	122.7203	14.592056	Arial-BoldMT
+Value	false	15	53	227.58	251.4615	122.7203	16.559357	Arial-BoldMT
+Unit	false	15	53	265.08	282.5396	122.7203	13.6184845	Arial-BoldMT
+Organism	false	15	53	307.92	349.72876	122.7203	25.380402	Arial-BoldMT
+Test method	false	15	53	388.26	441.5509	122.7203	38.53125	Arial-BoldMT
+Notes	false	15	53	463.32	488.1591	122.7203	21.769104	Arial-BoldMT
+Page  16 of 22	true	16	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	16	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	16	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	16	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	16	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	16	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	16	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	16	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	16	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	16	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	16	7	34.74	65.96778	630.5001	0.0	ArialMT
+Toxicity to fish:	false	16	8	34.74	93.83998	609.8003	0.0	ArialMT
+LC50	false	16	8	136.5	157.8563	609.8003	42.66002	ArialMT
+96h	false	16	8	190.08	205.01802	609.8003	32.22371	ArialMT
+>1 -	false	16	8	227.58	245.81898	609.8003	22.561981	ArialMT
+mg/l	false	16	8	265.08	282.00934	609.8003	19.261002	ArialMT
+OECD 203	false	16	8	388.26	434.01736	609.8003	106.25067	ArialMT
+<10	false	16	9	227.58	242.75809	599.4803	0.0	ArialMT
+(Fish, Acute	false	16	9	388.26	438.53482	599.4803	145.50192	ArialMT
+Toxicity Test)	false	16	10	388.26	441.53113	589.1603	0.0	ArialMT
+Toxicity to fish:	false	16	11	34.74	93.83998	578.7803	0.0	ArialMT
+NOEC/NO	false	16	11	136.5	178.3374	578.7803	42.66002	ArialMT
+0,23	false	16	11	227.58	244.97963	578.7803	49.2426	ArialMT
+mg/l	false	16	11	265.08	282.00934	578.7803	20.100357	ArialMT
+Salmo gairdneri	false	16	11	307.92	370.50082	578.7803	25.910675	ArialMT
+Analogous conclusion	false	16	11	463.32	552.73584	578.7803	92.81918	ArialMT
+EL	false	16	12	136.5	147.48047	568.46027	0.0	ArialMT
+(72 d)	false	16	12	463.32	486.64154	568.46027	315.83954	ArialMT
+Toxicity to daphnia:	false	16	13	34.74	111.63288	558.0803	0.0	ArialMT
+EC50	false	16	13	136.5	158.87747	558.0803	24.867119	ArialMT
+48h	false	16	13	190.08	205.01802	558.0803	31.20253	ArialMT
+2,9	false	16	13	227.58	240.00089	558.0803	22.561981	ArialMT
+mg/l	false	16	13	265.08	282.00934	558.0803	25.079102	ArialMT
+OECD 202	false	16	13	388.26	434.01736	558.0803	106.25067	ArialMT
+Analogous conclusion	false	16	13	463.32	550.2375	558.0803	29.302643	ArialMT
+(Daphnia sp.	false	16	14	388.26	441.4568	547.7603	0.0	ArialMT
+Acute	false	16	15	388.26	413.66434	537.38025	0.0	ArialMT
+Immobilisation	false	16	16	388.26	447.85797	527.06024	0.0	ArialMT
+Test)	false	16	17	388.26	408.76532	516.74023	0.0	ArialMT
+Toxicity to daphnia:	false	16	18	34.74	111.63288	506.3603	0.0	ArialMT
+NOEC/NO	false	16	18	136.5	178.3374	506.3603	24.867119	ArialMT
+48h	false	16	18	190.08	205.01802	506.3603	11.7425995	ArialMT
+0,379	false	16	18	227.58	249.89836	506.3603	22.561981	ArialMT
+mg/l	false	16	18	265.08	282.00934	506.3603	15.181625	ArialMT
+Analogous conclusion	false	16	18	463.32	550.2375	506.3603	181.31067	ArialMT
+EL	false	16	19	136.5	147.48047	496.0403	0.0	ArialMT
+Toxicity to algae:	false	16	20	34.74	101.72734	485.6603	0.0	ArialMT
+NOEC/NO	false	16	20	136.5	178.3374	485.6603	34.77266	ArialMT
+96h	false	16	20	190.08	205.01802	485.6603	11.7425995	ArialMT
+0,5	false	16	20	227.58	240.00089	485.6603	22.561981	ArialMT
+mg/l	false	16	20	265.08	282.00934	485.6603	25.079102	ArialMT
+Selenastrum	false	16	20	307.92	360.5604	485.6603	25.910675	ArialMT
+Analogous conclusion	false	16	20	463.32	550.2375	485.6603	102.75961	ArialMT
+EL	false	16	21	136.5	147.48047	475.34033	0.0	ArialMT
+capricornutum	false	16	21	307.92	364.5522	475.34033	160.43954	ArialMT
+Persistence and	false	16	22	34.74	101.32333	464.9603	0.0	ArialMT
+28d	false	16	22	190.08	205.01802	464.9603	88.75667	ArialMT
+109	false	16	22	227.58	242.45801	464.9603	22.561981	ArialMT
+%	false	16	22	265.08	273.04346	464.9603	22.621979	ArialMT
+OECD 301 B	false	16	22	388.26	442.48425	464.9603	115.21655	ArialMT
+Readily biodegradable	false	16	22	463.32	554.4066	464.9603	20.835754	ArialMT
+degradability:	false	16	23	34.74	87.67972	454.64032	0.0	ArialMT
+(Ready	false	16	23	388.26	419.42773	454.64032	300.5803	ArialMT
+(Analogous conclusion)	false	16	23	463.32	556.09686	454.64032	43.892273	ArialMT
+Biodegradability	false	16	24	388.26	451.76007	444.32034	0.0	ArialMT
+- Co2	false	16	25	388.26	415.1137	433.94025	0.0	ArialMT
+Evolution Test)	false	16	26	388.26	448.00858	423.62027	0.0	ArialMT
+beta-cyfluthrin	false	16	27	34.74	96.84623	402.9203	0.0	Arial-BoldMT
+Toxicity/effect	false	16	28	34.74	94.85758	392.3003	0.0	Arial-BoldMT
+Endpoint	false	16	28	136.5	175.48795	392.3003	41.642418	Arial-BoldMT
+Time	false	16	28	190.08	211.02065	392.3003	14.592056	Arial-BoldMT
+Value	false	16	28	227.58	251.4615	392.3003	16.559357	Arial-BoldMT
+Unit	false	16	28	265.08	282.5396	392.3003	13.6184845	Arial-BoldMT
+Organism	false	16	28	307.92	349.72876	392.3003	25.380402	Arial-BoldMT
+Test method	false	16	28	388.26	441.5509	392.3003	38.53125	Arial-BoldMT
+Notes	false	16	28	463.32	488.1591	392.3003	21.769104	Arial-BoldMT
+Toxicity to fish:	false	16	29	34.74	93.83998	381.6203	0.0	ArialMT
+LC50	false	16	29	136.5	157.8563	381.6203	42.66002	ArialMT
+96h	false	16	29	190.08	205.01802	381.6203	32.22371	ArialMT
+0,0000	false	16	29	227.58	254.8771	381.6203	22.561981	ArialMT
+mg/l	false	16	29	265.08	282.00934	381.6203	10.202881	ArialMT
+Oncorhynchus	false	16	29	307.92	367.96313	381.6203	25.910675	ArialMT
+68	false	16	30	227.58	237.47926	371.30032	0.0	ArialMT
+mykiss	false	16	30	307.92	335.11594	371.30032	70.44075	ArialMT
+Toxicity to fish:	false	16	31	34.74	93.83998	360.9203	0.0	ArialMT
+LC50	false	16	31	136.5	157.8563	360.9203	42.66002	ArialMT
+96h	false	16	31	190.08	205.01802	360.9203	32.22371	ArialMT
+0,0002	false	16	31	227.58	254.8771	360.9203	22.561981	ArialMT
+mg/l	false	16	31	265.08	282.00934	360.9203	10.202881	ArialMT
+Lepomis	false	16	31	307.92	344.1023	360.9203	25.910675	ArialMT
+8	false	16	32	227.58	232.56053	350.6003	0.0	ArialMT
+macrochirus	false	16	32	307.92	356.6146	350.6003	75.35948	ArialMT
+Toxicity to fish:	false	16	33	34.74	93.83998	340.2203	0.0	ArialMT
+LC50	false	16	33	136.5	157.8563	340.2203	42.66002	ArialMT
+96h	false	16	33	190.08	205.01802	340.2203	32.22371	ArialMT
+0,0003	false	16	33	227.58	254.8771	340.2203	22.561981	ArialMT
+mg/l	false	16	33	265.08	282.00934	340.2203	10.202881	ArialMT
+Leuciscus idus	false	16	33	307.92	366.50574	340.2203	25.910675	ArialMT
+3	false	16	34	227.58	232.56053	329.90033	0.0	ArialMT
+Toxicity to daphnia:	false	16	35	34.74	111.63288	319.5804	0.0	ArialMT
+EC50	false	16	35	136.5	158.87747	319.5804	24.867119	ArialMT
+48h	false	16	35	190.08	205.01802	319.5804	31.20253	ArialMT
+0,0002	false	16	35	227.58	254.8771	319.5804	22.561981	ArialMT
+mg/l	false	16	35	265.08	282.00934	319.5804	10.202881	ArialMT
+Daphnia magna	false	16	35	307.92	370.98743	319.5804	25.910675	ArialMT
+9	false	16	36	227.58	232.56053	309.20032	0.0	ArialMT
+Toxicity to algae:	false	16	37	34.74	101.72734	298.8803	0.0	ArialMT
+IC50	false	16	37	136.5	155.40004	298.8803	34.77266	ArialMT
+96h	false	16	37	190.08	205.01802	298.8803	34.679962	ArialMT
+>0,01	false	16	37	227.58	250.21902	298.8803	22.561981	ArialMT
+mg/l	false	16	37	265.08	282.00934	298.8803	14.860962	ArialMT
+Scenedesmus	false	16	37	307.92	367.03433	298.8803	25.910675	ArialMT
+subspicatus	false	16	38	307.92	355.12402	288.5002	0.0	ArialMT
+Persistence and	false	16	39	34.74	101.32333	278.1804	0.0	ArialMT
+Readily biodegradable	false	16	39	463.32	551.979	278.1804	361.99667	ArialMT
+degradability:	false	16	40	34.74	87.67972	267.8003	0.0	ArialMT
+Bioaccumulative	false	16	41	34.74	102.280014	257.4803	0.0	ArialMT
+BCF	false	16	41	136.5	154.39142	257.4803	34.219986	ArialMT
+506	false	16	41	227.58	242.45801	257.4803	73.18858	ArialMT
+potential:	false	16	42	34.74	70.9349	247.1603	0.0	ArialMT
+Bioaccumulative	false	16	43	34.74	102.280014	236.7803	0.0	ArialMT
+Log Pow	false	16	43	136.5	171.30013	236.7803	34.219986	ArialMT
+6,18	false	16	43	227.58	244.97963	236.7803	56.279877	ArialMT
+potential:	false	16	44	34.74	70.9349	226.46031	0.0	ArialMT
+SECTION 13:	false	16	45	190.14	251.59973	195.4403	0.0	Arial-BoldMT
+Disposal considerations	false	16	45	257.7457	405.24905	195.4403	0.0	Arial-BoldMT
+13.1 Waste treatment methods	false	16	46	34.74	197.15318	167.3603	0.0	Arial-BoldMT
+For the substance / mixture / residual amounts	false	16	47	34.74	284.03668	154.2203	0.0	Arial-BoldMT
+EC disposal code no.:	false	16	48	34.74	121.67457	143.3004	0.0	ArialMT
+The  waste codes are recommendations based on the scheduled use of this product.	false	16	49	34.74	369.28418	132.98041	0.0	ArialMT
+Owing to the user's specific conditions for use and disposal, other waste codes may be	false	16	50	34.74	377.68845	122.66042	0.0	ArialMT
+Page  17 of 22	true	17	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	17	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	17	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	17	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	17	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	17	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	17	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	17	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	17	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	17	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	17	7	34.74	65.96778	630.5001	0.0	ArialMT
+allocated under certain circumstances. (2001/118/EC, 2001/119/EC, 2001/573/EC)	false	17	8	34.74	362.2818	609.8003	0.0	ArialMT
+02 01 08 agrochemical waste containing dangerous substances	false	17	9	34.740005	286.44876	599.4803	0.0	ArialMT
+07 04 99 wastes not otherwise specified	false	17	10	34.740013	192.93929	589.1603	0.0	ArialMT
+20 01 19 pesticides	false	17	11	34.740013	111.69112	578.7802	0.0	ArialMT
+Recommendation:	false	17	12	34.740013	107.25159	568.4602	0.0	ArialMT
+Pay attention to local and national official regulations	false	17	13	34.740013	242.86641	558.08014	0.0	ArialMT
+E.g. suitable incineration plant.	false	17	14	34.740013	156.4962	547.76013	0.0	ArialMT
+For contaminated packing material	false	17	15	34.74	220.97682	535.1003	0.0	Arial-BoldMT
+Pay attention to local and national official regulations	false	17	16	34.74	242.86641	524.2404	0.0	ArialMT
+Empty container completely.	false	17	17	34.74	146.89879	513.9204	0.0	ArialMT
+Dispose of packaging that cannot be cleaned in the same manner as the substance.	false	17	18	34.74	367.42905	503.5403	0.0	ArialMT
+SECTION 14:	false	17	19	196.74	257.9071	482.9003	0.0	Arial-BoldMT
+Transport information	false	17	19	264.0238	398.59143	482.9003	0.0	Arial-BoldMT
+General statements	false	17	20	34.74	139.10172	455.4803	0.0	Arial-BoldMT
+UN number:	false	17	21	34.74	82.88012	444.6203	0.0	ArialMT
+1993	false	17	21	302.6911	322.54605	444.6203	219.81097	ArialMT
+Transport by road/by rail (ADR/RID)	false	17	22	34.74	224.22702	431.9603	0.0	Arial-BoldMT
+UN proper shipping name:	false	17	23	34.74	138.95865	421.1003	0.0	ArialMT
+UN 1993   FLAMMABLE LIQUID, N.O.S. (HYDROCARBONS, C10, AROMATICS) (SPECIAL PROVISION 640E)	false	17	24	34.74	482.9655	410.7803	0.0	ArialMT
+Transport hazard class(es):	false	17	25	34.74	143.66327	400.4002	0.0	ArialMT
+3	false	17	25	302.6938	307.67432	400.4002	159.03052	ArialMT
+Packing group:	false	17	26	34.74	94.378334	390.08023	0.0	ArialMT
+III	false	17	26	302.78873	310.25592	390.08023	208.4104	ArialMT
+Classification code:	false	17	27	34.74	111.719765	379.70013	0.0	ArialMT
+F1	false	17	27	302.73053	313.23267	379.70013	191.01077	ArialMT
+LQ (ADR 2013):	false	17	28	34.74	98.820526	369.38016	0.0	ArialMT
+5 L	false	17	28	302.6714	315.16034	369.38016	203.85086	ArialMT
+LQ (ADR 2009):	false	17	29	34.74	98.85188	359.00006	0.0	ArialMT
+7	false	17	29	302.70276	307.6833	359.00006	203.85088	ArialMT
+Environmental hazards:	false	17	30	34.74	128.6894	348.68008	0.0	ArialMT
+environmentally hazardous	false	17	30	302.7807	409.40094	348.68008	174.0913	ArialMT
+Tunnel restriction code:	false	17	31	34.74	127.73092	338.3601	0.0	ArialMT
+D/E	false	17	31	302.72156	317.66678	338.3601	174.99063	ArialMT
+Transport by sea (IMDG-code)	false	17	32	34.74	195.15587	325.7003	0.0	Arial-BoldMT
+UN proper shipping name:	false	17	33	34.74	138.95865	314.8403	0.0	ArialMT
+FLAMMABLE LIQUID, N.O.S. (HYDROCARBONS, C10, AROMATICS,BETA-CYFLUTHRIN)	false	17	34	34.74	403.81125	304.4604	0.0	ArialMT
+Transport hazard class(es):	false	17	35	34.74	143.66327	294.1404	0.0	ArialMT
+3	false	17	35	302.6938	307.67432	294.1404	159.03052	ArialMT
+Packing group:	false	17	36	34.74	94.378334	283.82043	0.0	ArialMT
+III	false	17	36	302.78873	310.25592	283.82043	208.4104	ArialMT
+EmS:	false	17	37	34.74	56.609577	273.44034	0.0	ArialMT
+F-E, S-E	false	17	37	302.70004	337.11942	273.44034	246.09047	ArialMT
+Marine Pollutant:	false	17	38	34.74	101.83749	263.12036	0.0	ArialMT
+Yes	false	17	38	302.7484	318.12628	263.12036	200.91092	ArialMT
+Environmental hazards:	false	17	39	34.74	128.6894	252.74028	0.0	ArialMT
+environmentally hazardous	false	17	39	302.7807	409.40094	252.74028	174.0913	ArialMT
+Transport by air (IATA)	false	17	40	34.74	156.9414	240.1404	0.0	Arial-BoldMT
+UN proper shipping name:	false	17	41	34.74	138.95865	229.2803	0.0	ArialMT
+Flammable liquid, n.o.s. (HYDROCARBONS, C10, AROMATICS)	false	17	42	34.74	294.00122	218.9003	0.0	ArialMT
+Transport hazard class(es):	false	17	43	34.739998	143.66327	208.5803	0.0	ArialMT
+3	false	17	43	302.6938	307.67432	208.5803	159.03052	ArialMT
+Packing group:	false	17	44	34.739998	94.37833	198.20023	0.0	ArialMT
+III	false	17	44	302.78873	310.25592	198.20023	208.4104	ArialMT
+Environmental hazards:	false	17	45	34.739998	128.6079	187.88023	0.0	ArialMT
+Not applicable	false	17	45	302.69916	359.36966	187.88023	174.09126	ArialMT
+Special precautions for user	false	17	46	34.74	186.01598	175.2203	0.0	Arial-BoldMT
+Persons employed in transporting dangerous goods must be trained.	false	17	47	34.74	305.98758	164.3604	0.0	ArialMT
+All persons involved in transporting must observe safety regulations.	false	17	48	34.74	304.4916	154.0404	0.0	ArialMT
+Precautions must be taken to prevent damage.	false	17	49	34.740005	220.21935	143.66032	0.0	ArialMT
+Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code	false	17	50	34.74	437.68256	131.0603	0.0	Arial-BoldMT
+Freighted as packaged goods rather than in bulk, therefore not applicable.	false	17	51	34.74	327.5498	120.2003	0.0	ArialMT
+Page  18 of 22	true	18	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	18	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	18	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	18	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	18	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	18	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	18	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	18	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	18	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	18	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	18	7	34.74	65.96778	630.5001	0.0	ArialMT
+Minimum amount regulations have not been taken into account.	false	18	8	34.74	286.34665	609.8003	0.0	ArialMT
+Danger code and packing code on request.	false	18	9	34.74	205.65399	599.4803	0.0	ArialMT
+Comply with special provisions.	false	18	10	34.74	158.66582	589.1603	0.0	ArialMT
+SECTION 15:	false	18	11	193.5	254.79628	568.5203	0.0	Arial-BoldMT
+Regulatory information	false	18	11	260.9259	401.90735	568.5203	0.0	Arial-BoldMT
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture	false	18	12	34.74	558.35034	540.3803	0.0	Arial-BoldMT
+For classification and labelling see Section 2.	false	18	13	34.74	213.12477	529.5203	0.0	ArialMT
+Observe restrictions:	false	18	14	34.74	116.77285	519.14026	0.0	ArialMT
+Yes	false	18	14	302.68393	318.08148	519.14026	185.91107	ArialMT
+Comply with trade association/occupational health regulations.	false	18	15	34.74	281.39395	508.82028	0.0	ArialMT
+Observe youth employment law (German regulation).	false	18	16	34.74	244.67232	498.5003	0.0	ArialMT
+Observe law on protection of expectant mothers (German regulation).	false	18	17	34.74	309.53214	488.1202	0.0	ArialMT
+VOC (1999/13/EC):	false	18	18	34.740005	112.25631	477.80023	0.0	ArialMT
+88,2 - 90% w/w	false	18	18	302.66687	363.75983	477.80023	190.41055	ArialMT
+15.2 Chemical safety assessment	false	18	19	34.74	212.8441	465.1403	0.0	Arial-BoldMT
+A chemical safety assessment is not provided for mixtures.	false	18	20	34.74	267.37408	454.2803	0.0	ArialMT
+SECTION 16:	false	18	21	208.68	270.08145	433.6403	0.0	Arial-BoldMT
+Other information	false	18	21	276.2216	386.7442	433.6403	0.0	Arial-BoldMT
+These details refer to the product as it is delivered.	false	18	22	34.74	235.25235	408.5003	0.0	ArialMT
+Revised sections:	false	18	23	34.74	104.80164	398.1202	0.0	ArialMT
+2, 3	false	18	23	302.7126	317.69894	398.1202	197.91095	ArialMT
+Classification and processes used to derive the classification of the mixture in accordance with	false	18	24	34.74	548.91736	377.4803	0.0	Arial-BoldMT
+the ordinance (EG) 1272/2008 (CLP):	false	18	25	34.73999	228.53482	364.34027	0.0	Arial-BoldMT
+Classification in accordance with regulation	false	18	26	34.74	273.10037	338.0004	0.0	Arial-BoldMT
+Evaluation method used	false	18	26	302.7	432.68182	338.0004	29.59964	Arial-BoldMT
+(EC) No. 1272/2008 (CLP)	false	18	27	34.739998	168.44121	324.86038	0.0	Arial-BoldMT
+Flam. Liq. 3, H226	false	18	28	34.74	126.60156	311.7203	0.0	ArialMT
+Classification based on test data.	false	18	28	302.7	467.8637	311.7203	176.09845	ArialMT
+Acute Tox. 4, H332	false	18	29	34.74	130.82516	298.8203	0.0	ArialMT
+Classification based on test data.	false	18	29	302.7	467.8637	298.8203	171.87485	ArialMT
+Acute Tox. 4, H302	false	18	30	34.74	130.82516	285.8604	0.0	ArialMT
+Classification based on test data.	false	18	30	302.7	467.8637	285.8604	171.87485	ArialMT
+Eye Irrit. 2, H319	false	18	31	34.74	119.06263	272.9603	0.0	ArialMT
+Classification based on test data.	false	18	31	302.7	467.8637	272.9603	183.63739	ArialMT
+Skin Sens. 1, H317	false	18	32	34.74	130.93968	260.0604	0.0	ArialMT
+Classification based on test data.	false	18	32	302.7	467.8637	260.0604	171.76033	ArialMT
+Asp. Tox. 1, H304	false	18	33	34.74	124.6357	247.1003	0.0	ArialMT
+Classification according to calculation procedure.	false	18	33	302.7	546.79156	247.1003	178.06432	ArialMT
+STOT SE 3, H336	false	18	34	34.74	125.18472	234.2003	0.0	ArialMT
+Classification according to calculation procedure.	false	18	34	302.7	546.79156	234.2003	177.51529	ArialMT
+Aquatic Acute 1, H400	false	18	35	34.74	146.59349	221.3003	0.0	ArialMT
+Classification according to calculation procedure.	false	18	35	302.7	546.79156	221.3003	156.10652	ArialMT
+Aquatic Chronic 1, H410	false	18	36	34.74	156.65514	208.4003	0.0	ArialMT
+Classification according to calculation procedure.	false	18	36	302.7	546.79156	208.4003	146.04488	ArialMT
+The following phrases represent the posted R phrases / H phrases, Hazard Class and Risk Category Code (GHS/CLP) of the	false	18	37	34.74	531.35077	184.5203	0.0	ArialMT
+product and the constituents (specified in Section 2 and 3).	false	18	38	34.740005	267.43768	174.2003	0.0	ArialMT
+20 Harmful by inhalation.	false	18	39	34.740005	133.46483	163.82022	0.0	ArialMT
+20/22 Harmful by inhalation and if swallowed.	false	18	40	34.740005	213.55293	153.50023	0.0	ArialMT
+26/28 Very toxic by inhalation and if swallowed.	false	18	41	34.740005	221.46713	143.12015	0.0	ArialMT
+36/37/38 Irritating to eyes, respiratory system and skin.	false	18	42	34.740005	251.74895	132.80016	0.0	ArialMT
+38 Irritating to skin.	false	18	43	34.740005	110.34384	122.48017	0.0	ArialMT
+Page  19 of 22	true	19	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	19	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	19	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	19	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	19	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	19	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	19	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	19	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	19	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	19	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	19	7	34.74	65.96778	630.5001	0.0	ArialMT
+41 Risk of serious damage to eyes.	false	19	8	34.74	174.39836	609.8003	0.0	ArialMT
+43 May cause sensitization by skin contact.	false	19	9	34.74	206.04266	599.4803	0.0	ArialMT
+50 Very toxic to aquatic organisms.	false	19	10	34.74	173.90657	589.1603	0.0	ArialMT
+50/53 Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.	false	19	11	34.74	445.24542	578.7802	0.0	ArialMT
+51 Toxic to aquatic organisms.	false	19	12	34.740005	156.08864	568.4602	0.0	ArialMT
+52 Harmful to aquatic organisms.	false	19	13	34.740005	165.90729	558.08014	0.0	ArialMT
+53 May cause long-term adverse effects in the aquatic environment.	false	19	14	34.740005	303.6173	547.76013	0.0	ArialMT
+65 Harmful:	false	19	15	34.740005	77.035515	537.38007	0.0	ArialMT
+may cause lung damage if swallowed.	false	19	15	81.26507	233.52888	537.38007	0.0	ArialMT
+66 Repeated exposure may cause skin dryness or cracking.	false	19	16	34.740005	271.6236	527.06006	0.0	ArialMT
+67 Vapours may cause drowsiness and dizziness.	false	19	17	34.740005	232.29446	516.74005	0.0	ArialMT
+H300 Fatal if swallowed.	false	19	18	34.740005	131.25671	506.35995	0.0	ArialMT
+H304 May be fatal if swallowed and enters airways.	false	19	19	34.740005	237.2822	496.03998	0.0	ArialMT
+H315 Causes skin irritation.	false	19	20	34.740005	144.02965	485.65988	0.0	ArialMT
+H318 Causes serious eye damage.	false	19	21	34.740005	174.24786	475.3399	0.0	ArialMT
+H319 Causes serious eye irritation.	false	19	22	34.740005	173.77136	464.9598	0.0	ArialMT
+H330 Fatal if inhaled.	false	19	23	34.740005	119.20937	454.63983	0.0	ArialMT
+H332 Harmful if inhaled.	false	19	24	34.740005	130.62611	444.31985	0.0	ArialMT
+H335 May cause respiratory irritation.	false	19	25	34.740005	183.13045	433.93976	0.0	ArialMT
+H336 May cause drowsiness or dizziness.	false	19	26	34.740005	200.95921	423.61978	0.0	ArialMT
+H400 Very toxic to aquatic life.	false	19	27	34.740005	155.41234	413.2397	0.0	ArialMT
+H410 Very toxic to aquatic life with long lasting effects.	false	19	28	34.740005	250.2593	402.9197	0.0	ArialMT
+H411 Toxic to aquatic life with long lasting effects.	false	19	29	34.740005	232.50049	392.59973	0.0	ArialMT
+H412 Harmful to aquatic life with long lasting effects.	false	19	30	34.740005	242.40065	382.21964	0.0	ArialMT
+Flam. Liq. — Flammable liquid	false	19	31	34.740005	155.59149	361.51956	0.0	ArialMT
+Acute Tox. — Acute toxicity - inhalation	false	19	32	34.740005	190.30743	351.1996	0.0	ArialMT
+Acute Tox. — Acute toxicity - oral	false	19	33	34.740005	166.9732	340.8195	0.0	ArialMT
+Eye Irrit. — Eye irritation	false	19	34	34.740005	131.58997	330.4995	0.0	ArialMT
+Skin Sens. — Skin sensitization	false	19	35	34.740005	160.6123	320.17953	0.0	ArialMT
+Asp. Tox. — Aspiration hazard	false	19	36	34.740005	156.11728	309.79944	0.0	ArialMT
+STOT SE — Specific target organ toxicity - single exposure - narcotic effects	false	19	37	34.740005	337.7349	299.47946	0.0	ArialMT
+Aquatic Chronic — Hazardous to the aquatic environment - chronic	false	19	38	34.740005	299.75653	289.09937	0.0	ArialMT
+Aquatic Acute — Hazardous to the aquatic environment - acute	false	19	39	34.740005	284.92136	278.7794	0.0	ArialMT
+Skin Irrit. — Skin irritation	false	19	40	34.740013	135.82161	268.3993	0.0	ArialMT
+STOT SE — Specific target organ toxicity - single exposure - respiratory tract irritation	false	19	41	34.740013	373.9567	258.0793	0.0	ArialMT
+Eye Dam. — Serious eye damage	false	19	42	34.740013	169.74391	247.75932	0.0	ArialMT
+Any abbreviations and acronyms used in this document:	false	19	43	136.8	458.5098	227.1203	0.0	Arial-BoldMT
+AC	false	19	44	34.74	47.183285	188.6003	0.0	ArialMT
+Article Categories	false	19	44	64.114426	134.65259	188.6003	16.93114	ArialMT
+acc., acc. to	false	19	45	34.74	82.52987	178.22021	0.0	ArialMT
+according, according to	false	19	45	99.92771	192.42598	178.22021	17.397842	ArialMT
+ACGIHAmerican Conference of Governmental Industrial Hygienists	false	19	46	34.74	301.58755	167.90022	0.0	ArialMT
+ADR	false	19	47	34.740005	53.65709	157.58023	0.0	ArialMT
+Accord européen relatif au transport international des marchandises Dangereuses par Route (= European Agreement	false	19	47	64.108154	531.10175	157.58023	10.451065	ArialMT
+concerning the International Carriage of Dangerous Goods by Road)	false	19	48	34.74002	305.38553	147.20015	0.0	ArialMT
+AOEL	false	19	49	34.74002	58.67705	136.88016	0.0	ArialMT
+Acceptable Operator Exposure Level	false	19	49	64.13504	210.10336	136.88016	5.4579887	ArialMT
+AOX	false	19	50	34.74002	53.707264	126.50008	0.0	ArialMT
+Adsorbable organic halogen compounds	false	19	50	64.11264	223.98341	126.50008	10.405376	ArialMT
+Page  20 of 22	true	20	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	20	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	20	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	20	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	20	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	20	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	20	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	20	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	20	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	20	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	20	7	34.74	65.96778	630.5001	0.0	ArialMT
+approx.	false	20	8	34.74	64.47093	609.8003	0.0	ArialMT
+approximately	false	20	8	99.96174	155.4777	609.8003	35.490807	ArialMT
+Art.,  Art. no.	false	20	9	34.74	85.07746	599.4803	0.0	ArialMT
+Article number	false	20	9	99.9286	157.62218	599.4803	14.851135	ArialMT
+ATE	false	20	10	34.74	52.236378	589.1603	0.0	ArialMT
+Acute Toxicity Estimate according to Regulation (EC) 1272/2008 (CLP)	false	20	10	64.081276	344.9523	589.1603	11.844898	ArialMT
+BAM	false	20	11	34.74	54.158722	578.7802	0.0	ArialMT
+Bundesanstalt für Materialforschung und -prüfung (Federal Institute for Materials Research and Testing, Germany)	false	20	11	64.096504	516.55505	578.7802	9.937782	ArialMT
+BAuA	false	20	12	34.73999	57.581486	568.4602	0.0	ArialMT
+Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (= Federal Institute for Occupational Health and Safety, Germany)	false	20	12	64.08664	531.6827	568.4602	6.5051537	ArialMT
+BCF	false	20	13	34.73999	52.655594	558.08014	0.0	ArialMT
+Bioconcentration factor	false	20	13	64.10366	155.54755	558.08014	11.448067	ArialMT
+BGV	false	20	14	34.73999	53.70813	547.76013	0.0	ArialMT
+Berufsgenossenschaftliche Vorschrift (=  Accident Prevention Regulation)	false	20	14	64.11351	354.77905	547.76013	10.40538	ArialMT
+BHT	false	20	15	34.739998	52.65381	537.38007	0.0	ArialMT
+Butylhydroxytoluol (= 2,6-Di-t-butyl-4-methyl-phenol)	false	20	15	64.101875	270.4565	537.38007	11.448067	ArialMT
+BMGV	false	20	16	34.739998	61.12609	527.06006	0.0	ArialMT
+Biological monitoring guidance value (EH40, UK)	false	20	16	64.09112	257.3441	527.06006	2.9650269	ArialMT
+BOD	false	20	17	34.739998	54.19634	516.74005	0.0	ArialMT
+Biochemical oxygen demand	false	20	17	64.10725	178.20638	516.74005	9.910908	ArialMT
+BSEF	false	20	18	34.739998	58.143143	506.35995	0.0	ArialMT
+Bromine Science and Environmental Forum	false	20	18	64.13143	237.10034	506.35995	5.988289	ArialMT
+bw	false	20	19	34.739998	46.11372	496.03998	0.0	ArialMT
+body weight	false	20	19	64.064255	111.437584	496.03998	17.950535	ArialMT
+CAS	false	20	20	34.739998	53.15634	485.65988	0.0	ArialMT
+Chemical Abstracts Service	false	20	20	64.101875	173.49988	485.65988	10.945534	ArialMT
+CEC	false	20	21	34.739998	53.62573	475.3399	0.0	ArialMT
+Coordinating European Council for the Development of Performance Tests for Fuels, Lubricants and Other Fluids	false	20	21	64.07679	511.66696	475.3399	10.451061	ArialMT
+CESIOComité Européen des Agents de Surface et de leurs Intermédiaires Organiques	false	20	22	34.740005	378.7992	464.9598	0.0	ArialMT
+CIPACCollaborative International Pesticides Analytical Council	false	20	23	34.740005	284.09473	454.63983	0.0	ArialMT
+CLP	false	20	24	34.740005	52.111866	444.31985	0.0	ArialMT
+Classification, Labelling and Packaging (REGULATION (EC) No 1272/2008 on classification, labelling and packaging of	false	20	24	64.0768	538.789	444.31985	11.9649315	ArialMT
+substances and mixtures)	false	20	25	34.73999	136.5839	433.93976	0.0	ArialMT
+CMR	false	20	26	34.73999	55.12526	423.61978	0.0	ArialMT
+carcinogenic, mutagenic, reproductive toxic	false	20	26	64.0759	235.46625	423.61978	8.950638	ArialMT
+COD	false	20	27	34.73999	54.646908	413.2397	0.0	ArialMT
+Chemical oxygen demand	false	20	27	64.077675	167.20525	413.2397	9.430767	ArialMT
+CTFA	false	20	28	34.73999	58.19151	402.9197	0.0	ArialMT
+Cosmetic, Toiletry, and Fragrance Association	false	20	28	64.09649	247.098	402.9197	5.9049797	ArialMT
+DMEL	false	20	29	34.73999	59.605946	392.59973	0.0	ArialMT
+Derived Minimum Effect Level	false	20	29	64.10365	182.87967	392.59973	4.4977074	ArialMT
+DNEL	false	20	30	34.73999	58.556995	382.21964	0.0	ArialMT
+Derived No Effect Level	false	20	30	64.075	158.1382	382.21964	5.5180016	ArialMT
+DOC	false	20	31	34.73999	54.646908	371.89966	0.0	ArialMT
+Dissolved organic carbon	false	20	31	64.077675	164.44714	371.89966	9.430767	ArialMT
+DT50	false	20	32	34.73999	56.639122	361.51956	0.0	ArialMT
+Dwell Time - 50% reduction of start concentration	false	20	32	64.07678	259.44644	361.51956	7.43766	ArialMT
+DVS	false	20	33	34.73999	53.13304	351.1996	0.0	ArialMT
+Deutscher Verband für Schweißen und verwandte Verfahren e.V. (= German Association for Welding and Allied Processes)	false	20	33	64.078575	552.35297	351.1996	10.945534	ArialMT
+dw	false	20	34	34.73999	46.12625	340.8195	0.0	ArialMT
+dry weight	false	20	34	64.07678	104.536476	340.8195	17.950531	ArialMT
+e.g.	false	20	35	34.73999	49.652935	330.4995	0.0	ArialMT
+for example (abbreviation of Latin 'exempli gratia'), for instance	false	20	35	64.083954	312.63586	330.4995	14.431019	ArialMT
+EC	false	20	36	34.73999	47.17879	320.17953	0.0	ArialMT
+European Community	false	20	36	64.109924	150.53117	320.17953	16.931133	ArialMT
+ECHA	false	20	37	34.73999	59.561157	309.79944	0.0	ArialMT
+European Chemicals Agency	false	20	37	64.08664	179.31444	309.79944	4.525482	ArialMT
+EEA	false	20	38	34.73999	52.662758	299.47946	0.0	ArialMT
+European Economic Area	false	20	38	64.08754	165.92162	299.47946	11.424782	ArialMT
+EEC	false	20	39	34.73999	53.155437	289.09937	0.0	ArialMT
+European Economic Community	false	20	39	64.08664	192.28712	289.09937	10.931202	ArialMT
+EINECS	false	20	40	34.73999	68.07913	278.7794	0.0	ArialMT
+European Inventory of Existing Commercial Chemical Substances	false	20	40	99.96442	360.6866	278.7794	31.885284	ArialMT
+ELINCS	false	20	41	34.73999	67.056145	268.3993	0.0	ArialMT
+European List of Notified Chemical Substances	false	20	41	99.96083	286.90292	268.3993	32.904686	ArialMT
+EN	false	20	42	34.73999	47.176105	258.0793	0.0	ArialMT
+European Norms	false	20	42	64.10724	131.65083	258.0793	16.931133	ArialMT
+EPA	false	20	43	34.73999	52.673508	247.75932	0.0	ArialMT
+United States Environmental Protection Agency (United States of America)	false	20	43	64.09828	359.89102	247.75932	11.424774	ArialMT
+ERC	false	20	44	34.73999	53.65528	237.37924	0.0	ArialMT
+Environmental Release Categories	false	20	44	64.105446	202.21951	237.37924	10.450165	ArialMT
+ES	false	20	45	34.73999	46.689697	227.05925	0.0	ArialMT
+Exposure scenario	false	20	45	64.11531	138.0691	227.05925	17.425613	ArialMT
+etc.	false	20	46	34.73999	49.171898	216.67917	0.0	ArialMT
+et cetera	false	20	46	64.083046	98.95666	216.67917	14.911148	ArialMT
+EU	false	20	47	34.73999	47.17521	206.35918	0.0	ArialMT
+European Union	false	20	47	64.106346	128.6088	206.35918	16.931137	ArialMT
+EWC	false	20	48	34.73999	55.63137	195.9791	0.0	ArialMT
+European Waste Catalogue	false	20	48	64.10186	173.93164	195.9791	8.4704895	ArialMT
+Fax.	false	20	49	34.73999	52.06348	185.6591	0.0	ArialMT
+Fax number	false	20	49	64.0947	111.76274	185.6591	12.031223	ArialMT
+gen.	false	20	50	34.73999	52.04646	175.33911	0.0	ArialMT
+general	false	20	50	64.07768	93.83998	175.33911	12.031223	ArialMT
+GHS	false	20	51	34.73999	54.156918	164.95903	0.0	ArialMT
+Globally Harmonized System of Classification and Labelling of Chemicals	false	20	51	64.08216	354.106	164.95903	9.925243	ArialMT
+GWP	false	20	52	34.73999	56.12226	154.63904	0.0	ArialMT
+Global warming potential	false	20	52	64.06783	162.2444	154.63904	7.945572	ArialMT
+HET-CAM	false	20	53	34.73999	75.58935	144.25896	0.0	ArialMT
+Hen's Egg Test - Chorionallantoic Membrane	false	20	53	99.98772	278.18707	144.25896	24.398369	ArialMT
+HGWPHalocarbon Global Warming Potential	false	20	54	34.73999	213.65318	133.93896	0.0	ArialMT
+IARC	false	20	55	34.73999	56.087322	123.55888	0.0	ArialMT
+International Agency for Research on Cancer	false	20	55	64.078575	242.95242	123.55888	7.991253	ArialMT
+Page  21 of 22	true	21	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	21	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	21	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	21	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	21	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	21	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	21	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	21	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	21	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	21	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	21	7	34.74	65.96778	630.5001	0.0	ArialMT
+IATA	false	21	8	34.74	54.758003	609.8003	0.0	ArialMT
+International Air Transport Association	false	21	8	64.08308	215.82466	609.8003	9.325073	ArialMT
+IBC	false	21	9	34.74	49.67803	599.4803	0.0	ArialMT
+Intermediate Bulk Container	false	21	9	64.08933	174.98064	599.4803	14.411304	ArialMT
+IBC (Code)	false	21	10	34.74	79.50122	589.1603	0.0	ArialMT
+International Bulk Chemical (Code)	false	21	10	99.97785	238.56493	589.1603	20.476631	ArialMT
+IC	false	21	11	34.74	43.699596	578.7802	0.0	ArialMT
+Inhibitory concentration	false	21	11	64.11084	156.48012	578.7802	20.411243	ArialMT
+IMDG-code	false	21	12	34.74	80.57795	568.4602	0.0	ArialMT
+International Maritime Code for Dangerous Goods	false	21	12	100.01637	297.78043	568.4602	19.438423	ArialMT
+incl.	false	21	13	34.74	50.60247	558.08014	0.0	ArialMT
+including, inclusive	false	21	13	64.074104	138.55824	558.08014	13.471634	ArialMT
+IUCLIDInternational Uniform ChemicaL Information Database	false	21	14	34.74	277.7794	547.76013	0.0	ArialMT
+LC	false	21	15	34.74	46.126263	537.38007	0.0	ArialMT
+lethal concentration	false	21	15	64.0768	141.6576	537.38007	17.950535	ArialMT
+LC50	false	21	16	34.74	56.039864	527.06006	0.0	ArialMT
+lethal concentration 50 percent kill	false	21	16	64.0777	199.24016	527.06006	8.037834	ArialMT
+LCLo	false	21	17	34.74	56.036278	516.74005	0.0	ArialMT
+lowest published lethal concentration	false	21	17	64.07411	209.93745	516.74005	8.037834	ArialMT
+LD	false	21	18	34.74	46.126263	506.35995	0.0	ArialMT
+Lethal Dose of a chemical	false	21	18	64.0768	167.02882	506.35995	17.950535	ArialMT
+LD50	false	21	19	34.74	56.04882	496.03998	0.0	ArialMT
+Lethal Dose, 50% kill	false	21	19	64.086655	147.59215	496.03998	8.037834	ArialMT
+LDLo	false	21	20	34.74	56.045235	485.65988	0.0	ArialMT
+Lethal Dose Low	false	21	20	64.08307	130.65302	485.65988	8.037834	ArialMT
+LOAELLowest Observed Adverse Effect Level	false	21	21	34.74	218.14021	475.3399	0.0	ArialMT
+LOEC	false	21	22	34.74	59.122242	464.9598	0.0	ArialMT
+Lowest Observed Effect Concentration	false	21	22	64.113525	217.06248	464.9598	4.9912834	ArialMT
+LOEL	false	21	23	34.74	57.632553	454.63983	0.0	ArialMT
+Lowest Observed Effect Level	false	21	23	64.11083	182.78554	454.63983	6.478279	ArialMT
+LQ	false	21	24	34.74	46.6279	444.31985	0.0	ArialMT
+Limited Quantities	false	21	24	64.080376	135.69443	444.31985	17.452477	ArialMT
+MARPOL	false	21	25	34.74	72.558044	433.93976	0.0	ArialMT
+International Convention for the Prevention of Marine Pollution from Ships	false	21	25	99.976074	391.82837	433.93976	27.41803	ArialMT
+n.a.	false	21	26	34.74	49.64936	423.61978	0.0	ArialMT
+not applicable	false	21	26	64.080376	119.179794	423.61978	14.431015	ArialMT
+n.av.	false	21	27	34.74	54.12289	413.2397	0.0	ArialMT
+not available	false	21	27	64.114426	114.21269	413.2397	9.991535	ArialMT
+n.c.	false	21	28	34.74	49.16475	402.9197	0.0	ArialMT
+not checked	false	21	28	64.075905	112.33067	402.9197	14.911156	ArialMT
+n.d.a.	false	21	29	34.74	57.11658	392.59973	0.0	ArialMT
+no data available	false	21	29	64.10814	131.68666	392.59973	6.991558	ArialMT
+NIOSHNational Institute of Occupational Safety and Health (United States of America)	false	21	30	34.74	376.30157	382.21964	0.0	ArialMT
+NOAEC	false	21	31	34.740005	66.610954	371.89966	0.0	ArialMT
+No Observed Adverse Effective Concentration	false	21	31	99.98145	282.9804	371.89966	33.3705	ArialMT
+NOAEL	false	21	32	34.740005	65.09977	361.51956	0.0	ArialMT
+No Observed Adverse Effect Level	false	21	32	99.95815	237.25264	361.51956	34.858383	ArialMT
+NOEC	false	21	33	34.740005	60.623566	351.1996	0.0	ArialMT
+No Observed Effect Concentration	false	21	33	64.11442	200.37784	351.1996	3.4908524	ArialMT
+NOEL	false	21	34	34.740005	59.099846	340.8195	0.0	ArialMT
+No Observed Effect Level	false	21	34	64.0777	166.09538	340.8195	4.977852	ArialMT
+ODP	false	21	35	34.740005	54.15335	330.4995	0.0	ArialMT
+Ozone Depletion Potential	false	21	35	64.0786	167.94516	330.4995	9.925247	ArialMT
+OECD	false	21	36	34.740005	60.571613	320.17953	0.0	ArialMT
+Organisation for Economic Co-operation and Development	false	21	36	64.06247	296.17697	320.17953	3.4908562	ArialMT
+org.	false	21	37	34.740005	50.12951	309.79944	0.0	ArialMT
+organic	false	21	37	64.08038	93.391205	309.79944	13.950874	ArialMT
+PAH	false	21	38	34.740005	53.15366	299.47946	0.0	ArialMT
+polycyclic aromatic hydrocarbon	false	21	38	64.08486	190.96584	299.47946	10.931202	ArialMT
+PBT	false	21	39	34.740005	52.1683	289.09937	0.0	ArialMT
+persistent, bioaccumulative and toxic	false	21	39	64.096504	210.19644	289.09937	11.928204	ArialMT
+PC	false	21	40	34.740005	47.177914	278.7794	0.0	ArialMT
+Chemical product category	false	21	40	64.10905	170.44264	278.7794	16.931133	ArialMT
+PE	false	21	41	34.740005	46.685234	268.3993	0.0	ArialMT
+Polyethylene	false	21	41	64.11084	114.97682	268.3993	17.425606	ArialMT
+PNEC	false	21	42	34.740005	59.638214	258.0793	0.0	ArialMT
+Predicted No Effect Concentration	false	21	42	64.14936	199.39783	258.0793	4.5111465	ArialMT
+POCP	false	21	43	34.740005	60.131783	247.75932	0.0	ArialMT
+Photochemical ozone creation potential	false	21	43	64.1171	220.12975	247.75932	3.985321	ArialMT
+ppm	false	21	44	34.740005	52.099327	237.37924	0.0	ArialMT
+parts per million	false	21	44	64.0777	127.230194	237.37924	11.978371	ArialMT
+PROC	false	21	45	34.740005	60.60744	227.05925	0.0	ArialMT
+Process category	false	21	45	64.0983	133.22476	227.05925	3.4908562	ArialMT
+PTFE	false	21	46	34.740005	57.740948	216.67917	0.0	ArialMT
+Polytetrafluorethylene	false	21	46	64.12607	150.31085	216.67917	6.3851204	ArialMT
+REACH	false	21	47	34.740005	66.07529	206.35918	0.0	ArialMT
+Registration, Evaluation, Authorisation and Restriction of Chemicals (REGULATION (EC) No 1907/2006 concerning	false	21	47	99.98593	559.8031	206.35918	33.910645	ArialMT
+the Registration, Evaluation, Authorisation and Restriction of Chemicals)	false	21	48	34.740005	320.51172	195.9791	0.0	ArialMT
+REACH-IT List-No.	false	21	49	34.740005	110.356384	185.6591	0.0	ArialMT
+9xx-xxx-x No. is automatically assigned, e.g. to pre-registrations without a CAS No. or other numerical	false	21	49	135.76787	540.9192	185.6591	25.411484	ArialMT
+identifier. List Numbers do not have any legal significance, rather they are purely technical identifiers for processing a submission	false	21	50	34.739136	546.8028	175.33911	0.0	ArialMT
+via REACH-IT.	false	21	51	34.73825	93.43064	164.95903	0.0	ArialMT
+RID	false	21	52	34.73825	50.145668	154.63904	0.0	ArialMT
+Règlement concernant le transport International ferroviaire de marchandises Dangereuses (= Regulation concerning the	false	21	52	64.076836	540.9058	154.63904	13.931168	ArialMT
+International Carriage of Dangerous Goods by Rail)	false	21	53	34.73822	238.41528	144.25896	0.0	ArialMT
+SADT	false	21	54	34.73822	58.57941	133.93896	0.0	ArialMT
+Self-Accelerating Decomposition Temperature	false	21	54	64.08756	247.0953	133.93896	5.508152	ArialMT
+SAR	false	21	55	34.73822	53.145607	123.55888	0.0	ArialMT
+Structure Activity Relationship	false	21	55	64.07681	182.8357	123.55888	10.931206	ArialMT
+Page  22 of 22	true	22	1	34.74	92.937935	692.3003	0.0	ArialMT
+Safety data sheet according to Regulation (EC) No 1907/2006, Annex II	true	22	2	34.74	318.04837	682.2203	0.0	ArialMT
+Revised on / Version:	true	22	3	34.74	118.34311	671.90027	0.0	ArialMT
+14.08.2014  / 0002	true	22	3	122.52326	201.94621	671.90027	0.0	ArialMT
+Replaces revision of / Version:	true	22	4	34.74	156.50876	661.58026	0.0	ArialMT
+16.12.2013  / 0001	true	22	4	160.56772	237.68794	661.58026	0.0	ArialMT
+Valid from:	true	22	5	34.74	77.88933	651.2002	0.0	ArialMT
+14.08.2014	true	22	5	82.20426	129.66852	651.2002	0.0	ArialMT
+PDF print date:	true	22	6	34.74	92.5768	640.8802	0.0	ArialMT
+22.08.2014	true	22	6	96.708	142.15118	640.8802	0.0	ArialMT
+Gandalf	true	22	7	34.74	65.96778	630.5001	0.0	ArialMT
+SU	false	22	8	34.74	47.18149	609.8003	0.0	ArialMT
+Sector of use	false	22	8	64.112625	116.84719	609.8003	16.931133	ArialMT
+SVHC	false	22	9	34.74	59.602375	599.4803	0.0	ArialMT
+Substances of Very High Concern	false	22	9	64.113525	198.80576	599.4803	4.5111504	ArialMT
+Tel.	false	22	10	34.74	49.71386	589.1603	0.0	ArialMT
+Telephone	false	22	10	64.084854	106.37192	589.1603	14.370995	ArialMT
+ThOD	false	22	11	34.74	58.668976	578.7802	0.0	ArialMT
+Theoretical oxygen demand	false	22	11	64.07948	174.29895	578.7802	5.410507	ArialMT
+TOC	false	22	12	34.74	53.750244	568.4602	0.0	ArialMT
+Total organic carbon	false	22	12	64.08127	145.74503	568.4602	10.331024	ArialMT
+TRGS	false	22	13	34.74	59.691055	558.08014	0.0	ArialMT
+Technische Regeln für Gefahrstoffe (=Technical Regulations for Hazardous Substances)	false	22	13	64.0965	414.97446	558.08014	4.4054413	ArialMT
+UN RTDG	false	22	14	34.739105	75.557106	547.76013	0.0	ArialMT
+United Nations Recommendations on the Transport of Dangerous Goods	false	22	14	99.969795	388.90466	547.76013	24.41269	ArialMT
+VbF	false	22	15	34.739105	51.169506	537.38007	0.0	ArialMT
+Verordnung über brennbare Flüssigkeiten (= Regulation for flammable liquids (Austria))	false	22	15	64.118004	408.78558	537.38007	12.948498	ArialMT
+VOC	false	22	16	34.739105	54.20978	527.06006	0.0	ArialMT
+Volatile organic compounds	false	22	16	64.12158	173.8779	527.06006	9.9118	ArialMT
+vPvB	false	22	17	34.739105	55.65198	516.74005	0.0	ArialMT
+very persistent and very bioaccumulative	false	22	17	64.13681	225.44803	516.74005	8.484829	ArialMT
+WEL-TWA, WEL-STEL	false	22	18	34.739105	127.06446	506.35995	0.0	ArialMT
+WEL-TWA = Workplace Exposure Limit - Long-term exposure limit (8-hour TWA (= time weighted	false	22	18	135.8225	523.36316	506.35995	8.758034	ArialMT
+average) reference period), WEL-STEL = Workplace Exposure Limit - Short-term exposure limit (15-minute reference period)	false	22	19	34.739136	530.71466	496.03998	0.0	ArialMT
+(EH40, UK).	false	22	20	34.739136	82.93657	485.65988	0.0	ArialMT
+WHO	false	22	21	34.739136	56.588104	475.3399	0.0	ArialMT
+World Health Organization	false	22	21	64.08041	168.95291	475.3399	7.492302	ArialMT
+wwt	false	22	22	34.739136	49.765846	464.9598	0.0	ArialMT
+wet weight	false	22	22	64.07683	106.01546	464.9598	14.310982	ArialMT
+The statements made here should describe the product with regard to the necessary safety precautions - they are	false	22	23	34.739136	483.97116	444.31982	0.0	ArialMT
+not meant to guarantee definite characteristics - but they are based on our present up-to-date knowledge.	false	22	24	34.739136	451.12247	433.93973	0.0	ArialMT
+No responsibility.	false	22	25	34.739136	102.67778	423.61975	0.0	ArialMT
+These statements were made by:	false	22	26	34.739136	166.76633	413.23965	0.0	ArialMT
+Chemical Check GmbH, Chemical Check Platz 1-7, D-32839 Steinheim, Tel.: +49 5233 94 17 0, Fax:	false	22	27	34.74	559.4911	402.9803	0.0	Arial-BoldMT
++49 5233 94 17 90	false	22	28	34.74	128.94241	389.84027	0.0	Arial-BoldMT
+© by Chemical Check GmbH Gefahrstoffberatung. The copying or changing of this document	false	22	29	34.74	402.2757	376.5803	0.0	ArialMT
+is forbidden except with consent of the Chemical Check GmbH Gefahrstoffberatung.	false	22	30	34.740005	367.24725	366.2603	0.0	ArialMT

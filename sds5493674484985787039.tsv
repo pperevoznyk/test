@@ -1,0 +1,755 @@
+Sentence	IsHeaderFooter	Page	Line	X1	X2	Y	Padding	Font
+Product Name:	true	1	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	1	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	1	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	1	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 1 of 11	true	1	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+SAFETY DATA SHEET	false	1	7	204.381	416.62097	645.846	0.0	FAAABB+Arial-BoldMT
+SECTION 1	false	1	8	50.75	103.54	619.979	2.2200012	FAAABB+Arial-BoldMT
+IDENTIFICATION OF THE HAZARDOUS CHEMICAL AND OF THE SUPPLIER	false	1	8	124.65	482.98	619.979	2.2200012	FAAABB+Arial-BoldMT
+As of the revision date above, this SDS meets the regulations in Malaysia.	false	1	9	146.806	474.19592	596.231	0.0	FAAAAH+ArialMT
+PRODUCT IDENTIFIER	false	1	10	45.0	152.78	584.73206	0.0	FAAABB+Arial-BoldMT
+Product Name:	false	1	11	81.0	154.9	573.23303	0.0	FAAABB+Arial-BoldMT
+MOBIL SUPER 1000 10W-30	false	1	11	172.12	304.38998	573.23303	4.4400024	FAAABB+Arial-BoldMT
+Product Description:	false	1	12	81.0	179.9	561.734	0.0	FAAABB+Arial-BoldMT
+Base Oil and Additives	false	1	12	204.0	304.61	561.734	6.6600037	FAAAAH+ArialMT
+Product Code:	false	1	13	81.0	152.67001	550.23505	0.0	FAAABB+Arial-BoldMT
+201510301058,	false	1	13	204.0	281.84998	550.23505	6.6600037	FAAAAH+ArialMT
+483156	false	1	13	288.51996	321.87994	550.23505	6.669983	FAAAAH+ArialMT
+RECOMMENDED USE OF THE CHEMICAL AND RESTRICTIONS ON USE	false	1	14	45.0	386.68002	527.23706	0.0	FAAABB+Arial-BoldMT
+Recommended Use:	false	1	15	81.0	182.7	513.438	0.0	FAAABB+Arial-BoldMT
+Engine oil	false	1	15	225.0	271.69998	513.438	42.300003	FAAAAH+ArialMT
+Restrictions on Use:	false	1	16	81.0	183.79999	501.93903	0.0	FAAABB+Arial-BoldMT
+None unless specified elsewhere in this SDS.	false	1	16	188.23999	389.46	501.93903	4.4400024	FAAAAH+ArialMT
+SUPPLIER DETAILS	false	1	17	45.0	140.57	465.14203	0.0	FAAABB+Arial-BoldMT
+Supplier:	false	1	18	81.0	124.33	453.643	0.0	FAAABB+Arial-BoldMT
+ExxonMobil Asia Pacific Pte.Ltd. (Company No.:	false	1	18	189.004	394.66013	453.643	64.673996	FAAABB+Arial-BoldMT
+196800312N)	false	1	18	399.23026	454.0719	453.643	64.673996	FAAABB+Arial-BoldMT
+1 Harbour Front Place	false	1	19	189.0	282.042	443.08206	0.0	FAAAAH+ArialMT
+"#06-00 Harbour Front Tower One"	false	1	20	189.0	332.568	432.73306	0.0	FAAAAH+ArialMT
+098633	false	1	20	340.56	383.09396	432.73306	7.9920044	FAAAAH+ArialMT
+Singapore	false	1	20	393.09296	436.62595	432.73306	9.998993	FAAAAH+ArialMT
+24 Hour Emergency Telephone	false	1	22	77.65	214.189	394.78604	0.0	FAAABB+Arial-BoldMT
+1-800-815-308 / +1-703-527-3887	false	1	22	330.59998	470.94595	394.78604	116.41098	FAAAAH+ArialMT
+Supplier General Contact	false	1	23	80.450005	192.96799	374.08603	0.0	FAAABB+Arial-BoldMT
+(+65) 6885 8000	false	1	23	330.59998	401.40295	374.08603	137.63199	FAAAAH+ArialMT
+Supplier:	false	1	24	81.0	187.51497	341.88705	0.0	FAAABB+Arial-BoldMT
+HT LUBRICANT SENDIRIAN BERHAD (646137-M)	false	1	24	241.49698	450.51294	341.88705	53.98201	FAAABB+Arial-BoldMT
+90, Jin Tampoi	false	1	25	242.99998	302.02197	331.53806	55.989	FAAAAH+ArialMT
+Johor Bahru	false	1	26	242.99998	304.53296	321.18906	55.989	FAAAAH+ArialMT
+81200	false	1	26	314.53195	352.06195	321.18906	9.998993	FAAAAH+ArialMT
+Malaysia	false	1	26	362.05194	397.56592	321.18906	9.98999	FAAAAH+ArialMT
+Supplier General Contact	false	1	27	76.9	184.918	300.49106	0.0	FAAABB+Arial-BoldMT
++607-335 3663	false	1	27	327.05	387.85397	300.49106	142.13199	FAAAAH+ArialMT
+Supplier:	false	1	28	81.0	187.51497	268.29205	0.0	FAAABB+Arial-BoldMT
+MOBILUB TRADING SENDIRIAN BERHAD (514125-H)	false	1	28	241.49698	468.01788	268.29205	53.98201	FAAABB+Arial-BoldMT
+No.1, Jalan Meranti Puchong,	false	1	29	242.99998	361.56595	257.94305	55.989	FAAAAH+ArialMT
+D’25@Meranti Puchong	false	1	30	242.99998	338.68796	247.59404	55.989	FAAAAH+ArialMT
+Selangor Darul Ehsan	false	1	31	242.99998	343.55695	237.24504	55.989	FAAAAH+ArialMT
+47120	false	1	31	353.55597	391.08603	237.24504	9.999023	FAAAAH+ArialMT
+Malaysia	false	1	31	401.07602	436.59	237.24504	9.98999	FAAAAH+ArialMT
+Supplier General Contact	false	1	32	76.9	184.918	216.54704	0.0	FAAABB+Arial-BoldMT
++603-8066 5081	false	1	32	327.05	392.85797	216.54704	142.13199	FAAAAH+ArialMT
+Supplier:	false	1	33	81.0	187.51497	184.34804	0.0	FAAABB+Arial-BoldMT
+OPTIMUM FLUIDS MARKETING SENDIRIAN BERHAD (668909-D)	false	1	33	241.49698	517.0138	184.34804	53.98201	FAAABB+Arial-BoldMT
+PLOT 110, LGR.PERINDUSTRIAN, BUKIT MINYAK 11	false	1	34	242.99998	464.55298	173.99904	55.989	FAAAAH+ArialMT
+KAW.PENINDUSTRIAN, Bukit Mertajam	false	1	35	242.99998	404.52304	163.65004	55.989	FAAAAH+ArialMT
+Penang	false	1	36	242.99998	286.53296	153.30104	55.989	FAAAAH+ArialMT
+14100	false	1	36	296.53198	334.06195	153.30104	9.999023	FAAAAH+ArialMT
+Malaysia	false	1	36	344.06094	379.56592	153.30104	9.998993	FAAAAH+ArialMT
+Supplier General Contact	false	1	37	76.9	184.918	132.60304	0.0	FAAABB+Arial-BoldMT
++604-510 2166	false	1	37	327.05	387.85397	132.60304	142.13199	FAAAAH+ArialMT
+Supplier:	false	1	38	81.0	187.51497	100.40401	0.0	FAAABB+Arial-BoldMT
+TIMUR LUBE SDN. BHD. (806793-H)	false	1	38	241.49698	393.516	100.40401	53.98201	FAAABB+Arial-BoldMT
+Wisma Hubline,1st Floor, Lease No.3815, Lot 10914, Section 64	false	1	39	242.99998	499.644	90.05501	55.989	FAAAAH+ArialMT
+KTLD, Jalan Datuk Abang Abdul Rahim	false	1	40	242.99998	401.08496	79.70601	55.989	FAAAAH+ArialMT
+Product Name:	true	2	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	2	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	2	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	2	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 2 of 11	true	2	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+93450 Kuching	false	2	6	242.99998	303.04797	669.963	55.989	FAAAAH+ArialMT
+Sarawak	false	2	7	242.99998	303.02097	659.614	55.989	FAAAAH+ArialMT
+Malaysia	false	2	7	323.01898	358.52396	659.614	19.998016	FAAAAH+ArialMT
+Supplier General Contact	false	2	8	76.9	184.918	638.916	0.0	FAAABB+Arial-BoldMT
++6082 338567	false	2	8	327.05	384.857	638.916	142.13199	FAAAAH+ArialMT
+SECTION 2	false	2	9	50.75	103.54	595.83	2.2200012	FAAABB+Arial-BoldMT
+HAZARDS IDENTIFICATION	false	2	9	122.65	254.31	595.83	19.11	FAAABB+Arial-BoldMT
+This material is not hazardous according to regulatory guidelines (see SDS Section 15).	false	2	10	45.0	432.41995	569.78204	0.0	FAAAAH+ArialMT
+Other hazard information:	false	2	12	45.0	167.78	535.28503	0.0	FAAABB+Arial-BoldMT
+PHYSICAL / CHEMICAL HAZARDS	false	2	13	45.0	208.33	500.78802	0.0	FAAABB+Arial-BoldMT
+No significant hazards.	false	2	14	86.0	187.16	489.28903	2.2200012	FAAAAH+ArialMT
+HEALTH HAZARDS	false	2	15	45.0	137.22	466.29102	0.0	FAAABB+Arial-BoldMT
+High-pressure injection under skin may cause serious damage.	false	2	16	86.0	370.57996	454.79202	2.2200012	FAAAAH+ArialMT
+Excessive exposure may result in eye, skin,	false	2	16	375.02997	571.2199	454.79202	4.450012	FAAAAH+ArialMT
+or respiratory irritation.	false	2	17	81.0	181.03	443.29303	0.0	FAAAAH+ArialMT
+ENVIRONMENTAL HAZARDS	false	2	18	45.0	183.89	420.29504	0.0	FAAABB+Arial-BoldMT
+No significant hazards.	false	2	19	86.0	187.16	408.79602	2.2200012	FAAAAH+ArialMT
+NOTE:	false	2	21	45.0	81.67	374.299	0.0	FAAABB+Arial-BoldMT
+This material should not be used for any other purpose than the recommended use in Section 1 without	false	2	21	91.11	550.2699	374.299	2.2200012	FAAAAH+ArialMT
+expert advice. Health studies have shown that chemical exposure may cause potential human health risks which may	false	2	22	45.0	566.3799	362.80002	0.0	FAAAAH+ArialMT
+vary from person to person.	false	2	23	45.0	167.27998	351.30103	0.0	FAAAAH+ArialMT
+SECTION 3	false	2	24	50.75	103.54	327.55304	2.2200012	FAAABB+Arial-BoldMT
+COMPOSITION AND INFORMATION OF THE INGREDIENTS OF THE HAZARDOUS	false	2	24	126.9	515.23004	327.55304	2.2200012	FAAABB+Arial-BoldMT
+CHEMICAL	false	2	25	121.9	174.68001	316.05405	0.0	FAAABB+Arial-BoldMT
+This material is defined as a mixture.	false	2	27	45.0	207.83998	292.30603	0.0	FAAAAH+ArialMT
+Hazardous Substance(s) or Complex Substance(s) required for disclosure	false	2	28	45.0	398.9719	269.308	0.0	FAAABB+Arial-BoldMT
+Name	false	2	29	46.5	75.506996	257.24704	0.0	FAAAAH+ArialMT
+CAS#	false	2	29	295.5	324.003	257.24704	219.99301	FAAAAH+ArialMT
+Concentration*	false	2	29	365.25	434.253	257.24704	41.24701	FAAAAH+ArialMT
+GHS Hazard Codes	false	2	29	444.75	526.76697	257.24704	10.497009	FAAABB+Arial-BoldMT
+ZINC ALKYL DITHIOPHOSPHATE	false	2	30	46.5	170.97198	247.08603	0.0	FAAAAH+ArialMT
+113706-15-3	false	2	30	295.5	344.86798	247.08603	124.528015	FAAAAH+ArialMT
+0.1 - < 1%	false	2	30	365.25	405.938	247.08603	20.382019	FAAAAH+ArialMT
+[H303], [H401], H411,	false	2	30	444.75	528.358	247.08603	38.81201	FAAAAH+ArialMT
+H315, H318	false	2	31	444.75	487.44598	237.88702	0.0	FAAAAH+ArialMT
+Note - any hazard code in brackets [Hxxx] is a GHS building block that was not adopted by Malaysia in the CLASS	false	2	32	45.0	557.594	225.31201	0.0	FAAAAH+ArialMT
+Regulation and therefore is not applicable in Malaysia and is shown for informational purposes only.	false	2	33	45.0	485.80988	213.81302	0.0	FAAAAH+ArialMT
+* All concentrations are percent by weight unless ingredient is a gas. Gas concentrations are in percent by volume.	false	2	35	50.0	556.3798	190.81503	2.2200012	FAAAAH+ArialMT
+SECTION 4	false	2	36	50.75	103.54	164.76703	2.2200012	FAAABB+Arial-BoldMT
+FIRST AID MEASURES	false	2	36	127.65	235.98999	164.76703	2.2200012	FAAABB+Arial-BoldMT
+INHALATION	false	2	37	45.0	106.66	141.01904	0.0	FAAABB+Arial-BoldMT
+Remove from further exposure.	false	2	38	81.0	224.94997	129.52002	0.0	FAAAAH+ArialMT
+For those providing assistance, avoid exposure to yourself or others.	false	2	38	229.38997	537.8798	129.52002	4.4400024	FAAAAH+ArialMT
+Use	false	2	38	542.3198	562.8798	129.52002	4.4400024	FAAAAH+ArialMT
+adequate respiratory protection.	false	2	39	81.0	227.74998	118.02103	0.0	FAAAAH+ArialMT
+If respiratory irritation, dizziness, nausea, or unconsciousness occurs, seek	false	2	39	232.19998	566.7899	118.02103	4.449997	FAAAAH+ArialMT
+immediate medical assistance.	false	2	40	81.0	222.72	106.522026	0.0	FAAAAH+ArialMT
+If breathing has stopped, assist ventilation with a mechanical device or use	false	2	40	227.17	560.68994	106.522026	4.449997	FAAAAH+ArialMT
+mouth-to-mouth resuscitation.	false	2	41	81.0	213.28	95.023026	0.0	FAAAAH+ArialMT
+Product Name:	true	3	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	3	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	3	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	3	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 3 of 11	true	3	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+SKIN CONTACT	false	3	6	45.0	120.55	669.025	0.0	FAAABB+Arial-BoldMT
+Wash contact areas with soap and water.	false	3	7	81.0	269.43	657.526	0.0	FAAAAH+ArialMT
+If product is injected into or under the skin, or into any part of the	false	3	7	273.87	561.8098	657.526	4.4400024	FAAAAH+ArialMT
+body, regardless of the appearance of the wound or its size, the individual should be evaluated immediately by	false	3	8	81.0	571.84985	646.027	0.0	FAAAAH+ArialMT
+a physician as a surgical emergency. Even though initial symptoms from high pressure injection may be	false	3	9	81.0	541.7698	634.528	0.0	FAAAAH+ArialMT
+minimal or absent, early surgical treatment within the first few hours may significantly reduce the ultimate extent	false	3	10	81.0	576.20984	623.029	0.0	FAAAAH+ArialMT
+of injury.	false	3	11	81.0	118.78999	611.53	0.0	FAAAAH+ArialMT
+EYE CONTACT	false	3	12	45.0	116.670006	588.53204	0.0	FAAABB+Arial-BoldMT
+Flush thoroughly with water.	false	3	13	81.0	211.06	577.033	0.0	FAAAAH+ArialMT
+If irritation occurs, get medical assistance.	false	3	13	215.5	401.12997	577.033	4.4400024	FAAAAH+ArialMT
+INGESTION	false	3	14	45.0	100.0	554.03503	0.0	FAAABB+Arial-BoldMT
+First aid is normally not required. Seek medical attention if discomfort occurs.	false	3	15	81.0	421.6899	542.536	0.0	FAAAAH+ArialMT
+NOTE TO PHYSICIAN	false	3	16	45.0	146.67	519.538	0.0	FAAABB+Arial-BoldMT
+None	false	3	17	81.0	104.9	508.03906	0.0	FAAAAH+ArialMT
+SECTION 5	false	3	18	50.75	103.54	472.79202	2.2200012	FAAABB+Arial-BoldMT
+FIRE FIGHTING MEASURES	false	3	18	126.15	258.93	472.79202	2.2200012	FAAABB+Arial-BoldMT
+EXTINGUISHING MEDIA	false	3	19	45.0	158.89	449.044	0.0	FAAABB+Arial-BoldMT
+Appropriate Extinguishing Media:	false	3	20	81.0	243.78	437.54504	0.0	FAAABB+Arial-BoldMT
+Use water fog, foam, dry chemical or carbon dioxide (CO2) to extinguish	false	3	20	251.0	573.3699	437.54504	2.2200012	FAAAAH+ArialMT
+flames.	false	3	21	81.0	113.229996	426.04605	0.0	FAAAAH+ArialMT
+Inappropriate Extinguishing Media:	false	3	22	81.0	251.00998	403.04803	0.0	FAAABB+Arial-BoldMT
+Straight streams of water	false	3	22	258.22998	369.37994	403.04803	2.2200012	FAAAAH+ArialMT
+FIRE FIGHTING	false	3	23	45.0	118.33	380.05002	0.0	FAAABB+Arial-BoldMT
+Fire Fighting Instructions:	false	3	24	81.0	207.66	368.55103	0.0	FAAABB+Arial-BoldMT
+Evacuate area.	false	3	24	214.88	287.70996	368.55103	2.2200012	FAAAAH+ArialMT
+Prevent run-off from fire control or dilution from entering	false	3	24	292.14996	541.1398	368.55103	4.4400024	FAAAAH+ArialMT
+streams, sewers or drinking water supply.	false	3	25	81.0	270.50998	357.05203	0.0	FAAAAH+ArialMT
+Fire-fighters should use standard protective equipment and in	false	3	25	274.95996	549.5499	357.05203	4.4499817	FAAAAH+ArialMT
+enclosed spaces, self-contained breathing apparatus (SCBA).	false	3	26	81.0	360.04996	345.55304	0.0	FAAAAH+ArialMT
+Use water spray to cool fire exposed surfaces	false	3	26	364.48996	569.57983	345.55304	4.4400024	FAAAAH+ArialMT
+and to protect personnel.	false	3	27	81.0	197.18999	334.05402	0.0	FAAAAH+ArialMT
+Hazardous Combustion Products:	false	3	28	81.0	248.23	311.05603	0.0	FAAABB+Arial-BoldMT
+Aldehydes, Incomplete combustion products, Oxides of carbon, Smoke,	false	3	28	257.66998	577.2799	311.05603	2.219986	FAAAAH+ArialMT
+Fume, Sulphur oxides	false	3	29	81.0	178.26999	299.55704	0.0	FAAAAH+ArialMT
+FLAMMABILITY PROPERTIES	false	3	30	45.0	189.99998	276.55902	0.0	FAAABB+Arial-BoldMT
+Flash Point [Method]:	false	3	31	81.0	185.99	265.06003	0.0	FAAABB+Arial-BoldMT
+220°C	false	3	31	193.21	226.67	265.06003	2.2200012	FAAAAH+ArialMT
+(428°F)	false	3	31	231.11	270.12	265.06003	4.4400024	FAAAAH+ArialMT
+[ASTM D-92]	false	3	31	274.56	332.34998	265.06003	4.4400024	FAAAAH+ArialMT
+Flammable Limits (Approximate volume % in air):	false	3	32	81.0	318.27	253.56104	0.0	FAAABB+Arial-BoldMT
+LEL:	false	3	32	330.49	356.62	253.56104	4.4400024	FAAAAH+ArialMT
+0.9	false	3	32	361.06	388.86	253.56104	4.4400024	FAAAAH+ArialMT
+UEL:	false	3	32	399.96	414.55124	253.56104	11.100006	FAAAAH+ArialMT
+7.0	false	3	32	419.41498	438.87	253.56104	11.100006	FAAAAH+ArialMT
+Autoignition Temperature:	false	3	33	81.0	209.33	242.06201	0.0	FAAABB+Arial-BoldMT
+N/D	false	3	33	216.55	236.55	242.06201	2.2200012	FAAAAH+ArialMT
+SECTION 6	false	3	35	50.75	103.54	204.51501	2.2200012	FAAABB+Arial-BoldMT
+ACCIDENTAL RELEASE MEASURES	false	3	35	128.4	302.86	204.51501	2.2199936	FAAABB+Arial-BoldMT
+PERSONAL PRECAUTIONS, PROTECTIVE EQUIPMENT AND EMERGENCY PROCEDURES	false	3	36	45.0	472.8201	180.76703	0.0	FAAABB+Arial-BoldMT
+In the event of a spill or accidental release, notify relevant authorities in accordance with all applicable	false	3	37	81.0	533.4799	169.26804	0.0	FAAAAH+ArialMT
+regulations.	false	3	38	81.0	132.7	157.76904	0.0	FAAAAH+ArialMT
+PROTECTIVE MEASURES	false	3	39	45.0	168.35	134.771	0.0	FAAABB+Arial-BoldMT
+Avoid contact with spilled material.	false	3	40	81.0	239.4	123.27204	0.0	FAAAAH+ArialMT
+See Section 6 for fire fighting information.	false	3	40	243.84999	432.83994	123.27204	4.449997	FAAAAH+ArialMT
+See the Hazard Identification	false	3	40	437.27994	568.4699	123.27204	4.4400024	FAAAAH+ArialMT
+Section for Significant Hazards.	false	3	41	81.0	226.06998	111.77304	0.0	FAAAAH+ArialMT
+See Section 5 for First Aid Advice.	false	3	41	230.50998	387.79996	111.77304	4.4400024	FAAAAH+ArialMT
+See Section 8 for advice on the minimum	false	3	41	392.23996	577.3299	111.77304	4.4400024	FAAAAH+ArialMT
+requirements for personal protective equipment. Additional protective measures may be necessary, depending	false	3	42	81.0	571.8198	100.27404	0.0	FAAAAH+ArialMT
+on the specific circumstances and/or the expert judgment of the emergency responders.	false	3	43	81.0	469.5399	88.77504	0.0	FAAAAH+ArialMT
+Product Name:	true	4	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	4	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	4	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	4	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 4 of 11	true	4	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+For emergency responders:	false	4	6	81.0	209.38998	669.025	0.0	FAAAAH+ArialMT
+Respiratory protection:	false	4	6	213.82999	308.59497	669.025	4.4400024	FAAAAH+ArialMT
+respiratory protection will be necessary only in special	false	4	6	312.90247	558.4299	669.025	4.4400024	FAAAAH+ArialMT
+cases, e.g., formation of mists.	false	4	7	81.0	222.15999	657.526	0.0	FAAAAH+ArialMT
+Half-face or full-face respirator with filter(s) for dust/organic vapor or Self	false	4	7	226.59999	548.9398	657.526	4.4400024	FAAAAH+ArialMT
+Contained Breathing Apparatus (SCBA) can be used depending on the size of spill and potential level of	false	4	8	81.0	543.5199	646.02704	0.0	FAAAAH+ArialMT
+exposure.	false	4	9	81.0	130.47	634.528	0.0	FAAAAH+ArialMT
+If the exposure cannot be completely characterized or an oxygen deficient atmosphere is possible	false	4	9	134.92	569.60986	634.528	4.449997	FAAAAH+ArialMT
+or anticipated, SCBA is recommended.	false	4	10	81.0	258.86	623.02905	0.0	FAAAAH+ArialMT
+Work gloves that are resistant to hydrocarbons are recommended.	false	4	10	263.3	562.32983	623.02905	4.4400024	FAAAAH+ArialMT
+Gloves made of polyvinyl acetate (PVA) are not water-resistant and are not suitable for emergency use.	false	4	11	81.0	544.0099	611.53	0.0	FAAAAH+ArialMT
+Chemical goggles are recommended if splashes or contact with eyes is possible.	false	4	12	81.0	443.39996	600.031	0.0	FAAAAH+ArialMT
+Small spills:	false	4	12	447.83997	501.18594	600.031	4.4400024	FAAAAH+ArialMT
+normal	false	4	12	505.63144	536.74994	600.031	4.4400024	FAAAAH+ArialMT
+antistatic work clothes are usually adequate.	false	4	13	81.0	282.77997	588.53204	0.0	FAAAAH+ArialMT
+Large spills:	false	4	13	287.21997	336.27478	588.53204	4.4400024	FAAAAH+ArialMT
+full body suit of chemical resistant, antistatic	false	4	13	340.36267	540.66986	588.53204	4.4400024	FAAAAH+ArialMT
+material is recommended.	false	4	14	81.0	196.03998	577.033	0.0	FAAAAH+ArialMT
+ENVIRONMENTAL PRECAUTIONS	false	4	16	45.0	207.78	542.536	0.0	FAAABB+Arial-BoldMT
+Large Spills:	false	4	17	81.0	141.59	531.037	0.0	FAAAAH+ArialMT
+Dyke far ahead of liquid spill for later recovery and disposal.	false	4	17	146.03	416.16992	531.037	4.4400024	FAAAAH+ArialMT
+Prevent entry into waterways,	false	4	17	420.60992	554.54987	531.037	4.4400024	FAAAAH+ArialMT
+sewers, basements or confined areas.	false	4	18	81.0	249.97997	519.53796	0.0	FAAAAH+ArialMT
+METHODS AND MATERIAL FOR CONTAINMENT AND CLEANING UP	false	4	19	45.0	370.54004	485.04102	0.0	FAAABB+Arial-BoldMT
+Land Spill:	false	4	20	81.0	134.89	473.54202	0.0	FAAABB+Arial-BoldMT
+Stop leak if you can do so without risk.	false	4	20	142.11	317.74994	473.54202	2.2200012	FAAAAH+ArialMT
+Recover by pumping or with suitable absorbent.	false	4	20	322.18994	533.41986	473.54202	4.4400024	FAAAAH+ArialMT
+Water Spill:	false	4	21	81.0	138.78	450.544	0.0	FAAABB+Arial-BoldMT
+Stop leak if you can do so without risk.	false	4	21	146.0	321.64996	450.544	2.2200012	FAAAAH+ArialMT
+Confine the spill immediately with booms.	false	4	21	326.08997	515.05994	450.544	4.4400024	FAAAAH+ArialMT
+Warn other	false	4	21	519.4999	571.7499	450.544	4.4399414	FAAAAH+ArialMT
+shipping.	false	4	22	81.0	126.59	439.045	0.0	FAAAAH+ArialMT
+Remove from the surface by skimming or with suitable absorbents.	false	4	22	131.03	431.70993	439.045	4.4400024	FAAAAH+ArialMT
+Seek the advice of a specialist	false	4	22	436.14993	573.44995	439.045	4.4400024	FAAAAH+ArialMT
+before using dispersants.	false	4	23	81.0	192.72998	427.54602	0.0	FAAAAH+ArialMT
+Water spill and land spill recommendations are based on the most likely spill scenario for this material;	false	4	24	81.0	535.6499	404.54803	0.0	FAAAAH+ArialMT
+however, geographic conditions, wind, temperature, (and in the case of a water spill) wave and current direction	false	4	25	81.0	576.8198	393.04904	0.0	FAAAAH+ArialMT
+and speed may greatly influence the appropriate action to be taken.	false	4	26	81.0	385.08994	381.55005	0.0	FAAAAH+ArialMT
+For this reason, local experts should be	false	4	26	389.52994	566.83984	381.55005	4.4400024	FAAAAH+ArialMT
+consulted.	false	4	27	81.0	132.14	370.05103	0.0	FAAAAH+ArialMT
+Note:	false	4	27	136.59	166.04999	370.05103	4.449997	FAAAAH+ArialMT
+Local regulations may prescribe or limit action to be taken.	false	4	27	170.48999	428.38992	370.05103	4.4400024	FAAAAH+ArialMT
+SECTION 7	false	4	28	50.75	103.54	344.00302	2.2200012	FAAABB+Arial-BoldMT
+HANDLING AND STORAGE	false	4	28	129.3	258.74	344.00302	2.2200012	FAAABB+Arial-BoldMT
+PRECAUTIONS FOR SAFE HANDLING	false	4	29	45.0	226.67	320.25504	0.0	FAAABB+Arial-BoldMT
+Avoid contact with used product. Prevent small spills and leakage to avoid slip hazard. Material can accumulate	false	4	30	81.0	576.2599	308.756	0.0	FAAAAH+ArialMT
+static charges which may cause an electrical spark (ignition source).	false	4	31	81.0	387.79996	297.25702	0.0	FAAAAH+ArialMT
+When the material is handled in bulk, an	false	4	31	392.23996	572.8999	297.25702	4.4400024	FAAAAH+ArialMT
+electrical spark could ignite any flammable vapors from liquids or residues that may be present (e.g., during	false	4	32	81.0	557.88983	285.75803	0.0	FAAAAH+ArialMT
+switch-loading operations).	false	4	33	81.0	205.51	274.259	0.0	FAAAAH+ArialMT
+Use proper bonding and/or earthing procedures.	false	4	33	209.95	428.9799	274.259	4.4400024	FAAAAH+ArialMT
+However, bonding and earthing	false	4	33	433.4199	575.1798	274.259	4.4400024	FAAAAH+ArialMT
+may not eliminate the hazard from static accumulation.	false	4	34	81.0	328.32996	262.76	0.0	FAAAAH+ArialMT
+Consult local applicable standards for guidance.	false	4	34	332.77997	550.6799	262.76	4.450012	FAAAAH+ArialMT
+Additional references include American Petroleum Institute 2003 (Protection Against Ignitions Arising out of	false	4	35	81.0	556.80994	251.26102	0.0	FAAAAH+ArialMT
+Static, Lightning and Stray Currents) or National Fire Protection Agency 77 (Recommended Practice on Static	false	4	36	81.0	568.44995	239.76202	0.0	FAAAAH+ArialMT
+Electricity) or CENELEC CLC/TR 50404 (Electrostatics - Code of practice for the avoidance of hazards due to	false	4	37	81.0	567.8799	228.26303	0.0	FAAAAH+ArialMT
+static electricity).	false	4	38	81.0	166.01999	216.76402	0.0	FAAAAH+ArialMT
+Static Accumulator:	false	4	39	81.0	181.01999	193.76602	0.0	FAAABB+Arial-BoldMT
+This material is a static accumulator.	false	4	39	190.45999	352.17996	193.76602	2.2200012	FAAAAH+ArialMT
+Specific Hygiene Measures:	false	4	40	81.0	218.82999	170.76804	0.0	FAAABB+Arial-BoldMT
+Always observe good personal hygiene measures, such as washing after	false	4	40	228.27998	554.0099	170.76804	2.2200012	FAAAAH+ArialMT
+handling the material and before eating, drinking, and/or smoking.	false	4	41	81.0	377.28992	159.26904	0.0	FAAAAH+ArialMT
+Routinely wash work clothing and	false	4	41	381.72992	532.92993	159.26904	4.4400024	FAAAAH+ArialMT
+protective equipment to remove contaminants.	false	4	42	81.0	291.65997	147.77005	0.0	FAAAAH+ArialMT
+Discard contaminated clothing and footwear that cannot be	false	4	42	296.11	559.59985	147.77005	4.450012	FAAAAH+ArialMT
+cleaned. Practice good housekeeping.	false	4	43	81.0	250.56996	136.27104	0.0	FAAAAH+ArialMT
+CONDITIONS FOR SAFE STORAGE, INCLUDING ANY INCOMPATIBILITIES	false	4	45	45.0	398.33997	101.774055	0.0	FAAABB+Arial-BoldMT
+The	false	4	46	86.0	108.79	90.27503	2.2200012	FAAAAH+ArialMT
+type of container used to store the material may affect static accumulation and dissipation.	false	4	46	113.229996	517.32996	90.27503	4.439995	FAAAAH+ArialMT
+Do not	false	4	46	521.7699	554.0099	90.27503	4.4399414	FAAAAH+ArialMT
+store in open or unlabelled containers.	false	4	47	81.0	256.11	78.77603	0.0	FAAAAH+ArialMT
+Product Name:	true	5	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	5	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	5	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	5	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 5 of 11	true	5	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+SECTION 8	false	5	6	50.75	103.54	645.27704	2.2200012	FAAABB+Arial-BoldMT
+EXPOSURE CONTROLS / PERSONAL PROTECTION	false	5	6	126.9	373.59	645.27704	2.2200012	FAAABB+Arial-BoldMT
+CONTROL PARAMETERS	false	5	7	45.0	167.22	621.52905	0.0	FAAABB+Arial-BoldMT
+Exposure limits/standards for materials that can be formed when handling this product:	false	5	8	45.0	470.06973	587.03204	0.0	FAAABB+Arial-BoldMT
+When mists/aerosols	false	5	8	481.72974	577.3197	587.03204	2.2200012	FAAAAH+ArialMT
+can occur the following is recommended:	false	5	9	45.0	231.75996	575.533	0.0	FAAAAH+ArialMT
+5 mg/m³ - ACGIH TLV (inhalable fraction).	false	5	9	236.19997	427.9199	575.533	4.4400024	FAAAAH+ArialMT
+NOTE:	false	5	10	45.0	64.15744	552.53503	0.0	FAAAAH+ArialMT
+Limits/standards shown for guidance only.	false	5	10	68.9468	270.09995	552.53503	0.0	FAAAAH+ArialMT
+Follow applicable regulations.	false	5	10	274.54993	405.72992	552.53503	4.4499817	FAAAAH+ArialMT
+Biological limits	false	5	11	45.0	121.68	518.038	0.0	FAAABB+Arial-BoldMT
+No biological limits allocated.	false	5	13	45.0	173.39	495.04004	0.0	FAAAAH+ArialMT
+ENGINEERING CONTROLS	false	5	14	45.0	173.90001	460.54303	0.0	FAAABB+Arial-BoldMT
+The level of protection and types of controls necessary will vary depending upon potential exposure conditions.	false	5	15	81.0	576.28986	437.54504	0.0	FAAAAH+ArialMT
+Control measures to consider:	false	5	16	81.0	214.38998	426.04605	0.0	FAAAAH+ArialMT
+No special requirements under ordinary conditions of use and with adequate ventilation.	false	5	17	122.0	510.00995	414.54703	2.2200012	FAAAAH+ArialMT
+PERSONAL PROTECTION	false	5	18	45.0	168.89	391.549	0.0	FAAABB+Arial-BoldMT
+Personal protective equipment selections vary based on potential exposure conditions such as applications,	false	5	20	81.0	559.6199	368.55103	0.0	FAAAAH+ArialMT
+handling practices, concentration and ventilation.	false	5	21	81.0	302.80994	357.05203	0.0	FAAAAH+ArialMT
+Information on the selection of protective equipment for use	false	5	21	307.24994	572.95984	357.05203	4.4400024	FAAAAH+ArialMT
+with this material, as provided below, is based upon intended, normal usage.	false	5	22	81.0	422.3099	345.55304	0.0	FAAAAH+ArialMT
+Respiratory Protection:	false	5	23	81.0	197.69	322.55502	0.0	FAAABB+Arial-BoldMT
+If engineering controls do not maintain airborne contaminant concentrations at a	false	5	23	207.13	563.45984	322.55502	2.2200012	FAAAAH+ArialMT
+level which is adequate to protect worker health, an approved respirator may be appropriate.	false	5	24	81.0	495.11984	311.05603	0.0	FAAAAH+ArialMT
+Respirator	false	5	24	499.55984	548.46985	311.05603	4.4400024	FAAAAH+ArialMT
+selection, use, and maintenance must be in accordance with regulatory requirements, if applicable.	false	5	25	81.0	523.45984	299.55704	0.0	FAAAAH+ArialMT
+Types of	false	5	25	527.90985	569.0298	299.55704	4.450012	FAAAAH+ArialMT
+respirators to be considered for this material include:	false	5	26	81.0	313.32996	288.058	0.0	FAAAAH+ArialMT
+No special requirements under ordinary conditions of use and with adequate ventilation.	false	5	27	127.0	523.35	276.55902	4.4400024	FAAAAH+ArialMT
+Particulate	false	5	28	117.0	164.24	265.06003	0.0	FAAAAH+ArialMT
+For high airborne concentrations, use an approved supplied-air respirator, operated in positive pressure mode.	false	5	29	81.0	574.5998	242.06201	0.0	FAAAAH+ArialMT
+Supplied air respirators with an escape bottle may be appropriate when oxygen levels are inadequate,	false	5	30	81.0	534.60986	230.56302	0.0	FAAAAH+ArialMT
+gas/vapour warning properties are poor, or if air purifying filter capacity/rating may be exceeded.	false	5	31	81.0	505.65988	219.06403	0.0	FAAAAH+ArialMT
+Hand Protection:	false	5	32	81.0	167.11002	196.06601	0.0	FAAABB+Arial-BoldMT
+Any specific glove information provided is based on published literature and glove	false	5	32	176.56	540.0999	196.06601	2.2200012	FAAAAH+ArialMT
+manufacturer data.	false	5	33	81.0	170.48999	184.56702	0.0	FAAAAH+ArialMT
+Glove suitability and breakthrough time will differ depending on the specific use conditions.	false	5	33	174.93999	577.9399	184.56702	4.449997	FAAAAH+ArialMT
+Contact the glove manufacturer for specific advice on glove selection and breakthrough times for your use	false	5	34	81.0	551.8098	173.06802	0.0	FAAAAH+ArialMT
+conditions. Inspect and replace worn or damaged gloves. The types of gloves to be considered for this material	false	5	35	81.0	574.0498	161.56902	0.0	FAAAAH+ArialMT
+include:	false	5	36	81.0	115.47	150.07	0.0	FAAAAH+ArialMT
+No protection is ordinarily required under normal conditions of use.	false	5	37	122.0	422.14993	138.57104	2.2200012	FAAAAH+ArialMT
+Nitrile,Viton	false	5	37	426.59995	477.71994	138.57104	4.450012	FAAAAH+ArialMT
+Eye Protection:	false	5	38	81.0	159.91	115.573006	0.0	FAAABB+Arial-BoldMT
+If contact is likely, safety glasses with side shields are recommended.	false	5	38	169.35	476.1499	115.573006	2.2200012	FAAAAH+ArialMT
+Skin and Body Protection:	false	5	39	81.0	214.34001	92.57502	0.0	FAAABB+Arial-BoldMT
+Any specific clothing information provided is based on published literature or	false	5	39	226.01001	565.6399	92.57502	2.2200012	FAAAAH+ArialMT
+manufacturer data.	false	5	40	81.0	170.48999	81.07602	0.0	FAAAAH+ArialMT
+The types of clothing to be considered for this material include:	false	5	40	174.93999	452.3099	81.07602	4.449997	FAAAAH+ArialMT
+Product Name:	true	6	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	6	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	6	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	6	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 6 of 11	true	6	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+No skin protection is ordinarily required under normal conditions of use.	false	6	6	122.0	442.70993	669.025	2.2200012	FAAAAH+ArialMT
+In accordance with good	false	6	6	447.15994	558.3399	669.025	4.450012	FAAAAH+ArialMT
+industrial hygiene practices, precautions should be taken to avoid skin contact.	false	6	7	117.0	464.42993	657.526	0.0	FAAAAH+ArialMT
+ENVIRONMENTAL CONTROLS	false	6	8	45.0	191.11	634.528	0.0	FAAABB+Arial-BoldMT
+Comply with applicable environmental regulations limiting discharge to air, water and	false	6	9	86.0	460.0699	623.02905	2.2200012	FAAAAH+ArialMT
+soil. Protect the environment by applying appropriate control measures to prevent or limit	false	6	10	81.0	473.41986	611.53	0.0	FAAAAH+ArialMT
+emissions.	false	6	11	81.0	128.23999	600.031	0.0	FAAAAH+ArialMT
+SECTION 9	false	6	12	45.75	97.761	566.872	0.0	FAAAAH+ArialMT
+PHYSICAL AND CHEMICAL PROPERTIES	false	6	12	126.9	324.69	565.934	2.2200012	FAAABB+Arial-BoldMT
+Note:	false	6	13	45.0	76.11	542.18604	0.0	FAAABB+Arial-BoldMT
+Physical and chemical properties are provided for safety, health and environmental considerations only	false	6	13	80.55	576.2497	542.18604	4.4400024	FAAABB+Arial-BoldMT
+and may not fully represent product specifications.	false	6	14	45.0	293.37997	530.687	0.0	FAAABB+Arial-BoldMT
+Contact the Supplier for additional information.	false	6	14	297.82996	522.26965	530.687	4.4499817	FAAABB+Arial-BoldMT
+GENERAL INFORMATION	false	6	15	45.0	167.22	507.68903	0.0	FAAABB+Arial-BoldMT
+Physical State:	false	6	16	81.0	160.48	496.19	0.0	FAAABB+Arial-BoldMT
+Liquid	false	6	16	172.14	201.60999	496.19	2.2200012	FAAAAH+ArialMT
+Colour:	false	6	17	81.0	122.11	484.69104	0.0	FAAABB+Arial-BoldMT
+Amber	false	6	17	131.55	161.0	484.69104	2.2200012	FAAAAH+ArialMT
+Odour:	false	6	18	81.0	119.880005	473.19202	0.0	FAAABB+Arial-BoldMT
+Characteristic	false	6	18	129.33	190.45	473.19202	2.2300034	FAAAAH+ArialMT
+Odour Threshold:	false	6	19	81.0	171.0	461.69302	0.0	FAAABB+Arial-BoldMT
+N/D	false	6	19	180.44	197.66	461.69302	2.2200012	FAAAAH+ArialMT
+IMPORTANT HEALTH, SAFETY, AND ENVIRONMENTAL INFORMATION	false	6	20	45.0	383.31995	438.695	0.0	FAAABB+Arial-BoldMT
+Relative Density (at 15.6 °C):	false	6	21	81.0	221.70999	427.19604	0.0	FAAABB+Arial-BoldMT
+0.86	false	6	21	236.15999	266.72998	427.19604	4.449997	FAAAAH+ArialMT
+Flammability (Solid, Gas):	false	6	22	81.0	209.35999	415.69702	0.0	FAAABB+Arial-BoldMT
+N/A	false	6	22	213.79999	230.46999	415.69702	4.4400024	FAAAAH+ArialMT
+Flash Point [Method]:	false	6	23	81.0	194.32	404.19803	0.0	FAAABB+Arial-BoldMT
+220°C	false	6	23	208.20999	241.67	404.19803	2.2200012	FAAAAH+ArialMT
+(428°F)	false	6	23	246.11	285.12	404.19803	4.4400024	FAAAAH+ArialMT
+[ASTM D-92]	false	6	23	289.56	347.35	404.19803	4.4400024	FAAAAH+ArialMT
+Flammable Limits (Approximate volume % in air):	false	6	24	81.0	318.27	392.69904	0.0	FAAABB+Arial-BoldMT
+LEL:	false	6	24	330.49	356.62	392.69904	4.4400024	FAAAAH+ArialMT
+0.9	false	6	24	361.06	388.86	392.69904	4.4400024	FAAAAH+ArialMT
+UEL:	false	6	24	399.96	416.63623	392.69904	11.100006	FAAAAH+ArialMT
+7.0	false	6	24	422.19498	444.43	392.69904	11.100006	FAAAAH+ArialMT
+Autoignition Temperature:	false	6	25	81.0	209.33	381.2	0.0	FAAABB+Arial-BoldMT
+N/D	false	6	25	216.55	236.55	381.2	2.2200012	FAAAAH+ArialMT
+Boiling Point / Range:	false	6	26	81.0	190.44	369.70102	0.0	FAAABB+Arial-BoldMT
+> 316°C (600°F)	false	6	26	204.88	277.63	369.70102	4.4400024	FAAAAH+ArialMT
+Decomposition Temperature:	false	6	27	81.0	225.47	358.20203	0.0	FAAABB+Arial-BoldMT
+N/D	false	6	27	229.91	247.13	358.20203	4.4400024	FAAAAH+ArialMT
+Vapour Density (Air = 1):	false	6	28	81.0	203.53	346.70303	0.0	FAAABB+Arial-BoldMT
+N/D	false	6	28	212.97	230.19	346.70303	2.2200012	FAAAAH+ArialMT
+Vapour Pressure:	false	6	29	81.0	169.92	335.204	0.0	FAAABB+Arial-BoldMT
+< 0.013 kPa (0.1 mm Hg) at 20 °C	false	6	29	179.36	330.36996	335.204	2.2200012	FAAAAH+ArialMT
+Evaporation Rate (n-butyl acetate = 1):	false	6	30	81.0	269.09998	323.70502	0.0	FAAABB+Arial-BoldMT
+N/D	false	6	30	278.53998	295.75998	323.70502	2.2200012	FAAAAH+ArialMT
+pH:	false	6	31	81.0	103.22	312.20602	0.0	FAAABB+Arial-BoldMT
+N/A	false	6	31	112.66	129.33	312.20602	2.2200012	FAAAAH+ArialMT
+Log Pow (n-Octanol/Water Partition Coefficient):	false	6	32	81.0	316.0	300.70703	0.0	FAAABB+Arial-BoldMT
+> 3.5	false	6	32	325.44	347.96	300.70703	2.2200317	FAAAAH+ArialMT
+Solubility in Water:	false	6	33	81.0	177.11	289.20804	0.0	FAAABB+Arial-BoldMT
+Negligible	false	6	33	186.56	230.46999	289.20804	2.2200012	FAAAAH+ArialMT
+Viscosity:	false	6	34	81.0	133.79999	277.709	0.0	FAAABB+Arial-BoldMT
+70.7 cSt	false	6	34	143.23999	185.48999	277.709	2.2200012	FAAAAH+ArialMT
+(70.7 mm2/sec) at 40ºC	false	6	34	189.93	300.83997	277.709	4.4400024	FAAAAH+ArialMT
+|	false	6	34	305.28998	313.43997	277.709	4.450012	FAAAAH+ArialMT
+10.5 cSt	false	6	34	317.87997	360.12997	277.709	4.4400024	FAAAAH+ArialMT
+(10.5 mm2/sec) at 100°C	false	6	34	364.56998	475.8399	277.709	4.4400024	FAAAAH+ArialMT
+Oxidizing Properties:	false	6	35	81.0	187.13	266.21002	0.0	FAAABB+Arial-BoldMT
+See Hazards Identification Section.	false	6	35	191.57	347.21997	266.21002	4.4400024	FAAAAH+ArialMT
+OTHER INFORMATION	false	6	36	45.0	153.32	243.21204	0.0	FAAABB+Arial-BoldMT
+Freezing Point:	false	6	37	81.0	158.78	231.71301	0.0	FAAABB+Arial-BoldMT
+N/D	false	6	37	168.22	185.44	231.71301	2.2200012	FAAAAH+ArialMT
+Melting Point:	false	6	38	81.0	152.66	220.21402	0.0	FAAABB+Arial-BoldMT
+N/A	false	6	38	162.1	178.77	220.21402	2.2200012	FAAAAH+ArialMT
+Pour Point:	false	6	39	81.0	143.22	208.71503	0.0	FAAABB+Arial-BoldMT
+-30°C	false	6	39	164.88	196.11	208.71503	6.6600037	FAAAAH+ArialMT
+(-22°F)	false	6	39	200.55	237.33002	208.71503	4.4400024	FAAAAH+ArialMT
+[ASTM D97]	false	6	39	241.78001	304.57	208.71503	4.449997	FAAAAH+ArialMT
+DMSO Extract (mineral oil only), IP-346:	false	6	40	81.0	274.37997	197.21603	0.0	FAAABB+Arial-BoldMT
+< 3 %wt	false	6	40	288.81998	327.44995	197.21603	4.4400024	FAAAAH+ArialMT
+SECTION 10	false	6	41	50.75	109.100006	161.96902	2.2200012	FAAABB+Arial-BoldMT
+STABILITY AND REACTIVITY	false	6	41	126.9	265.23	161.96902	2.2200012	FAAABB+Arial-BoldMT
+REACTIVITY:	false	6	42	45.0	110.56	138.22101	0.0	FAAABB+Arial-BoldMT
+See sub-sections below.	false	6	42	110.56	218.94997	138.22101	0.0	FAAAAH+ArialMT
+STABILITY:	false	6	43	45.0	102.770004	115.22303	0.0	FAAABB+Arial-BoldMT
+Material is stable under normal conditions.	false	6	43	110.0	297.30994	115.22303	2.2299957	FAAAAH+ArialMT
+CONDITIONS TO AVOID:	false	6	44	45.0	165.0	92.225044	0.0	FAAABB+Arial-BoldMT
+Excessive heat. High energy sources of ignition.	false	6	44	172.22	385.10995	92.225044	2.2200012	FAAAAH+ArialMT
+Product Name:	true	7	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	7	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	7	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	7	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 7 of 11	true	7	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+INCOMPATIBLE MATERIALS:	false	7	6	45.0	191.1	669.025	0.0	FAAABB+Arial-BoldMT
+Strong oxidisers	false	7	6	200.55	272.25	669.025	2.2200012	FAAAAH+ArialMT
+HAZARDOUS DECOMPOSITION PRODUCTS:	false	7	7	45.0	261.66998	646.02704	0.0	FAAABB+Arial-BoldMT
+Material does not decompose at ambient temperatures.	false	7	7	268.88998	514.0199	646.02704	2.2200012	FAAAAH+ArialMT
+POSSIBILITY OF HAZARDOUS REACTIONS:	false	7	8	45.0	258.34003	623.02905	0.0	FAAABB+Arial-BoldMT
+Hazardous polymerization will not occur.	false	7	8	265.56	444.52997	623.02905	2.2199707	FAAAAH+ArialMT
+SECTION 11	false	7	9	50.75	109.100006	599.281	2.2200012	FAAABB+Arial-BoldMT
+TOXICOLOGICAL INFORMATION	false	7	9	126.15	282.80002	599.281	2.2200012	FAAABB+Arial-BoldMT
+INFORMATION ON TOXICOLOGICAL EFFECTS	false	7	10	45.0	267.77002	575.533	0.0	FAAABB+Arial-BoldMT
+Hazard Class	false	7	11	45.75	108.56	552.93506	0.0	FAAABB+Arial-BoldMT
+Conclusion / Remarks	false	7	11	237.5	342.53	552.93506	2.2200012	FAAABB+Arial-BoldMT
+Inhalation	false	7	12	45.75	88.248	541.624	0.0	FAAABB+Arial-BoldMT
+Acute Toxicity:	false	7	13	45.75	109.271996	529.37506	0.0	FAAAAH+ArialMT
+No end point data for	false	7	13	113.268	199.82997	529.37506	3.9960022	FAAAAH+ArialMT
+Minimally Toxic. Based on assessment of the components.	false	7	13	232.5	466.60794	529.37506	32.67003	FAAAAH+ArialMT
+material.	false	7	14	45.75	80.265	519.02606	0.0	FAAAAH+ArialMT
+Irritation:	false	7	15	45.75	82.62906	507.9271	0.0	FAAAAH+ArialMT
+No end point data for material.	false	7	15	86.31696	204.32996	507.9271	0.0	FAAAAH+ArialMT
+Negligible hazard at ambient/normal handling temperatures.	false	7	15	232.5	471.13492	507.9271	28.170044	FAAAAH+ArialMT
+Ingestion	false	7	16	45.75	85.746	496.8281	0.0	FAAABB+Arial-BoldMT
+Acute Toxicity:	false	7	17	45.75	101.588425	484.57907	0.0	FAAAAH+ArialMT
+No end point data for	false	7	17	105.57688	193.32297	484.57907	0.0	FAAAAH+ArialMT
+Minimally Toxic. Based on assessment of the components.	false	7	17	232.5	466.60794	484.57907	39.177032	FAAAAH+ArialMT
+material.	false	7	18	45.75	80.265	474.23004	0.0	FAAAAH+ArialMT
+Skin	false	7	19	45.75	64.757996	463.13107	0.0	FAAABB+Arial-BoldMT
+Acute Toxicity:	false	7	20	45.75	101.588425	450.88208	0.0	FAAAAH+ArialMT
+No end point data for	false	7	20	105.57688	193.32297	450.88208	0.0	FAAAAH+ArialMT
+Minimally Toxic. Based on assessment of the components.	false	7	20	232.5	466.60794	450.88208	39.177032	FAAAAH+ArialMT
+material.	false	7	21	45.75	80.265	440.53308	0.0	FAAAAH+ArialMT
+Skin Corrosion/Irritation:	false	7	22	45.75	143.8142	429.43408	0.0	FAAAAH+ArialMT
+No end point data	false	7	22	147.73676	218.34297	429.43408	0.0	FAAAAH+ArialMT
+Negligible irritation to skin at ambient temperatures. Based on	false	7	22	232.5	480.62994	429.43408	14.157028	FAAAAH+ArialMT
+for material.	false	7	23	45.75	93.261	419.08508	0.0	FAAAAH+ArialMT
+assessment of the components.	false	7	23	232.5	359.57098	419.08508	139.239	FAAAAH+ArialMT
+Eye	false	7	24	45.75	64.263	407.98608	0.0	FAAABB+Arial-BoldMT
+Serious Eye Damage/Irritation:	false	7	25	45.75	166.19846	395.7371	0.0	FAAAAH+ArialMT
+No end point	false	7	25	170.35185	224.34596	395.7371	0.0	FAAAAH+ArialMT
+May cause mild, short-lasting discomfort to eyes. Based on	false	7	25	232.5	470.09995	395.7371	8.154037	FAAAAH+ArialMT
+data for material.	false	7	26	45.75	113.285995	385.38806	0.0	FAAAAH+ArialMT
+assessment of the components.	false	7	26	232.5	359.57098	385.38806	119.214005	FAAAAH+ArialMT
+Sensitisation	false	7	27	45.75	104.268	374.2891	0.0	FAAABB+Arial-BoldMT
+Respiratory Sensitization:	false	7	28	45.75	146.94373	362.04007	0.0	FAAAAH+ArialMT
+No end point data	false	7	28	150.99147	223.85097	362.04007	0.0	FAAAAH+ArialMT
+Not expected to be a respiratory sensitizer.	false	7	28	232.5	403.58096	362.04007	8.649033	FAAAAH+ArialMT
+for material.	false	7	29	45.75	93.261	351.69104	0.0	FAAAAH+ArialMT
+Skin Sensitization:	false	7	30	45.75	117.13271	340.59207	0.0	FAAAAH+ArialMT
+No end point data for	false	7	30	121.09842	208.34396	340.59207	0.0	FAAAAH+ArialMT
+Not expected to be a skin sensitizer. Based on assessment of the	false	7	30	232.5	495.64194	340.59207	24.156036	FAAAAH+ArialMT
+material.	false	7	31	45.75	80.265	330.24304	0.0	FAAAAH+ArialMT
+components.	false	7	31	232.5	284.034	330.24304	152.235	FAAAAH+ArialMT
+Aspiration:	false	7	32	45.75	95.754	319.14407	0.0	FAAABB+Arial-BoldMT
+Data available.	false	7	32	95.754	155.28899	319.14407	0.0	FAAAAH+ArialMT
+Not expected to be an aspiration hazard.	false	7	32	232.5	399.60297	319.14407	77.21101	FAAAAH+ArialMT
+Based on physico-	false	7	32	403.59894	477.64194	319.14407	3.9959717	FAAAAH+ArialMT
+chemical properties of the material.	false	7	33	232.5	372.55798	308.79504	0.0	FAAAAH+ArialMT
+Germ Cell Mutagenicity:	false	7	34	45.75	141.83794	297.69608	0.0	FAAABB+Arial-BoldMT
+No end point data	false	7	34	146.20557	224.82297	297.69608	0.0	FAAABB+Arial-BoldMT
+Not expected to be a germ cell mutagen. Based on assessment of	false	7	34	232.5	498.14398	297.69608	7.6770325	FAAAAH+ArialMT
+for material.	false	7	35	45.75	93.261	287.34705	0.0	FAAAAH+ArialMT
+the components.	false	7	35	232.5	299.046	287.34705	139.239	FAAAAH+ArialMT
+Carcinogenicity:	false	7	36	45.75	118.767	276.24808	0.0	FAAABB+Arial-BoldMT
+No end point data for	false	7	36	118.767	205.31996	276.24808	0.0	FAAAAH+ArialMT
+Not expected to cause cancer. Based on assessment of the	false	7	36	232.5	472.63794	276.24808	27.180038	FAAAAH+ArialMT
+material.	false	7	37	45.75	80.265	265.89905	0.0	FAAAAH+ArialMT
+components.	false	7	37	232.5	284.034	265.89905	152.235	FAAAAH+ArialMT
+Reproductive Toxicity:	false	7	38	45.75	136.61172	254.80006	0.0	FAAABB+Arial-BoldMT
+No end point data	false	7	38	140.93848	218.81996	254.80006	0.0	FAAABB+Arial-BoldMT
+Not expected to be a reproductive toxicant. Based on assessment	false	7	38	232.5	497.14496	254.80006	13.680038	FAAAAH+ArialMT
+for material.	false	7	39	45.75	93.261	244.45107	0.0	FAAAAH+ArialMT
+of the components.	false	7	39	232.5	309.04498	244.45107	139.239	FAAAAH+ArialMT
+Lactation:	false	7	40	45.75	91.254	233.35207	0.0	FAAABB+Arial-BoldMT
+No end point data for material.	false	7	40	91.254	212.32196	233.35207	0.0	FAAAAH+ArialMT
+Not expected to cause harm to breast-fed children.	false	7	40	232.5	434.60394	233.35207	20.17804	FAAAAH+ArialMT
+Specific Target Organ Toxicity (STOT)	false	7	41	45.75	208.27196	222.25307	0.0	FAAABB+Arial-BoldMT
+Single Exposure:	false	7	42	45.75	107.76116	210.00407	0.0	FAAAAH+ArialMT
+No end point data for	false	7	42	111.89524	202.84496	210.00407	0.0	FAAAAH+ArialMT
+Not expected to cause organ damage from a single exposure.	false	7	42	232.5	478.64093	210.00407	29.655045	FAAAAH+ArialMT
+material.	false	7	43	45.75	80.265	199.65508	0.0	FAAAAH+ArialMT
+Repeated Exposure:	false	7	44	45.75	118.4747	188.55608	0.0	FAAAAH+ArialMT
+No end point data for	false	7	44	122.752625	216.86694	188.55608	0.0	FAAAAH+ArialMT
+Not expected to cause organ damage from prolonged or repeated	false	7	44	232.5	496.6679	188.55608	15.633057	FAAAAH+ArialMT
+material.	false	7	45	45.75	80.265	178.20708	0.0	FAAAAH+ArialMT
+exposure. Based on assessment of the components.	false	7	45	232.5	442.11896	178.20708	152.235	FAAAAH+ArialMT
+OTHER INFORMATION	false	7	46	45.0	153.32	145.47205	0.0	FAAABB+Arial-BoldMT
+For the product itself:	false	7	47	110.0	218.88998	133.97302	28.879997	FAAABB+Arial-BoldMT
+Diesel engine oils:	false	7	48	45.0	131.71	110.975044	0.0	FAAAAH+ArialMT
+Not carcinogenic in animals tests. Used and unused diesel engine oils did not produce any	false	7	48	136.16	539.17993	110.975044	4.449997	FAAAAH+ArialMT
+carcinogenic effects in chronic mouse skin painting studies.	false	7	49	45.0	312.90994	99.47604	0.0	FAAAAH+ArialMT
+Oils that are used in gasoline engines may become	false	7	49	317.35995	546.9299	99.47604	4.450012	FAAAAH+ArialMT
+hazardous and display the following properties:	false	7	50	45.0	259.01996	87.97704	0.0	FAAAAH+ArialMT
+Carcinogenic in animal tests. Caused mutations in vitro. Possible	false	7	50	263.45996	553.0399	87.97704	4.4400024	FAAAAH+ArialMT
+allergen and photoallergen. Contains polycyclic aromatic compounds (PAC) from combustion products of gasoline	false	7	51	45.0	551.3699	76.47804	0.0	FAAAAH+ArialMT
+Product Name:	true	8	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	8	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	8	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	8	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 8 of 11	true	8	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+and/or thermal degradation products.	false	8	6	45.0	208.98997	669.025	0.0	FAAAAH+ArialMT
+Contains:	false	8	7	45.0	91.11	657.526	0.0	FAAABB+Arial-BoldMT
+Base oil severely refined:	false	8	8	45.0	162.27998	646.02704	0.0	FAAAAH+ArialMT
+Not carcinogenic in animal studies. Representative material passes IP-346, Modified Ames	false	8	8	166.71999	570.7999	646.02704	4.4400024	FAAAAH+ArialMT
+test, and/or other screening tests. Dermal and inhalation studies showed minimal effects; lung non-specific infiltration of	false	8	9	45.0	574.70996	634.528	0.0	FAAAAH+ArialMT
+immune cells, oil deposition and minimal granuloma formation. Not sensitising in test animals.	false	8	10	45.0	458.51993	623.02905	0.0	FAAAAH+ArialMT
+IARC Classification:	false	8	11	45.0	140.57	588.53204	0.0	FAAABB+Arial-BoldMT
+The following ingredients are cited on the lists below:	false	8	12	45.0	305.58	577.033	0.0	FAAABB+Arial-BoldMT
+None.	false	8	12	310.02	336.71	577.033	4.4400024	FAAAAH+ArialMT
+--REGULATORY LISTS SEARCHED--	false	8	14	201.333	372.463	543.68604	0.0	FAAAAH+ArialMT
+1 = IARC 1	false	8	15	50.0	99.19	532.187	2.2200012	FAAAAH+ArialMT
+2 = IARC 2A	false	8	15	212.9	268.76	532.187	2.2200012	FAAAAH+ArialMT
+3 = IARC 2B	false	8	15	376.35	432.21002	532.187	2.2200012	FAAAAH+ArialMT
+SECTION 12	false	8	17	50.75	109.100006	496.94	2.2200012	FAAABB+Arial-BoldMT
+ECOLOGICAL INFORMATION	false	8	17	121.65	261.64	496.94	2.2200012	FAAABB+Arial-BoldMT
+The information given is based on data for the material, components of the material, or for similar materials, through the	false	8	18	45.0	575.8098	473.19202	0.0	FAAAAH+ArialMT
+application of bridging principals.	false	8	19	45.0	190.08998	461.69302	0.0	FAAAAH+ArialMT
+ECOTOXICITY	false	8	20	45.0	118.340004	438.695	0.0	FAAABB+Arial-BoldMT
+Material -- Not expected to be harmful to aquatic organisms.	false	8	21	110.0	375.67993	427.19604	28.879997	FAAAAH+ArialMT
+MOBILITY IN SOIL	false	8	22	45.0	134.44	404.19803	0.0	FAAABB+Arial-BoldMT
+Base oil component -- Low solubility and floats and is expected to migrate from water to the land.	false	8	23	110.0	543.5598	392.69904	28.879997	FAAAAH+ArialMT
+Expected to partition to sediment and wastewater solids.	false	8	24	81.0	330.57996	381.20004	0.0	FAAAAH+ArialMT
+PERSISTENCE AND DEGRADABILITY	false	8	25	45.0	225.01	358.20203	0.0	FAAABB+Arial-BoldMT
+Biodegradation:	false	8	26	45.0	124.44	346.70303	0.0	FAAABB+Arial-BoldMT
+Base oil component --	false	8	27	110.0	212.82999	335.204	28.879997	FAAAAH+ArialMT
+Expected to be inherently biodegradable	false	8	27	217.26999	404.6199	335.204	4.4400024	FAAAAH+ArialMT
+BIOACCUMULATIVE POTENTIAL	false	8	28	45.0	204.99998	312.20602	0.0	FAAABB+Arial-BoldMT
+Base oil component -- Has the potential to bioaccumulate, however metabolism or physical properties	false	8	29	110.0	561.33984	300.70703	28.879997	FAAAAH+ArialMT
+may reduce the bioconcentration or limit bioavailability.	false	8	30	81.0	323.33997	289.20804	0.0	FAAAAH+ArialMT
+OTHER ADVERSE EFFECTS	false	8	31	45.0	179.45999	255.86102	0.0	FAAABB+Arial-BoldMT
+No adverse effects are expected.	false	8	32	81.0	227.74997	244.36203	0.0	FAAAAH+ArialMT
+SECTION 13	false	8	34	50.75	109.100006	211.41504	2.2200012	FAAABB+Arial-BoldMT
+DISPOSAL INFORMATION	false	8	34	123.15	247.59	211.41504	2.2200012	FAAABB+Arial-BoldMT
+Disposal recommendations based on material as supplied.	false	8	36	45.0	309.57996	187.66702	0.0	FAAAAH+ArialMT
+Disposal must be in accordance with current applicable	false	8	36	314.02997	560.81995	187.66702	4.450012	FAAAAH+ArialMT
+laws and regulations, and material characteristics at time of disposal.	false	8	37	45.0	352.36996	176.16803	0.0	FAAAAH+ArialMT
+DISPOSAL METHODS	false	8	38	45.0	148.9	141.67102	0.0	FAAABB+Arial-BoldMT
+Product is suitable for burning in an enclosed controlled burner for fuel value or disposal by supervised	false	8	39	81.0	536.8098	130.172	0.0	FAAAAH+ArialMT
+incineration at very high temperatures to prevent formation of undesirable combustion products. Protect the	false	8	40	81.0	557.3699	118.673004	0.0	FAAAAH+ArialMT
+environment. Dispose of used oil at designated sites. Minimize skin contact. Do not mix used oils with solvents,	false	8	41	81.0	574.0099	107.174	0.0	FAAAAH+ArialMT
+brake fluids or coolants.	false	8	42	81.0	189.38998	95.675	0.0	FAAAAH+ArialMT
+Product Name:	true	9	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	9	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	9	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	9	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 9 of 11	true	9	4	45.0	96.59999	698.498	0.0	FAAAAH+ArialMT
+REGULATORY DISPOSAL INFORMATION	false	9	6	45.0	242.22	669.025	0.0	FAAABB+Arial-BoldMT
+Environmental Quality (Scheduled Wastes) Regulations 2005 waste code:	false	9	7	81.0	427.54938	646.02704	0.0	FAAABB+Arial-BoldMT
+SW 305	false	9	7	432.6457	468.3199	646.02704	0.0	FAAABB+Arial-BoldMT
+Note:	false	9	8	81.0	99.67639	623.02905	0.0	FAAAAH+ArialMT
+These codes are assigned based upon the most common uses for this material and may not reflect	false	9	8	104.34549	547.9098	623.02905	0.0	FAAAAH+ArialMT
+contaminants resulting from actual use. Waste producers need to assess the actual process used when	false	9	9	81.0	541.23987	611.53	0.0	FAAAAH+ArialMT
+generating the waste and its contaminants in order to assign the proper waste disposal code(s); This material is	false	9	10	81.0	576.2498	600.03107	0.0	FAAAAH+ArialMT
+considered as hazardous waste pursuant to Environmental Quality (Scheduled Wastes) Regulations 2005.	false	9	11	81.0	551.2599	588.53204	0.0	FAAAAH+ArialMT
+Empty Container Warning Empty Container Warning (where applicable):	false	9	12	50.0	382.87994	565.53406	2.2200012	FAAABB+Arial-BoldMT
+Empty containers may contain residue	false	9	12	387.31995	559.6199	565.53406	4.4400024	FAAAAH+ArialMT
+and can be dangerous.	false	9	13	45.0	152.85999	554.03503	0.0	FAAAAH+ArialMT
+Do not attempt to refill or clean containers without proper instructions.	false	9	13	157.29999	470.22986	554.03503	4.4400024	FAAAAH+ArialMT
+Empty drums should	false	9	13	474.66986	568.59985	554.03503	4.4400024	FAAAAH+ArialMT
+be completely drained and safely stored until appropriately reconditioned or disposed.	false	9	14	45.0	429.1199	542.5361	0.0	FAAAAH+ArialMT
+Empty containers should be	false	9	14	433.5599	559.7499	542.5361	4.4400024	FAAAAH+ArialMT
+taken for recycling, recovery, or disposal through suitably qualified or licensed contractor and in accordance with	false	9	15	45.0	543.58984	531.03705	0.0	FAAAAH+ArialMT
+governmental regulations.	false	9	16	45.0	165.62997	519.5381	0.0	FAAAAH+ArialMT
+DO NOT PRESSURISE, CUT, WELD, BRAZE, SOLDER, DRILL, GRIND, OR EXPOSE	false	9	16	170.06998	561.25006	519.5381	4.4400024	FAAAAH+ArialMT
+SUCH CONTAINERS TO HEAT, FLAME, SPARKS, STATIC ELECTRICITY, OR OTHER SOURCES OF IGNITION.	false	9	17	45.0	564.5	508.03906	0.0	FAAAAH+ArialMT
+THEY MAY EXPLODE AND CAUSE INJURY OR DEATH.	false	9	18	45.0	303.37997	496.54007	0.0	FAAAAH+ArialMT
+SECTION 14	false	9	19	50.75	109.100006	472.79202	2.2200012	FAAABB+Arial-BoldMT
+TRANSPORT INFORMATION	false	9	19	121.65	257.2	472.79202	2.2200012	FAAABB+Arial-BoldMT
+LAND :	false	9	20	45.0	83.89	449.044	0.0	FAAABB+Arial-BoldMT
+Not Regulated for Land Transport	false	9	20	88.33	237.29997	449.044	4.4400024	FAAAAH+ArialMT
+SEA (IMDG):	false	9	22	45.0	110.0	415.69702	0.0	FAAABB+Arial-BoldMT
+Not Regulated for Sea Transport according to IMDG-Code	false	9	22	119.44	377.33994	415.69702	2.2200012	FAAAAH+ArialMT
+Marine Pollutant:	false	9	24	81.0	167.67	392.69904	0.0	FAAABB+Arial-BoldMT
+No	false	9	24	177.11	192.68	392.69904	2.2200012	FAAAAH+ArialMT
+AIR (IATA):	false	9	25	45.0	103.880005	358.20203	0.0	FAAABB+Arial-BoldMT
+Not Regulated for Air Transport	false	9	25	113.32001	252.26999	358.20203	2.2200012	FAAAAH+ArialMT
+SECTION 15	false	9	27	51.4	109.75	324.105	2.2200012	FAAABB+Arial-BoldMT
+REGULATORY INFORMATION	false	9	27	123.15	266.47	324.105	2.2200012	FAAABB+Arial-BoldMT
+This material is not hazardous as defined by the Occupational Safety and Health (Classification, Labeling and	false	9	28	45.0	567.32965	300.35703	0.0	FAAABB+Arial-BoldMT
+Safety Data Sheet of Hazardous Chemicals) Regulations 2013.	false	9	29	45.0	339.53998	288.85803	0.0	FAAABB+Arial-BoldMT
+REGULATORY STATUS AND APPLICABLE LAWS AND REGULATIONS	false	9	30	45.0	381.11	263.56003	0.0	FAAABB+Arial-BoldMT
+Listed or exempt from listing/notification on the following chemical inventories (May contain	false	9	31	81.0	522.7098	240.56201	0.0	FAAABB+Arial-BoldMT
+substance(s) subject to notification to the EPA Active TSCA inventory prior to import to USA):	false	9	32	81.0	533.2498	229.06302	0.0	FAAABB+Arial-BoldMT
+AIIC,	false	9	32	542.6898	567.6998	229.06302	2.2199707	FAAAAH+ArialMT
+DSL, ENCS, IECSC, ISHL, KECI, PICCS, TCSI, TSCA	false	9	33	81.0	323.27	217.56403	0.0	FAAAAH+ArialMT
+National Laws and Regulations:	false	9	34	81.0	234.91	183.06702	0.0	FAAABB+Arial-BoldMT
+Occupational Safety and Health (Use and Standards of Exposure of Chemicals Hazardous to Health)	false	9	35	81.0	530.1299	171.56802	0.0	FAAAAH+ArialMT
+Regulations 2000	false	9	36	81.0	158.82999	160.06903	0.0	FAAAAH+ArialMT
+SECTION 16	false	9	37	50.75	109.100006	124.82203	2.2200012	FAAABB+Arial-BoldMT
+OTHER INFORMATION	false	9	37	119.65	227.97	124.82203	10.549995	FAAABB+Arial-BoldMT
+List of abbreviations and acronyms that could be (but not necessarily are) used in this safety data sheet:	false	9	38	45.0	542.3297	101.07404	0.0	FAAABB+Arial-BoldMT
+Acronym	false	9	39	46.5	85.506	90.513016	0.0	FAAABB+Arial-BoldMT
+Full text	false	9	39	125.65	160.147	90.513016	40.144005	FAAABB+Arial-BoldMT
+N/A	false	9	40	46.5	61.503	80.16402	0.0	FAAAAH+ArialMT
+Not applicable	false	9	40	125.65	182.683	80.16402	64.147	FAAAAH+ArialMT
+Product Name:	true	10	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	10	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	10	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	10	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 10 of 11	false	10	4	45.0	101.048	698.498	0.0	FAAAAH+ArialMT
+N/D	false	10	6	46.5	61.998	669.963	0.0	FAAAAH+ArialMT
+Not determined	false	10	6	125.65	187.183	669.963	63.652	FAAAAH+ArialMT
+NE	false	10	7	46.5	59.001	659.614	0.0	FAAAAH+ArialMT
+Not established	false	10	7	125.65	187.687	659.614	66.649	FAAAAH+ArialMT
+VOC	false	10	8	46.5	66.003	649.265	0.0	FAAAAH+ArialMT
+Volatile Organic Compound	false	10	8	125.65	235.711	649.265	59.647003	FAAAAH+ArialMT
+AIIC	false	10	9	46.5	64.005	638.916	0.0	FAAAAH+ArialMT
+Australian Inventory of Industrial Chemicals	false	10	9	125.65	298.72897	638.916	61.645004	FAAAAH+ArialMT
+AIHA WEEL	false	10	10	46.5	95.51399	628.567	0.0	FAAAAH+ArialMT
+American Industrial Hygiene Association Workplace Environmental Exposure Limits	false	10	10	125.65	458.28998	628.567	30.13601	FAAAAH+ArialMT
+ASTM	false	10	11	46.5	71.502	618.218	0.0	FAAAAH+ArialMT
+ASTM International, originally known as the American Society for Testing and Materials (ASTM)	false	10	11	125.65	506.296	618.218	54.148003	FAAAAH+ArialMT
+DSL	false	10	12	46.5	64.005	607.869	0.0	FAAAAH+ArialMT
+Domestic Substance List (Canada)	false	10	12	125.65	264.70898	607.869	61.645004	FAAAAH+ArialMT
+EINECS	false	10	13	46.5	80.006996	597.52	0.0	FAAAAH+ArialMT
+European Inventory of Existing Commercial Substances	false	10	13	125.65	348.25595	597.52	45.643005	FAAAAH+ArialMT
+ELINCS	false	10	14	46.5	79.007996	587.171	0.0	FAAAAH+ArialMT
+European List of Notified Chemical Substances	false	10	14	125.65	313.74997	587.171	46.642006	FAAAAH+ArialMT
+ENCS	false	10	15	46.5	71.502	576.822	0.0	FAAAAH+ArialMT
+Existing and new Chemical Substances (Japanese inventory)	false	10	15	125.65	369.77493	576.822	54.148003	FAAAAH+ArialMT
+IECSC	false	10	16	46.5	74.004	566.473	0.0	FAAAAH+ArialMT
+Inventory of Existing Chemical Substances in China	false	10	16	125.65	331.74997	566.473	51.646004	FAAAAH+ArialMT
+KECI	false	10	17	46.5	67.506	556.124	0.0	FAAAAH+ArialMT
+Korean Existing Chemicals Inventory	false	10	17	125.65	272.719	556.124	58.144005	FAAAAH+ArialMT
+NDSL	false	10	18	46.5	70.503	545.775	0.0	FAAAAH+ArialMT
+Non-Domestic Substances List (Canada)	false	10	18	125.65	288.72098	545.775	55.147003	FAAAAH+ArialMT
+NZIoC	false	10	19	46.5	72.501	535.426	0.0	FAAAAH+ArialMT
+New Zealand Inventory of Chemicals	false	10	19	125.65	272.71896	535.426	53.149002	FAAAAH+ArialMT
+PICCS	false	10	20	46.5	74.004	525.077	0.0	FAAAAH+ArialMT
+Philippine Inventory of Chemicals and Chemical Substances	false	10	20	125.65	365.76996	525.077	51.646004	FAAAAH+ArialMT
+TLV	false	10	21	46.5	63.006	514.728	0.0	FAAAAH+ArialMT
+Threshold Limit Value (American Conference of Governmental Industrial Hygienists)	false	10	21	125.65	460.29694	514.728	62.644	FAAAAH+ArialMT
+TSCA	false	10	22	46.5	70.503	504.37906	0.0	FAAAAH+ArialMT
+Toxic Substances Control Act (U.S. inventory)	false	10	22	125.65	308.70996	504.37906	55.147003	FAAAAH+ArialMT
+UVCB	false	10	23	46.5	71.502	494.03006	0.0	FAAAAH+ArialMT
+Substances of Unknown or Variable composition, Complex reaction products or Biological materials	false	10	23	125.65	521.8389	494.03006	54.148003	FAAAAH+ArialMT
+LC	false	10	24	46.5	58.002	483.68106	0.0	FAAAAH+ArialMT
+Lethal Concentration	false	10	24	125.65	208.702	483.68106	67.648	FAAAAH+ArialMT
+LD	false	10	25	46.5	58.002	473.33206	0.0	FAAAAH+ArialMT
+Lethal Dose	false	10	25	125.65	173.683	473.33206	67.648	FAAAAH+ArialMT
+LL	false	10	26	46.5	56.508	462.98306	0.0	FAAAAH+ArialMT
+Lethal Loading	false	10	26	125.65	184.699	462.98306	69.142	FAAAAH+ArialMT
+EC	false	10	27	46.5	59.001	452.63406	0.0	FAAAAH+ArialMT
+Effective Concentration	false	10	27	125.65	218.70099	452.63406	66.649	FAAAAH+ArialMT
+EL	false	10	28	46.5	57.507	442.28506	0.0	FAAAAH+ArialMT
+Effective Loading	false	10	28	125.65	194.698	442.28506	68.143005	FAAAAH+ArialMT
+NOEC	false	10	29	46.5	72.501	431.93607	0.0	FAAAAH+ArialMT
+No Observable Effect Concentration	false	10	29	125.65	269.722	431.93607	53.149002	FAAAAH+ArialMT
+NOELR	false	10	30	46.5	77.505005	421.58704	0.0	FAAAAH+ArialMT
+No Observable Effect Loading Rate	false	10	30	125.65	267.22897	421.58704	48.144997	FAAAAH+ArialMT
+KEY TO THE H-CODES CONTAINED IN SECTION 3 OF THIS DOCUMENT (for information only):	false	10	31	45.0	494.4398	399.95102	0.0	FAAABB+Arial-BoldMT
+H303:	false	10	32	45.0	63.340714	388.45203	0.0	FAAAAH+ArialMT
+May be harmful if swallowed; Acute Tox Oral, Cat 5	false	10	32	67.92589	301.76996	388.45203	0.0	FAAAAH+ArialMT
+H315:	false	10	33	45.0	61.69193	376.95303	0.0	FAAAAH+ArialMT
+Causes skin irritation; Skin Corr/Irritation, Cat 2	false	10	33	65.864914	282.86	376.95303	0.0	FAAAAH+ArialMT
+H318:	false	10	34	45.0	64.22064	365.454	0.0	FAAAAH+ArialMT
+Causes serious eye damage; Serious Eye Damage/Irr, Cat 1	false	10	34	69.0258	342.91992	365.454	0.0	FAAAAH+ArialMT
+H401:	false	10	35	45.0	62.55918	353.95502	0.0	FAAAAH+ArialMT
+Toxic to aquatic life; Acute Env Tox, Cat 2	false	10	35	66.948975	260.09998	353.95502	0.0	FAAAAH+ArialMT
+H411:	false	10	36	45.0	62.150646	342.45602	0.0	FAAAAH+ArialMT
+Toxic to aquatic life with long lasting effects; Chronic Env Tox, Cat 2	false	10	36	66.43831	375.14993	342.45602	0.0	FAAAAH+ArialMT
+THIS SAFETY DATA SHEET CONTAINS THE FOLLOWING REVISIONS:	false	10	37	45.0	378.89005	319.45804	0.0	FAAABB+Arial-BoldMT
+OPTIMUM FLUIDS MARKETING SENDIRIAN BERHAD (668909-D):	false	10	38	45.0	313.57996	307.959	0.0	FAAAAH+ArialMT
+Section 01: Supplier Mailing Address information	false	10	38	318.74496	571.8299	307.959	0.0	FAAAAH+ArialMT
+was modified.	false	10	39	45.0	106.14	296.46002	0.0	FAAAAH+ArialMT
+TIMUR LUBE SDN. BHD. (806793-H):	false	10	40	45.0	192.62523	284.96103	0.0	FAAAAH+ArialMT
+Section 01: Supplier Mailing Address information was modified.	false	10	40	197.38733	497.3999	284.96103	0.0	FAAAAH+ArialMT
+The information and recommendations contained herein are, to the best of ExxonMobil's knowledge and belief,	false	10	44	50.0	542.1999	238.96503	2.2200012	FAAAAH+ArialMT
+accurate and reliable as of the date issued.	false	10	45	45.0	241.23996	227.46603	0.0	FAAAAH+ArialMT
+You can contact ExxonMobil to insure that this document is the most	false	10	45	245.67996	551.3899	227.46603	4.4400024	FAAAAH+ArialMT
+current available from ExxonMobil.	false	10	46	45.0	203.95998	215.96704	0.0	FAAAAH+ArialMT
+The information and recommendations are offered for the user's consideration and	false	10	46	208.39998	575.5098	215.96704	4.4400024	FAAAAH+ArialMT
+examination.	false	10	47	45.0	107.259995	204.46803	0.0	FAAAAH+ArialMT
+It is the user's responsibility to satisfy itself that the product is suitable for the intended use.	false	10	47	111.7	518.2599	204.46803	4.4400024	FAAAAH+ArialMT
+If buyer	false	10	47	522.6999	558.8299	204.46803	4.4400024	FAAAAH+ArialMT
+repackages this product, it is the user's responsibility to insure proper health, safety and other necessary information is	false	10	48	45.0	571.6199	192.96902	0.0	FAAAAH+ArialMT
+included with and/or on the container.	false	10	49	45.0	216.77997	181.47003	0.0	FAAAAH+ArialMT
+Appropriate warnings and safe-handling procedures should be provided to	false	10	49	221.21997	551.98987	181.47003	4.4400024	FAAAAH+ArialMT
+handlers and users.	false	10	50	45.0	138.39	169.97104	0.0	FAAAAH+ArialMT
+Alteration of this document is strictly prohibited.	false	10	50	142.83	357.36993	169.97104	4.4400024	FAAAAH+ArialMT
+Except to the extent required by law, re-	false	10	50	361.80994	538.5698	169.97104	4.4400024	FAAAAH+ArialMT
+publication or retransmission of this document, in whole or in part, is not permitted.	false	10	51	45.0	415.16986	158.47205	0.0	FAAAAH+ArialMT
+"The term, ""ExxonMobil"" is used for"	false	10	51	419.61987	575.6599	158.47205	4.450012	FAAAAH+ArialMT
+convenience, and may include any one or more of ExxonMobil Chemical Company, Exxon Mobil Corporation, or any	false	10	52	45.0	561.9299	146.97304	0.0	FAAAAH+ArialMT
+affiliates in which they directly of indirectly hold any interest.	false	10	53	45.0	309.00995	135.47403	0.0	FAAAAH+ArialMT
+DGN:	false	10	55	50.0	80.56	90.62806	2.2200012	FAAAAH+ArialMT
+7090599XMY	false	10	55	85.0	151.16	90.62806	4.4400024	FAAAAH+ArialMT
+(1024127)	false	10	55	155.6	201.18999	90.62806	4.4400024	FAAAAH+ArialMT
+Product Name:	true	11	2	50.5	133.03299	718.682	2.4420013	FAAAAH+ArialMT
+MOBIL SUPER 1000 10W-30	true	11	2	140.359	284.646	718.682	7.326004	FAAAAH+ArialMT
+Revision Date:	true	11	3	45.0	113.03099	707.909	0.0	FAAAAH+ArialMT
+25 Jan 2021	true	11	3	117.02699	166.57198	707.909	3.9960022	FAAAAH+ArialMT
+Page 11 of 11	false	11	4	45.0	101.048	698.498	0.0	FAAAAH+ArialMT
+_HORIZONTAL_LINE	false	1	1	44.625	551.175	629.734	0.0	
+_HORIZONTAL_LINE	false	1	1	44.625	551.175	617.485	0.0	
+_HORIZONTAL_LINE	false	2	1	44.625	552.925	605.585	0.0	
+_HORIZONTAL_LINE	false	2	1	44.625	552.925	593.336	0.0	
+_HORIZONTAL_LINE	false	2	1	44.625	552.925	337.30804	0.0	
+_HORIZONTAL_LINE	false	2	1	44.625	552.925	313.56006	0.0	
+_HORIZONTAL_LINE	false	2	1	44.25	553.3	266.43903	0.0	
+_HORIZONTAL_LINE	false	2	1	45.75	551.8	254.96503	0.0	
+_HORIZONTAL_LINE	false	2	1	44.25	553.3	235.44202	0.0	
+_HORIZONTAL_LINE	false	2	1	44.625	552.925	174.52203	0.0	
+_HORIZONTAL_LINE	false	2	1	44.625	552.925	162.27304	0.0	
+_HORIZONTAL_LINE	false	3	1	44.625	552.925	482.54703	0.0	
+_HORIZONTAL_LINE	false	3	1	44.625	552.925	470.29803	0.0	
+_HORIZONTAL_LINE	false	3	1	44.625	552.925	214.27002	0.0	
+_HORIZONTAL_LINE	false	3	1	44.625	552.925	202.02103	0.0	
+_HORIZONTAL_LINE	false	4	1	44.625	552.925	353.75803	0.0	
+_HORIZONTAL_LINE	false	4	1	44.625	552.925	341.50903	0.0	
+_HORIZONTAL_LINE	false	5	1	44.625	552.925	655.03204	0.0	
+_HORIZONTAL_LINE	false	5	1	44.625	552.925	642.783	0.0	
+_HORIZONTAL_LINE	false	6	1	44.625	552.925	575.689	0.0	
+_HORIZONTAL_LINE	false	6	1	44.625	552.925	563.44	0.0	
+_HORIZONTAL_LINE	false	6	1	44.625	552.925	171.72403	0.0	
+_HORIZONTAL_LINE	false	6	1	44.625	552.925	159.47504	0.0	
+_HORIZONTAL_LINE	false	7	1	44.625	552.925	609.036	0.0	
+_HORIZONTAL_LINE	false	7	1	44.625	552.925	596.787	0.0	
+_HORIZONTAL_LINE	false	7	1	45.75	108.558	551.31006	0.0	
+_HORIZONTAL_LINE	false	7	1	237.5	342.528	551.31006	0.0	
+_HORIZONTAL_LINE	false	7	1	44.625	502.875	562.69006	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	550.44104	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	538.1921	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	516.7441	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	505.64508	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	493.39606	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	471.94806	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	459.69907	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	438.25107	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	416.80307	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	404.55408	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	383.10608	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	370.8571	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	349.4091	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	327.9611	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	306.5131	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	285.0651	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	263.6171	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	242.1691	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	231.0701	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	218.8211	0.0	
+_HORIZONTAL_LINE	false	7	1	45.375	502.125	197.37311	0.0	
+_HORIZONTAL_LINE	false	7	1	44.625	502.875	175.92511	0.0	
+_HORIZONTAL_LINE	false	8	1	44.625	552.925	506.695	0.0	
+_HORIZONTAL_LINE	false	8	1	44.625	552.925	494.446	0.0	
+_HORIZONTAL_LINE	false	8	1	44.625	552.925	221.17004	0.0	
+_HORIZONTAL_LINE	false	8	1	44.625	552.925	208.92105	0.0	
+_HORIZONTAL_LINE	false	9	1	44.625	552.925	482.54703	0.0	
+_HORIZONTAL_LINE	false	9	1	44.625	552.925	470.29803	0.0	
+_HORIZONTAL_LINE	false	9	1	44.625	552.925	333.86002	0.0	
+_HORIZONTAL_LINE	false	9	1	44.625	552.925	321.61102	0.0	
+_HORIZONTAL_LINE	false	9	1	44.625	552.925	134.57703	0.0	
+_HORIZONTAL_LINE	false	9	1	44.625	552.925	122.328026	0.0	

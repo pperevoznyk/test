@@ -1,0 +1,1647 @@
+Sentence	IsHeaderFooter	Page	Line	X1	X2	Y	Padding	Font
+Safety Data Sheet	false	1	1	238.02	361.97598	794.25	0.0	JKZLMY+NotoSans-Bold
+according to Regulation (EC) No. 1907/2006 (REACH)	false	1	2	184.21	415.79156	778.85	0.0	JIHPFE+NotoSans
+bbb	false	1	3	291.24	308.7675	763.45	0.0	JIHPFE+NotoSans
+Hydroxylamine sulphate	false	1	4	214.17	385.824	732.65	0.0	JKZLMY+NotoSans-Bold
+Version number:	false	1	5	48.19	104.14283	708.55	0.0	JIHPFE+NotoSans
+6.0	false	1	5	108.13946	124.12599	708.55	0.0	JIHPFE+NotoSans
+Revision:	false	1	5	469.66	500.52078	708.55	345.534	JIHPFE+NotoSans
+2018-02-06	false	1	5	504.3784	546.81195	708.55	345.534	JIHPFE+NotoSans
+Replaces version of:	false	1	6	48.19	118.59201	696.55	0.0	JIHPFE+NotoSans
+2016-02-09 (5)	false	1	6	122.29738	177.87793	696.55	0.0	JIHPFE+NotoSans
+First version:	false	1	6	455.94	503.1934	696.55	278.06207	JIHPFE+NotoSans
+17.08.2005	false	1	6	506.82828	546.8119	696.55	278.06207	JIHPFE+NotoSans
+SECTION 1:	false	1	7	52.19	99.22556	662.54	0.0	JKZLMY+NotoSans-Bold
+Identification of the substance/mixture and of the company/undertaking	false	1	7	104.45174	475.51007	662.54	0.0	JKZLMY+NotoSans-Bold
+1.1Product identifier	false	1	8	48.19	178.95377	637.23	0.0	JKZLMY+NotoSans-Bold
+Trade name	false	1	9	88.19	144.71501	614.98	0.0	JKZLMY+NotoSans-Bold
+Hydroxylamine sulphate	false	1	9	322.5	438.9794	614.98	177.78499	JKZLMY+NotoSans-Bold
+Registration number (REACH)	false	1	10	88.19	227.52649	592.95	0.0	JKZLMY+NotoSans-Bold
+01-2119485971-25-xxxx	false	1	10	322.5	427.65546	592.95	94.97351	JIHPFE+NotoSans
+EC number	false	1	11	88.19	139.7465	570.91	0.0	JKZLMY+NotoSans-Bold
+233-118-8	false	1	11	322.5	366.5705	570.91	182.7535	JIHPFE+NotoSans
+CAS number	false	1	12	88.19	146.197	548.88	0.0	JKZLMY+NotoSans-Bold
+10039-54-0	false	1	12	322.5	371.995	548.88	176.303	JIHPFE+NotoSans
+1.2Relevant identified uses of the substance or mixture and uses advised against	false	1	13	48.19	486.6177	525.72	0.0	JKZLMY+NotoSans-Bold
+Relevant identified uses	false	1	14	88.19	202.228	503.47	0.0	JKZLMY+NotoSans-Bold
+Intermediate for organic synthesis	false	1	14	322.5	476.33365	503.47	120.272	JIHPFE+NotoSans
+Chemicals for synthesis	false	1	15	322.5	427.19962	489.22	0.0	JIHPFE+NotoSans
+1.3Details of the supplier of the safety data sheet	false	1	16	48.19	325.11874	466.06	0.0	JKZLMY+NotoSans-Bold
+Klaus F. Meyer GmbH	false	1	17	88.19	188.91003	446.06	0.0	JIHPFE+NotoSans
+Telephone:	false	1	17	322.5	365.02777	446.06	133.58997	JIHPFE+NotoSans
+++49 (0) 6237 - 20 23	false	1	17	369.75308	473.70984	446.06	133.58997	JIHPFE+NotoSans
+Leiblstraße 3	false	1	18	88.19	148.70001	431.06	0.0	JIHPFE+NotoSans
+Telefax:	false	1	18	322.5	354.08395	431.06	173.79999	JIHPFE+NotoSans
+++49 (0) 6237 - 20 26	false	1	18	358.59595	457.85983	431.06	173.79999	JIHPFE+NotoSans
+67136 Fussgoenheim	false	1	19	88.19	188.00998	416.06	0.0	JIHPFE+NotoSans
+Germany	false	1	20	88.19	131.45999	401.06	0.0	JIHPFE+NotoSans
+e-mail (competent person)	false	1	21	88.19	213.58997	376.88	0.0	JKZLMY+NotoSans-Bold
+sdb@csb-online.de	false	1	21	322.5	406.70804	376.88	108.910034	JIHPFE+NotoSans
+Please do not use this e-mail adress to ask for the latest safety data sheet. For this purpose contact	false	1	22	88.19	527.7553	357.85	0.0	JIHPFE+NotoSans
+Klaus F. Meyer GmbH.	false	1	23	88.19	186.41998	343.6	0.0	JIHPFE+NotoSans
+1.4Emergency telephone number	false	1	24	48.19	243.05728	321.22	0.0	JKZLMY+NotoSans-Bold
+SECTION 2:	false	1	25	52.19	97.860916	291.22	0.0	JKZLMY+NotoSans-Bold
+Hazards identification	false	1	25	102.93546	219.65001	291.22	0.0	JKZLMY+NotoSans-Bold
+2.1Classification of the substance or mixture	false	1	26	48.19	301.45154	265.91	0.0	JKZLMY+NotoSans-Bold
+Classification according to Regulation (EC) No 1272/2008 (CLP)	false	1	27	88.19	380.02054	243.66	0.0	JKZLMY+NotoSans-Bold
+Classification	false	1	28	93.19	156.555	216.63	0.0	JKZLMY+NotoSans-Bold
+Section	false	1	29	95.53	126.71651	191.09	0.0	JKZLMY+NotoSans-Bold
+Hazard class	false	1	29	199.33	252.217	191.09	72.613495	JKZLMY+NotoSans-Bold
+Category	false	1	29	332.61	371.183	191.09	80.39299	JKZLMY+NotoSans-Bold
+Hazard class and	false	1	29	396.57	467.74902	191.09	25.386993	JKZLMY+NotoSans-Bold
+Hazard state-	false	1	29	484.0	540.8225	191.09	16.250977	JKZLMY+NotoSans-Bold
+category	false	1	30	413.39	450.91754	178.34	0.0	JKZLMY+NotoSans-Bold
+ment	false	1	30	501.1	523.727	178.34	50.182465	JKZLMY+NotoSans-Bold
+2.16substance or mixture corrosive to metals	false	1	31	102.7	302.05804	156.85	0.0	JIHPFE+NotoSans
+1	false	1	31	349.11	353.67798	156.85	47.05194	JIHPFE+NotoSans
+Met. Corr. 1	false	1	31	409.59	453.718	156.85	55.912018	JIHPFE+NotoSans
+H290	false	1	31	502.1	521.732	156.85	48.38202	JIHPFE+NotoSans
+3.1O	false	1	32	101.86	119.38	136.85	0.0	JIHPFE+NotoSans
+acute toxicity (oral)	false	1	32	189.73	260.81802	136.85	70.35	JIHPFE+NotoSans
+4	false	1	32	349.11	353.67798	136.85	88.29196	JIHPFE+NotoSans
+Acute Tox. 4	false	1	32	408.84	454.472	136.85	55.162018	JIHPFE+NotoSans
+H302	false	1	32	502.1	521.732	136.85	47.62802	JIHPFE+NotoSans
+3.1D	false	1	33	102.06	119.172	114.51	0.0	JIHPFE+NotoSans
+acute toxicity (dermal)	false	1	33	183.7	266.86005	114.51	64.528	JIHPFE+NotoSans
+4	false	1	33	349.11	353.67798	114.51	82.24994	JIHPFE+NotoSans
+Acute Tox. 4	false	1	33	408.84	454.472	114.51	55.162018	JIHPFE+NotoSans
+H312	false	1	33	502.1	521.732	114.51	47.62802	JIHPFE+NotoSans
+3.2skin corrosion/irritation	false	1	34	104.98	269.64	94.51	0.0	JIHPFE+NotoSans
+2	false	1	34	349.11	353.67798	94.51	79.46997	JIHPFE+NotoSans
+Skin Irrit. 2	false	1	34	411.28	452.03998	94.51	57.60202	JIHPFE+NotoSans
+H315	false	1	34	502.1	521.732	94.51	50.060028	JIHPFE+NotoSans
+3.3serious eye damage/eye irritation	false	1	35	104.98	288.406	72.17	0.0	JIHPFE+NotoSans
+2	false	1	35	349.11	353.67798	72.17	60.70398	JIHPFE+NotoSans
+Eye Irrit. 2	false	1	35	412.59	450.71796	72.17	58.912018	JIHPFE+NotoSans
+H319	false	1	35	502.1	521.732	72.17	51.38205	JIHPFE+NotoSans
+United Kingdom:	true	1	36	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	1	36	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	1	36	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+1 / 19	true	1	36	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	2	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Classification	false	2	2	93.19	156.555	750.63	0.0	JKZLMY+NotoSans-Bold
+Section	false	2	3	95.53	126.71651	725.1	0.0	JKZLMY+NotoSans-Bold
+Hazard class	false	2	3	199.33	252.217	725.1	72.613495	JKZLMY+NotoSans-Bold
+Category	false	2	3	332.61	371.183	725.1	80.39299	JKZLMY+NotoSans-Bold
+Hazard class and	false	2	3	396.57	467.74902	725.1	25.386993	JKZLMY+NotoSans-Bold
+Hazard state-	false	2	3	484.0	540.8225	725.1	16.250977	JKZLMY+NotoSans-Bold
+category	false	2	4	413.39	450.91754	712.35	0.0	JKZLMY+NotoSans-Bold
+ment	false	2	4	501.1	523.727	712.35	50.182465	JKZLMY+NotoSans-Bold
+3.4S	false	2	5	102.79	118.454	690.86	0.0	JIHPFE+NotoSans
+skin sensitisation	false	2	5	193.12	257.432	690.86	74.66599	JIHPFE+NotoSans
+1	false	2	5	349.11	353.67798	690.86	91.67798	JIHPFE+NotoSans
+Skin Sens. 1	false	2	5	409.57	453.746	690.86	55.89203	JIHPFE+NotoSans
+H317	false	2	5	502.1	521.732	690.86	48.354004	JIHPFE+NotoSans
+3.6carcinogenicity	false	2	6	104.98	253.55202	668.52	0.0	JIHPFE+NotoSans
+2	false	2	6	349.11	353.67798	668.52	95.55797	JIHPFE+NotoSans
+Carc. 2	false	2	6	418.93	444.386	668.52	65.252014	JIHPFE+NotoSans
+H351	false	2	6	502.1	521.732	668.52	57.71402	JIHPFE+NotoSans
+3.9specific target organ toxicity - repeated expos-	false	2	7	104.98	312.2641	648.52	0.0	JIHPFE+NotoSans
+2	false	2	7	349.11	353.67798	648.52	36.845886	JIHPFE+NotoSans
+STOT RE 2	false	2	7	412.83	450.48596	648.52	59.152008	JIHPFE+NotoSans
+H373	false	2	7	502.1	521.732	648.52	51.614044	JIHPFE+NotoSans
+ure	false	2	8	218.9	231.652	636.52	0.0	JIHPFE+NotoSans
+4.1A	false	2	9	102.42	118.812	614.17	0.0	JIHPFE+NotoSans
+hazardous to the aquatic environment - acute	false	2	9	139.65	310.90604	614.17	20.837997	JIHPFE+NotoSans
+1	false	2	9	349.11	353.67798	614.17	38.20395	JIHPFE+NotoSans
+Aquatic Acute 1	false	2	9	402.55	460.766	614.17	48.87201	JIHPFE+NotoSans
+H400	false	2	9	502.1	521.732	614.17	41.334015	JIHPFE+NotoSans
+hazard	false	2	10	212.32	238.22401	602.17	0.0	JIHPFE+NotoSans
+4.1C	false	2	11	102.46	118.787994	582.17	0.0	JIHPFE+NotoSans
+hazardous to the aquatic environment -	false	2	11	151.01	299.54605	582.17	32.222	JIHPFE+NotoSans
+3	false	2	11	349.11	353.67798	582.17	49.563934	JIHPFE+NotoSans
+Aquatic Chronic 3	false	2	11	398.7	464.604	582.17	45.022034	JIHPFE+NotoSans
+H412	false	2	11	502.1	521.732	582.17	37.496002	JIHPFE+NotoSans
+chronic hazard	false	2	12	197.42	253.14001	570.17	0.0	JIHPFE+NotoSans
+for full text of abbreviations:	false	2	13	90.19	199.76569	544.83	0.0	JIHPFE+NotoSans
+see SECTION 16	false	2	13	203.41821	258.20605	544.83	0.0	JIHPFE+NotoSans
+The most important adverse physicochemical, human health and environmental effects	false	2	14	88.19	504.34683	520.58	0.0	JKZLMY+NotoSans-Bold
+Delayed or immediate effects can be expected after short or long-term exposure.	false	2	15	88.19	449.49414	501.54	0.0	JIHPFE+NotoSans
+Spillage and fire water can cause pollution of watercourses.	false	2	16	88.19	353.05957	487.29	0.0	JIHPFE+NotoSans
+2.2Label elements	false	2	17	48.19	166.0695	464.92	0.0	JKZLMY+NotoSans-Bold
+Labelling according to Regulation (EC) No 1272/2008 (CLP)	false	2	18	88.19	360.29852	442.67	0.0	JKZLMY+NotoSans-Bold
+Signal word	false	2	19	88.19	143.974	420.63	0.0	JKZLMY+NotoSans-Bold
+warning	false	2	19	184.91	221.65599	420.63	40.936005	JIHPFE+NotoSans
+Pictograms	false	2	20	88.19	142.02649	398.6	0.0	JKZLMY+NotoSans-Bold
+GHS05, GHS07,	false	2	21	88.19	156.50452	376.57	0.0	JKZLMY+NotoSans-Bold
+GHS08, GHS09	false	2	22	88.19	153.79701	362.32	0.0	JKZLMY+NotoSans-Bold
+Hazard statements	false	2	24	88.19	178.65851	311.87	0.0	JKZLMY+NotoSans-Bold
+H290	false	2	25	88.19	111.731	294.84	0.0	JKZLMY+NotoSans-Bold
+May be corrosive to metals.	false	2	25	179.91	302.43155	294.84	68.179	JIHPFE+NotoSans
+H302+H312	false	2	26	88.19	140.6965	280.59	0.0	JKZLMY+NotoSans-Bold
+Harmful if swallowed or in contact with skin.	false	2	26	179.91	376.7596	280.59	39.2135	JIHPFE+NotoSans
+H315	false	2	27	88.19	111.731	266.34	0.0	JKZLMY+NotoSans-Bold
+Causes skin irritation.	false	2	27	179.91	275.9075	266.34	68.179	JIHPFE+NotoSans
+H317	false	2	28	88.19	111.731	252.09	0.0	JKZLMY+NotoSans-Bold
+May cause an allergic skin reaction.	false	2	28	179.91	337.26804	252.09	68.179	JIHPFE+NotoSans
+H319	false	2	29	88.19	111.731	237.84	0.0	JKZLMY+NotoSans-Bold
+Causes serious eye irritation.	false	2	29	179.91	308.38803	237.84	68.179	JIHPFE+NotoSans
+H351	false	2	30	88.19	111.731	223.59	0.0	JKZLMY+NotoSans-Bold
+Suspected of causing cancer.	false	2	30	179.91	308.85352	223.59	68.179	JIHPFE+NotoSans
+H373	false	2	31	88.19	111.731	209.34	0.0	JKZLMY+NotoSans-Bold
+May cause damage to organs (blood, spleen) through prolonged or repeated ex-	false	2	31	179.91	538.2312	209.34	68.179	JIHPFE+NotoSans
+posure (if swallowed).	false	2	32	179.91	276.6675	195.09	0.0	JIHPFE+NotoSans
+H410	false	2	33	88.19	111.731	180.84	0.0	JKZLMY+NotoSans-Bold
+Very toxic to aquatic life with long lasting effects.	false	2	33	179.91	397.29868	180.84	68.179	JIHPFE+NotoSans
+Precautionary statements	false	2	34	88.19	212.298	158.59	0.0	JKZLMY+NotoSans-Bold
+P201	false	2	35	88.19	110.42	141.56	0.0	JKZLMY+NotoSans-Bold
+Obtain special instructions before use.	false	2	35	179.91	351.0051	141.56	69.490005	JIHPFE+NotoSans
+P234	false	2	36	88.19	110.42	127.31	0.0	JKZLMY+NotoSans-Bold
+Keep only in original container.	false	2	36	179.91	318.439	127.31	69.490005	JIHPFE+NotoSans
+P260	false	2	37	88.19	110.42	113.06	0.0	JKZLMY+NotoSans-Bold
+Do not breathe dust/fume/gas/mist/vapours/spray.	false	2	37	179.91	408.90753	113.06	69.490005	JIHPFE+NotoSans
+P273	false	2	38	88.19	110.42	98.81	0.0	JKZLMY+NotoSans-Bold
+Avoid release to the environment.	false	2	38	179.91	330.82703	98.81	69.490005	JIHPFE+NotoSans
+P305+P351+P338	false	2	39	88.19	165.72899	84.56	0.0	JKZLMY+NotoSans-Bold
+IF IN EYES:	false	2	39	179.91	224.67151	84.56	14.181015	JIHPFE+NotoSans
+Rinse cautiously with water for several minutes. Remove contact	false	2	39	229.14766	515.6212	84.56	14.181015	JIHPFE+NotoSans
+lenses, if present and easy to do. Continue rinsing.	false	2	40	179.91	404.69913	70.31	0.0	JIHPFE+NotoSans
+United Kingdom:	true	2	41	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	2	41	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	2	41	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+2 / 19	true	2	41	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	3	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Precautionary statements	false	3	2	88.19	212.298	755.63	0.0	JKZLMY+NotoSans-Bold
+P312	false	3	3	88.19	110.42	738.6	0.0	JKZLMY+NotoSans-Bold
+Call a POISON CENTER/doctor if you feel unwell.	false	3	3	179.91	393.10916	738.6	69.490005	JIHPFE+NotoSans
+Supplemental hazard information	false	3	4	88.19	238.6415	716.35	0.0	JIHPFE+NotoSans
+EUH044	false	3	5	88.19	124.2235	694.32	0.0	JKZLMY+NotoSans-Bold
+Risk of explosion if heated under confinement.	false	3	5	179.91	387.52316	694.32	55.6865	JIHPFE+NotoSans
+2.3Other hazards	false	3	6	48.19	161.211	670.94	0.0	JKZLMY+NotoSans-Bold
+Risk of explosion if heated under confinement.	false	3	7	88.19	295.80304	651.69	0.0	JIHPFE+NotoSans
+Results of PBT and vPvB assessment	false	3	8	88.19	259.08545	630.44	0.0	JKZLMY+NotoSans-Bold
+According to the results of its assessment, this substance is not a PBT or a vPvB.	false	3	9	88.19	443.4237	611.41	0.0	JIHPFE+NotoSans
+SECTION 3:	false	3	10	52.19	99.91389	582.41	0.0	JKZLMY+NotoSans-Bold
+Composition/information on ingredients	false	3	10	105.21654	312.02005	582.41	0.0	JKZLMY+NotoSans-Bold
+3.1Substances	false	3	11	48.19	145.918	557.1	0.0	JKZLMY+NotoSans-Bold
+Name of substance	false	3	12	88.19	179.32349	534.85	0.0	JKZLMY+NotoSans-Bold
+hydroxylamine sulfate (2:1)	false	3	12	322.5	443.10254	534.85	143.17651	JIHPFE+NotoSans
+Identifiers	false	3	13	88.19	137.97	512.81	0.0	JKZLMY+NotoSans-Bold
+CAS No	false	3	14	88.19	120.87001	490.78	0.0	JIHPFE+NotoSans
+10039-54-0	false	3	14	322.5	371.995	490.78	201.62999	JIHPFE+NotoSans
+EC No	false	3	15	88.19	114.8755	468.75	0.0	JIHPFE+NotoSans
+233-118-8	false	3	15	322.5	366.5705	468.75	207.6245	JIHPFE+NotoSans
+Molecular formula	false	3	16	88.19	176.12202	446.71	0.0	JKZLMY+NotoSans-Bold
+H8 N2 O6 S	false	3	16	322.5	373.02103	446.71	146.37798	JIHPFE+NotoSans
+Molar mass	false	3	17	88.19	142.929	424.68	0.0	JKZLMY+NotoSans-Bold
+164.1 g/mol	false	3	17	322.5	371.06207	424.68	179.571	JIHPFE+NotoSans
+SECTION 4:	false	3	18	52.19	98.31654	393.55	0.0	JKZLMY+NotoSans-Bold
+First aid measures	false	3	18	103.44171	200.81998	393.55	0.0	JKZLMY+NotoSans-Bold
+4.1Description of first aid measures	false	3	19	48.19	255.02931	368.25	0.0	JKZLMY+NotoSans-Bold
+General notes	false	3	20	88.19	154.49998	346.0	0.0	JKZLMY+NotoSans-Bold
+Take off immediately all contaminated clothing.	false	3	21	88.19	299.9925	326.96	0.0	JIHPFE+NotoSans
+In all cases of doubt, or when symptoms persist, seek medical advice.	false	3	22	88.19	396.7216	312.71	0.0	JIHPFE+NotoSans
+Following inhalation	false	3	23	88.19	185.57452	291.46	0.0	JKZLMY+NotoSans-Bold
+Provide fresh air.	false	3	24	88.19	164.16148	272.43	0.0	JIHPFE+NotoSans
+If breathing is irregular or stopped, immediately seek medical assistance and start first aid actions.	false	3	25	88.19	527.49866	258.18	0.0	JIHPFE+NotoSans
+Following skin contact	false	3	26	88.19	194.76099	236.93	0.0	JKZLMY+NotoSans-Bold
+Rinse skin with water/shower.	false	3	27	88.19	221.29446	217.9	0.0	JIHPFE+NotoSans
+After contact with skin, take off immediately all contaminated clothing, and wash immediately with	false	3	28	88.19	527.0807	203.65	0.0	JIHPFE+NotoSans
+plenty of water.	false	3	29	88.19	157.91049	189.4	0.0	JIHPFE+NotoSans
+Following eye contact	false	3	30	88.19	191.61647	168.15	0.0	JKZLMY+NotoSans-Bold
+In case of contact with eyes, rinse immediately with plenty of water and seek medical advice.	false	3	31	88.19	499.54974	149.11	0.0	JIHPFE+NotoSans
+Remove contact lenses, if present and easy to do. Continue rinsing.	false	3	32	88.19	386.82263	134.86	0.0	JIHPFE+NotoSans
+United Kingdom:	true	3	33	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	3	33	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	3	33	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+3 / 19	true	3	33	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	4	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Following ingestion	false	4	2	88.19	181.29	755.63	0.0	JKZLMY+NotoSans-Bold
+Rinse mouth immediately and drink plenty of water.	false	4	3	88.19	319.52457	736.6	0.0	JIHPFE+NotoSans
+Do NOT induce vomiting.	false	4	4	88.19	200.06201	722.35	0.0	JIHPFE+NotoSans
+Get medical advice/attention if you feel unwell.	false	4	5	88.19	296.7435	708.1	0.0	JIHPFE+NotoSans
+Notes for the doctor	false	4	6	88.19	184.53897	686.85	0.0	JKZLMY+NotoSans-Bold
+none	false	4	7	88.19	111.01851	667.82	0.0	JIHPFE+NotoSans
+4.2Most important symptoms and effects, both acute and delayed	false	4	8	48.19	410.2962	645.44	0.0	JKZLMY+NotoSans-Bold
+These information are not available.	false	4	9	88.19	248.85397	626.19	0.0	JIHPFE+NotoSans
+4.3Indication of any immediate medical attention and special treatment needed	false	4	10	48.19	483.6144	603.81	0.0	JKZLMY+NotoSans-Bold
+none	false	4	11	88.19	111.01851	584.56	0.0	JIHPFE+NotoSans
+SECTION 5:	false	4	12	52.19	99.24594	555.56	0.0	JKZLMY+NotoSans-Bold
+Firefighting measures	false	4	12	104.47438	219.5	555.56	0.0	JKZLMY+NotoSans-Bold
+5.1Extinguishing media	false	4	13	48.19	193.22176	530.26	0.0	JKZLMY+NotoSans-Bold
+Suitable extinguishing media	false	4	14	88.19	227.0135	508.0	0.0	JKZLMY+NotoSans-Bold
+water, foam, alcohol resistant foam, fire extinguishing powder	false	4	15	88.19	365.9131	488.97	0.0	JIHPFE+NotoSans
+Unsuitable extinguishing media	false	4	16	88.19	239.92401	467.72	0.0	JKZLMY+NotoSans-Bold
+water jet	false	4	17	88.19	127.34901	448.69	0.0	JIHPFE+NotoSans
+5.2Special hazards arising from the substance or mixture	false	4	18	48.19	364.71448	426.31	0.0	JKZLMY+NotoSans-Bold
+Hazardous decomposition products:	false	4	19	88.19	239.36588	407.06	0.0	JIHPFE+NotoSans
+Section 10.	false	4	19	244.09012	300.78107	407.06	0.0	JIHPFE+NotoSans
+Heating may cause an explosion.	false	4	20	88.19	234.75601	392.81	0.0	JIHPFE+NotoSans
+Mass explosion hazard.	false	4	21	88.19	192.45251	378.56	0.0	JIHPFE+NotoSans
+Substance or mixture corrosive to metals.	false	4	22	88.19	273.75348	364.31	0.0	JIHPFE+NotoSans
+5.3Advice for firefighters	false	4	23	48.19	200.61203	341.93	0.0	JKZLMY+NotoSans-Bold
+In case of fire and/or explosion do not breathe fumes.	false	4	24	88.19	328.56857	322.68	0.0	JIHPFE+NotoSans
+Co-ordinate firefighting measures to the fire surroundings.	false	4	25	88.19	351.055	308.43	0.0	JIHPFE+NotoSans
+Do not allow firefighting water to enter drains or water courses.	false	4	26	88.19	372.62955	294.18	0.0	JIHPFE+NotoSans
+Collect contaminated firefighting water separately.	false	4	27	88.19	314.3945	279.93	0.0	JIHPFE+NotoSans
+Fight fire with normal precautions from a reasonable distance.	false	4	28	88.19	366.39755	265.68	0.0	JIHPFE+NotoSans
+Special protective equipment for firefighters	false	4	29	88.19	300.09695	244.43	0.0	JKZLMY+NotoSans-Bold
+chemical protection suit, self-contained breathing apparatus (EN 133)	false	4	30	88.19	396.7976	225.4	0.0	JIHPFE+NotoSans
+United Kingdom:	true	4	31	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	4	31	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	4	31	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+4 / 19	true	4	31	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	5	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+SECTION 6:	false	5	2	52.19	99.45894	752.88	0.0	JKZLMY+NotoSans-Bold
+Accidental release measures	false	5	2	104.711044	251.76994	752.88	0.0	JKZLMY+NotoSans-Bold
+6.1Personal precautions, protective equipment and emergency procedures	false	5	3	48.19	455.97015	727.58	0.0	JKZLMY+NotoSans-Bold
+For non-emergency personnel	false	5	4	88.19	230.40498	705.33	0.0	JKZLMY+NotoSans-Bold
+Remove persons to safety.	false	5	5	88.19	205.89502	686.29	0.0	JIHPFE+NotoSans
+Ventilate affected area.	false	5	6	88.19	191.28398	672.04	0.0	JIHPFE+NotoSans
+Wearing of suitable protective equipment (including personal protective equipment referred to under	false	5	7	88.19	540.5327	657.79	0.0	JIHPFE+NotoSans
+Section 8 of the safety data sheet) to prevent any contamination of skin, eyes and personal clothing.	false	5	8	88.19	532.3058	643.54	0.0	JIHPFE+NotoSans
+For emergency responders	false	5	9	88.19	214.89148	622.29	0.0	JKZLMY+NotoSans-Bold
+Wear breathing apparatus if exposed to vapours/dust/spray/gases.	false	5	10	88.19	387.27856	603.26	0.0	JIHPFE+NotoSans
+6.2Environmental precautions	false	5	11	48.19	227.72327	580.88	0.0	JKZLMY+NotoSans-Bold
+Keep away from drains, surface and ground water.	false	5	12	88.19	314.11902	561.63	0.0	JIHPFE+NotoSans
+Retain contaminated washing water and dispose of it.	false	5	13	88.19	327.40955	547.38	0.0	JIHPFE+NotoSans
+If substance has entered a water course or sewer, inform the responsible authority.	false	5	14	88.19	460.08664	533.13	0.0	JIHPFE+NotoSans
+6.3Methods and material for containment and cleaning up	false	5	15	48.19	372.238	510.76	0.0	JKZLMY+NotoSans-Bold
+Advices on how to contain a spill	false	5	16	88.19	242.5365	488.5	0.0	JKZLMY+NotoSans-Bold
+take up mechanically	false	5	17	88.19	181.8885	469.47	0.0	JIHPFE+NotoSans
+Advices on how to clean up a spill	false	5	18	88.19	246.6025	448.22	0.0	JKZLMY+NotoSans-Bold
+Take up mechanically.	false	5	19	88.19	186.29651	429.19	0.0	JIHPFE+NotoSans
+Collect spillage.	false	5	20	88.19	157.36899	414.94	0.0	JIHPFE+NotoSans
+Appropriate containment techniques	false	5	21	88.19	264.396	393.69	0.0	JKZLMY+NotoSans-Bold
+Neutralisation techniques.	false	5	22	88.19	205.64801	374.65	0.0	JIHPFE+NotoSans
+Other information relating to spills and releases	false	5	23	88.19	317.14954	353.4	0.0	JKZLMY+NotoSans-Bold
+Place in appropriate containers for disposal.	false	5	24	88.19	284.45047	334.37	0.0	JIHPFE+NotoSans
+Ventilate affected area.	false	5	25	88.19	191.28398	320.12	0.0	JIHPFE+NotoSans
+6.4Reference to other sections	false	5	26	48.19	228.91231	297.74	0.0	JKZLMY+NotoSans-Bold
+Personal protective equipment:	false	5	27	88.19	218.78313	278.49	0.0	JIHPFE+NotoSans
+see section 8.	false	5	27	223.28633	290.8345	278.49	0.0	JIHPFE+NotoSans
+Incompatible materials:	false	5	28	88.19	186.08237	264.24	0.0	JIHPFE+NotoSans
+see section 10.	false	5	28	190.53201	261.72647	264.24	0.0	JIHPFE+NotoSans
+Disposal considerations:	false	5	29	88.19	189.61224	249.99	0.0	JIHPFE+NotoSans
+see section 13.	false	5	29	194.02191	264.5765	249.99	0.0	JIHPFE+NotoSans
+SECTION 7:	false	5	30	52.19	100.075806	220.99	0.0	JKZLMY+NotoSans-Bold
+Handling and storage	false	5	30	105.396454	217.13002	220.99	0.0	JKZLMY+NotoSans-Bold
+7.1Precautions for safe handling	false	5	31	48.19	239.09055	195.69	0.0	JKZLMY+NotoSans-Bold
+Measures to prevent fire as well as aerosol and dust generation	false	5	32	88.19	389.67236	173.43	0.0	JKZLMY+NotoSans-Bold
+Use local and general ventilation.	false	5	33	88.19	236.19997	154.4	0.0	JIHPFE+NotoSans
+United Kingdom:	true	5	34	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	5	34	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	5	34	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+5 / 19	true	5	34	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	6	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Specific notes/details	false	6	2	88.19	189.20349	755.63	0.0	JKZLMY+NotoSans-Bold
+None.	false	6	3	88.19	114.90401	736.6	0.0	JIHPFE+NotoSans
+Handling of incompatible substances or mixtures	false	6	4	88.19	321.73795	715.35	0.0	JKZLMY+NotoSans-Bold
+Do not mix with alkali.	false	6	5	88.19	186.86649	696.32	0.0	JIHPFE+NotoSans
+Keep away from	false	6	6	88.19	164.81699	675.07	0.0	JKZLMY+NotoSans-Bold
+caustic solutions, strong oxidisers, metals (including their alloys), nitrites and their mixtures	false	6	7	88.19	495.5122	656.03	0.0	JIHPFE+NotoSans
+Measures to protect the environment	false	6	8	88.19	266.69492	634.78	0.0	JKZLMY+NotoSans-Bold
+Avoid release to the environment.	false	6	9	88.19	239.10698	615.75	0.0	JIHPFE+NotoSans
+Advice on general occupational hygiene	false	6	10	88.19	277.2875	594.5	0.0	JKZLMY+NotoSans-Bold
+Do not eat, drink and smoke in work areas.	false	6	11	88.19	279.53897	575.47	0.0	JIHPFE+NotoSans
+Wash hands after use.	false	6	12	88.19	187.2275	561.22	0.0	JIHPFE+NotoSans
+Preventive skin protection (barrier creams/ointments) is recommended.	false	6	13	88.19	407.4471	546.97	0.0	JIHPFE+NotoSans
+Remove contaminated clothing and protective equipment before entering eating areas.	false	6	14	88.19	478.1747	532.72	0.0	JIHPFE+NotoSans
+Contaminated work clothing should not be allowed out of the workplace.	false	6	15	88.19	412.73865	518.47	0.0	JIHPFE+NotoSans
+7.2Conditions for safe storage, including any incompatibilities	false	6	16	48.19	390.4215	496.09	0.0	JKZLMY+NotoSans-Bold
+Explosive atmospheres	false	6	17	88.19	197.13599	473.84	0.0	JKZLMY+NotoSans-Bold
+Removal of dust deposits.	false	6	18	88.19	203.00702	454.81	0.0	JIHPFE+NotoSans
+Corrosive conditions	false	6	19	88.19	185.47949	433.56	0.0	JKZLMY+NotoSans-Bold
+Store in corrosive resistant container with a resistant inner liner.	false	6	20	88.19	374.07358	414.52	0.0	JIHPFE+NotoSans
+Flammability hazards	false	6	21	88.19	190.46703	393.27	0.0	JKZLMY+NotoSans-Bold
+None.	false	6	22	88.19	114.90401	374.24	0.0	JIHPFE+NotoSans
+Incompatible substances or mixtures	false	6	23	88.19	264.7665	352.99	0.0	JKZLMY+NotoSans-Bold
+Incompatible materials:	false	6	24	88.19	186.08237	333.96	0.0	JIHPFE+NotoSans
+see section 10.	false	6	24	190.53201	261.72647	333.96	0.0	JIHPFE+NotoSans
+Observe hints for combined storage.	false	6	25	88.19	251.571	319.71	0.0	JIHPFE+NotoSans
+Protect against external exposure, such as	false	6	26	88.19	289.97	298.46	0.0	JKZLMY+NotoSans-Bold
+heat, strong shocks, static discharges	false	6	27	88.19	254.73453	279.42	0.0	JIHPFE+NotoSans
+Consideration of other advice	false	6	28	88.19	228.40997	258.17	0.0	JKZLMY+NotoSans-Bold
+Keep away from food, drink and animal feedingstuffs.	false	6	29	88.19	327.66605	239.14	0.0	JIHPFE+NotoSans
+Hygroscopic solid.	false	6	30	88.19	169.26302	224.89	0.0	JIHPFE+NotoSans
+Ventilation requirements	false	6	31	88.19	208.45049	203.64	0.0	JKZLMY+NotoSans-Bold
+Provision of sufficient ventilation.	false	6	32	88.19	236.5515	184.61	0.0	JIHPFE+NotoSans
+Specific designs for storage rooms or vessels	false	6	33	88.19	299.45096	163.36	0.0	JKZLMY+NotoSans-Bold
+Storage temperature	false	6	34	88.19	188.529	141.32	0.0	JKZLMY+NotoSans-Bold
+recommended storage temperature:	false	6	34	322.5	477.58835	141.32	133.971	JIHPFE+NotoSans
+<80 °C	false	6	34	482.5912	517.61115	141.32	133.971	JIHPFE+NotoSans
+maximum storage temperature:	false	6	35	322.5	457.03436	127.07	0.0	JIHPFE+NotoSans
+80 °C	false	6	35	462.01712	491.91364	127.07	0.0	JIHPFE+NotoSans
+United Kingdom:	true	6	36	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	6	36	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	6	36	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+6 / 19	true	6	36	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	7	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Packaging compatibilities	false	7	2	88.19	210.89201	755.63	0.0	JKZLMY+NotoSans-Bold
+Only packagings which are approved (e.g. acc. to ADR) may be used.	false	7	3	88.19	391.3731	736.6	0.0	JIHPFE+NotoSans
+7.3Specific end use(s)	false	7	4	48.19	181.57776	714.22	0.0	JKZLMY+NotoSans-Bold
+No information available.	false	7	5	88.19	200.8505	694.97	0.0	JIHPFE+NotoSans
+SECTION 8:	false	7	6	52.19	98.93188	665.97	0.0	JKZLMY+NotoSans-Bold
+Exposure controls/personal protection	false	7	6	104.12542	301.48	665.97	0.0	JKZLMY+NotoSans-Bold
+8.1Control parameters	false	7	7	48.19	188.88602	640.67	0.0	JKZLMY+NotoSans-Bold
+Human health values	false	7	8	88.19	197.35252	617.29	0.0	JKZLMY+NotoSans-Bold
+Relevant DNELs and other threshold levels	false	7	9	93.19	294.8085	590.04	0.0	JKZLMY+NotoSans-Bold
+Endpoint	false	7	10	103.48	141.69601	564.5	0.0	JKZLMY+NotoSans-Bold
+Threshold	false	7	10	170.17	212.58499	564.5	28.473984	JKZLMY+NotoSans-Bold
+Protection goal,	false	7	10	237.82	305.4545	564.5	25.235016	JKZLMY+NotoSans-Bold
+Used in	false	7	10	359.12	390.52753	564.5	53.665497	JKZLMY+NotoSans-Bold
+Exposure time	false	7	10	459.07	519.89606	564.5	68.54248	JKZLMY+NotoSans-Bold
+level	false	7	11	181.36	201.403	551.75	0.0	JKZLMY+NotoSans-Bold
+route of exposure	false	7	11	233.83	309.43756	551.75	32.427002	JKZLMY+NotoSans-Bold
+DNEL	false	7	12	111.82	132.356	530.26	0.0	JIHPFE+NotoSans
+0.008 mg/m³	false	7	12	166.81	214.95396	530.26	34.453995	JIHPFE+NotoSans
+human, inhalatory	false	7	12	236.6	305.68	530.26	21.646042	JIHPFE+NotoSans
+worker (industry)	false	7	12	342.17	406.48196	530.26	36.49002	JIHPFE+NotoSans
+chronic - systemic effects	false	7	12	441.95	536.022	530.26	35.46805	JIHPFE+NotoSans
+DNEL	false	7	13	111.82	132.356	511.26	0.0	JIHPFE+NotoSans
+0 mg/kg	false	7	13	175.27	206.478	511.26	42.914	JIHPFE+NotoSans
+human, oral	false	7	13	248.29	293.986	511.26	41.811996	JIHPFE+NotoSans
+consumer (private house-	false	7	13	326.31	422.34998	511.26	32.324005	JIHPFE+NotoSans
+chronic - systemic effects	false	7	13	441.95	536.022	511.26	19.600037	JIHPFE+NotoSans
+bw/day	false	7	14	177.05	204.714	499.26	0.0	JIHPFE+NotoSans
+holds)	false	7	14	362.84	385.816	499.26	158.12599	JIHPFE+NotoSans
+Environmental values	false	7	15	88.19	199.61777	468.54	0.0	JKZLMY+NotoSans-Bold
+Relevant PNECs and other threshold levels	false	7	16	93.19	294.4285	441.29	0.0	JKZLMY+NotoSans-Bold
+Endpoint	false	7	17	114.94	153.156	415.76	0.0	JKZLMY+NotoSans-Bold
+Threshold level	false	7	17	216.38	281.03955	415.76	63.224	JKZLMY+NotoSans-Bold
+Environmental compartment	false	7	17	370.32	493.9951	415.76	89.28046	JKZLMY+NotoSans-Bold
+PNEC	false	7	18	123.35	143.75	394.27	0.0	JIHPFE+NotoSans
+0.031 mg/l	false	7	18	229.69	266.7188	394.27	85.94	JIHPFE+NotoSans
+freshwater	false	7	18	411.26	452.06	394.27	144.5412	JIHPFE+NotoSans
+PNEC	false	7	19	123.35	143.75	375.27	0.0	JIHPFE+NotoSans
+0.003 mg/l	false	7	19	229.69	266.7188	375.27	85.94	JIHPFE+NotoSans
+marine water	false	7	19	406.5	456.81198	375.27	139.78119	JIHPFE+NotoSans
+PNEC	false	7	20	123.35	143.75	352.79	0.0	JIHPFE+NotoSans
+0.07 mg/l	false	7	20	231.98	264.4408	352.79	88.229996	JIHPFE+NotoSans
+sewage treatment plant (STP)	false	7	20	376.48	486.83203	352.79	112.039215	JIHPFE+NotoSans
+PNEC	false	7	21	123.35	143.75	333.79	0.0	JIHPFE+NotoSans
+0.112 mg/kg	false	7	21	226.84	269.57758	333.79	83.09	JIHPFE+NotoSans
+freshwater sediment	false	7	21	392.66	470.652	333.79	123.08243	JIHPFE+NotoSans
+PNEC	false	7	22	123.35	143.75	311.32	0.0	JIHPFE+NotoSans
+0.011 mg/kg	false	7	22	226.84	269.57758	311.32	83.09	JIHPFE+NotoSans
+marine sediment	false	7	22	399.67	463.63803	311.32	130.09244	JIHPFE+NotoSans
+PNEC	false	7	23	123.35	143.75	292.32	0.0	JIHPFE+NotoSans
+0.004 mg/kg	false	7	23	226.84	269.57758	292.32	83.09	JIHPFE+NotoSans
+soil	false	7	23	425.27	438.046	292.32	155.69241	JIHPFE+NotoSans
+8.2Exposure controls	false	7	24	48.19	179.87628	260.47	0.0	JKZLMY+NotoSans-Bold
+Appropriate engineering controls	false	7	25	88.19	247.13449	238.21	0.0	JKZLMY+NotoSans-Bold
+General ventilation.	false	7	26	88.19	175.514	219.18	0.0	JIHPFE+NotoSans
+Individual protection measures (personal protective equipment)	false	7	27	88.19	393.41537	197.93	0.0	JKZLMY+NotoSans-Bold
+Eye/face protection	false	7	28	88.19	180.74849	175.9	0.0	JKZLMY+NotoSans-Bold
+Wear eye/face protection.	false	7	29	88.19	202.95001	156.86	0.0	JIHPFE+NotoSans
+United Kingdom:	true	7	30	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	7	30	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	7	30	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+7 / 19	true	7	30	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	8	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Hand protection	false	8	2	88.19	165.8525	755.63	0.0	JKZLMY+NotoSans-Bold
+Material	false	8	3	142.89	178.913	730.1	0.0	JKZLMY+NotoSans-Bold
+Material thickness	false	8	3	238.96	317.738	730.1	60.047012	JKZLMY+NotoSans-Bold
+Breakthrough times of the glove material	false	8	3	346.43	523.4766	730.1	28.691986	JKZLMY+NotoSans-Bold
+IIR:	false	8	4	94.89	105.808	708.61	0.0	JIHPFE+NotoSans
+isobutene-isoprene (butyl) rub-	false	8	4	109.447334	225.90599	708.61	0.0	JIHPFE+NotoSans
+>= 0,7 mm	false	8	4	260.37	295.322	708.61	34.464005	JIHPFE+NotoSans
+>480 minutes (permeation:	false	8	4	369.56	461.1722	708.61	74.23801	JIHPFE+NotoSans
+level 6)	false	8	4	464.98938	499.34396	708.61	74.23801	JIHPFE+NotoSans
+ber	false	8	5	154.03	166.758	696.61	0.0	JIHPFE+NotoSans
+NBR:	false	8	6	93.63	105.07594	677.61	0.0	JIHPFE+NotoSans
+acrylonitrile-butadiene rubber	false	8	6	108.89126	227.166	677.61	0.0	JIHPFE+NotoSans
+>= 0,4 mm	false	8	6	260.37	295.322	677.61	33.203995	JIHPFE+NotoSans
+>480 minutes (permeation:	false	8	6	369.56	461.1722	677.61	74.23801	JIHPFE+NotoSans
+level 6)	false	8	6	464.98938	499.34396	677.61	74.23801	JIHPFE+NotoSans
+PVC:	false	8	7	118.16	129.17914	656.27	0.0	JIHPFE+NotoSans
+polyvinyl chloride	false	8	7	132.85219	202.64003	656.27	0.0	JIHPFE+NotoSans
+>= 0,7 mm	false	8	7	260.37	295.322	656.27	57.729965	JIHPFE+NotoSans
+>480 minutes (permeation:	false	8	7	369.56	461.1722	656.27	74.23801	JIHPFE+NotoSans
+level 6)	false	8	7	464.98938	499.34396	656.27	74.23801	JIHPFE+NotoSans
+CR:	false	8	8	95.88	103.70012	637.27	0.0	JIHPFE+NotoSans
+chloroprene (chlorobutadiene)	false	8	8	107.610176	224.91199	637.27	0.0	JIHPFE+NotoSans
+>= 0,5 mm	false	8	8	260.37	295.322	637.27	35.458008	JIHPFE+NotoSans
+>480 minutes (permeation:	false	8	8	369.56	461.1722	637.27	74.23801	JIHPFE+NotoSans
+level 6)	false	8	8	464.98938	499.34396	637.27	74.23801	JIHPFE+NotoSans
+rubber	false	8	9	147.45	173.346	625.27	0.0	JIHPFE+NotoSans
+Wear suitable gloves.	false	8	10	88.19	183.076	598.67	0.0	JIHPFE+NotoSans
+Chemical protection gloves are suitable, which are tested according to EN 374.	false	8	11	88.19	436.83066	584.42	0.0	JIHPFE+NotoSans
+Check leak-tightness/impermeability prior to use.	false	8	12	88.19	307.7255	570.17	0.0	JIHPFE+NotoSans
+In the case of wanting to use the gloves again, clean them before taking off and air them well.	false	8	13	88.19	506.18073	555.92	0.0	JIHPFE+NotoSans
+For special purposes, it is recommended to check the resistance to chemicals of the protective gloves	false	8	14	88.19	537.7209	541.67	0.0	JIHPFE+NotoSans
+mentioned above together with the supplier of these gloves.	false	8	15	88.19	357.55304	527.42	0.0	JIHPFE+NotoSans
+Respiratory protection	false	8	16	88.19	195.86298	506.17	0.0	JKZLMY+NotoSans-Bold
+In case of inadequate ventilation wear respiratory protection.	false	8	17	88.19	361.24854	487.14	0.0	JIHPFE+NotoSans
+Particulate filter device (EN 143).	false	8	18	88.19	232.02945	472.89	0.0	JIHPFE+NotoSans
+Environmental exposure controls	false	8	19	88.19	246.12747	451.64	0.0	JKZLMY+NotoSans-Bold
+Use appropriate container to avoid environmental contamination.	false	8	20	88.19	381.34103	432.61	0.0	JIHPFE+NotoSans
+Keep away from drains, surface and ground water.	false	8	21	88.19	314.11902	418.36	0.0	JIHPFE+NotoSans
+SECTION 9:	false	8	22	52.19	98.48766	389.36	0.0	JKZLMY+NotoSans-Bold
+Physical and chemical properties	false	8	22	103.63185	273.38995	389.36	0.0	JKZLMY+NotoSans-Bold
+9.1Information on basic physical and chemical properties	false	8	23	48.19	366.37497	364.05	0.0	JKZLMY+NotoSans-Bold
+Appearance	false	8	24	88.19	149.34149	340.67	0.0	JKZLMY+NotoSans-Bold
+Physical state	false	8	25	88.19	148.47699	318.42	0.0	JIHPFE+NotoSans
+solid	false	8	25	322.5	343.514	318.42	174.02301	JIHPFE+NotoSans
+Form	false	8	26	88.19	111.6645	296.39	0.0	JIHPFE+NotoSans
+powder, crystalline	false	8	26	322.5	406.82205	296.39	210.83551	JIHPFE+NotoSans
+Colour	false	8	27	88.19	117.8965	274.35	0.0	JIHPFE+NotoSans
+white	false	8	27	322.5	347.04803	274.35	204.6035	JIHPFE+NotoSans
+Odour	false	8	28	88.19	116.975006	252.32	0.0	JIHPFE+NotoSans
+odourless	false	8	28	322.5	366.50403	252.32	205.525	JIHPFE+NotoSans
+Odour threshold	false	8	29	88.19	162.442	230.29	0.0	JIHPFE+NotoSans
+these information are not available	false	8	29	322.5	478.75613	230.29	160.058	JIHPFE+NotoSans
+Other safety parameters	false	8	30	88.19	214.96202	207.13	0.0	JKZLMY+NotoSans-Bold
+pH (value)	false	8	31	88.19	133.0205	184.88	0.0	JIHPFE+NotoSans
+3.6 (10 g/l, 20 °C)	false	8	31	322.5	395.88373	184.88	189.4795	JIHPFE+NotoSans
+Melting point/freezing point	false	8	32	88.19	213.76099	161.5	0.0	JIHPFE+NotoSans
+slow decomposition	false	8	32	322.5	411.5626	161.5	108.73901	JIHPFE+NotoSans
+Initial boiling point and boiling range	false	8	33	88.19	253.55646	139.47	0.0	JIHPFE+NotoSans
+these information are not available	false	8	33	322.5	478.75613	139.47	68.94354	JIHPFE+NotoSans
+Flash point	false	8	34	88.19	137.08649	117.43	0.0	JIHPFE+NotoSans
+not applicable	false	8	34	322.5	385.39954	117.43	185.41351	JIHPFE+NotoSans
+Evaporation rate	false	8	35	88.19	162.40398	95.4	0.0	JIHPFE+NotoSans
+these information are not available	false	8	35	322.5	478.75613	95.4	160.09602	JIHPFE+NotoSans
+Flammability (solid, gas)	false	8	36	88.19	195.29298	73.37	0.0	JIHPFE+NotoSans
+non-combustible	false	8	36	322.5	397.95856	73.37	127.207016	JIHPFE+NotoSans
+United Kingdom:	true	8	37	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	8	37	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	8	37	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+8 / 19	true	8	37	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	9	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Explosion limits of dust clouds	false	9	2	88.19	222.8145	755.63	0.0	JIHPFE+NotoSans
+not determined	false	9	2	322.5	392.25858	755.63	99.6855	JIHPFE+NotoSans
+Vapour pressure	false	9	3	88.19	162.4135	733.6	0.0	JIHPFE+NotoSans
+these information are not available	false	9	3	322.5	478.75613	733.6	160.0865	JIHPFE+NotoSans
+Density	false	9	4	88.19	121.582504	711.57	0.0	JIHPFE+NotoSans
+1.88 g/cm³ at 20 °C	false	9	4	322.5	402.43497	711.57	200.9175	JIHPFE+NotoSans
+Vapour density	false	9	5	88.19	155.3645	688.19	0.0	JIHPFE+NotoSans
+these information are not available	false	9	5	322.5	478.75613	688.19	167.1355	JIHPFE+NotoSans
+Relative density	false	9	6	88.19	158.015	666.16	0.0	JIHPFE+NotoSans
+these information are not available	false	9	6	322.5	478.75613	666.16	164.485	JIHPFE+NotoSans
+Solubility(ies)	false	9	7	88.19	152.29599	644.12	0.0	JKZLMY+NotoSans-Bold
+Water solubility	false	9	8	88.19	157.53049	622.09	0.0	JIHPFE+NotoSans
+587 g/l at 20 °C, not miscible in any proportion	false	9	8	322.5	527.63934	622.09	164.96951	JIHPFE+NotoSans
+Partition coefficient	false	9	9	88.19	183.18997	598.71	0.0	JKZLMY+NotoSans-Bold
+n-octanol/water (log KOW)	false	9	10	88.19	205.97098	576.68	0.0	JIHPFE+NotoSans
+these information are not available	false	9	10	322.5	478.75613	576.68	116.52902	JIHPFE+NotoSans
+Auto-ignition temperature	false	9	11	88.19	205.52446	554.65	0.0	JIHPFE+NotoSans
+not relevant	false	9	11	322.5	376.48856	554.65	116.97554	JIHPFE+NotoSans
+(Solid matter)	false	9	12	322.5	373.14	540.4	0.0	JIHPFE+NotoSans
+Relative self-ignition temperature for solids	false	9	13	88.19	280.96396	518.8	0.0	JIHPFE+NotoSans
+>400 °C	false	9	13	322.5	356.71902	518.8	41.53604	JIHPFE+NotoSans
+producer	false	9	14	322.5	363.54	504.55	0.0	JIHPFE+NotoSans
+Decomposition temperature	false	9	15	88.19	214.79646	482.52	0.0	JIHPFE+NotoSans
+>120 °C	false	9	15	322.5	356.71902	482.52	107.70354	JIHPFE+NotoSans
+Viscosity	false	9	16	88.19	129.87599	460.49	0.0	JKZLMY+NotoSans-Bold
+Kinematic viscosity	false	9	17	88.19	172.1605	438.45	0.0	JIHPFE+NotoSans
+not relevant	false	9	17	322.5	376.48856	438.45	150.3395	JIHPFE+NotoSans
+(solid matter)	false	9	18	322.5	372.588	424.2	0.0	JIHPFE+NotoSans
+Dynamic viscosity	false	9	19	88.19	166.83101	402.61	0.0	JIHPFE+NotoSans
+not relevant	false	9	19	322.5	376.48856	402.61	155.66899	JIHPFE+NotoSans
+(solid matter)	false	9	20	322.5	372.588	388.36	0.0	JIHPFE+NotoSans
+Explosive properties	false	9	21	88.19	178.50647	366.77	0.0	JIHPFE+NotoSans
+may mass explode in fire	false	9	21	322.5	433.5741	366.77	143.99353	JIHPFE+NotoSans
+Oxidising properties	false	9	22	88.19	178.88647	344.73	0.0	JIHPFE+NotoSans
+shall not be classified as oxidising	false	9	22	322.5	472.4861	344.73	143.61353	JIHPFE+NotoSans
+9.2Other information	false	9	23	48.19	182.60278	321.57	0.0	JKZLMY+NotoSans-Bold
+None	false	9	24	88.19	112.35801	302.32	0.0	JIHPFE+NotoSans
+SECTION 10:	false	9	25	52.19	101.05389	273.32	0.0	JKZLMY+NotoSans-Bold
+Stability and reactivity	false	9	25	105.94028	228.1	273.32	0.0	JKZLMY+NotoSans-Bold
+10.1Reactivity	false	9	26	48.19	139.25551	248.02	0.0	JKZLMY+NotoSans-Bold
+It's a reactive substance.	false	9	27	88.19	197.2785	228.76	0.0	JIHPFE+NotoSans
+Explosive property.	false	9	28	88.19	173.54747	214.51	0.0	JIHPFE+NotoSans
+Substance or mixture corrosive to metals.	false	9	29	88.19	273.75348	200.26	0.0	JIHPFE+NotoSans
+If heated:	false	9	30	88.19	130.83551	179.01	0.0	JIHPFE+NotoSans
+danger of explosion	false	9	31	88.19	177.26202	159.98	0.0	JIHPFE+NotoSans
+United Kingdom:	true	9	32	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	9	32	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	9	32	499.12	515.0162	35.13	375.94598	JIHPFE+NotoSans
+9 / 19	true	9	32	518.99023	546.80853	35.13	375.94598	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	10	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+10.2Chemical stability	false	10	2	48.19	179.78403	754.51	0.0	JKZLMY+NotoSans-Bold
+"See below ""Conditions to avoid""."	false	10	3	88.19	232.30504	735.25	0.0	JIHPFE+NotoSans
+10.3Possibility of hazardous reactions	false	10	4	48.19	260.00055	712.88	0.0	JKZLMY+NotoSans-Bold
+Metals (due to the release of hydrogen in an acid/alkaline medium).	false	10	5	88.19	388.9125	693.63	0.0	JIHPFE+NotoSans
+10.4Conditions to avoid	false	10	6	48.19	187.21529	671.25	0.0	JKZLMY+NotoSans-Bold
+May be corrosive to metals.	false	10	7	88.19	210.7115	652.0	0.0	JIHPFE+NotoSans
+10.5Incompatible materials	false	10	8	48.19	208.06377	629.62	0.0	JKZLMY+NotoSans-Bold
+bases, oxidisers, metals (including their alloys), nitrites and their mixtures, alkalines	false	10	9	88.19	459.36462	610.37	0.0	JIHPFE+NotoSans
+10.6Hazardous decomposition products	false	10	10	48.19	269.41003	588.0	0.0	JKZLMY+NotoSans-Bold
+Nitrogen oxides (NOx).	false	10	11	88.19	189.70702	568.74	0.0	JIHPFE+NotoSans
+Sulphur oxides (SOx).	false	10	12	88.19	182.93352	554.49	0.0	JIHPFE+NotoSans
+SECTION 11:	false	10	13	52.19	103.66568	525.49	0.0	JKZLMY+NotoSans-Bold
+Toxicological information	false	10	13	108.81325	242.65002	525.49	0.0	JKZLMY+NotoSans-Bold
+11.1Information on toxicological effects	false	10	14	48.19	271.77777	500.19	0.0	JKZLMY+NotoSans-Bold
+If not otherwise specified the classification is based on:	false	10	15	88.19	332.74857	477.94	0.0	JIHPFE+NotoSans
+Animal studies; Evidence from any other toxicity tests; Expert judgement (weight of evidence determin-	false	10	16	88.19	546.76483	458.9	0.0	JIHPFE+NotoSans
+ation).	false	10	17	88.19	116.376495	444.65	0.0	JIHPFE+NotoSans
+Classification according to GHS (1272/2008/EC, CLP)	false	10	18	88.19	348.21204	422.28	0.0	JKZLMY+NotoSans-Bold
+Acute toxicity	false	10	19	88.19	153.74002	400.02	0.0	JKZLMY+NotoSans-Bold
+Harmful if swallowed.	false	10	20	88.19	184.748	380.99	0.0	JIHPFE+NotoSans
+Harmful in contact with skin.	false	10	21	88.19	215.66101	366.74	0.0	JIHPFE+NotoSans
+Acute toxicity	false	10	22	93.19	158.74002	340.49	0.0	JKZLMY+NotoSans-Bold
+Exposure route	false	10	23	113.22	177.82	314.96	0.0	JKZLMY+NotoSans-Bold
+Endpoint	false	10	23	241.06	279.276	314.96	63.23999	JKZLMY+NotoSans-Bold
+Value	false	10	23	362.91	386.75253	314.96	83.634	JKZLMY+NotoSans-Bold
+Species	false	10	23	473.85	505.113	314.96	87.09747	JKZLMY+NotoSans-Bold
+oral	false	10	24	137.68	152.36	293.47	0.0	JIHPFE+NotoSans
+LD50	false	10	24	250.1	269.25198	293.47	97.740005	JIHPFE+NotoSans
+642 mg/kg	false	10	24	356.31	392.3356	293.47	87.058014	JIHPFE+NotoSans
+rat	false	10	24	483.65	494.322	293.47	91.31439	JIHPFE+NotoSans
+dermal	false	10	25	131.64	158.392	274.47	0.0	JIHPFE+NotoSans
+LD50	false	10	25	250.1	269.25198	274.47	91.70801	JIHPFE+NotoSans
+>1,500-<2,000 mg/kg	false	10	25	334.58	414.06958	274.47	65.328	JIHPFE+NotoSans
+rabbit	false	10	25	477.7	500.26804	274.47	63.630432	JIHPFE+NotoSans
+Skin corrosion/irritation	false	10	26	88.19	203.26352	243.74	0.0	JKZLMY+NotoSans-Bold
+Causes skin irritation.	false	10	27	88.19	184.18748	224.71	0.0	JIHPFE+NotoSans
+Serious eye damage/eye irritation	false	10	28	88.19	249.42401	203.46	0.0	JKZLMY+NotoSans-Bold
+Causes serious eye irritation.	false	10	29	88.19	216.66797	184.43	0.0	JIHPFE+NotoSans
+Respiratory or skin sensitisation	false	10	30	88.19	241.58649	163.18	0.0	JKZLMY+NotoSans-Bold
+Skin sensitisation	false	10	31	88.19	171.71402	144.14	0.0	JKZLMY+NotoSans-Bold
+May cause an allergic skin reaction.	false	10	32	88.19	245.54797	129.89	0.0	JIHPFE+NotoSans
+Respiratory sensitisation	false	10	33	88.19	206.7215	115.64	0.0	JKZLMY+NotoSans-Bold
+Shall not be classified as a respiratory sensitiser.	false	10	34	88.19	303.1655	101.39	0.0	JIHPFE+NotoSans
+United Kingdom:	true	10	35	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	10	35	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	10	35	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+10 / 19	true	10	35	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	11	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Germ cell mutagenicity	false	11	2	88.19	198.97903	755.63	0.0	JKZLMY+NotoSans-Bold
+Shall not be classified as germ cell mutagenic.	false	11	3	88.19	292.4495	736.6	0.0	JIHPFE+NotoSans
+Carcinogenicity	false	11	4	88.19	162.24251	715.35	0.0	JKZLMY+NotoSans-Bold
+Suspected of causing cancer.	false	11	5	88.19	217.13351	696.32	0.0	JIHPFE+NotoSans
+Reproductive toxicity	false	11	6	88.19	189.56448	675.07	0.0	JKZLMY+NotoSans-Bold
+Classification could not be established because:	false	11	7	88.19	299.89752	656.03	0.0	JIHPFE+NotoSans
+Data are lacking, inconclusive, or conclusive but not sufficient for classification.	false	11	8	88.19	438.9682	641.78	0.0	JIHPFE+NotoSans
+Specific target organ toxicity - single exposure	false	11	9	88.19	308.077	620.53	0.0	JKZLMY+NotoSans-Bold
+Classification could not be established because:	false	11	10	88.19	299.89752	601.5	0.0	JIHPFE+NotoSans
+Data are lacking, inconclusive, or conclusive but not sufficient for classification.	false	11	11	88.19	438.9682	587.25	0.0	JIHPFE+NotoSans
+Specific target organ toxicity - repeated exposure	false	11	12	88.19	322.70697	566.0	0.0	JKZLMY+NotoSans-Bold
+May cause damage to organs (blood, spleen) through prolonged or repeated exposure (if swallowed).	false	11	13	88.19	540.2192	546.97	0.0	JIHPFE+NotoSans
+Specific target organ toxicity - repeated exposure	false	11	14	93.19	327.70697	520.72	0.0	JKZLMY+NotoSans-Bold
+Hazard category	false	11	15	129.69	199.56	495.18	0.0	JKZLMY+NotoSans-Bold
+Target organ	false	11	15	289.8	345.20306	495.18	90.23999	JKZLMY+NotoSans-Bold
+Exposure route	false	11	15	438.07	502.67007	495.18	92.86694	JKZLMY+NotoSans-Bold
+2	false	11	16	161.84	166.40799	473.69	0.0	JIHPFE+NotoSans
+blood	false	11	16	306.22	327.78003	473.69	139.81201	JIHPFE+NotoSans
+if swallowed	false	11	16	446.8	492.944	473.69	119.01996	JIHPFE+NotoSans
+2	false	11	17	161.84	166.40799	454.69	0.0	JIHPFE+NotoSans
+spleen	false	11	17	304.62	329.38	454.69	138.212	JIHPFE+NotoSans
+if swallowed	false	11	17	446.8	492.944	454.69	117.41998	JIHPFE+NotoSans
+Aspiration hazard	false	11	18	88.19	172.6735	425.1	0.0	JKZLMY+NotoSans-Bold
+Shall not be classified as presenting an aspiration hazard.	false	11	19	88.19	343.88248	406.07	0.0	JIHPFE+NotoSans
+SECTION 12:	false	11	20	52.19	103.734116	377.07	0.0	JKZLMY+NotoSans-Bold
+Ecological information	false	11	20	108.88853	227.44	377.07	0.0	JKZLMY+NotoSans-Bold
+12.1Toxicity	false	11	21	48.19	128.18552	351.76	0.0	JKZLMY+NotoSans-Bold
+Aquatic toxicity (acute)	false	11	22	88.19	198.2475	329.51	0.0	JKZLMY+NotoSans-Bold
+Very toxic to aquatic organisms.	false	11	23	88.19	230.62352	310.48	0.0	JIHPFE+NotoSans
+Aquatic toxicity (acute)	false	11	24	93.19	203.24748	284.23	0.0	JKZLMY+NotoSans-Bold
+Endpoint	false	11	25	113.75	151.966	258.69	0.0	JKZLMY+NotoSans-Bold
+Value	false	11	25	201.35	225.1925	258.69	49.384003	JKZLMY+NotoSans-Bold
+Species	false	11	25	307.82	339.083	258.69	82.6275	JKZLMY+NotoSans-Bold
+Exposure time	false	11	25	441.95	502.77606	258.69	102.867004	JKZLMY+NotoSans-Bold
+LC50	false	11	26	123.18	141.54799	237.2	0.0	JIHPFE+NotoSans
+7.2 mg/l	false	11	26	198.82	226.7128	237.2	57.27202	JIHPFE+NotoSans
+fathead minnow (pimephales pro-	false	11	26	259.23	386.68607	237.2	32.517212	JIHPFE+NotoSans
+96 h	false	11	26	463.78	479.93198	237.2	77.09393	JIHPFE+NotoSans
+melas)	false	11	27	310.58	335.332	225.2	0.0	JIHPFE+NotoSans
+EC50	false	11	28	123.04	141.67198	206.2	0.0	JIHPFE+NotoSans
+1.62 mg/l	false	11	28	196.54	229.00078	206.2	54.86801	JIHPFE+NotoSans
+daphnia magna	false	11	28	293.38	352.53207	206.2	64.37923	JIHPFE+NotoSans
+48 h	false	11	28	463.78	479.93198	206.2	111.247925	JIHPFE+NotoSans
+EC50	false	11	29	123.04	141.67198	183.73	0.0	JIHPFE+NotoSans
+0.72 mg/l	false	11	29	196.54	229.00078	183.73	54.86801	JIHPFE+NotoSans
+algae (Desmodesmus subspicatus)	false	11	29	258.03	387.88608	183.73	29.02922	JIHPFE+NotoSans
+72 h	false	11	29	463.78	479.93198	183.73	75.89392	JIHPFE+NotoSans
+EC50:	false	11	30	210.57	225.77458	164.73	0.0	JIHPFE+NotoSans
+54 mg/l (3h, activated sludge, OECD Guideline 209)	false	11	30	229.57573	423.43402	164.73	0.0	JIHPFE+NotoSans
+United Kingdom:	true	11	31	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	11	31	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	11	31	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+11 / 19	true	11	31	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	12	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Aquatic toxicity (chronic)	false	12	2	88.19	206.997	755.63	0.0	JKZLMY+NotoSans-Bold
+Harmful to aquatic life with long lasting effects.	false	12	3	88.19	298.90002	736.6	0.0	JIHPFE+NotoSans
+Aquatic toxicity (chronic)	false	12	4	93.19	211.99698	710.35	0.0	JKZLMY+NotoSans-Bold
+Endpoint	false	12	5	95.75	133.966	684.82	0.0	JKZLMY+NotoSans-Bold
+Value	false	12	5	150.93	174.77249	684.82	16.96399	JKZLMY+NotoSans-Bold
+Species	false	12	5	212.99	244.253	684.82	38.217514	JKZLMY+NotoSans-Bold
+Method	false	12	5	301.04	333.96902	684.82	56.787003	JKZLMY+NotoSans-Bold
+Source	false	12	5	395.55	424.314	684.82	61.580963	JKZLMY+NotoSans-Bold
+Exposure time	false	12	5	471.96	532.7861	684.82	47.645996	JKZLMY+NotoSans-Bold
+NOEC	false	12	6	103.45	125.25799	663.33	0.0	JIHPFE+NotoSans
+0.31 mg/l	false	12	6	146.12	178.58078	663.33	20.862007	JIHPFE+NotoSans
+daphnia magna	false	12	6	198.54	257.69202	663.33	19.959213	JIHPFE+NotoSans
+OECD Guideline 211	false	12	6	279.39	354.61398	663.33	21.697998	JIHPFE+NotoSans
+ECHA	false	12	6	399.17	419.70602	663.33	44.55603	JIHPFE+NotoSans
+21 d	false	12	6	493.81	509.938	663.33	74.10397	JIHPFE+NotoSans
+12.2Persistence and degradability	false	12	7	48.19	240.53575	634.95	0.0	JKZLMY+NotoSans-Bold
+Biodegradation	false	12	8	88.19	161.891	612.7	0.0	JKZLMY+NotoSans-Bold
+The study does not need to be conducted because the substance is inorganic.	false	12	9	88.19	433.40118	593.66	0.0	JIHPFE+NotoSans
+Persistence	false	12	10	88.19	142.86249	572.41	0.0	JKZLMY+NotoSans-Bold
+The study does not need to be conducted because the substance is inorganic.	false	12	11	88.19	433.40118	553.38	0.0	JIHPFE+NotoSans
+12.3Bioaccumulative potential	false	12	12	48.19	223.15178	531.01	0.0	JKZLMY+NotoSans-Bold
+Data are not available.	false	12	13	88.19	188.07298	511.75	0.0	JIHPFE+NotoSans
+12.4Mobility in soil	false	12	14	48.19	163.17903	489.38	0.0	JKZLMY+NotoSans-Bold
+Data are not available.	false	12	15	88.19	188.07298	470.13	0.0	JIHPFE+NotoSans
+12.5Results of PBT and vPvB assessment	false	12	16	48.19	272.57727	447.75	0.0	JKZLMY+NotoSans-Bold
+According to the results of its assessment, this substance is not a PBT or a vPvB.	false	12	17	88.19	443.4237	428.5	0.0	JIHPFE+NotoSans
+12.6Other adverse effects	false	12	18	48.19	198.70554	406.12	0.0	JKZLMY+NotoSans-Bold
+Data are not available.	false	12	19	88.19	188.07298	386.87	0.0	JIHPFE+NotoSans
+Endocrine disrupting potential	false	12	20	88.19	233.4545	365.62	0.0	JKZLMY+NotoSans-Bold
+Not listed.	false	12	21	88.19	133.60951	346.59	0.0	JIHPFE+NotoSans
+Remarks	false	12	22	88.19	133.35152	324.21	0.0	JKZLMY+NotoSans-Bold
+Wassergefährdungsklasse, WGK (water hazard class):	false	12	23	88.19	319.23917	304.96	0.0	JIHPFE+NotoSans
+3	false	12	23	323.95447	333.38504	304.96	0.0	JIHPFE+NotoSans
+SECTION 13:	false	12	24	52.19	103.93	275.96	0.0	JKZLMY+NotoSans-Bold
+Disposal considerations	false	12	24	109.104004	233.28001	275.96	0.0	JKZLMY+NotoSans-Bold
+13.1Waste treatment methods	false	12	25	48.19	223.45927	250.65	0.0	JKZLMY+NotoSans-Bold
+Dispose of this material and its container to hazardous or special waste collection point.	false	12	26	88.19	478.68768	231.4	0.0	JIHPFE+NotoSans
+This material and its container must be disposed of as hazardous waste.	false	12	27	88.19	409.0051	217.15	0.0	JIHPFE+NotoSans
+Sewage disposal-relevant information	false	12	28	88.19	268.4525	195.9	0.0	JKZLMY+NotoSans-Bold
+Do not empty into drains.	false	12	29	88.19	202.0285	176.87	0.0	JIHPFE+NotoSans
+Waste treatment of containers/packagings	false	12	30	88.19	292.37347	155.62	0.0	JKZLMY+NotoSans-Bold
+It is a dangerous waste; only packagings which are approved (e.g. acc. to ADR) may be used.	false	12	31	88.19	497.9347	136.58	0.0	JIHPFE+NotoSans
+Handle contaminated packages in the same way as the substance itself.	false	12	32	88.19	407.1432	122.33	0.0	JIHPFE+NotoSans
+United Kingdom:	true	12	33	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	12	33	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	12	33	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+12 / 19	true	12	33	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	13	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Remarks	false	13	2	88.19	133.35152	754.51	0.0	JKZLMY+NotoSans-Bold
+Please consider the relevant national or regional provisions.	false	13	3	88.19	355.0735	735.25	0.0	JIHPFE+NotoSans
+SECTION 14:	false	13	4	52.19	105.15364	706.25	0.0	JKZLMY+NotoSans-Bold
+Transport information	false	13	4	110.450005	226.97	706.25	0.0	JKZLMY+NotoSans-Bold
+14.1UN number	false	13	5	48.19	147.60925	680.95	0.0	JKZLMY+NotoSans-Bold
+2865	false	13	5	322.5	344.198	682.08	174.89075	JIHPFE+NotoSans
+14.2UN proper shipping name	false	13	6	48.19	220.14851	657.57	0.0	JKZLMY+NotoSans-Bold
+HYDROXYLAMINE SULPHATE	false	13	6	322.5	450.4175	658.7	102.35149	JIHPFE+NotoSans
+14.3Transport hazard class(es)	false	13	7	48.19	222.1165	634.19	0.0	JKZLMY+NotoSans-Bold
+Class	false	13	8	88.19	112.31999	611.94	0.0	JKZLMY+NotoSans-Bold
+8	false	13	8	322.5	327.9245	611.94	210.18001	JIHPFE+NotoSans
+14.4Packing group	false	13	9	48.19	162.11302	588.78	0.0	JKZLMY+NotoSans-Bold
+III	false	13	9	322.5	332.133	589.91	160.38698	JIHPFE+NotoSans
+14.5Environmental hazards	false	13	10	48.19	206.93625	565.41	0.0	JKZLMY+NotoSans-Bold
+hazardous to the aquatic environment	false	13	10	322.5	493.37665	566.53	115.56375	JIHPFE+NotoSans
+14.6Special precautions for user	false	13	11	48.19	230.64455	542.03	0.0	JKZLMY+NotoSans-Bold
+Provisions for dangerous goods (ADR) should be complied within the premises.	false	13	12	88.19	440.3267	522.77	0.0	JIHPFE+NotoSans
+14.7Transport in bulk according to Annex II of MARPOL and the IBC Code	false	13	13	48.19	438.52475	500.4	0.0	JKZLMY+NotoSans-Bold
+The cargo is not intended to be carried in bulk.	false	13	14	88.19	296.02148	481.15	0.0	JIHPFE+NotoSans
+14.8Information for each of the UN Model Regulations	false	13	15	48.19	344.91156	443.4	0.0	JKZLMY+NotoSans-Bold
+Transport of dangerous goods by road, rail and inland waterway (ADR/RID/ADN)	false	13	16	88.19	497.85193	420.02	0.0	JKZLMY+NotoSans-Bold
+UN number	false	13	17	88.19	140.535	397.77	0.0	JIHPFE+NotoSans
+2865	false	13	17	322.5	344.198	397.77	181.965	JIHPFE+NotoSans
+Proper shipping name	false	13	18	88.19	187.75948	375.73	0.0	JIHPFE+NotoSans
+UN2865, HYDROXYLAMINE SULPHATE, 8, III, (E),	false	13	18	322.5	534.8536	375.73	134.74052	JIHPFE+NotoSans
+environmentally hazardous	false	13	19	322.5	444.46106	361.48	0.0	JIHPFE+NotoSans
+Class	false	13	20	88.19	111.056496	339.45	0.0	JIHPFE+NotoSans
+8	false	13	20	322.5	327.9245	339.45	211.44351	JIHPFE+NotoSans
+Classification code	false	13	21	88.19	170.498	317.42	0.0	JIHPFE+NotoSans
+C2	false	13	21	322.5	333.919	317.42	152.002	JIHPFE+NotoSans
+Packing group	false	13	22	88.19	152.714	295.38	0.0	JIHPFE+NotoSans
+III	false	13	22	322.5	332.133	295.38	169.786	JIHPFE+NotoSans
+Danger label(s)	false	13	23	88.19	155.526	273.35	0.0	JIHPFE+NotoSans
+8, fish and tree	false	13	23	322.5	389.06656	273.35	166.974	JIHPFE+NotoSans
+Environmental hazards	false	13	25	88.19	191.19847	217.8	0.0	JIHPFE+NotoSans
+yes	false	13	25	322.5	337.23453	217.8	131.30153	JIHPFE+NotoSans
+(hazardous to the aquatic environment)	false	13	26	322.5	471.18002	203.55	0.0	JIHPFE+NotoSans
+Excepted quantities (EQ)	false	13	27	88.19	196.67049	181.96	0.0	JIHPFE+NotoSans
+E1	false	13	27	322.5	333.2065	181.96	125.82951	JIHPFE+NotoSans
+Limited quantities (LQ)	false	13	28	88.19	189.0515	159.93	0.0	JIHPFE+NotoSans
+5 kg	false	13	28	322.5	341.3005	159.93	133.4485	JIHPFE+NotoSans
+Transport category (TC)	false	13	29	88.19	192.93698	137.89	0.0	JIHPFE+NotoSans
+3.	false	13	29	322.5	330.4705	137.89	129.56302	JIHPFE+NotoSans
+Tunnel restriction code (TRC)	false	13	30	88.19	216.23102	115.86	0.0	JIHPFE+NotoSans
+E	false	13	30	322.5	327.782	115.86	106.26898	JIHPFE+NotoSans
+Hazard identification No	false	13	31	88.19	196.414	93.83	0.0	JIHPFE+NotoSans
+80	false	13	31	322.5	333.349	93.83	126.086	JIHPFE+NotoSans
+Emergency Action Code	false	13	32	88.19	194.01051	71.79	0.0	JIHPFE+NotoSans
+2X	false	13	32	322.5	333.482	71.79	128.48949	JIHPFE+NotoSans
+United Kingdom:	true	13	33	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	13	33	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	13	33	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+13 / 19	true	13	33	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	14	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+International Maritime Dangerous Goods Code (IMDG)	false	14	2	88.19	366.05725	754.51	0.0	JKZLMY+NotoSans-Bold
+UN number	false	14	3	88.19	140.535	732.25	0.0	JIHPFE+NotoSans
+2865	false	14	3	322.5	344.198	732.25	181.965	JIHPFE+NotoSans
+Proper shipping name	false	14	4	88.19	187.75948	710.22	0.0	JIHPFE+NotoSans
+UN2865, HYDROXYLAMINE SULPHATE, 8, III, MAR-	false	14	4	322.5	544.99005	710.22	134.74052	JIHPFE+NotoSans
+INE POLLUTANT	false	14	5	322.5	394.52908	695.97	0.0	JIHPFE+NotoSans
+Class	false	14	6	88.19	111.056496	673.94	0.0	JIHPFE+NotoSans
+8	false	14	6	322.5	327.9245	673.94	211.44351	JIHPFE+NotoSans
+Marine pollutant	false	14	7	88.19	162.55602	651.91	0.0	JIHPFE+NotoSans
+yes	false	14	7	322.5	337.23453	651.91	159.94398	JIHPFE+NotoSans
+(hazardous to the aquatic environment)	false	14	8	322.5	471.18002	637.66	0.0	JIHPFE+NotoSans
+Packing group	false	14	9	88.19	152.714	616.06	0.0	JIHPFE+NotoSans
+III	false	14	9	322.5	332.133	616.06	169.786	JIHPFE+NotoSans
+Danger label(s)	false	14	10	88.19	155.526	594.03	0.0	JIHPFE+NotoSans
+8, fish and tree	false	14	10	322.5	389.06656	594.03	166.974	JIHPFE+NotoSans
+Special provisions (SP)	false	14	12	88.19	186.80951	538.48	0.0	JIHPFE+NotoSans
+Excepted quantities (EQ)	false	14	13	88.19	196.67049	516.45	0.0	JIHPFE+NotoSans
+E1	false	14	13	322.5	333.2065	516.45	125.82951	JIHPFE+NotoSans
+Limited quantities (LQ)	false	14	14	88.19	189.0515	494.42	0.0	JIHPFE+NotoSans
+5 kg	false	14	14	322.5	341.3005	494.42	133.4485	JIHPFE+NotoSans
+EmS	false	14	15	88.19	107.5605	472.38	0.0	JIHPFE+NotoSans
+F-A, S-B	false	14	15	322.5	355.978	472.38	214.9395	JIHPFE+NotoSans
+Stowage category	false	14	16	88.19	167.98999	450.35	0.0	JIHPFE+NotoSans
+A	false	14	16	322.5	328.5705	450.35	154.51001	JIHPFE+NotoSans
+Segregation group	false	14	17	88.19	172.1795	428.32	0.0	JIHPFE+NotoSans
+1 - Acids.	false	14	17	322.5	361.8965	428.32	150.3205	JIHPFE+NotoSans
+International Civil Aviation Organization (ICAO-IATA/DGR)	false	14	18	88.19	385.32733	405.16	0.0	JKZLMY+NotoSans-Bold
+UN number	false	14	19	88.19	140.535	382.91	0.0	JIHPFE+NotoSans
+2865	false	14	19	322.5	344.198	382.91	181.965	JIHPFE+NotoSans
+Proper shipping name	false	14	20	88.19	187.75948	360.87	0.0	JIHPFE+NotoSans
+UN2865, Hydroxylamine sulphate, 8, III	false	14	20	322.5	497.10056	360.87	134.74052	JIHPFE+NotoSans
+Class	false	14	21	88.19	111.056496	338.84	0.0	JIHPFE+NotoSans
+8	false	14	21	322.5	327.9245	338.84	211.44351	JIHPFE+NotoSans
+Environmental hazards	false	14	22	88.19	191.19847	316.81	0.0	JIHPFE+NotoSans
+yes	false	14	22	322.5	337.23453	316.81	131.30153	JIHPFE+NotoSans
+(hazardous to the aquatic environment)	false	14	23	322.5	471.18002	302.56	0.0	JIHPFE+NotoSans
+Packing group	false	14	24	88.19	152.714	280.96	0.0	JIHPFE+NotoSans
+III	false	14	24	322.5	332.133	280.96	169.786	JIHPFE+NotoSans
+Danger label(s)	false	14	25	88.19	155.526	258.93	0.0	JIHPFE+NotoSans
+8	false	14	25	322.5	327.9245	258.93	166.974	JIHPFE+NotoSans
+Excepted quantities (EQ)	false	14	26	88.19	196.67049	203.4	0.0	JIHPFE+NotoSans
+E1	false	14	26	322.5	333.2065	203.4	125.82951	JIHPFE+NotoSans
+Limited quantities (LQ)	false	14	27	88.19	189.0515	181.36	0.0	JIHPFE+NotoSans
+5 kg	false	14	27	322.5	341.3005	181.36	133.4485	JIHPFE+NotoSans
+United Kingdom:	true	14	28	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	14	28	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	14	28	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+14 / 19	true	14	28	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	15	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+SECTION 15:	false	15	2	52.19	105.34	752.88	0.0	JKZLMY+NotoSans-Bold
+Regulatory information	false	15	2	110.655	232.9	752.88	0.0	JKZLMY+NotoSans-Bold
+15.1Safety, health and environmental regulations/legislation specific for the substance or	false	15	3	48.19	526.58234	727.58	0.0	JKZLMY+NotoSans-Bold
+mixture	false	15	4	88.19	129.17976	712.2	0.0	JKZLMY+NotoSans-Bold
+Relevant provisions of the European Union (EU)	false	15	5	88.19	329.66986	688.83	0.0	JKZLMY+NotoSans-Bold
+Restrictions according to REACH, Annex XVII	false	15	6	88.19	314.7663	665.45	0.0	JKZLMY+NotoSans-Bold
+Dangerous substances with restrictions (REACH, Annex XVII)	false	15	7	93.19	379.42493	638.19	0.0	JKZLMY+NotoSans-Bold
+Name of substance	false	15	8	113.89	195.4305	612.66	0.0	JKZLMY+NotoSans-Bold
+Name acc. to inventory	false	15	8	238.35	336.83102	612.66	42.91951	JKZLMY+NotoSans-Bold
+Type of registra-	false	15	8	365.8	435.36404	612.66	28.968964	JKZLMY+NotoSans-Bold
+Restriction	false	15	8	457.1	503.5865	612.66	21.735962	JKZLMY+NotoSans-Bold
+No	false	15	8	524.11	536.27344	612.66	20.523499	JKZLMY+NotoSans-Bold
+tion	false	15	9	392.02	409.1475	599.91	0.0	JKZLMY+NotoSans-Bold
+bis(hydroxylammonium )sulfate	false	15	10	94.53	213.778	578.42	0.0	JIHPFE+NotoSans
+this product meets the criteria	false	15	10	230.3	343.884	578.42	16.522003	JIHPFE+NotoSans
+1907/2006/EC  annex	false	15	10	360.46	439.69995	578.42	16.575989	JIHPFE+NotoSans
+R3	false	15	10	475.07	484.614	578.42	35.370056	JIHPFE+NotoSans
+3	false	15	10	527.41	531.97797	578.42	42.79596	JIHPFE+NotoSans
+for classification in accordance	false	15	11	229.58	344.59604	566.42	0.0	JIHPFE+NotoSans
+XVII	false	15	11	392.64	407.528	566.42	48.043976	JIHPFE+NotoSans
+with Regulation No	false	15	12	251.18	322.996	554.42	0.0	JIHPFE+NotoSans
+1272/2008/EC	false	15	13	261.09	313.08197	542.42	0.0	JIHPFE+NotoSans
+Legend	false	15	14	90.19	119.51	523.42	0.0	JKZLMY+NotoSans-Bold
+R3	false	15	15	90.19	99.734	509.42	0.0	JIHPFE+NotoSans
+1.  Shall not be used in:	false	15	15	122.29	208.78604	509.42	22.556	JIHPFE+NotoSans
+- ornamental articles intended to produce light or colour effects by means of different phases, for example in or-	false	15	16	122.29	543.38617	497.42	0.0	JIHPFE+NotoSans
+namental lamps and ashtrays,	false	15	17	122.29	235.40205	485.42	0.0	JIHPFE+NotoSans
+- tricks and jokes,	false	15	18	122.29	187.24202	473.42	0.0	JIHPFE+NotoSans
+- games for one or more participants, or any article intended to be used as such, even with ornamental aspects,	false	15	19	122.29	539.92993	461.42	0.0	JIHPFE+NotoSans
+2.  Articles not complying with paragraph 1 shall not be placed on the market.	false	15	20	122.29	413.21808	449.42	0.0	JIHPFE+NotoSans
+3.  Shall not be placed on the market if they contain a colouring agent, unless required for fiscal reasons, or per-	false	15	21	122.29	541.3301	437.42	0.0	JIHPFE+NotoSans
+fume, or both, if they:	false	15	22	122.29	203.61002	425.42	0.0	JIHPFE+NotoSans
+- can be used as fuel in decorative oil lamps for supply to the general public, and,	false	15	23	122.29	425.3301	413.42	0.0	JIHPFE+NotoSans
+- present an aspiration hazard and are labelled with R65 or H304,	false	15	24	122.29	366.01804	401.42	0.0	JIHPFE+NotoSans
+4.  Decorative oil lamps for supply to the general public shall not be placed on the market unless they conform to	false	15	25	122.29	545.05	389.42	0.0	JIHPFE+NotoSans
+the European Standard on Decorative oil lamps (EN 14059) adopted by the European Committee for Standardisa-	false	15	26	122.29	545.32996	377.42	0.0	JIHPFE+NotoSans
+tion (CEN).	false	15	27	122.29	161.57	365.42	0.0	JIHPFE+NotoSans
+5.  Without prejudice to the implementation of other Community provisions relating to the classification, pack-	false	15	28	122.29	534.962	353.42	0.0	JIHPFE+NotoSans
+aging and labelling of dangerous substances and mixtures, suppliers shall ensure, before the placing on the	false	15	29	122.29	527.4341	341.42	0.0	JIHPFE+NotoSans
+market, that the following requirements are met:	false	15	30	122.29	306.53006	329.42	0.0	JIHPFE+NotoSans
+(a)  lamp oils, labelled with R65 or H304, intended for supply to the general public are visibly, legibly and in-	false	15	31	122.29	523.34607	317.42	0.0	JIHPFE+NotoSans
+delibly marked as follows:	false	15	32	122.29	213.0293	305.42	0.0	JIHPFE+NotoSans
+‘Keep lamps filled with this liquid out of the reach of children’; and, by 1 December	false	15	32	216.65887	528.80206	305.42	0.0	JIHPFE+NotoSans
+2010, ‘Just a sip of lamp oil - or even sucking the wick of lamps - may lead to life-threatening lung damage’;	false	15	33	122.29	520.6501	293.42	0.0	JIHPFE+NotoSans
+(b)  grill lighter fluids, labelled with R65 or H304, intended for supply to the general public are legibly and in-	false	15	34	122.29	526.482	281.42	0.0	JIHPFE+NotoSans
+delibly marked by 1 December 2010 as follows:	false	15	35	122.29	281.27014	269.42	0.0	JIHPFE+NotoSans
+‘Just a sip of grill lighter may lead to life threatening lung	false	15	35	284.88333	512.514	269.42	0.0	JIHPFE+NotoSans
+damage’;	false	15	36	122.29	156.62599	257.42	0.0	JIHPFE+NotoSans
+(c)  lamp oils and grill lighters, labelled with R65 or H304, intended for supply to the general public are packaged	false	15	37	122.29	542.57794	245.42	0.0	JIHPFE+NotoSans
+in black opaque containers not exceeding 1 litre by 1 December 2010.	false	15	38	122.29	383.162	233.42	0.0	JIHPFE+NotoSans
+6.  No later than 1 June 2014, the Commission shall request the European Chemicals Agency to prepare a dossier,	false	15	39	122.29	546.20197	221.42	0.0	JIHPFE+NotoSans
+in accordance with Article 69 of the present Regulation with a view to ban, if appropriate, grill lighter fluids and	false	15	40	122.29	537.386	209.42	0.0	JIHPFE+NotoSans
+fuel for decorative lamps, labelled R65 or H304, intended for supply to the general public.	false	15	41	122.29	457.20203	197.42	0.0	JIHPFE+NotoSans
+7.  Natural or legal persons placing on the market for the first time lamp oils and grill lighter fluids, labelled with	false	15	42	122.29	541.7862	185.42	0.0	JIHPFE+NotoSans
+R65 or H304, shall by 1 December 2011, and annually thereafter, provide data on alternatives to lamp oils and	false	15	43	122.29	533.31396	173.42	0.0	JIHPFE+NotoSans
+grill lighter fluids labelled R65 or H304 to the competent authority in the Member State concerned. Member	false	15	44	122.29	525.818	161.42	0.0	JIHPFE+NotoSans
+States shall make those data available to the Commission.	false	15	45	122.29	339.41013	149.42	0.0	JIHPFE+NotoSans
+United Kingdom:	true	15	46	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	15	46	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	15	46	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+15 / 19	true	15	46	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	16	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+List of substances subject to authorisation (REACH, Annex XIV)	false	16	2	88.19	407.29306	754.51	0.0	JKZLMY+NotoSans-Bold
+not listed	false	16	3	88.19	129.724	735.25	0.0	JIHPFE+NotoSans
+Seveso Directive	false	16	4	88.19	171.96326	712.88	0.0	JKZLMY+NotoSans-Bold
+2012/18/EU (Seveso III)	false	16	5	93.19	200.93896	685.63	0.0	JKZLMY+NotoSans-Bold
+No	false	16	6	98.16	110.3235	660.09	0.0	JKZLMY+NotoSans-Bold
+Dangerous substance/hazard categories	false	16	6	137.89	309.08005	660.09	27.566498	JKZLMY+NotoSans-Bold
+Qualifying quantity (tonnes) for the ap-	false	16	6	334.97	501.81656	660.09	25.889954	JKZLMY+NotoSans-Bold
+Notes	false	16	6	515.92	541.01196	660.09	14.103424	JKZLMY+NotoSans-Bold
+plication of lower and upper-tier re-	false	16	7	342.64	494.16113	647.34	0.0	JKZLMY+NotoSans-Bold
+quirements	false	16	8	393.76	443.03455	634.59	0.0	JKZLMY+NotoSans-Bold
+E1	false	16	9	99.23	108.246	613.1	0.0	JIHPFE+NotoSans
+environmental hazards (hazardous to the aquatic	false	16	9	130.66	315.30005	613.1	22.414001	JIHPFE+NotoSans
+100	false	16	9	366.93	380.63397	613.1	51.629944	JIHPFE+NotoSans
+200	false	16	9	455.16	468.86398	613.1	74.52603	JIHPFE+NotoSans
+56)	false	16	9	522.2	533.728	613.1	53.33603	JIHPFE+NotoSans
+environment, cat. 1)	false	16	10	185.46	260.50003	601.1	0.0	JIHPFE+NotoSans
+Notation	false	16	11	90.19	126.06201	582.1	0.0	JKZLMY+NotoSans-Bold
+56)	false	16	12	90.19	101.718	568.1	0.0	JIHPFE+NotoSans
+hazardous to the Aquatic Environment in category Acute 1 or Chronic 1	false	16	12	113.12	379.42395	568.1	11.402	JIHPFE+NotoSans
+Directive 2011/65/EU on the restriction of the use of certain hazardous substances in	false	16	13	88.19	520.1455	534.73	0.0	JKZLMY+NotoSans-Bold
+electrical and electronic equipment (RoHS) - Annex II	false	16	14	88.19	357.98032	519.35	0.0	JKZLMY+NotoSans-Bold
+not listed	false	16	15	88.19	129.724	500.1	0.0	JIHPFE+NotoSans
+Regulation 166/2006/EC concerning the establishment of a European Pollutant Release	false	16	16	88.19	530.35443	477.73	0.0	JKZLMY+NotoSans-Bold
+and Transfer Register (PRTR)	false	16	17	88.19	234.31401	462.35	0.0	JKZLMY+NotoSans-Bold
+not listed	false	16	18	88.19	129.724	443.1	0.0	JIHPFE+NotoSans
+Directive 2000/60/EC establishing a framework for Community action in the field of water	false	16	19	88.19	545.1042	420.72	0.0	JKZLMY+NotoSans-Bold
+policy (WFD)	false	16	20	88.19	151.043	405.35	0.0	JKZLMY+NotoSans-Bold
+not listed	false	16	21	88.19	129.724	386.09	0.0	JIHPFE+NotoSans
+Regulation 98/2013/EU on the marketing and use of explosives precursors	false	16	22	88.19	465.2567	363.72	0.0	JKZLMY+NotoSans-Bold
+not listed	false	16	23	88.19	129.724	344.47	0.0	JIHPFE+NotoSans
+15.2Chemical Safety Assessment	false	16	24	48.19	233.4633	322.09	0.0	JKZLMY+NotoSans-Bold
+No Chemical Safety Assessment has been carried out for this substance by the supplier.	false	16	25	88.19	477.7567	302.84	0.0	JIHPFE+NotoSans
+SECTION 16:	false	16	26	52.19	105.56241	273.84	0.0	JKZLMY+NotoSans-Bold
+Other information	false	16	26	110.89965	206.96999	273.84	0.0	JKZLMY+NotoSans-Bold
+Indication of changes (revised safety data sheet)	false	16	27	88.19	336.8652	248.53	0.0	JKZLMY+NotoSans-Bold
+Indication of changes (revised safety data sheet)	false	16	28	93.19	323.66946	221.28	0.0	JKZLMY+NotoSans-Bold
+Section	false	16	29	100.11	131.29651	195.75	0.0	JKZLMY+NotoSans-Bold
+Former entry (text/value)	false	16	29	190.08	298.166	195.75	58.783493	JKZLMY+NotoSans-Bold
+Actual entry (text/value)	false	16	29	393.75	498.07053	195.75	95.584015	JKZLMY+NotoSans-Bold
+1.2Relevant identified uses:	false	16	30	109.57	289.32004	174.26	0.0	JIHPFE+NotoSans
+Relevant identified uses:	false	16	30	399.71	491.11005	174.26	110.38995	JIHPFE+NotoSans
+Intermediate for organic synthesis	false	16	31	178.85	308.394	162.26	0.0	JIHPFE+NotoSans
+Intermediate for organic synthesis	false	16	31	380.64	510.18402	162.26	72.246	JIHPFE+NotoSans
+Chemicals for synthesis	false	16	32	401.33	489.498	150.26	0.0	JIHPFE+NotoSans
+2.1Classification:	false	16	33	109.57	471.06604	131.26	0.0	JIHPFE+NotoSans
+change in the listing (table)	false	16	34	394.6	496.22403	119.26	0.0	JIHPFE+NotoSans
+2.2Hazard statements:	false	16	35	109.57	482.07806	97.91	0.0	JIHPFE+NotoSans
+change in the listing (table)	false	16	36	394.6	496.22403	85.91	0.0	JIHPFE+NotoSans
+United Kingdom:	true	16	37	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	16	37	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	16	37	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+16 / 19	true	16	37	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	17	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Indication of changes (revised safety data sheet)	false	17	2	93.19	323.66946	750.63	0.0	JKZLMY+NotoSans-Bold
+Section	false	17	3	100.11	131.29651	725.1	0.0	JKZLMY+NotoSans-Bold
+Former entry (text/value)	false	17	3	190.08	298.166	725.1	58.783493	JKZLMY+NotoSans-Bold
+Actual entry (text/value)	false	17	3	393.75	498.07053	725.1	95.584015	JKZLMY+NotoSans-Bold
+2.2Precautionary statements:	false	17	4	109.57	494.87003	703.61	0.0	JIHPFE+NotoSans
+change in the listing (table)	false	17	5	394.6	496.22403	691.61	0.0	JIHPFE+NotoSans
+2.2Supplemental hazard information	false	17	6	109.57	508.76608	670.27	0.0	JIHPFE+NotoSans
+2.2Supplemental hazard information:	false	17	7	109.57	509.83008	651.27	0.0	JIHPFE+NotoSans
+change in the listing (table)	false	17	8	394.6	496.22403	639.27	0.0	JIHPFE+NotoSans
+8.1Occupational exposure limit values (Workplace Ex-	false	17	9	109.57	539.724	617.92	0.0	JIHPFE+NotoSans
+posure Limits):	false	17	10	417.7	473.13202	605.92	0.0	JIHPFE+NotoSans
+change in the listing (table)	false	17	11	394.6	496.22403	593.92	0.0	JIHPFE+NotoSans
+8.1Relevant DNELs and other threshold levels:	false	17	12	109.57	526.07	574.92	0.0	JIHPFE+NotoSans
+change in the listing (table)	false	17	13	394.6	496.22403	562.92	0.0	JIHPFE+NotoSans
+8.1Relevant PNECs and other threshold levels:	false	17	14	109.57	526.004	541.58	0.0	JIHPFE+NotoSans
+change in the listing (table)	false	17	15	394.6	496.22403	529.58	0.0	JIHPFE+NotoSans
+Abbreviations and acronyms	false	17	16	88.19	234.67278	501.2	0.0	JKZLMY+NotoSans-Bold
+Abbreviations and acronyms	false	17	17	93.19	228.9545	473.95	0.0	JKZLMY+NotoSans-Bold
+Abbr.	false	17	18	111.14	134.022	448.42	0.0	JKZLMY+NotoSans-Bold
+Descriptions of used abbreviations	false	17	18	278.35	425.43408	448.42	144.328	JKZLMY+NotoSans-Bold
+ADN	false	17	19	113.58	130.59601	426.93	0.0	JIHPFE+NotoSans
+Accord européen relatif au transport international des marchandises dangereuses par voies de nav-	false	17	19	164.68	539.112	426.93	34.083984	JIHPFE+NotoSans
+igation intérieures (European Agreement concerning the International Carriage of Dangerous Goods	false	17	20	163.07	540.7259	414.93	0.0	JIHPFE+NotoSans
+by Inland Waterways)	false	17	21	311.46	392.34	402.93	0.0	JIHPFE+NotoSans
+ADR	false	17	22	114.13	130.05	383.93	0.0	JIHPFE+NotoSans
+Accord européen relatif au transport international des marchandises dangereuses par route	false	17	22	178.9	524.89197	383.93	48.84999	JIHPFE+NotoSans
+(European Agreement concerning the International Carriage of Dangerous Goods by Road)	false	17	23	181.27	522.518	371.93	0.0	JIHPFE+NotoSans
+CAS	false	17	24	114.81	129.35399	350.58	0.0	JIHPFE+NotoSans
+Chemical Abstracts Service (service that maintains the most comprehensive list of chemical sub-	false	17	24	172.52	531.27997	350.58	43.166016	JIHPFE+NotoSans
+stances)	false	17	25	336.54	367.24402	338.58	0.0	JIHPFE+NotoSans
+CLP	false	17	26	115.05	129.114	319.58	0.0	JIHPFE+NotoSans
+Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures	false	17	26	165.7	538.0841	319.58	36.586	JIHPFE+NotoSans
+DGR	false	17	27	113.77	130.402	298.24	0.0	JIHPFE+NotoSans
+Dangerous Goods Regulations (see IATA/DGR)	false	17	27	265.31	438.47806	298.24	134.908	JIHPFE+NotoSans
+DNEL	false	17	28	111.82	132.356	279.24	0.0	JIHPFE+NotoSans
+Derived No-Effect Level	false	17	28	308.26	395.524	279.24	175.904	JIHPFE+NotoSans
+EC No	false	17	29	110.85	133.32199	257.9	0.0	JIHPFE+NotoSans
+The EC Inventory (EINECS, ELINCS and the NLP-list) is the source for the seven-digit EC number, an	false	17	29	167.94	535.84393	257.9	34.61801	JIHPFE+NotoSans
+identifier of substances commercially available within the EU (European Union)	false	17	30	204.45	499.33798	245.9	0.0	JIHPFE+NotoSans
+EINECS	false	17	31	108.53	135.634	226.9	0.0	JIHPFE+NotoSans
+European Inventory of Existing Commercial Chemical Substances	false	17	31	229.87	473.91803	226.9	94.23599	JIHPFE+NotoSans
+ELINCS	false	17	32	108.67	135.51	205.55	0.0	JIHPFE+NotoSans
+European List of Notified Chemical Substances	false	17	32	264.74	439.06003	205.55	129.23	JIHPFE+NotoSans
+EmS	false	17	33	113.93	130.242	186.55	0.0	JIHPFE+NotoSans
+Emergency Schedule	false	17	33	312.81	390.978	186.55	182.568	JIHPFE+NotoSans
+GHS	false	17	34	114.02	130.15599	165.21	0.0	JIHPFE+NotoSans
+"""Globally Harmonized System of Classification and Labelling of Chemicals"" developed by the United"	false	17	34	166.0	537.7842	165.21	35.84401	JIHPFE+NotoSans
+Nations	false	17	35	337.34	366.444	153.21	0.0	JIHPFE+NotoSans
+IATA	false	17	36	113.4	130.776	134.21	0.0	JIHPFE+NotoSans
+International Air Transport Association	false	17	36	279.22	424.58	134.21	148.444	JIHPFE+NotoSans
+IATA/DGR	false	17	37	103.59	140.57399	112.86	0.0	JIHPFE+NotoSans
+Dangerous Goods Regulations (DGR) for the air transport (IATA)	false	17	37	232.46	471.332	112.86	91.88602	JIHPFE+NotoSans
+ICAO	false	17	38	112.53	131.634	93.86	0.0	JIHPFE+NotoSans
+International Civil Aviation Organization	false	17	38	276.97	426.81802	93.86	145.336	JIHPFE+NotoSans
+IMDG	false	17	39	111.28	132.896	72.52	0.0	JIHPFE+NotoSans
+International Maritime Dangerous Goods Code	false	17	39	263.66	440.14005	72.52	130.764	JIHPFE+NotoSans
+United Kingdom:	true	17	40	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	17	40	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	17	40	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+17 / 19	true	17	40	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	18	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Abbreviations and acronyms	false	18	2	93.19	228.9545	750.63	0.0	JKZLMY+NotoSans-Bold
+Abbr.	false	18	3	111.14	134.022	725.1	0.0	JKZLMY+NotoSans-Bold
+Descriptions of used abbreviations	false	18	3	278.35	425.43408	725.1	144.328	JKZLMY+NotoSans-Bold
+MARPOL	false	18	4	105.79	138.39	703.61	0.0	JIHPFE+NotoSans
+"International Convention for the Prevention of Pollution from Ships (abbr. of ""Marine Pollutant"")"	false	18	4	172.07	531.726	703.61	33.680008	JIHPFE+NotoSans
+NLP	false	18	5	114.54	129.62799	682.27	0.0	JIHPFE+NotoSans
+No-Longer Polymer	false	18	5	315.24	388.55194	682.27	185.612	JIHPFE+NotoSans
+PBT	false	18	6	114.85	129.322	663.27	0.0	JIHPFE+NotoSans
+Persistent, Bioaccumulative and Toxic	false	18	6	281.24	422.552	663.27	151.91798	JIHPFE+NotoSans
+PNEC	false	18	7	111.89	132.29	641.92	0.0	JIHPFE+NotoSans
+Predicted No-Effect Concentration	false	18	7	287.88	415.90402	641.92	155.59001	JIHPFE+NotoSans
+REACH	false	18	8	109.33	134.842	622.92	0.0	JIHPFE+NotoSans
+Registration, Evaluation, Authorisation and Restriction of Chemicals	false	18	8	225.42	478.38007	622.92	90.578	JIHPFE+NotoSans
+RID	false	18	9	115.33	128.842	601.58	0.0	JIHPFE+NotoSans
+Règlement concernant le transport International ferroviaire des marchandises Dangereuses (Regula-	false	18	9	162.7	541.084	601.58	33.858	JIHPFE+NotoSans
+tions concerning the International carriage of Dangerous goods by Rail)	false	18	10	217.38	486.41205	589.58	0.0	JIHPFE+NotoSans
+vPvB	false	18	11	113.02	131.15599	570.58	0.0	JIHPFE+NotoSans
+Very Persistent and very Bioaccumulative	false	18	11	274.66	429.12393	570.58	143.50401	JIHPFE+NotoSans
+Key literature references and sources for data	false	18	12	88.19	323.74527	539.86	0.0	JKZLMY+NotoSans-Bold
+Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures.	false	18	13	88.19	532.94214	520.61	0.0	JIHPFE+NotoSans
+Regulation (EC) No. 1907/2006 (REACH), amended by 2015/830/EU.	false	18	14	88.19	384.476	506.36	0.0	JIHPFE+NotoSans
+Transport of dangerous goods by road, rail and inland waterway (ADR/RID/ADN).	false	18	15	88.19	448.31607	488.11	0.0	JIHPFE+NotoSans
+International Maritime Dangerous Goods Code (IMDG).	false	18	16	88.19	334.1165	473.86	0.0	JIHPFE+NotoSans
+Dangerous Goods Regulations (DGR) for the air transport (IATA).	false	18	17	88.19	374.39658	459.61	0.0	JIHPFE+NotoSans
+List of relevant phrases (code and full text as stated in chapter 2 and 3)	false	18	18	88.19	450.55823	437.23	0.0	JKZLMY+NotoSans-Bold
+List of relevant phrases (code and full text as stated in chapter 2 and 3)	false	18	19	93.19	429.04343	409.98	0.0	JKZLMY+NotoSans-Bold
+Code	false	18	20	107.47	128.533	384.45	0.0	JKZLMY+NotoSans-Bold
+Text	false	18	20	338.04	356.57852	384.45	209.507	JKZLMY+NotoSans-Bold
+H290	false	18	21	108.18	127.812004	362.95	0.0	JIHPFE+NotoSans
+May be corrosive to metals.	false	18	21	295.72	398.896	362.95	167.90799	JIHPFE+NotoSans
+H302	false	18	22	108.18	127.812004	343.95	0.0	JIHPFE+NotoSans
+Harmful if swallowed.	false	18	22	306.65	387.96204	343.95	178.83798	JIHPFE+NotoSans
+H312	false	18	23	108.18	127.812004	322.61	0.0	JIHPFE+NotoSans
+Harmful in contact with skin.	false	18	23	293.64	400.98404	322.61	165.828	JIHPFE+NotoSans
+H315	false	18	24	108.18	127.812004	303.61	0.0	JIHPFE+NotoSans
+Causes skin irritation.	false	18	24	306.89	387.73	303.61	179.078	JIHPFE+NotoSans
+H317	false	18	25	108.18	127.812004	282.27	0.0	JIHPFE+NotoSans
+May cause an allergic skin reaction.	false	18	25	281.05	413.56198	282.27	153.23798	JIHPFE+NotoSans
+H319	false	18	26	108.18	127.812004	263.27	0.0	JIHPFE+NotoSans
+Causes serious eye irritation.	false	18	26	293.21	401.40195	263.27	165.39798	JIHPFE+NotoSans
+H351	false	18	27	108.18	127.812004	241.92	0.0	JIHPFE+NotoSans
+Suspected of causing cancer.	false	18	27	293.02	401.60403	241.92	165.20798	JIHPFE+NotoSans
+H373	false	18	28	108.18	127.812004	222.92	0.0	JIHPFE+NotoSans
+May cause damage to organs (blood, spleen) through prolonged or repeated exposure (if swallowed).	false	18	28	156.98	537.6361	222.92	29.167992	JIHPFE+NotoSans
+H400	false	18	29	108.18	127.812004	201.58	0.0	JIHPFE+NotoSans
+Very toxic to aquatic life.	false	18	29	301.5	393.124	201.58	173.68799	JIHPFE+NotoSans
+H412	false	18	30	108.18	127.812004	182.58	0.0	JIHPFE+NotoSans
+Harmful to aquatic life with long lasting effects.	false	18	30	258.59	436.0301	182.58	130.77798	JIHPFE+NotoSans
+Responsible for the safety data sheet	false	18	31	88.19	264.33896	152.99	0.0	JKZLMY+NotoSans-Bold
+C.S.B. GmbH	false	18	32	88.19	147.29001	133.2	0.0	JIHPFE+NotoSans
+Telephone:	false	18	32	276.64	316.64215	133.95	129.35	JIHPFE+NotoSans
++49 (0) 2151 - 652086 - 0	false	18	32	321.08682	436.64862	133.95	129.35	JIHPFE+NotoSans
+Düsseldorfer Str. 113	false	18	33	88.19	187.16003	118.2	0.0	JIHPFE+NotoSans
+Telefax:	false	18	33	276.64	306.48288	119.7	89.47998	JIHPFE+NotoSans
++49 (0) 2151 - 652086 - 9	false	18	33	310.74615	421.59113	119.7	89.47998	JIHPFE+NotoSans
+47809 Krefeld	false	18	34	88.19	153.07002	103.2	0.0	JIHPFE+NotoSans
+e-Mail:	false	18	34	276.64	303.76105	105.45	123.56999	JIHPFE+NotoSans
+info@csb-online.de	false	18	34	308.28122	394.16455	105.45	123.56999	JIHPFE+NotoSans
+Website:	false	18	35	276.64	310.34274	91.2	0.0	JIHPFE+NotoSans
+www.csb-online.de	false	18	35	315.1574	401.8216	91.2	0.0	JIHPFE+NotoSans
+United Kingdom:	true	18	36	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	18	36	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	18	36	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+18 / 19	true	18	36	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+Hydroxylamine sulphate	true	19	1	214.17	385.824	788.65	0.0	JKZLMY+NotoSans-Bold
+Disclaimer	false	19	2	88.19	142.46376	754.51	0.0	JKZLMY+NotoSans-Bold
+This information is based upon the present state of our knowledge.	false	19	3	88.19	388.1621	735.25	0.0	JIHPFE+NotoSans
+This SDS has been compiled and is solely intended for this product.	false	19	4	88.19	386.30963	721.0	0.0	JIHPFE+NotoSans
+United Kingdom:	true	19	5	48.19	106.51088	37.38	0.0	JIHPFE+NotoSans
+en	true	19	5	110.67666	123.173996	37.38	0.0	JIHPFE+NotoSans
+Page:	true	19	5	493.7	510.04248	35.13	370.526	JIHPFE+NotoSans
+19 / 19	true	19	5	514.1281	546.81305	35.13	370.526	JIHPFE+NotoSans
+_HORIZONTAL_LINE	false	1	1	322.5	438.98	611.81	0.0	
+_HORIZONTAL_LINE	false	1	1	88.19	546.81	208.84	0.0	
+_HORIZONTAL_LINE	false	1	1	546.81	88.19	235.87	0.0	
+_HORIZONTAL_LINE	false	1	1	88.19	134.05	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	88.19	208.84001	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	317.5	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	134.05	208.84001	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	386.29	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	317.5	208.84001	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	478.01	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	478.01	386.29	208.84001	0.0	
+_HORIZONTAL_LINE	false	1	1	478.02	546.81	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	546.81	478.02	208.84001	0.0	
+_HORIZONTAL_LINE	false	1	1	88.19	134.05	150.85	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	88.19	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	317.5	150.85	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	134.05	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	386.29	150.85	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	317.5	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	478.01	150.85	0.0	
+_HORIZONTAL_LINE	false	1	1	478.01	386.29	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	478.02	546.81	150.85	0.0	
+_HORIZONTAL_LINE	false	1	1	546.81	478.02	170.85	0.0	
+_HORIZONTAL_LINE	false	1	1	88.19	134.05	128.51	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	88.19	150.84999	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	317.5	128.51	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	134.05	150.84999	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	386.29	128.51	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	317.5	150.84999	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	478.01	128.51	0.0	
+_HORIZONTAL_LINE	false	1	1	478.01	386.29	150.84999	0.0	
+_HORIZONTAL_LINE	false	1	1	478.02	546.81	128.51	0.0	
+_HORIZONTAL_LINE	false	1	1	546.81	478.02	150.84999	0.0	
+_HORIZONTAL_LINE	false	1	1	88.19	134.05	108.51	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	88.19	128.51001	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	317.5	108.51	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	134.05	128.51001	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	386.29	108.51	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	317.5	128.51001	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	478.01	108.51	0.0	
+_HORIZONTAL_LINE	false	1	1	478.01	386.29	128.51001	0.0	
+_HORIZONTAL_LINE	false	1	1	478.02	546.81	108.51	0.0	
+_HORIZONTAL_LINE	false	1	1	546.81	478.02	128.51001	0.0	
+_HORIZONTAL_LINE	false	1	1	88.19	134.05	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	88.19	108.509995	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	317.5	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	134.05	108.509995	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	386.29	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	317.5	108.509995	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	478.01	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	478.01	386.29	108.509995	0.0	
+_HORIZONTAL_LINE	false	1	1	478.02	546.81	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	546.81	478.02	108.509995	0.0	
+_HORIZONTAL_LINE	false	1	1	88.19	134.05	59.05	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	88.19	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	134.05	317.5	59.05	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	134.05	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	317.5	386.29	59.05	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	317.5	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	386.29	478.01	59.05	0.0	
+_HORIZONTAL_LINE	false	1	1	478.01	386.29	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	478.02	546.81	59.05	0.0	
+_HORIZONTAL_LINE	false	1	1	546.81	478.02	86.17	0.0	
+_HORIZONTAL_LINE	false	1	1	48.19	546.81	690.21	0.0	
+_HORIZONTAL_LINE	false	1	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	2	1	88.19	546.81	742.85	0.0	
+_HORIZONTAL_LINE	false	2	1	546.81	88.19	769.88	0.0	
+_HORIZONTAL_LINE	false	2	1	88.19	134.05	704.86	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	88.19	742.85	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	317.5	704.86	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	134.05	742.85	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	386.29	704.86	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	317.5	742.85	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	478.01	704.86	0.0	
+_HORIZONTAL_LINE	false	2	1	478.01	386.29	742.85	0.0	
+_HORIZONTAL_LINE	false	2	1	478.02	546.81	704.86	0.0	
+_HORIZONTAL_LINE	false	2	1	546.81	478.02	742.85	0.0	
+_HORIZONTAL_LINE	false	2	1	88.19	134.05	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	88.19	704.86005	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	317.5	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	134.05	704.86005	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	386.29	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	317.5	704.86005	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	478.01	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	478.01	386.29	704.86005	0.0	
+_HORIZONTAL_LINE	false	2	1	478.02	546.81	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	546.81	478.02	704.86005	0.0	
+_HORIZONTAL_LINE	false	2	1	88.19	134.05	662.52	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	88.19	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	317.5	662.52	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	134.05	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	386.29	662.52	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	317.5	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	478.01	662.52	0.0	
+_HORIZONTAL_LINE	false	2	1	478.01	386.29	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	478.02	546.81	662.52	0.0	
+_HORIZONTAL_LINE	false	2	1	546.81	478.02	682.52	0.0	
+_HORIZONTAL_LINE	false	2	1	88.19	134.05	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	88.19	662.51	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	317.5	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	134.05	662.51	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	386.29	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	317.5	662.51	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	478.01	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	478.01	386.29	662.51	0.0	
+_HORIZONTAL_LINE	false	2	1	478.02	546.81	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	546.81	478.02	662.51	0.0	
+_HORIZONTAL_LINE	false	2	1	88.19	134.05	596.17	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	88.19	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	317.5	596.17	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	134.05	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	386.29	596.17	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	317.5	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	478.01	596.17	0.0	
+_HORIZONTAL_LINE	false	2	1	478.01	386.29	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	478.02	546.81	596.17	0.0	
+_HORIZONTAL_LINE	false	2	1	546.81	478.02	628.17	0.0	
+_HORIZONTAL_LINE	false	2	1	88.19	134.05	561.83	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	88.19	596.17004	0.0	
+_HORIZONTAL_LINE	false	2	1	134.05	317.5	561.83	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	134.05	596.17004	0.0	
+_HORIZONTAL_LINE	false	2	1	317.5	386.29	561.83	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	317.5	596.17004	0.0	
+_HORIZONTAL_LINE	false	2	1	386.29	478.01	561.83	0.0	
+_HORIZONTAL_LINE	false	2	1	478.01	386.29	596.17004	0.0	
+_HORIZONTAL_LINE	false	2	1	478.02	546.81	561.83	0.0	
+_HORIZONTAL_LINE	false	2	1	546.81	478.02	596.17004	0.0	
+_HORIZONTAL_LINE	false	2	1	374.3883	396.53262	362.4924	0.0	
+_HORIZONTAL_LINE	false	2	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	2	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	3	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	3	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	4	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	4	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	5	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	5	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	6	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	6	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	546.81	582.25	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	88.19	609.28	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	156.98001	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	156.98001	88.19	582.25	0.0	
+_HORIZONTAL_LINE	false	7	1	156.98	225.76999	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	225.76999	156.98	582.25	0.0	
+_HORIZONTAL_LINE	false	7	1	225.78	317.5	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	225.78	582.25	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	432.16	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	432.16	317.5	582.25	0.0	
+_HORIZONTAL_LINE	false	7	1	432.16	546.82	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	546.82	432.16	582.25	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	156.98001	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	156.98001	88.19	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	156.98	225.76999	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	225.76999	156.98	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	225.78	317.5	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	225.78	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	432.16	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	432.16	317.5	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	432.16	546.82	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	546.82	432.16	544.26	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	156.98001	491.92	0.0	
+_HORIZONTAL_LINE	false	7	1	156.98001	88.19	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	156.98	225.76999	491.92	0.0	
+_HORIZONTAL_LINE	false	7	1	225.76999	156.98	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	225.78	317.5	491.92	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	225.78	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	432.16	491.92	0.0	
+_HORIZONTAL_LINE	false	7	1	432.16	317.5	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	432.16	546.82	491.92	0.0	
+_HORIZONTAL_LINE	false	7	1	546.82	432.16	525.26	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	546.81	433.51	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	88.19	460.54	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	179.91	408.27	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	88.19	433.50998	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	317.5	408.27	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	179.91	433.50998	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	546.81	408.27	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	317.5	433.50998	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	179.91	389.27	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	88.19	408.27	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	317.5	389.27	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	179.91	408.27	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	546.81	389.27	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	317.5	408.27	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	179.91	366.79	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	88.19	389.27002	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	317.5	366.79	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	179.91	389.27002	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	546.81	366.79	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	317.5	389.27002	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	179.91	347.79	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	88.19	366.79	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	317.5	347.79	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	179.91	366.79	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	546.81	347.79	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	317.5	366.79	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	179.91	325.32	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	88.19	347.80002	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	317.5	325.32	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	179.91	347.80002	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	546.81	325.32	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	317.5	347.80002	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	179.91	306.32	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	88.19	325.32	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	317.5	306.32	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	179.91	325.32	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	546.81	306.32	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	317.5	325.32	0.0	
+_HORIZONTAL_LINE	false	7	1	88.19	179.91	283.84	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	88.19	306.32	0.0	
+_HORIZONTAL_LINE	false	7	1	179.91	317.5	283.84	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	179.91	306.32	0.0	
+_HORIZONTAL_LINE	false	7	1	317.5	546.81	283.84	0.0	
+_HORIZONTAL_LINE	false	7	1	546.81	317.5	306.32	0.0	
+_HORIZONTAL_LINE	false	7	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	7	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	8	1	88.19	233.61	722.61	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	88.19	747.85	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	323.1	722.61	0.0	
+_HORIZONTAL_LINE	false	8	1	323.1	233.61	747.85	0.0	
+_HORIZONTAL_LINE	false	8	1	323.09	546.81	722.61	0.0	
+_HORIZONTAL_LINE	false	8	1	546.81	323.09	747.85	0.0	
+_HORIZONTAL_LINE	false	8	1	88.19	233.61	691.61	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	88.19	722.61	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	323.1	691.61	0.0	
+_HORIZONTAL_LINE	false	8	1	323.1	233.61	722.61	0.0	
+_HORIZONTAL_LINE	false	8	1	323.09	546.81	691.61	0.0	
+_HORIZONTAL_LINE	false	8	1	546.81	323.09	722.61	0.0	
+_HORIZONTAL_LINE	false	8	1	88.19	233.61	670.27	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	88.19	691.61005	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	323.1	670.27	0.0	
+_HORIZONTAL_LINE	false	8	1	323.1	233.61	691.61005	0.0	
+_HORIZONTAL_LINE	false	8	1	323.09	546.81	670.27	0.0	
+_HORIZONTAL_LINE	false	8	1	546.81	323.09	691.61005	0.0	
+_HORIZONTAL_LINE	false	8	1	88.19	233.61	651.27	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	88.19	670.27	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	323.1	651.27	0.0	
+_HORIZONTAL_LINE	false	8	1	323.1	233.61	670.27	0.0	
+_HORIZONTAL_LINE	false	8	1	323.09	546.81	651.27	0.0	
+_HORIZONTAL_LINE	false	8	1	546.81	323.09	670.27	0.0	
+_HORIZONTAL_LINE	false	8	1	88.19	233.61	617.92	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	88.19	651.26	0.0	
+_HORIZONTAL_LINE	false	8	1	233.61	323.1	617.92	0.0	
+_HORIZONTAL_LINE	false	8	1	323.1	233.61	651.26	0.0	
+_HORIZONTAL_LINE	false	8	1	323.09	546.81	617.92	0.0	
+_HORIZONTAL_LINE	false	8	1	546.81	323.09	651.26	0.0	
+_HORIZONTAL_LINE	false	8	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	8	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	9	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	9	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	10	1	88.19	546.81	332.71	0.0	
+_HORIZONTAL_LINE	false	10	1	546.81	88.19	359.74	0.0	
+_HORIZONTAL_LINE	false	10	1	88.19	202.85	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	202.85	88.19	332.71	0.0	
+_HORIZONTAL_LINE	false	10	1	202.84	317.5	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	317.5	202.84	332.71	0.0	
+_HORIZONTAL_LINE	false	10	1	317.5	432.16	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	432.16	317.5	332.71	0.0	
+_HORIZONTAL_LINE	false	10	1	432.16	546.82	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	546.82	432.16	332.71	0.0	
+_HORIZONTAL_LINE	false	10	1	88.19	202.85	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	202.85	88.19	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	202.84	317.5	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	317.5	202.84	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	317.5	432.16	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	432.16	317.5	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	432.16	546.82	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	546.82	432.16	307.47	0.0	
+_HORIZONTAL_LINE	false	10	1	88.19	202.85	265.99	0.0	
+_HORIZONTAL_LINE	false	10	1	202.85	88.19	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	202.84	317.5	265.99	0.0	
+_HORIZONTAL_LINE	false	10	1	317.5	202.84	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	317.5	432.16	265.99	0.0	
+_HORIZONTAL_LINE	false	10	1	432.16	317.5	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	432.16	546.82	265.99	0.0	
+_HORIZONTAL_LINE	false	10	1	546.82	432.16	288.47	0.0	
+_HORIZONTAL_LINE	false	10	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	10	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	546.81	512.93	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	88.19	539.96	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	241.06	487.69	0.0	
+_HORIZONTAL_LINE	false	11	1	241.06	88.19	512.93	0.0	
+_HORIZONTAL_LINE	false	11	1	241.06	393.93	487.69	0.0	
+_HORIZONTAL_LINE	false	11	1	393.93	241.06	512.93	0.0	
+_HORIZONTAL_LINE	false	11	1	393.94	546.81	487.69	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	393.94	512.93	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	241.06	468.69	0.0	
+_HORIZONTAL_LINE	false	11	1	241.06	88.19	487.69	0.0	
+_HORIZONTAL_LINE	false	11	1	241.06	393.93	468.69	0.0	
+_HORIZONTAL_LINE	false	11	1	393.93	241.06	487.69	0.0	
+_HORIZONTAL_LINE	false	11	1	393.94	546.81	468.69	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	393.94	487.69	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	241.06	447.35	0.0	
+_HORIZONTAL_LINE	false	11	1	241.06	88.19	468.69	0.0	
+_HORIZONTAL_LINE	false	11	1	241.06	393.93	447.35	0.0	
+_HORIZONTAL_LINE	false	11	1	393.93	241.06	468.69	0.0	
+_HORIZONTAL_LINE	false	11	1	393.94	546.81	447.35	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	393.94	468.69	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	546.81	276.44	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	88.19	303.47	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	177.53	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	88.19	276.44	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	249.0	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	177.53	276.44	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	397.9	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	397.9	249.0	276.44	0.0	
+_HORIZONTAL_LINE	false	11	1	397.91	546.81	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	397.91	276.44	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	177.53	220.2	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	88.19	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	249.0	220.2	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	177.53	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	397.9	220.2	0.0	
+_HORIZONTAL_LINE	false	11	1	397.9	249.0	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	397.91	546.81	220.2	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	397.91	251.2	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	177.53	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	88.19	220.20999	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	249.0	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	177.53	220.20999	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	397.9	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	397.9	249.0	220.20999	0.0	
+_HORIZONTAL_LINE	false	11	1	397.91	546.81	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	397.91	220.20999	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	177.53	178.73	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	88.19	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	177.53	249.0	178.73	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	177.53	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	249.0	397.9	178.73	0.0	
+_HORIZONTAL_LINE	false	11	1	397.9	249.0	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	397.91	546.81	178.73	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	397.91	197.73	0.0	
+_HORIZONTAL_LINE	false	11	1	88.19	546.81	159.73	0.0	
+_HORIZONTAL_LINE	false	11	1	546.81	88.19	178.73	0.0	
+_HORIZONTAL_LINE	false	11	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	11	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	12	1	88.19	546.81	702.57	0.0	
+_HORIZONTAL_LINE	false	12	1	546.81	88.19	729.60004	0.0	
+_HORIZONTAL_LINE	false	12	1	88.19	141.52	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	141.52	88.19	702.57	0.0	
+_HORIZONTAL_LINE	false	12	1	141.52	184.18001	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	184.18001	141.52	702.57	0.0	
+_HORIZONTAL_LINE	false	12	1	184.18	273.06	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	273.06	184.18	702.57	0.0	
+_HORIZONTAL_LINE	false	12	1	273.06	361.94	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	361.94	273.06	702.57	0.0	
+_HORIZONTAL_LINE	false	12	1	361.94	457.93	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	457.93	361.94	702.57	0.0	
+_HORIZONTAL_LINE	false	12	1	457.93	546.81	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	546.81	457.93	702.57	0.0	
+_HORIZONTAL_LINE	false	12	1	88.19	141.52	658.33	0.0	
+_HORIZONTAL_LINE	false	12	1	141.52	88.19	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	141.52	184.18001	658.33	0.0	
+_HORIZONTAL_LINE	false	12	1	184.18001	141.52	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	184.18	273.06	658.33	0.0	
+_HORIZONTAL_LINE	false	12	1	273.06	184.18	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	273.06	361.94	658.33	0.0	
+_HORIZONTAL_LINE	false	12	1	361.94	273.06	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	361.94	457.93	658.33	0.0	
+_HORIZONTAL_LINE	false	12	1	457.93	361.94	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	457.93	546.81	658.33	0.0	
+_HORIZONTAL_LINE	false	12	1	546.81	457.93	677.33	0.0	
+_HORIZONTAL_LINE	false	12	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	12	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	13	1	88.19	344.91	439.98	0.0	
+_HORIZONTAL_LINE	false	13	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	13	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	14	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	14	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	15	1	88.19	546.81	630.41	0.0	
+_HORIZONTAL_LINE	false	15	1	546.81	88.19	657.44	0.0	
+_HORIZONTAL_LINE	false	15	1	88.19	221.12	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	221.12	88.19	630.41	0.0	
+_HORIZONTAL_LINE	false	15	1	221.12	354.05	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	354.05	221.12	630.41	0.0	
+_HORIZONTAL_LINE	false	15	1	354.06	447.11	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	447.11	354.06	630.41	0.0	
+_HORIZONTAL_LINE	false	15	1	447.11	513.57996	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	513.57996	447.11	630.41	0.0	
+_HORIZONTAL_LINE	false	15	1	513.58	546.81	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	546.81	513.58	630.41	0.0	
+_HORIZONTAL_LINE	false	15	1	88.19	221.12	537.42	0.0	
+_HORIZONTAL_LINE	false	15	1	221.12	88.19	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	221.12	354.05	537.42	0.0	
+_HORIZONTAL_LINE	false	15	1	354.05	221.12	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	354.06	447.11	537.42	0.0	
+_HORIZONTAL_LINE	false	15	1	447.11	354.06	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	447.11	513.57996	537.42	0.0	
+_HORIZONTAL_LINE	false	15	1	513.57996	447.11	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	513.58	546.81	537.42	0.0	
+_HORIZONTAL_LINE	false	15	1	546.81	513.58	592.42	0.0	
+_HORIZONTAL_LINE	false	15	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	15	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	546.81	677.84	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	88.19	704.87006	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	120.29	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	120.29	88.19	677.83997	0.0	
+_HORIZONTAL_LINE	false	16	1	120.29	326.67	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	326.67	120.29	677.83997	0.0	
+_HORIZONTAL_LINE	false	16	1	326.67	510.12	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	510.12	326.67	677.83997	0.0	
+_HORIZONTAL_LINE	false	16	1	510.12	546.81	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	510.12	677.83997	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	120.29	596.1	0.0	
+_HORIZONTAL_LINE	false	16	1	120.29	88.19	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	120.29	326.67	596.1	0.0	
+_HORIZONTAL_LINE	false	16	1	326.67	120.29	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	326.67	510.12	596.1	0.0	
+_HORIZONTAL_LINE	false	16	1	510.12	326.67	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	510.12	546.81	596.1	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	510.12	627.1	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	546.81	213.5	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	88.19	240.53	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	143.22	188.26	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	88.19	213.5	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	345.01	188.26	0.0	
+_HORIZONTAL_LINE	false	16	1	345.01	143.22	213.5	0.0	
+_HORIZONTAL_LINE	false	16	1	345.02	546.81	188.26	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	345.02	213.5	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	143.22	145.26	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	88.19	188.26	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	345.01	145.26	0.0	
+_HORIZONTAL_LINE	false	16	1	345.01	143.22	188.26	0.0	
+_HORIZONTAL_LINE	false	16	1	345.02	546.81	145.26	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	345.02	188.26	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	143.22	111.91	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	88.19	145.25	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	345.01	111.91	0.0	
+_HORIZONTAL_LINE	false	16	1	345.01	143.22	145.25	0.0	
+_HORIZONTAL_LINE	false	16	1	345.02	546.81	111.91	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	345.02	145.25	0.0	
+_HORIZONTAL_LINE	false	16	1	88.19	143.22	59.05	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	88.19	111.92	0.0	
+_HORIZONTAL_LINE	false	16	1	143.22	345.01	59.05	0.0	
+_HORIZONTAL_LINE	false	16	1	345.01	143.22	111.92	0.0	
+_HORIZONTAL_LINE	false	16	1	345.02	546.81	59.05	0.0	
+_HORIZONTAL_LINE	false	16	1	546.81	345.02	111.92	0.0	
+_HORIZONTAL_LINE	false	16	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	16	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	546.81	742.85	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	88.19	769.88	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	143.22	717.61	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	88.19	742.85	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	345.01	717.61	0.0	
+_HORIZONTAL_LINE	false	17	1	345.01	143.22	742.85	0.0	
+_HORIZONTAL_LINE	false	17	1	345.02	546.81	717.61	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	345.02	742.85	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	143.22	684.27	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	88.19	717.61005	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	345.01	684.27	0.0	
+_HORIZONTAL_LINE	false	17	1	345.01	143.22	717.61005	0.0	
+_HORIZONTAL_LINE	false	17	1	345.02	546.81	684.27	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	345.02	717.61005	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	143.22	665.27	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	88.19	684.27	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	345.01	665.27	0.0	
+_HORIZONTAL_LINE	false	17	1	345.01	143.22	684.27	0.0	
+_HORIZONTAL_LINE	false	17	1	345.02	546.81	665.27	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	345.02	684.27	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	143.22	631.92	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	88.19	665.26	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	345.01	631.92	0.0	
+_HORIZONTAL_LINE	false	17	1	345.01	143.22	665.26	0.0	
+_HORIZONTAL_LINE	false	17	1	345.02	546.81	631.92	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	345.02	665.26	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	143.22	588.92	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	88.19	631.92	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	345.01	588.92	0.0	
+_HORIZONTAL_LINE	false	17	1	345.01	143.22	631.92	0.0	
+_HORIZONTAL_LINE	false	17	1	345.02	546.81	588.92	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	345.02	631.92	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	143.22	555.58	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	88.19	588.92004	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	345.01	555.58	0.0	
+_HORIZONTAL_LINE	false	17	1	345.01	143.22	588.92004	0.0	
+_HORIZONTAL_LINE	false	17	1	345.02	546.81	555.58	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	345.02	588.92004	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	143.22	524.58	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	88.19	555.58	0.0	
+_HORIZONTAL_LINE	false	17	1	143.22	345.01	524.58	0.0	
+_HORIZONTAL_LINE	false	17	1	345.01	143.22	555.58	0.0	
+_HORIZONTAL_LINE	false	17	1	345.02	546.81	524.58	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	345.02	555.58	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	546.81	466.17	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	88.19	493.2	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	440.93	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	466.16998	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	440.93	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	466.16998	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	397.93	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	440.93	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	397.93	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	440.93	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	364.58	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	397.91998	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	364.58	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	397.91998	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	333.58	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	364.58	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	333.58	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	364.58	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	312.24	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	333.58	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	312.24	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	333.58	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	293.24	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	312.24	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	293.24	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	312.24	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	271.9	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	293.24	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	271.9	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	293.24	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	240.9	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	271.9	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	240.9	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	271.9	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	219.55	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	240.89	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	219.55	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	240.89	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	200.55	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	219.55	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	200.55	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	219.55	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	179.21	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	200.55	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	179.21	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	200.55	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	148.21	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	179.21	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	148.21	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	179.21	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	126.86	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	148.2	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	126.86	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	148.2	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	107.86	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	126.86	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	107.86	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	126.86	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	86.52	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	107.86	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	86.52	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	107.86	0.0	
+_HORIZONTAL_LINE	false	17	1	88.19	156.98001	59.05	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98001	88.19	86.52	0.0	
+_HORIZONTAL_LINE	false	17	1	156.98	546.81	59.05	0.0	
+_HORIZONTAL_LINE	false	17	1	546.81	156.98	86.52	0.0	
+_HORIZONTAL_LINE	false	17	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	17	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	546.81	742.85	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	88.19	769.88	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	717.61	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	742.85	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	717.61	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	742.85	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	696.27	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	717.61005	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	696.27	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	717.61005	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	677.27	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	696.27	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	677.27	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	696.27	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	655.92	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	677.26	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	655.92	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	677.26	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	636.92	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	655.92	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	636.92	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	655.92	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	615.58	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	636.92004	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	615.58	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	636.92004	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	584.58	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	615.58	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	584.58	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	615.58	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	156.98001	563.23	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98001	88.19	584.57	0.0	
+_HORIZONTAL_LINE	false	18	1	156.98	546.81	563.23	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	156.98	584.57	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	546.81	402.2	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	88.19	429.23	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	376.95	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	402.19	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	376.95	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	402.19	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	357.95	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	376.95	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	357.95	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	376.95	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	336.61	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	357.94998	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	336.61	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	357.94998	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	317.61	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	336.61	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	317.61	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	336.61	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	296.27	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	317.61	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	296.27	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	317.61	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	277.27	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	296.27	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	277.27	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	296.27	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	255.92	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	277.26	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	255.92	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	277.26	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	236.92	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	255.92	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	236.92	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	255.92	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	215.58	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	236.92	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	215.58	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	236.92	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	196.58	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	215.58	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	196.58	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	215.58	0.0	
+_HORIZONTAL_LINE	false	18	1	88.19	147.81	175.24	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	88.19	196.58	0.0	
+_HORIZONTAL_LINE	false	18	1	147.81	546.81	175.24	0.0	
+_HORIZONTAL_LINE	false	18	1	546.81	147.81	196.58	0.0	
+_HORIZONTAL_LINE	false	18	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	18	1	48.19	546.81	53.38	0.0	
+_HORIZONTAL_LINE	false	19	1	48.19	546.81	780.55	0.0	
+_HORIZONTAL_LINE	false	19	1	48.19	546.81	53.38	0.0	
